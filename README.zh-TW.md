@@ -98,6 +98,14 @@ npx skills add JacobHsu/cc-finance-skills -a <agent-name>
 |---|---|---|
 | [hormuz-strait](skills/hormuz-strait/) | 即時霍爾木茲海峽監控，涵蓋船運通行、油價衝擊、受困船隻、保險風險、外交動態、全球貿易影響與危機時間軸。 | 所有平台 |
 
+## Scripts
+
+| 腳本 | 說明 |
+|------|------|
+| [scripts/top_losers.py](scripts/top_losers.py) | 抓取當日美股跌幅榜，輸出至 `docs/README.md` |
+
+詳見 [scripts/README.md](scripts/README.md)。
+
 ## 授權
 
 MIT

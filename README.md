@@ -100,6 +100,14 @@ npx skills add JacobHsu/cc-finance-skills -a <agent-name>
 |---|---|---|
 | [hormuz-strait](skills/hormuz-strait/) | Real-time Strait of Hormuz monitoring — shipping transits, oil price impact, stranded vessels, insurance risk, diplomatic status, global trade impact, and crisis timeline via the Hormuz Strait Monitor API. | All platforms |
 
+## Scripts
+
+| 腳本 | 說明 |
+|------|------|
+| [scripts/top_losers.py](scripts/top_losers.py) | 抓取當日美股跌幅榜，輸出至 `docs/README.md` |
+
+詳見 [scripts/README.md](scripts/README.md)。
+
 ## License
 
 MIT

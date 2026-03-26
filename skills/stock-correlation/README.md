@@ -1,5 +1,7 @@
 # stock-correlation
 
+[English](README.md) | [繁體中文](README.zh-TW.md)
+
 Analyze stock correlations to find related companies, sector peers, and pair-trading candidates using historical price data.
 
 ## What it does
@@ -34,7 +36,7 @@ Works on **all platforms** (Claude Code, Claude.ai with code execution, etc.).
 ## Setup
 
 ```bash
-npx skills add himself65/finance-skills --skill stock-correlation
+npx skills add JacobHsu/cc-finance-skills --skill stock-correlation
 ```
 
 See the [main README](../../README.md) for more installation options.

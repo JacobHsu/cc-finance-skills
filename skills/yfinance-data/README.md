@@ -1,5 +1,7 @@
 # yfinance-data
 
+[English](README.md) | [繁體中文](README.zh-TW.md)
+
 Fetch financial and market data using the [yfinance](https://github.com/ranaroussi/yfinance) Python library.
 
 ## What it does
@@ -36,7 +38,7 @@ Works on **all platforms** (Claude Code, Claude.ai with code execution, etc.).
 ## Setup
 
 ```bash
-npx skills add himself65/finance-skills --skill yfinance-data
+npx skills add JacobHsu/cc-finance-skills --skill yfinance-data
 ```
 
 See the [main README](../../README.md) for more installation options.
