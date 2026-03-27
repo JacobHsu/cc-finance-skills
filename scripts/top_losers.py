@@ -11,6 +11,11 @@ import pandas as pd
 from datetime import datetime
 import pytz
 import os
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 
 # ── S&P 500 data ────────────────────────────────────────────────────────────
@@ -47,8 +52,45 @@ def fetch_top_losers(sp500: dict[str, dict], count: int = 100) -> list[dict]:
             "price":      q.get("regularMarketPrice"),
             "change_pct": q.get("regularMarketChangePercent"),
             "volume":     q.get("regularMarketVolume"),
+            "exchange":   q.get("exchange", ""),
         })
     return results
+
+
+# ── Notte API ────────────────────────────────────────────────────────────────
+
+_EXCHANGE_MAP = {
+    "NMS": "NASDAQ", "NGM": "NASDAQ", "NCM": "NASDAQ",
+    "NYQ": "NYSE",   "NYS": "NYSE",
+}
+
+NOTTE_FUNCTION_ID = "2d050d7c-8984-4632-8390-3c2bdf194f7c"
+NOTTE_URL = f"https://us-prod.notte.cc/functions/{NOTTE_FUNCTION_ID}/runs/start"
+
+
+def to_tv_symbol(symbol: str, exchange: str) -> str | None:
+    prefix = _EXCHANGE_MAP.get(exchange)
+    return f"{prefix}:{symbol}" if prefix else None
+
+
+def fetch_notte_snapshot(tv_symbol: str, api_key: str, news_count: int = 5) -> dict | None:
+    import requests
+    try:
+        resp = requests.post(NOTTE_URL, json={
+            "function_id": NOTTE_FUNCTION_ID,
+            "variables": {"symbol": tv_symbol, "news_count": news_count},
+        }, headers={
+            "x-notte-api-key": api_key,
+            "Authorization":   f"Bearer {api_key}",
+        }, timeout=30)
+        data = resp.json()
+        if data.get("status") == "failed":
+            print(f"  Notte failed for {tv_symbol}: {str(data.get('result', ''))[:80]}")
+            return None
+        return data.get("result")
+    except Exception as e:
+        print(f"  Notte error for {tv_symbol}: {e}")
+        return None
 
 
 # ── Correlation Analysis ─────────────────────────────────────────────────────
@@ -165,7 +207,64 @@ def fmt_volume(v) -> str:
 
 # ── Report Builder ───────────────────────────────────────────────────────────
 
-def build_report(losers: list[dict], correlations: dict[str, list[dict]], sp500: dict[str, dict]) -> str:
+def fmt_recommendation(rec: str, score_str: str) -> str:
+    rec_lower = rec.lower()
+    if "strong buy" in rec_lower or rec_lower == "buy":
+        color = "#27ae60"
+    elif "strong sell" in rec_lower or rec_lower == "sell":
+        color = "#e74c3c"
+    else:
+        color = "#888888"
+    return f'<span style="color:{color};font-weight:bold">{rec}</span> ({score_str})'
+
+
+def fmt_notte_block(snap: dict, symbol: str = "", company: str = "") -> list[str]:
+    tech  = snap.get("technical", {})
+    perf  = snap.get("performance", {})
+    fund  = snap.get("fundamentals", {})
+    quote = snap.get("quote", {})
+    news  = snap.get("news", [])
+
+    rec       = tech.get("recommendation", "—")
+    score     = tech.get("recommendation_score")
+    score_str = f"{score:+.2f}" if score is not None else "—"
+    rec_fmt   = fmt_recommendation(rec, score_str)
+
+    ytd    = perf.get("ytd")
+    w1     = perf.get("1_week")
+    m1     = perf.get("1_month")
+    m3     = perf.get("3_months")
+    pe     = fund.get("pe_ratio")
+    mktcap = quote.get("market_cap")
+
+    pe_str     = f"{pe:.1f}" if pe else "—"
+    mktcap_str = (
+        f"${mktcap/1e12:.2f}T" if mktcap and mktcap >= 1e12 else
+        f"${mktcap/1e9:.1f}B"  if mktcap and mktcap >= 1e9  else "—"
+    )
+
+    lines = [
+        "| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |",
+        "|----------|-----------|------|-----|-----|-----|-----|",
+        f"| {rec_fmt} | {pe_str} | {mktcap_str} "
+        f"| {fmt_ret(w1/100 if w1 else None)} "
+        f"| {fmt_ret(m1/100 if m1 else None)} "
+        f"| {fmt_ret(m3/100 if m3 else None)} "
+        f"| {fmt_ret(ytd/100 if ytd else None)} |",
+    ]
+    keywords = [k.lower() for k in [symbol, company] if k]
+    relevant_news = [
+        item for item in news
+        if any(kw in item.get("title", "").lower() for kw in keywords)
+    ]
+    if relevant_news:
+        lines += ["", "**最新新聞**", ""]
+        for item in relevant_news:
+            lines.append(f"- 📰 {item.get('title', '')}")
+    return lines
+
+
+def build_report(losers: list[dict], correlations: dict[str, list[dict]], sp500: dict[str, dict], notte_data: dict[str, dict] | None = None) -> str:
     et = pytz.timezone("America/New_York")
     now_et = datetime.now(et)
     now_utc = datetime.now(pytz.utc)
@@ -200,6 +299,14 @@ def build_report(losers: list[dict], correlations: dict[str, list[dict]], sp500:
             "",
             f"### {sym} 下跌時的同步股分析",
             "",
+        ]
+
+        snap = (notte_data or {}).get(sym)
+        if snap:
+            lines += fmt_notte_block(snap, symbol=sym, company=s["name"])
+            lines.append("")
+
+        lines += [
             f"> 以過去 6 個月中 **{sym}** 單日跌幅逾 0.5% 的交易日為基準，"
             f"統計同產業（{s['sector']}）各股的平均報酬與相關係數。",
             "",
@@ -259,7 +366,24 @@ def main():
             sp500=sp500,
         )
 
-    report = build_report(losers, correlations, sp500)
+    # Notte 快照（需要 NOTTE_API_KEY）
+    notte_data: dict[str, dict] = {}
+    notte_key = os.environ.get("NOTTE_API_KEY")
+    if notte_key:
+        for s in losers[:3]:
+            sym = s["symbol"]
+            tv_symbol = to_tv_symbol(sym, s["exchange"])
+            if not tv_symbol:
+                print(f"  Skipping Notte for {sym}: unknown exchange {s['exchange']!r}")
+                continue
+            print(f"Fetching Notte snapshot for {tv_symbol}...")
+            snap = fetch_notte_snapshot(tv_symbol, notte_key)
+            if snap:
+                notte_data[sym] = snap
+    else:
+        print("NOTTE_API_KEY not set, skipping Notte snapshots.")
+
+    report = build_report(losers, correlations, sp500, notte_data)
 
     output_path = os.path.normpath(
         os.path.join(os.path.dirname(__file__), "..", "docs", "README.md")
