@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-05 02:07 台灣時間　｜　資料更新：2026-04-05 02:07 台灣時間
+> 更新時間：2026-04-05 14:24 台灣時間　｜　資料更新：2026-04-05 14:24 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | 自2月28日以來，該海峽實際上對大多數商業航運關閉。伊朗只允許來自「友好」國家（中國、俄羅斯、印度、巴基斯坦、馬來西亞、泰國、菲律賓、日本、法國）的船隻有限通行。作為由 IRGC 控制的收費系統運作。 |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | 海峽實際上對大多數商業航運關閉；在與伊朗單獨談判後，允許來自中國、俄羅斯、印度、伊拉克、巴基斯坦、馬來西亞、泰國、菲律賓、法國、日本和阿曼的船隻選擇性過境。一般禁止懸掛美國國旗和盟國的船隻。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 8 | 12 | 60 | <span style="color:#e74c3c">20.0% ⚠️</span> |
+| 8 | 5 | 60 | <span style="color:#e74c3c">8.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
+| **200** | 85 | 45 | 70 | <span style="color:#e74c3c">-2.00</span> |
 
 ## 保險風險
 
@@ -34,111 +34,108 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 5% | 0.15% | 33.3x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 2,060,000 | 10,300,000 | <span style="color:#e74c3c">20.0% ⚠️</span> | 上升 |
+| 850,000 | 10,300,000 | <span style="color:#e74c3c">8.3% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** 英國召集40國聯盟、聯合國安理會投票延至4月4日、巴基斯坦斡旋美伊談判
+**頭條：** 4月6日伊朗重新開放海峽的最後期限迫在眉睫；多項外交舉措正在進行中
 
-**各方：** United Kingdom, 40+ countries, Iran, United States, Pakistan, Egypt, Saudi Arabia, Turkey
+**各方：** United States, Iran, Pakistan, China, UK, France, Saudi Arabia, UAE
 
-> 4 月 2 日，英國外交大臣伊薇特庫柏與 40 多個國家舉行虛擬會談，討論衝突後重新開放海峽的外交措施和軍事規劃。巴基斯坦繼續在美國和伊朗之間進行調解。由於大國之間的分歧，聯合國安理會對巴林提案的投票推遲至4月4日；俄羅斯和中國對軍事幹預語言表示擔憂。
+> 巴基斯坦充當美伊秘密外交的關鍵調解人。 3月31日，中國和巴基斯坦提出5點停火建議。 4月2日至3日，英國召集40多個國家進行衝突後規劃。川普將重新開放海峽的最後期限定為 4 月 6 日，否則伊朗能源基礎設施將面臨打擊。透過中間人進行多輪間接談判。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 20% | $3.8B |
+| 20% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 20% | $0.9B | Europe, Asia (Japan, South Korea, China), India |
+| 20% | $0.8B | Japan, South Korea, Taiwan |
 
-> 所有液化天然气都必须通过海峡通过船舶运输。全球貿易化肥中 30% 也面臨風險。液化天然气价格飙升；日本首艘液化天然气运输船于 4 月 2 日至 3 日获准过境，这表明情况可能会有所缓解。
+> 伊朗襲擊拉斯拉凡綜合體後，卡達於 3 月 4 日宣布不可抗力；亞洲液化天然氣現貨價格上漲140%；基礎設施修復預計需要 3 至 5 年才能恢復。
 
 **受影響地區**
 
 | 地區 | 嚴重程度 | 石油依賴度 |
 |------|---------|-----------|
-| China | CRITICAL | 33% |
+| Asia | CRITICAL | 84% |
 | Europe | HIGH | 12% |
-| India | HIGH | 18% |
-| Japan | HIGH | 15% |
-| South Korea | HIGH | 14% |
-| Middle East (Gulf States) | CRITICAL | 100% |
+| Middle East (Gulf States) | CRITICAL | 95% |
+| Latin America | MODERATE | 8% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +14 天 | $450 | 主要航運公司（馬士基、赫伯羅特、達飛輪船）積極改道經開普敦。約 400 艘船在阿曼灣等待評估航線可行性。 |
-| 沙烏地阿拉伯東西管道（延布） | +0 天 | — | Nameplate 5M bbl/day; effective throughput ~2.5-3.5M bbl/day due to NGL repurposing. Limited capacity constraining diversion. |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | 目前富查伊拉港口營運活躍，但因伊朗無人機攻擊而中斷。效果有限。 |
-| 伊拉克-敘利亞管道（廢棄復興） | +5 天 | $200 | 間歇性操作；容量減少。伊拉克考慮復興以繞過霍爾木茲。 |
+| 好望角 | +14 天 | $350 | 主要承運商（馬士基、MSC、CMA CGM）使用；貨櫃運輸改道；成本增加加劇危機 |
+| 沙烏地阿拉伯東西管道 | +0 天 | — | Partially active; capacity 7M bbl/day but limited terminal infrastructure; cannot offset full Strait closure |
+| 阿聯酋富查伊拉管道 | +0 天 | — | 容量有限；僅供補充；不足以完全中斷 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +300% | +2.1% | 38 天 |
+| +45% | +2.8% | 38 天 |
 
 **主要供應鏈事件**
 
-- 布蘭特原油價格從約 88 美元/桶（戰前）飆升至峰值 126 美元/桶（上漲 43%）；目前交易價格約為 110-114 美元/桶。自 2 月 28 日以來，全球能源成本上漲了 40%。
-- 徵收海運貨櫃附加費（赫伯羅特：自 3 月 2 日起每貨櫃 3,500 美元）。超級油輪包租費從約 20 萬美元/天翻了兩番，增加至 77 萬美元/天。
-- 化肥價格較正常上漲15-20%；全球貿易化肥的 30% 經由霍爾木茲；沒有像石油那樣的戰略儲備。
-- 鋁、氦和其他大宗商品的價格飆升。美國汽油價格上漲 30% 至每加侖 > 4 美元；受此影響，消費者物價通膨預計將上漲約 2.1%。
+- 美國國防工業面臨關鍵硫供應幾乎完全中斷
+- 化肥產業危機：全球30%化肥過境海峽；價格上漲 15-20%，若危機持續，平均漲幅可能為 15-20%；沒有策略儲備
+- 鋁：海灣國家佔全球原鋁的20%；價格在混亂中上漲
+- 甲醇/石化產品：全球33%的海運甲醇經過海峽；中國面臨供應緊縮
 
 ## 危機時間軸
 
-**2026-03-03** `MILITARY` — **Trump announces US Navy escort operations**
-> 川普總統表示，美國海軍可能護送油輪通過霍爾木茲海峽。最初威脅使用武力重新開放航道。
+**2026-02-28** `ESCALATION` — **史詩般的憤怒行動：美以襲擊伊朗**
+> 美國和以色列對伊朗發動協調空襲，殺死了伊朗最高領袖哈梅內伊和高級軍事官員。攻擊目標是軍事設施、核設施、指揮中心。
 
-**2026-03-08** `ECONOMIC` — **布蘭特原油突破100美元/桶**
-> 油價四年來首次突破每桶 100 美元，較戰前上漲 40%。戰爭險保險費躍升至船體價值的 1%（每 VLCC 航程約 200-300 萬美元）。
+**2026-03-02** `ESCALATION` — **伊朗關閉霍爾木茲海峽**
+> 伊斯蘭革命衛隊正式宣布關閉海峽，並威脅攻擊任何試圖通過的船隻。主要保賠協會撤銷了戰爭險保險，導致過境在經濟上變得不可能。
 
-**2026-03-09** `MILITARY` — **川普宣布有意奪取控制權**
-> 川普總統宣布打算「奪取霍爾木茲海峽的控制權」。警告伊朗不要埋設地雷。發出48小時重新開放海峽的最後通牒。
+**2026-03-03** `MILITARY` — **保險危機達到高峰；川普宣布海軍護航計劃**
+> War risk premiums spike to 1% of vessel value (from 0.15%), adding $1M per transit for large tankers. Trump announces US Navy will escort tankers through strait.
 
-**2026-03-13** `DIPLOMATIC` — **伊朗開通「收費站」通行系統**
-> 伊斯蘭革命衛隊在拉拉克島周圍建立收費通道。在伊朗協調後，第一艘船（土耳其擁有）獲準過境。報告以人民幣支付通行費。
+**2026-03-08** `ECONOMIC` — **Oil prices breach $100/barrel for first time in 4 years**
+> 由於市場供應中斷，布蘭特原油價格飆升至 100 美元以上。衝突史上最快的油價升級由此引發。
 
-**2026-03-19** `MILITARY` — **美軍戰役開始**
-> 美國武裝部隊發起軍事行動以打開海峽。美國海軍的黎波里號和拳師號兩棲準備大隊奉命前往第五艦隊責任區。
+**2026-03-18** `ESCALATION` — **伊朗攻擊卡達液化天然氣工廠**
+> 伊朗襲擊拉斯拉凡設施；卡達宣布液化天然氣不可抗力；產能減少17%；維修預計需要 3-5 年。亞洲液化天然氣現貨價格上漲 140%。
 
-**2026-03-26** `DIPLOMATIC` — **伊朗宣布選擇性通過；川普延長最後期限**
-> Iran's Foreign Minister announces Chinese, Russian, Indian, Iraqi, Pakistani vessels allowed to transit. Trump extends April 6 deadline for energy plant strikes by 10 days. Pakistan hosts meeting with Egypt, Saudi Arabia, Turkey to discuss reopening.
+**2026-03-19** `MILITARY` — **美軍打開海峽的軍事行動開始**
+> 美國武裝部隊發起持續的軍事行動，旨在恢復霍爾木茲海峽的航運。
 
-**2026-03-27** `DIPLOMATIC` — **聯合國人道走廊協議**
-> 伊朗同意聯合國的要求，允許透過海峽運送人道主義和化肥，以解決春季播種中斷的問題。化肥產業至關重要，沒有策略儲備。
+**2026-03-26** `DIPLOMATIC` — **伊朗允許選擇性過境；川普延長最後期限**
+> 伊朗宣布允許中國、俄羅斯、印度、伊拉克、巴基斯坦的船隻通過；伊朗允許人道主義/化肥運輸。川普將發電廠罷工從3月26日延後到4月6日。
 
-**2026-04-02** `DIPLOMATIC` — **40國聯盟成立**
-> 英國外交大臣伊薇特庫柏與 40 多個國家舉行虛擬會議，討論衝突後海峽重新開放的外交措施、制裁威脅和軍事規劃。美國不參加。
+**2026-03-31** `DIPLOMATIC` — **中巴停火倡議**
+> 中巴提出立即停火、重新開放海峽等五點倡議。川普聲稱談判進展順利，但伊朗否認直接談判。
 
-**2026-04-02** `DE_ESCALATION` — **法國擁有的船隻獲準過境**
-> CMA CGM Kribi 貨櫃船成為自戰爭開始以來第一艘過境的西方船隻。日本液化天然氣油輪也獲準通過，這表明可能轉向選擇性重新開放。
+**2026-04-02** `DIPLOMATIC` — **40多個國家聯盟成立；法國、日本船舶過境**
+> 英國召集 40 多個國家討論衝突後海峽安全規劃。 CMA CGM Kribi（法國）和Sohar LNG（日本）在伊朗的協調下成功使用阿曼海岸航線過境。
 
-**2026-04-04** `DIPLOMATIC` — **聯合國安理會就海上安全問題進行投票**
-> 由於俄羅斯和中國對軍事幹預語言表示擔憂，巴林關於確保海峽安全的提案的投票被推遲。主要大國之間對執行方式尚未達成共識。
+**2026-04-04** `DIPLOMATIC` — **聯合國安理會對巴林提案的投票存在不確定性**
+> 對巴林保持海峽開放的提案進行投票面臨俄羅斯/中國否決的擔憂。大國之間的分歧阻礙了國際社會的統一反應。
 
 ## 最新新聞
 
-- [盟友警告川普開放霍爾木茲的軍事計劃是“不可能的任務”](https://uk.investing.com/news/economy-news/allies-warn-trumps-military-plan-to-open-hormuz-is-mission-impossible-4592888)　*Investing Uk・2026-04-04*
-- [法國和日本軍艦穿越霍爾木茲海峽，這是伊朗戰爭開始以來的首次「自由」過境](https://www.firstpost.com/world/french-japanese-warships-cross-hormuz-in-first-freedom-transit-since-iran-war-began-13996437.html)　*Firstpost・2026-04-04*
-- [法律與政治中立](https://www.dawn.com/news/1988405/legal-vs-political-neutrality)　*Dawn・2026-04-04*
-- [第 7 艘液化石油氣油輪穿越霍爾木茲海峽，印度鬆了口氣，但在緊張局勢中仍有 17 艘船等待清關](https://www.india.com/news/india/lpg-tankers-hormuz-crossing-7th-ship-17-in-queue-strait-of-hormuz-lpg-supply-india-energy-security-middle-east-tensions-oil-gas-shipping-route-crisis-8367844/)　*India・2026-04-04*
-- [霍爾木茲封鎖後，伊朗暗示將破壞曼德海峽：“分享全球石油…”](https://www.news18.com/world/after-hormuz-blockade-iran-hints-at-disrupting-bab-el-mandeb-strait-share-of-global-oil-ws-l-10013860.html)　*News 18・2026-04-04*
+- [舊金山柴油價格逼近歷史峰值](https://www.newsweek.com/san-francisco-diesel-prices-approach-historic-peak-11783266)　*Newsweek・2026-04-04*
+- [霍爾木茲對哈馬斯：解讀西亞熱門議題](https://economictimes.indiatimes.com/opinion/et-commentary/hormuz-to-hamas-decoding-west-asia-flashpoints-explained/articleshow/130022092.cms)　*The Economic Times・2026-04-04*
+- [伊朗核設施附近襲擊引發安全擔憂，全球敲響警鐘](https://www.rawstory.com/iran-war-2676665595/)　*Raw Story・2026-04-04*
+- [NDTV Datafy 使用 OSINT、衛星測繪來追蹤霍爾木茲海峽的新路線 - 觀看](https://www.ndtvprofit.com/world/ndtv-datafy-uses-osint-satellite-mapping-to-track-potential-new-route-in-strait-of-hormuz-watch-11312050)　*Ndtv・2026-04-04*
+- [英國「最貴」的汽油泵，一個油箱售價 240 英鎊](https://metro.co.uk/2026/04/04/uks-most-expensive-petrol-pump-a-tank-costs-240-27852350/)　*Metro・2026-04-04*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-05 02:07 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-05 14:24 台灣時間，僅供參考，不構成投資建議。*
