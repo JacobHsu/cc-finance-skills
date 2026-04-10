@@ -1,2 +1,3 @@
 - [美股跌幅榜](README.md)
 - [荷姆茲海峽監控](hormuz.md)
+- [巴逆逆貼文紀錄](banini.md)

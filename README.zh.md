@@ -11,6 +11,40 @@
 
 ## 安裝
 
+### 本地安裝（快速開始）
+
+以 `banini` 為例，其他技能名稱替換即可。
+
+**macOS / Linux：**
+
+```bash
+# 已在專案目錄內
+cp -r skills/banini ~/.claude/skills/
+```
+
+```bash
+# 從外部 clone
+git clone https://github.com/JacobHsu/cc-finance-skills.git
+cp -r cc-finance-skills/skills/banini ~/.claude/skills/
+```
+
+**Windows（PowerShell）：**
+
+```powershell
+# 已在專案目錄內
+Copy-Item -Recurse skills\banini "$env:USERPROFILE\.claude\skills\"
+```
+
+```powershell
+# 從外部 clone
+git clone https://github.com/JacobHsu/cc-finance-skills.git
+Copy-Item -Recurse cc-finance-skills\skills\banini "$env:USERPROFILE\.claude\skills\"
+```
+
+> **專案本地安裝：** 若只想在特定專案使用，將目的地改為 `.claude/skills/`（專案根目錄下）。
+
+---
+
 ### Claude Code Plugin（推薦）
 
 本專案為 [Claude Code plugin](https://code.claude.com/docs/en/plugins)，可直接安裝：
@@ -105,6 +139,10 @@ npx skills add JacobHsu/cc-finance-skills -a <agent-name>
 | [scripts/top_losers.py](scripts/top_losers.py) | 抓取當日美股跌幅榜，輸出至 `docs/README.md` |
 
 詳見 [scripts/README.md](scripts/README.md)。
+
+## 參考
+
+[kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills/tree/main)  banini
 
 ## 授權
 

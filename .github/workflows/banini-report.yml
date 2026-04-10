@@ -1,0 +1,38 @@
+name: Banini Threads Report
+
+on:
+  schedule:
+    - cron: '0 5 * * 1-5'   # 台北時間 13:00，週一~五
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright parsel nested-lookup jmespath
+          playwright install chromium --with-deps
+
+      - name: Run banini scraper
+        run: python scripts/banini_report.py
+
+      - name: Commit and push report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/banini.md
+          git diff --cached --quiet || git commit -m "chore: update banini report $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
