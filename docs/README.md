@@ -1,91 +1,90 @@
 # 美股當日跌幅榜
 
-> 更新時間：2026-04-15 11:27 ET（15:27 UTC）
+> 更新時間：2026-04-16 11:33 ET（15:33 UTC）
 
 ## S&P 500 Top Losers
 
 | # | 代碼 | 公司名稱 | 產業 | 現價 | 跌幅 | 成交量 |
 |---|------|----------|------|------|------|--------|
-| 1 | [**SNDK**](https://www.moneydj.com/us/basic/basic0001/SNDK) | Sandisk Corporation | Information Technology | **$890.09** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.76%</span> | 8.1M |
-| 2 | [**LII**](https://www.moneydj.com/us/basic/basic0001/LII) | Lennox International, Inc. | Industrials | **$490.46** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.76%</span> | 278.8K |
-| 3 | [**CARR**](https://www.moneydj.com/us/basic/basic0001/CARR) | Carrier Global Corporation | Industrials | **$60.95** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.73%</span> | 4.0M |
-| 4 | [**SWK**](https://www.moneydj.com/us/basic/basic0001/SWK) | Stanley Black & Decker, Inc. | Industrials | **$68.26** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.44%</span> | 1.2M |
-| 5 | [**AOS**](https://www.moneydj.com/us/basic/basic0001/AOS) | A.O. Smith Corporation | Industrials | **$63.78** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.71%</span> | 547.2K |
-| 6 | [**NEM**](https://www.moneydj.com/us/basic/basic0001/NEM) | Newmont Corporation | Materials | **$113.64** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.75%</span> | 4.1M |
-| 7 | [**WAB**](https://www.moneydj.com/us/basic/basic0001/WAB) | Westinghouse Air Brake Technolo | Industrials | **$256.48** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.40%</span> | 637.9K |
-| 8 | [**KLAC**](https://www.moneydj.com/us/basic/basic0001/KLAC) | KLA Corporation | Information Technology | **$1,717.00** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.39%</span> | 370.7K |
-| 9 | [**STX**](https://www.moneydj.com/us/basic/basic0001/STX) | Seagate Technology Holdings PLC | Information Technology | **$509.80** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.43%</span> | 1.5M |
-| 10 | [**IR**](https://www.moneydj.com/us/basic/basic0001/IR) | Ingersoll Rand Inc. | Industrials | **$84.63** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.18%</span> | 1.6M |
-| 11 | [**CMI**](https://www.moneydj.com/us/basic/basic0001/CMI) | Cummins Inc. | Industrials | **$593.49** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.59%</span> | 193.4K |
-| 12 | [**CAT**](https://www.moneydj.com/us/basic/basic0001/CAT) | Caterpillar, Inc. | Industrials | **$768.36** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.26%</span> | 965.1K |
-| 13 | [**TT**](https://www.moneydj.com/us/basic/basic0001/TT) | Trane Technologies plc | Industrials | **$455.78** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.14%</span> | 309.3K |
-| 14 | [**DE**](https://www.moneydj.com/us/basic/basic0001/DE) | Deere & Company | Industrials | **$577.16** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.17%</span> | 413.0K |
-| 15 | [**MU**](https://www.moneydj.com/us/basic/basic0001/MU) | Micron Technology, Inc. | Information Technology | **$450.99** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.15%</span> | 19.6M |
-| 16 | [**CVS**](https://www.moneydj.com/us/basic/basic0001/CVS) | CVS Health Corporation | Health Care | **$75.19** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.13%</span> | 2.4M |
-| 17 | [**ITW**](https://www.moneydj.com/us/basic/basic0001/ITW) | Illinois Tool Works Inc. | Industrials | **$263.95** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.05%</span> | 331.1K |
-| 18 | [**SNA**](https://www.moneydj.com/us/basic/basic0001/SNA) | Snap-On Incorporated | Industrials | **$366.59** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.99%</span> | 63.0K |
+| 1 | [**SCHW**](https://www.moneydj.com/us/basic/basic0001/SCHW) | Charles Schwab Corporation (The | Financials | **$95.05** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.21%</span> | 8.2M |
+| 2 | [**CCL**](https://www.moneydj.com/us/basic/basic0001/CCL) | Carnival Corporation | Consumer Discretionary | **$27.50** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.58%</span> | 10.7M |
+| 3 | [**IVZ**](https://www.moneydj.com/us/basic/basic0001/IVZ) | Invesco Ltd | Financials | **$23.65** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.29%</span> | 4.1M |
+| 4 | [**ABT**](https://www.moneydj.com/us/basic/basic0001/ABT) | Abbott Laboratories | Health Care | **$97.28** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.22%</span> | 10.0M |
+| 5 | [**NCLH**](https://www.moneydj.com/us/basic/basic0001/NCLH) | Norwegian Cruise Line Holdings  | Consumer Discretionary | **$20.27** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.00%</span> | 5.1M |
+| 6 | [**RCL**](https://www.moneydj.com/us/basic/basic0001/RCL) | Royal Caribbean Cruises Ltd. | Consumer Discretionary | **$272.64** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.43%</span> | 786.6K |
+| 7 | [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Incorporated | Information Technology | **$162.28** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.56%</span> | 6.4M |
+| 8 | [**BA**](https://www.moneydj.com/us/basic/basic0001/BA) | Boeing Company (The) | Industrials | **$216.72** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.22%</span> | 2.7M |
+| 9 | [**CVNA**](https://www.moneydj.com/us/basic/basic0001/CVNA) | Carvana Co. | Consumer Discretionary | **$360.25** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.92%</span> | 847.0K |
+| 10 | [**FIX**](https://www.moneydj.com/us/basic/basic0001/FIX) | Comfort Systems USA, Inc. | Industrials | **$1,601.55** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.88%</span> | 109.2K |
+| 11 | [**TDG**](https://www.moneydj.com/us/basic/basic0001/TDG) | Transdigm Group Incorporated | Industrials | **$1,237.77** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.90%</span> | 127.9K |
+| 12 | [**GE**](https://www.moneydj.com/us/basic/basic0001/GE) | GE Aerospace | Industrials | **$305.07** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.82%</span> | 1.6M |
+| 13 | [**EL**](https://www.moneydj.com/us/basic/basic0001/EL) | Estee Lauder Companies, Inc. (T | Consumer Staples | **$74.61** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.60%</span> | 863.0K |
 
-### SNDK 下跌時的同步股分析
+### SCHW 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#27ae60;font-weight:bold">Buy</span> (+0.26) | — | $132.0B | <span style="color:#27ae60;white-space:nowrap">+14.06%</span> | <span style="color:#27ae60;white-space:nowrap">+30.07%</span> | <span style="color:#27ae60;white-space:nowrap">+124.21%</span> | <span style="color:#27ae60;white-space:nowrap">+265.96%</span> |
-
-> 以過去 6 個月中 **SNDK** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
-
-| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
-|------|----------|------|----------------|----------|
-| [**MU**](https://www.moneydj.com/us/basic/basic0001/MU) | Micron Technology | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.97%</span> | 0.711 |
-| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.59%</span> | 0.553 |
-| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.55%</span> | 0.592 |
-| [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.48%</span> | 0.473 |
-| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.41%</span> | 0.635 |
-| [**MPWR**](https://www.moneydj.com/us/basic/basic0001/MPWR) | Monolithic Power Systems | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.29%</span> | 0.572 |
-| [**FSLR**](https://www.moneydj.com/us/basic/basic0001/FSLR) | First Solar | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.24%</span> | 0.319 |
-| [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.22%</span> | 0.474 |
-
-### LII 下跌時的同步股分析
-
-| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
-|----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#888888;font-weight:bold">Neutral</span> (-0.09) | 22.1 | $17.1B | <span style="color:#27ae60;white-space:nowrap">+3.82%</span> | <span style="color:#27ae60;white-space:nowrap">+1.52%</span> | <span style="color:#e74c3c;white-space:nowrap">-7.16%</span> | <span style="color:#27ae60;white-space:nowrap">+0.86%</span> |
-
-> 以過去 6 個月中 **LII** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Industrials）各股的平均報酬與相關係數。
-
-| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
-|------|----------|------|----------------|----------|
-| [**BLDR**](https://www.moneydj.com/us/basic/basic0001/BLDR) | Builders FirstSource | Industrials | <span style="color:#e74c3c;white-space:nowrap">-2.16%</span> | 0.625 |
-| [**CARR**](https://www.moneydj.com/us/basic/basic0001/CARR) | Carrier Global | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.47%</span> | 0.772 |
-| [**IR**](https://www.moneydj.com/us/basic/basic0001/IR) | Ingersoll Rand | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.37%</span> | 0.615 |
-| [**MAS**](https://www.moneydj.com/us/basic/basic0001/MAS) | Masco | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.35%</span> | 0.642 |
-| [**GNRC**](https://www.moneydj.com/us/basic/basic0001/GNRC) | Generac | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.21%</span> | 0.374 |
-| [**ODFL**](https://www.moneydj.com/us/basic/basic0001/ODFL) | Old Dominion | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.14%</span> | 0.556 |
-| [**AOS**](https://www.moneydj.com/us/basic/basic0001/AOS) | A. O. Smith | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.06%</span> | 0.677 |
-| [**HUBB**](https://www.moneydj.com/us/basic/basic0001/HUBB) | Hubbell Incorporated | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.98%</span> | 0.495 |
-
-### CARR 下跌時的同步股分析
-
-| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
-|----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#27ae60;font-weight:bold">Buy</span> (+0.26) | 35.9 | $51.1B | <span style="color:#27ae60;white-space:nowrap">+5.55%</span> | <span style="color:#27ae60;white-space:nowrap">+9.28%</span> | <span style="color:#27ae60;white-space:nowrap">+9.05%</span> | <span style="color:#27ae60;white-space:nowrap">+15.27%</span> |
+| <span style="color:#888888;font-weight:bold">Neutral</span> (-0.05) | 20.5 | $166.4B | <span style="color:#e74c3c;white-space:nowrap">-0.59%</span> | <span style="color:#27ae60;white-space:nowrap">+1.53%</span> | <span style="color:#e74c3c;white-space:nowrap">-6.75%</span> | <span style="color:#e74c3c;white-space:nowrap">-4.07%</span> |
 
 **最新新聞**
 
-- 📰 ATuAire And Carrier Team Up To Promote Electric Heat Pumps
+- 📰 SCHW: Record client growth, innovation in AI and digital assets, and strong financial results in Q1
 
-> 以過去 6 個月中 **CARR** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Industrials）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **SCHW** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Financials）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**BLDR**](https://www.moneydj.com/us/basic/basic0001/BLDR) | Builders FirstSource | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.91%</span> | 0.590 |
-| [**LII**](https://www.moneydj.com/us/basic/basic0001/LII) | Lennox International | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.77%</span> | 0.772 |
-| [**GNRC**](https://www.moneydj.com/us/basic/basic0001/GNRC) | Generac | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.43%</span> | 0.448 |
-| [**FIX**](https://www.moneydj.com/us/basic/basic0001/FIX) | Comfort Systems USA | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.28%</span> | 0.416 |
-| [**ETN**](https://www.moneydj.com/us/basic/basic0001/ETN) | Eaton Corporation | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.22%</span> | 0.550 |
-| [**EMR**](https://www.moneydj.com/us/basic/basic0001/EMR) | Emerson Electric | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.14%</span> | 0.557 |
-| [**IR**](https://www.moneydj.com/us/basic/basic0001/IR) | Ingersoll Rand | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.10%</span> | 0.633 |
-| [**EME**](https://www.moneydj.com/us/basic/basic0001/EME) | Emcor | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.09%</span> | 0.394 |
+| [**COIN**](https://www.moneydj.com/us/basic/basic0001/COIN) | Coinbase | Financials | <span style="color:#e74c3c;white-space:nowrap">-2.00%</span> | 0.374 |
+| [**ARES**](https://www.moneydj.com/us/basic/basic0001/ARES) | Ares Management | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.80%</span> | 0.433 |
+| [**KKR**](https://www.moneydj.com/us/basic/basic0001/KKR) | KKR & Co. | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.72%</span> | 0.493 |
+| [**APO**](https://www.moneydj.com/us/basic/basic0001/APO) | Apollo Global Management | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.55%</span> | 0.484 |
+| [**COF**](https://www.moneydj.com/us/basic/basic0001/COF) | Capital One | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.46%</span> | 0.512 |
+| [**AMP**](https://www.moneydj.com/us/basic/basic0001/AMP) | Ameriprise Financial | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.30%</span> | 0.700 |
+| [**IVZ**](https://www.moneydj.com/us/basic/basic0001/IVZ) | Invesco | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.27%</span> | 0.492 |
+| [**BX**](https://www.moneydj.com/us/basic/basic0001/BX) | Blackstone Inc. | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.22%</span> | 0.437 |
+
+### CCL 下跌時的同步股分析
+
+| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
+|----------|-----------|------|-----|-----|-----|-----|
+| <span style="color:#888888;font-weight:bold">Neutral</span> (+0.02) | 12.3 | $38.1B | <span style="color:#e74c3c;white-space:nowrap">-0.92%</span> | <span style="color:#27ae60;white-space:nowrap">+9.00%</span> | <span style="color:#e74c3c;white-space:nowrap">-6.37%</span> | <span style="color:#e74c3c;white-space:nowrap">-10.18%</span> |
+
+> 以過去 6 個月中 **CCL** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Consumer Discretionary）各股的平均報酬與相關係數。
+
+| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
+|------|----------|------|----------------|----------|
+| [**NCLH**](https://www.moneydj.com/us/basic/basic0001/NCLH) | Norwegian Cruise Line Holdings | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-2.60%</span> | 0.847 |
+| [**RCL**](https://www.moneydj.com/us/basic/basic0001/RCL) | Royal Caribbean Group | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-2.16%</span> | 0.790 |
+| [**CVNA**](https://www.moneydj.com/us/basic/basic0001/CVNA) | Carvana | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-1.44%</span> | 0.355 |
+| [**DASH**](https://www.moneydj.com/us/basic/basic0001/DASH) | DoorDash | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-1.32%</span> | 0.240 |
+| [**EXPE**](https://www.moneydj.com/us/basic/basic0001/EXPE) | Expedia Group | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-1.28%</span> | 0.371 |
+| [**APTV**](https://www.moneydj.com/us/basic/basic0001/APTV) | Aptiv | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-1.16%</span> | 0.419 |
+| [**BKNG**](https://www.moneydj.com/us/basic/basic0001/BKNG) | Booking Holdings | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-1.10%</span> | 0.396 |
+| [**WYNN**](https://www.moneydj.com/us/basic/basic0001/WYNN) | Wynn Resorts | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-1.09%</span> | 0.465 |
+
+### IVZ 下跌時的同步股分析
+
+| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
+|----------|-----------|------|-----|-----|-----|-----|
+| <span style="color:#e74c3c;font-weight:bold">Sell</span> (-0.16) | — | $10.7B | <span style="color:#e74c3c;white-space:nowrap">-0.39%</span> | <span style="color:#27ae60;white-space:nowrap">+2.19%</span> | <span style="color:#e74c3c;white-space:nowrap">-17.91%</span> | <span style="color:#e74c3c;white-space:nowrap">-9.21%</span> |
+
+**最新新聞**
+
+- 📰 IVZ's March AUM Declines 4.4% on Money Market Outflows & Weak Markets
+
+> 以過去 6 個月中 **IVZ** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Financials）各股的平均報酬與相關係數。
+
+| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
+|------|----------|------|----------------|----------|
+| [**COIN**](https://www.moneydj.com/us/basic/basic0001/COIN) | Coinbase | Financials | <span style="color:#e74c3c;white-space:nowrap">-3.17%</span> | 0.421 |
+| [**ARES**](https://www.moneydj.com/us/basic/basic0001/ARES) | Ares Management | Financials | <span style="color:#e74c3c;white-space:nowrap">-2.11%</span> | 0.577 |
+| [**KKR**](https://www.moneydj.com/us/basic/basic0001/KKR) | KKR & Co. | Financials | <span style="color:#e74c3c;white-space:nowrap">-2.02%</span> | 0.634 |
+| [**BX**](https://www.moneydj.com/us/basic/basic0001/BX) | Blackstone Inc. | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.72%</span> | 0.612 |
+| [**XYZ**](https://www.moneydj.com/us/basic/basic0001/XYZ) | Block, Inc. | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.66%</span> | 0.376 |
+| [**COF**](https://www.moneydj.com/us/basic/basic0001/COF) | Capital One | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.55%</span> | 0.609 |
+| [**BLK**](https://www.moneydj.com/us/basic/basic0001/BLK) | BlackRock | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.53%</span> | 0.713 |
+| [**IBKR**](https://www.moneydj.com/us/basic/basic0001/IBKR) | Interactive Brokers | Financials | <span style="color:#e74c3c;white-space:nowrap">-1.51%</span> | 0.600 |
 
 ---
 
-*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-04-15 11:27 ET，僅供參考，不構成投資建議。*
+*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-04-16 11:33 ET，僅供參考，不構成投資建議。*
