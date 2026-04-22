@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-22 20:19 台灣時間　｜　資料更新：2026-04-22 20:19 台灣時間
+> 更新時間：2026-04-23 02:21 台灣時間　｜　資料更新：2026-04-23 02:21 台灣時間
 
 ---
 
@@ -20,7 +20,7 @@
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$123.28** | <span style="color:#27ae60">+4.21</span> | <span style="color:#27ae60">+3.54%</span> | 上升 |
+| **$103.40** | <span style="color:#27ae60">+4.77</span> | <span style="color:#27ae60">+4.84%</span> | 上升 |
 
 ## 被困船隻
 
@@ -80,8 +80,8 @@
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
 | 好望角 | +15 天 | $450 | 積極使用； 3 月 2 日，開普敦改道量單日激增 112%。由於霍爾木茲海峽關閉，主要航運公司將所有服務改道經開普敦。 |
-| 東西原油管道（沙烏地阿拉伯） | +0 天 | $100 | 容量有限（700 萬桶/天 vs 2000 萬正常霍爾木茲流量 = 35% 覆蓋率）。沙特将原油改道至延布红海港口。只能處理霍爾木茲正常吞吐量的 35%。 |
-| 阿聯酋阿布達比至富查伊拉原油管道 | +0 天 | $80 | 部分營運。阿聯酋將原油轉移到阿拉伯海的富查伊拉。霍尔木兹航线的运力有限补充。 |
+| 東西原油管道（沙烏地阿拉伯） | +0 天 | $100 | 容量有限（700 萬桶/天 vs 2000 萬正常霍爾木茲流量 = 35% 覆蓋率）。沙烏地阿拉伯將原油改道至延布紅海港口。只能處理霍爾木茲正常吞吐量的 35%。 |
+| 阿聯酋阿布達比至富查伊拉原油管道 | +0 天 | $80 | 部分營運。阿聯酋將原油轉移到阿拉伯海的富查伊拉。霍爾木茲航線的運力有限補充。 |
 
 **供應鏈影響**
 
@@ -91,7 +91,7 @@
 
 **主要供應鏈事件**
 
-- VLCC spot rates AG-East reached $436,000-$770,000 per day in early March (vs. pre-crisis $133,000), representing 200-480% increase
+- 3 月初，AG-East VLCC 即期運價達到每天 43.6 萬美元至 77 萬美元（相對於危機前的 13.3 萬美元），上漲 200-480%
 - 亞洲煉油廠因原油供應不足而減產；全球供應鏈陷入噴射燃料和柴油短缺
 - 化肥出口中斷（全球化肥貿易量的 30% 通常透過霍爾木茲海峽運輸）；春季播種季節受到影響
 - 美國戰略石油儲備被用來穩定市場； IEA釋放4億桶戰略儲備
@@ -105,7 +105,7 @@
 > 伊斯蘭革命衛隊高級官員證實海峽已關閉，並威脅任何經過的船隻。多艘油輪襲擊開始。戰爭險保費在48小時內增加5倍（船舶價值的0.15%至0.8-1%）。
 
 **2026-03-05** `ECONOMIC` — **戰爭險保險被取消**
-> 保賠協會取消現有的戰爭險保險；新的保險無法提供或費用過高。這在實施實體封鎖之前有效地在商業上關閉了海峽。油轮运输量锐减 80%。
+> 保賠協會取消現有的戰爭險保險；新的保險無法提供或費用過高。這在實施實體封鎖之前有效地在商業上關閉了海峽。油輪運輸量銳減 80%。
 
 **2026-03-19** `MILITARY` — **美軍重啟海峽行動**
 > 美國海軍開始軍事行動重新開放霍爾木茲海峽，試圖清除伊朗埋設的地雷。兩艘美國軍艦（小弗蘭克·彼得森號、邁克爾·墨菲號）穿越海峽以建立新通道。
@@ -130,12 +130,12 @@
 
 ## 最新新聞
 
-- [川普延長伊朗停火但維持封鎖，美國油價突破90美元](https://www.firstpost.com/business/us-oil-above-90-trump-extends-iran-truce-blockade-strait-of-hormuz-supply-risk-14002956.html)　*Firstpost・2026-04-21*
-- [Albo 透露澳洲將大幅增加燃料供應 - News.com.au](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYXdMVDZRUE1tdmZHZnFJMFp6c2QwSlJwUl9ya1NDVDdtdEpBanlsNXI5MzFWZHdjSVZCVDBwMlU2amJfQkFFNDdpZlVRVzB6eklBdWFITFExWlNMUmRuN1NvcXF1MU1kUnpmRkphdVh0cmdiOWFGZ01yM3EzS3k3MzRWTzFZM3haM2NqVmMzVG9naVZ2Z3lUeG1zMHRFNzdtWmRVYXBtNEtOcC1WcUNVWWc3bVp2LXVCMHFSZ2NDYmRqR0RFcktDcHJQQTZxWTF0bzhmSUx6YkgyZzBf?oc=5)　*Google News・2026-04-21*
-- [伊朗油輪熄火駛過滿載原油的美國封鎖](https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-tankers-go-dark-to-sail-past-us-blockade-laden-with-crude/articleshow/130432377.cms)　*The Economic Times・2026-04-21*
-- [儘管伊朗停火期限延長，但霍爾木茲海峽的中斷仍然存在，原油價格上漲](https://www.news18.com/world/crude-oil-prices-rise-as-hormuz-disruption-persists-despite-iran-ceasefire-extension-ws-el-10048910.html)　*News 18・2026-04-21*
-- [伊朗停火延期導致布蘭特原油期貨回落](https://www.thestar.com.my/business/2026/04/22/brent-futures-retreat-on-iran-ceasefire-extension)　*The Star・2026-04-21*
+- [伊朗油輪突破美國封鎖，在海軍嚴密保護下進入領海](https://timesofindia.indiatimes.com/videos/international/iranian-tanker-breaches-us-blockade-enters-territorial-waters-under-heavy-naval-protection/videoshow/130432851.cms)　*The Times Of India・2026-04-22*
+- [川普「迫切」想要結束伊朗戰爭嗎？為什麼他可能會打破自己的談判規則](https://www.news18.com/explainers/is-trump-desperate-to-end-the-iran-war-why-he-may-be-breaking-his-own-rules-of-negotiation-shil-ws-l-10049230.html)　*News 18・2026-04-22*
+- [Trump claims Iran is ‘collapsing financially’; ceasefire extended but talks put on hold](https://www.irishtimes.com/world/middle-east/2026/04/22/trump-claims-iran-is-collapsing-financially-ceasefire-extended-but-talks-put-on-hold/)　*The Irish Times・2026-04-22*
+- [美國和談破裂後伊朗集會以卡德爾導彈為特色 - 視頻](https://www.timesnownews.com/world/middle-east/iran-rally-features-qadr-missile-after-us-peace-talks-collapse-video-article-154133966)　*Times Now News・2026-04-22*
+- [升級：伊朗將美國霍爾木茲封鎖稱為「戰爭行為」並威脅暴力突破](https://news.abplive.com/videos/news/world-escalation-iran-labels-u-s-hormuz-blockade-an-act-of-war-and-threatens-violent-breakout-1837956)　*Abp News・2026-04-22*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-22 20:19 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-23 02:21 台灣時間，僅供參考，不構成投資建議。*
