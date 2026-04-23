@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-23 20:19 台灣時間　｜　資料更新：2026-04-23 20:19 台灣時間
+> 更新時間：2026-04-24 02:22 台灣時間　｜　資料更新：2026-04-24 02:22 台灣時間
 
 ---
 
@@ -130,12 +130,12 @@
 
 ## 最新新聞
 
-- [川普聲稱他拯救了八名伊朗婦女免遭處決——伊朗稱他為“delulu”](https://www.express.co.uk/news/us/2197311/trump-iran-women-execution-delulu)　*Express・2026-04-22*
-- [霍爾木茲攻擊事件通報導緻美國燃料庫存下降，油價上漲](https://www.thestar.com.my/business/2026/04/23/oil-jumps-on-us-fuel-stock-drop-reports-of-hormuz-attacks)　*The Star・2026-04-22*
-- [標普、納斯達克因伊朗停火延期和獲利創下歷史新高](https://www.thestar.com.my/business/2026/04/23/sp-nasdaq-hit-records-on-iran-ceasefire-extension-earnings)　*The Star・2026-04-22*
-- [海軍部長「立即」離開川普政府](https://www.independent.co.uk/bulletin/news/navy-secretary-john-phelan-leaving-pentagon-b2963186.html)　*The Independent・2026-04-22*
-- [「到底是怎麼回事？」伊朗戰爭爆發，海軍部長被罷黜](https://www.rawstory.com/us-news/john-phelan/)　*Raw Story・2026-04-22*
+- [由於伊朗不確定性和利率前景，美元堅挺，亞洲外匯走軟](https://uk.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-iran-uncertainty-rate-outlook-4624122)　*Investing Uk・2026-04-23*
+- [巴基斯坦在2023年12月以來的首次招標中尋求三批現貨液化天然氣貨物](https://www.dawn.com/news/1994311/pakistan-seeks-three-spot-lng-cargoes-in-first-tender-since-dec-2023)　*Dawn・2026-04-23*
+- [「如果可以的話」：印尼國會議員浮動主要國際航線的通行費](https://www.abc.net.au/news/2026-04-23/indonesia-minister-floats-malacca-strait-toll/106596990)　*Abc・2026-04-23*
+- [記者菲利普·涅托 (Philip Nieto) 預測，川普將面臨簽署伊朗和平協議的恥辱，該協議與 2015 年奧巴馬簽署的核協議“非常相似”，他曾將其稱為“有史以來最糟糕的協議之一”](https://www.dailymail.com/news/article-15756845/trump-iran-peace-deal-obama-nuclear-agreement-philip-nieto-deep-dive-podcast.html)　*Mail Online・2026-04-23*
+- [伊朗公佈蒙面伊斯蘭革命衛隊海軍人員在霍爾木茲海峽扣押貨船的影片：觀看](https://news.abplive.com/news/world/us-iran-war-iran-releases-footage-masked-irgc-men-seizing-cargo-ship-msc-francesca-epaminondes-strait-of-hormuz-1838166)　*Abp News・2026-04-23*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-23 20:19 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-24 02:22 台灣時間，僅供參考，不構成投資建議。*
