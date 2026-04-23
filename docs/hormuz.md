@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-23 14:36 台灣時間　｜　資料更新：2026-04-23 14:36 台灣時間
+> 更新時間：2026-04-23 20:19 台灣時間　｜　資料更新：2026-04-23 20:19 台灣時間
 
 ---
 
@@ -130,12 +130,12 @@
 
 ## 最新新聞
 
-- [4 月 23 日交易安排：開盤前需要了解的 15 件事，因霍爾木茲海峽關閉期間油價仍是焦點](https://www.moneycontrol.com/news/business/markets/trade-setup-for-april-23-top-15-things-to-know-before-the-opening-bell-as-oil-prices-stay-in-focus-amid-strait-of-hormuz-closure-13896746.html)　*Moneycontrol・2026-04-22*
-- [川普聲稱他的干預阻止了八名伊朗婦女被處決](https://metro.co.uk/2026/04/22/trump-claims-intervention-stopped-eight-iranian-women-executed-28079664/)　*Metro・2026-04-22*
-- [伊朗稱在美國海軍封鎖下霍爾木茲「不可能」重新開放](https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-says-hormuz-reopening-not-possible-amid-us-naval-blockade/articleshow/130448916.cms)　*The Economic Times・2026-04-22*
-- [美伊戰爭：五角大廈警告稱，霍爾木茲海峽的地雷可能需要六個月才能清除](https://www.news18.com/world/us-iran-war-mines-in-strait-of-hormuz-may-take-six-months-to-clear-pentagon-warns-ws-l-10050818.html)　*News 18・2026-04-22*
-- [川普表示封鎖將持續，伊朗向船隻開火](https://www.wbur.org/hereandnow/2026/04/22/iran-blockade-shipping)　*Wbur・2026-04-22*
+- [川普聲稱他拯救了八名伊朗婦女免遭處決——伊朗稱他為“delulu”](https://www.express.co.uk/news/us/2197311/trump-iran-women-execution-delulu)　*Express・2026-04-22*
+- [霍爾木茲攻擊事件通報導緻美國燃料庫存下降，油價上漲](https://www.thestar.com.my/business/2026/04/23/oil-jumps-on-us-fuel-stock-drop-reports-of-hormuz-attacks)　*The Star・2026-04-22*
+- [標普、納斯達克因伊朗停火延期和獲利創下歷史新高](https://www.thestar.com.my/business/2026/04/23/sp-nasdaq-hit-records-on-iran-ceasefire-extension-earnings)　*The Star・2026-04-22*
+- [海軍部長「立即」離開川普政府](https://www.independent.co.uk/bulletin/news/navy-secretary-john-phelan-leaving-pentagon-b2963186.html)　*The Independent・2026-04-22*
+- [「到底是怎麼回事？」伊朗戰爭爆發，海軍部長被罷黜](https://www.rawstory.com/us-news/john-phelan/)　*Raw Story・2026-04-22*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-23 14:36 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-23 20:19 台灣時間，僅供參考，不構成投資建議。*
