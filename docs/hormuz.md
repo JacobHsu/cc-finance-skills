@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-23 02:21 台灣時間　｜　資料更新：2026-04-23 02:21 台灣時間
+> 更新時間：2026-04-23 14:36 台灣時間　｜　資料更新：2026-04-23 14:36 台灣時間
 
 ---
 
@@ -123,19 +123,19 @@
 > 伊朗外交部長宣布停火期間海峽向所有商船開放。石油價格下跌 10-12%。短暫的樂觀時期。然而，川普維持美國對伊朗港口的封鎖，造成混亂。
 
 **2026-04-18** `ESCALATION` — **伊朗逆轉海峽重新開放，伊斯蘭革命衛隊向船隻開火**
-> 伊朗推翻了決定，以美國一再違反信任為由重新實施嚴格控制。伊朗革命卫队炮艇向油轮开火。悬挂印度国旗的船只遭到袭击。石油價格飆升。在短暫的 24 小時開放窗口後，海峽再次功能關閉。
+> 伊朗推翻了決定，以美國一再違反信任為由重新實施嚴格控制。伊朗革命衛隊砲艇向油輪開火。懸掛印度國旗的船隻遭到攻擊。石油價格飆升。在短暫的 24 小時開放窗口後，海峽再次功能關閉。
 
 **2026-04-20** `ESCALATION` — **美國扣押伊朗貨船Touska**
 > 美國海軍在阿曼灣向試圖繞過美國封鎖的懸掛伊朗國旗的貨船“圖斯卡”號開火並扣押。伊朗威脅進行報復。第二輪和談存疑。停火處於崩潰邊緣。
 
 ## 最新新聞
 
-- [伊朗油輪突破美國封鎖，在海軍嚴密保護下進入領海](https://timesofindia.indiatimes.com/videos/international/iranian-tanker-breaches-us-blockade-enters-territorial-waters-under-heavy-naval-protection/videoshow/130432851.cms)　*The Times Of India・2026-04-22*
-- [川普「迫切」想要結束伊朗戰爭嗎？為什麼他可能會打破自己的談判規則](https://www.news18.com/explainers/is-trump-desperate-to-end-the-iran-war-why-he-may-be-breaking-his-own-rules-of-negotiation-shil-ws-l-10049230.html)　*News 18・2026-04-22*
-- [Trump claims Iran is ‘collapsing financially’; ceasefire extended but talks put on hold](https://www.irishtimes.com/world/middle-east/2026/04/22/trump-claims-iran-is-collapsing-financially-ceasefire-extended-but-talks-put-on-hold/)　*The Irish Times・2026-04-22*
-- [美國和談破裂後伊朗集會以卡德爾導彈為特色 - 視頻](https://www.timesnownews.com/world/middle-east/iran-rally-features-qadr-missile-after-us-peace-talks-collapse-video-article-154133966)　*Times Now News・2026-04-22*
-- [升級：伊朗將美國霍爾木茲封鎖稱為「戰爭行為」並威脅暴力突破](https://news.abplive.com/videos/news/world-escalation-iran-labels-u-s-hormuz-blockade-an-act-of-war-and-threatens-violent-breakout-1837956)　*Abp News・2026-04-22*
+- [4 月 23 日交易安排：開盤前需要了解的 15 件事，因霍爾木茲海峽關閉期間油價仍是焦點](https://www.moneycontrol.com/news/business/markets/trade-setup-for-april-23-top-15-things-to-know-before-the-opening-bell-as-oil-prices-stay-in-focus-amid-strait-of-hormuz-closure-13896746.html)　*Moneycontrol・2026-04-22*
+- [川普聲稱他的干預阻止了八名伊朗婦女被處決](https://metro.co.uk/2026/04/22/trump-claims-intervention-stopped-eight-iranian-women-executed-28079664/)　*Metro・2026-04-22*
+- [伊朗稱在美國海軍封鎖下霍爾木茲「不可能」重新開放](https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-says-hormuz-reopening-not-possible-amid-us-naval-blockade/articleshow/130448916.cms)　*The Economic Times・2026-04-22*
+- [美伊戰爭：五角大廈警告稱，霍爾木茲海峽的地雷可能需要六個月才能清除](https://www.news18.com/world/us-iran-war-mines-in-strait-of-hormuz-may-take-six-months-to-clear-pentagon-warns-ws-l-10050818.html)　*News 18・2026-04-22*
+- [川普表示封鎖將持續，伊朗向船隻開火](https://www.wbur.org/hereandnow/2026/04/22/iran-blockade-shipping)　*Wbur・2026-04-22*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-23 02:21 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-23 14:36 台灣時間，僅供參考，不構成投資建議。*
