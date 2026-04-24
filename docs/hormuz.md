@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-24 14:37 台灣時間　｜　資料更新：2026-04-24 14:37 台灣時間
+> 更新時間：2026-04-24 20:19 台灣時間　｜　資料更新：2026-04-24 20:19 台灣時間
 
 ---
 
@@ -130,12 +130,12 @@
 
 ## 最新新聞
 
-- [川普表示，他命令美國海軍「射殺」在霍爾木茲海峽採礦的船隻](https://www.timesofisrael.com/trump-says-he-ordered-us-navy-to-shoot-and-kill-boats-mining-the-strait-of-hormuz/)　*The Times Of Israel・2026-04-23*
-- [觀看：重新分類對大麻使用者意味著什麼？](https://abcnews.com/video/132321999/)　*Abc News・2026-04-23*
-- [唐納德·川普對霍爾木茲海峽的封鎖失敗了嗎？](https://www.indiatoday.in/programme/world-today/video/is-donald-trumps-blockade-of-the-strait-of-hormuz-failing-2900689-2026-04-23)　*India Today・2026-04-23*
-- [川普針對佈滿地雷的霍爾木茲海峽的策略：用迷幻劑和大麻安撫喬·羅根](https://fortune.com/2026/04/23/trump-marijuana-rescheduling-psychedelics-strait-of-hormuz-oil-crisis/)　*Fortune・2026-04-23*
-- [由於航空燃油危機持續，全球航空公司取消航班的完整清單](https://nationalpost.com/news/canada/full-list-of-airlines-tcancelling-flights-amid-fuel-shortage)　*National Post・2026-04-23*
+- [伊朗教會加拿大如何與川普談判](https://www.theglobeandmail.com/business/commentary/article-iran-war-trump-carney-trade-usmca-negotiation/)　*Theglobeandmail・2026-04-23*
+- [官員稱，前往霍爾木茲海峽的掃雷船上的美國水手因猴子襲擊而缺席](https://nypost.com/2026/04/23/world-news/us-sailor-prepped-for-minesweeping-in-strait-of-hormuz-sidelined-by-monkey-attack/)　*New York Post・2026-04-23*
+- [隨著與以色列的停火期限延長，黎巴嫩難民希望返回家園](https://www.nbcnews.com/video/lebanese-refugees-hope-to-return-home-as-ceasefire-with-israel-is-extended-262007877661)　*Nbc News・2026-04-23*
+- [皮特·赫格斯在造船問題上與海軍部長“發生衝突”，並在解僱前推動無視法官的命令：報道](https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-navy-secretary-john-phelan-b2963946.html)　*The Independent・2026-04-23*
+- [由於伊朗快速達成協議的希望消退，美國股市下跌，獲利好壞參半](https://www.thestar.com.my/business/2026/04/24/us-stocks-fall-as-quick-iran-deal-hopes-fade-earnings-mixed)　*The Star・2026-04-23*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-24 14:37 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-24 20:19 台灣時間，僅供參考，不構成投資建議。*
