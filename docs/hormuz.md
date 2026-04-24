@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-24 02:22 台灣時間　｜　資料更新：2026-04-24 02:22 台灣時間
+> 更新時間：2026-04-24 14:37 台灣時間　｜　資料更新：2026-04-24 14:37 台灣時間
 
 ---
 
@@ -130,12 +130,12 @@
 
 ## 最新新聞
 
-- [由於伊朗不確定性和利率前景，美元堅挺，亞洲外匯走軟](https://uk.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-iran-uncertainty-rate-outlook-4624122)　*Investing Uk・2026-04-23*
-- [巴基斯坦在2023年12月以來的首次招標中尋求三批現貨液化天然氣貨物](https://www.dawn.com/news/1994311/pakistan-seeks-three-spot-lng-cargoes-in-first-tender-since-dec-2023)　*Dawn・2026-04-23*
-- [「如果可以的話」：印尼國會議員浮動主要國際航線的通行費](https://www.abc.net.au/news/2026-04-23/indonesia-minister-floats-malacca-strait-toll/106596990)　*Abc・2026-04-23*
-- [記者菲利普·涅托 (Philip Nieto) 預測，川普將面臨簽署伊朗和平協議的恥辱，該協議與 2015 年奧巴馬簽署的核協議“非常相似”，他曾將其稱為“有史以來最糟糕的協議之一”](https://www.dailymail.com/news/article-15756845/trump-iran-peace-deal-obama-nuclear-agreement-philip-nieto-deep-dive-podcast.html)　*Mail Online・2026-04-23*
-- [伊朗公佈蒙面伊斯蘭革命衛隊海軍人員在霍爾木茲海峽扣押貨船的影片：觀看](https://news.abplive.com/news/world/us-iran-war-iran-releases-footage-masked-irgc-men-seizing-cargo-ship-msc-francesca-epaminondes-strait-of-hormuz-1838166)　*Abp News・2026-04-23*
+- [川普表示，他命令美國海軍「射殺」在霍爾木茲海峽採礦的船隻](https://www.timesofisrael.com/trump-says-he-ordered-us-navy-to-shoot-and-kill-boats-mining-the-strait-of-hormuz/)　*The Times Of Israel・2026-04-23*
+- [觀看：重新分類對大麻使用者意味著什麼？](https://abcnews.com/video/132321999/)　*Abc News・2026-04-23*
+- [唐納德·川普對霍爾木茲海峽的封鎖失敗了嗎？](https://www.indiatoday.in/programme/world-today/video/is-donald-trumps-blockade-of-the-strait-of-hormuz-failing-2900689-2026-04-23)　*India Today・2026-04-23*
+- [川普針對佈滿地雷的霍爾木茲海峽的策略：用迷幻劑和大麻安撫喬·羅根](https://fortune.com/2026/04/23/trump-marijuana-rescheduling-psychedelics-strait-of-hormuz-oil-crisis/)　*Fortune・2026-04-23*
+- [由於航空燃油危機持續，全球航空公司取消航班的完整清單](https://nationalpost.com/news/canada/full-list-of-airlines-tcancelling-flights-amid-fuel-shortage)　*National Post・2026-04-23*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-24 02:22 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-24 14:37 台灣時間，僅供參考，不構成投資建議。*
