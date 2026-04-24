@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-24 20:19 台灣時間　｜　資料更新：2026-04-24 20:19 台灣時間
+> 更新時間：2026-04-25 02:13 台灣時間　｜　資料更新：2026-04-25 02:13 台灣時間
 
 ---
 
@@ -108,7 +108,7 @@
 > 保賠協會取消現有的戰爭險保險；新的保險無法提供或費用過高。這在實施實體封鎖之前有效地在商業上關閉了海峽。油輪運輸量銳減 80%。
 
 **2026-03-19** `MILITARY` — **美軍重啟海峽行動**
-> 美國海軍開始軍事行動重新開放霍爾木茲海峽，試圖清除伊朗埋設的地雷。兩艘美國軍艦（小弗蘭克·彼得森號、邁克爾·墨菲號）穿越海峽以建立新通道。
+> 美國海軍開始軍事行動重新開放霍爾木茲海峽，試圖清除伊朗埋設的地雷。兩艘美國軍艦（小弗蘭克·彼得森號、邁克爾·墨菲號）通過海峽建立新通道。
 
 **2026-04-07** `DIPLOMATIC` — **兩週停火協議**
 > 美國和伊朗同意在巴基斯坦的斡旋下停火兩週。最初的停火文件有爭議；伊朗宣布包括黎巴嫩在內的停火，美國對此提出異議。川普表示伊朗將立即開放海峽。
@@ -130,12 +130,12 @@
 
 ## 最新新聞
 
-- [伊朗教會加拿大如何與川普談判](https://www.theglobeandmail.com/business/commentary/article-iran-war-trump-carney-trade-usmca-negotiation/)　*Theglobeandmail・2026-04-23*
-- [官員稱，前往霍爾木茲海峽的掃雷船上的美國水手因猴子襲擊而缺席](https://nypost.com/2026/04/23/world-news/us-sailor-prepped-for-minesweeping-in-strait-of-hormuz-sidelined-by-monkey-attack/)　*New York Post・2026-04-23*
-- [隨著與以色列的停火期限延長，黎巴嫩難民希望返回家園](https://www.nbcnews.com/video/lebanese-refugees-hope-to-return-home-as-ceasefire-with-israel-is-extended-262007877661)　*Nbc News・2026-04-23*
-- [皮特·赫格斯在造船問題上與海軍部長“發生衝突”，並在解僱前推動無視法官的命令：報道](https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-navy-secretary-john-phelan-b2963946.html)　*The Independent・2026-04-23*
-- [由於伊朗快速達成協議的希望消退，美國股市下跌，獲利好壞參半](https://www.thestar.com.my/business/2026/04/24/us-stocks-fall-as-quick-iran-deal-hopes-fade-earnings-mixed)　*The Star・2026-04-23*
+- [伊朗談判僵局增加不確定性，油價維持上漲](https://ca.finance.yahoo.com/news/oil-rises-fifth-day-as-iran-talks-impasse-adds-to-uncertainty-001855331.html)　*Yahoo! News・2026-04-24*
+- [哈格島在封鎖壓力下接近產能，伊朗爭相儲存更多石油](https://gulfnews.com/business/energy/iran-scrambles-to-store-more-oil-as-kharg-island-nears-capacity-under-blockade-pressure-1.500517585)　*Gulf News・2026-04-24*
+- [消息人士稱，五角大廈的電子郵件概述了北約可能對西班牙進行的處罰，包括因伊朗戰爭裂痕而暫停西班牙的資格](https://economictimes.indiatimes.com/news/defence/pentagon-proposes-nato-penalties-over-iran-war-support-spains-suspension-and-britains-falkland-claim-at-stake/articleshow/130484499.cms)　*The Economic Times・2026-04-24*
+- [「射殺…」：川普向海軍發出命令，霍爾木茲緊張局勢加劇](https://www.ndtvprofit.com/world/shoot-and-kill-hormuz-tension-deepens-amid-trumps-order-to-navy-as-peace-talks-hang-in-balance-11401952)　*Ndtv・2026-04-24*
+- [35,000 英尺高空的能量衝擊正在燒你的口袋 - 《經濟時報》](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOMUNHR1pRb2JPbU0zRUJFY25NLU9KRGExZ1NoX29KbXE4ZFdLdnBjQTBZbDdMNm5aM3A1cU9Kbk1UTzJ0aEVpSEl4MHJLVTNhSndwamVYQUR5UFBoX2NhZTRDV3dQX2VGY1RyMWN6c3RicG40RFVjYUFWOG9zN1pjM2VJeWJ1RDdrTXFLSTgxd0gwOUpDRWVBU1o1amVSUGxyT3BlZUlfVnJ2M0hiYUsySTR0c3VncXY1UzNDZFA5M0R1QVJWYkVCbHoyTW8wNkJFUUl3LVZXUm1NejYyS2k4WTIwd0pRWEFQRjJIQ3dEdDRCWFNGOThjaHkxdXYtckxCblgycjFGU0xjdVcyLWpuSXRXcmZrWjNpbHhvbEVlRjI0VFR0X1lpbUZ3bGZrTk5kRzNJbzJRZ1BwZWw0cXJZMUk2RVg4bExYcTZVWnM1UEkwRUp1WGRFZ0VyeGFHcHRTYWNFdmtKRThGQlFzanEwc9IB9gJBVV95cUxOYnotZ1FUNjRJbHJVbmdTX0VNQ1RUNENtek85Z2R1Rm1UbHhDVVVUbE5yb3gwa1B6T3RNNXppMXFaREppRTV3d090QUV5WXJqZDhsV3AyMTRlR1oxUDRyYUFGRW1PM1VzUXY5cTFOeFk0OWhuNnVsX1BzQTVTS2F2U2dBNVNFZGpoTTB5WkZ5cUJtZFJwZ2RKYkMwSzBFajVRbUx1aDJULTNuVFFvUFBIbnNkNzBFYVh1MWxPMlZsdjRpUU8xZzBtaUhZT0hMSkU2dV9TMHE0ZktqVUpjUEhMZ1RZZXU3dUxCOGVDUVJfYVl0dGNyaDRGWG1xV25XUWQxVDRWUDZiM1V3STVsaHNsenZpY0ctXzRfSjJvdE9weDA0Q1EtNGVvY01GUmU2UkNCVDJpYkxJRHFJRHJENVF5OHNxMXZKaGxUczFhT0NnTGU2UXEzTHctQmtSVjN1RC13R3JITUtpdkgtVXhvVF9SeW1UaVZWdw?oc=5)　*Google News・2026-04-24*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-24 20:19 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-25 02:13 台灣時間，僅供參考，不構成投資建議。*
