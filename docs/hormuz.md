@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-04-25 14:29 台灣時間　｜　資料更新：2026-04-25 14:29 台灣時間
+> 更新時間：2026-04-25 20:11 台灣時間　｜　資料更新：2026-04-25 20:11 台灣時間
 
 ---
 
@@ -99,25 +99,25 @@
 ## 危機時間軸
 
 **2026-02-28** `MILITARY` — **史詩般的憤怒行動—美國和以色列對伊朗的打擊**
-> 美國和以色列對伊朗軍事設施、核設施和領導層發動協調空襲。最高領袖阿里·哈梅內伊被暗殺。伊朗以飛彈和無人機攻擊以色列城市和美國在海灣的基地進行報復。
+> 美国和以色列对伊朗军事设施、核设施和领导层发动协调空袭。最高領袖阿里·哈梅內伊被暗殺。伊朗以导弹和无人机袭击以色列城市和美国在海湾的基地进行报复。
 
 **2026-03-02** `ESCALATION` — **伊斯蘭革命衛隊正式關閉霍爾木茲海峽**
-> 伊斯蘭革命衛隊高級官員證實海峽已關閉，並威脅任何經過的船隻。多艘油輪襲擊開始。戰爭險保費在48小時內增加5倍（船舶價值的0.15%至0.8-1%）。
+> 伊斯兰革命卫队高级官员证实海峡已关闭，并威胁任何经过的船只。多艘油輪襲擊開始。战争险保费在48小时内增加5倍（船舶价值的0.15%至0.8-1%）。
 
 **2026-03-05** `ECONOMIC` — **戰爭險保險被取消**
 > 保賠協會取消現有的戰爭險保險；新的保險無法提供或費用過高。這在實施實體封鎖之前有效地在商業上關閉了海峽。油輪運輸量銳減 80%。
 
 **2026-03-19** `MILITARY` — **美軍重啟海峽行動**
-> 美國海軍開始軍事行動重新開放霍爾木茲海峽，試圖清除伊朗埋設的地雷。兩艘美國軍艦（小弗蘭克·彼得森號、邁克爾·墨菲號）穿越海峽以建立新通道。
+> US Navy begins military campaign to reopen Hormuz, attempting to clear mines laid by Iran. Two US warships (USS Frank E. Petersen Jr., USS Michael Murphy) transit strait to establish new passage.
 
 **2026-04-07** `DIPLOMATIC` — **兩週停火協議**
-> 美國和伊朗同意在巴基斯坦的斡旋下停火兩週。最初的停火文件有爭議；伊朗宣布包括黎巴嫩在內的停火，美國對此提出異議。川普表示伊朗將立即開放海峽。
+> 美国和伊朗同意在巴基斯坦的斡旋下停火两周。最初的停火文件存在争议；伊朗宣布包括黎巴嫩在内的停火，美国对此提出异议。川普表示伊朗將立即開放海峽。
 
-**2026-04-12** `DIPLOMATIC` — **第一輪和平談判在伊斯蘭堡舉行**
+**2026-04-12** `DIPLOMATIC` — **First round of peace talks in Islamabad**
 > 美國代表團（副總統萬斯、威特科夫、庫許納）與伊朗談判代表進行馬拉松式會談。主要癥結：伊朗鈾濃縮（美國要求暫停20年，伊朗提出5年）、海峽控制、制裁解除、武裝組織補助。
 
 **2026-04-13** `MILITARY` — **美國開始對伊朗港口實施海上封鎖**
-> 川普宣布美國海軍封鎖伊朗港口（不同於霍爾木茲）。 23艘船被迫掉頭。伊朗認為這違反了停火協議。隨著美國加大壓力，緊張局勢升級。
+> Trump announces US Navy blockade of Iranian ports (distinct from Hormuz). 23 vessels forced to turn around. Iran considers this violation of ceasefire. Tensions escalate as US increases pressure.
 
 **2026-04-17** `DE_ESCALATION` — **伊朗宣布霍爾木茲海峽全面開放**
 > 伊朗外交部長宣布停火期間海峽向所有商船開放。石油價格下跌 10-12%。短暫的樂觀時期。然而，川普維持美國對伊朗港口的封鎖，造成混亂。
@@ -130,12 +130,12 @@
 
 ## 最新新聞
 
-- [美國確認與伊朗舉行會談，兩名重要官員將於明天飛往巴基斯坦](https://www.ndtv.com/world-news/us-confirms-talks-with-iran-2-key-officials-to-fly-to-pak-tomorrow-11405578)　*Ndtv・2026-04-24*
-- [馮德萊恩提​​議在中東加強海軍協調](https://www.yahoo.com/news/articles/von-der-leyen-proposes-closer-173823919.html)　*Yahoo! News・2026-04-24*
-- [皮特·赫格斯 (Pete Hegseth) 在高風險的伊朗戰爭簡報會上表現出“最佳”失誤手錶](https://timesofindia.indiatimes.com/videos/international/pete-hegseth-delivers-best-slip-up-during-high-stakes-iran-war-briefing-watch/videoshow/130500903.cms)　*The Times Of India・2026-04-24*
-- [伊朗最高外交官前往巴基斯坦與美國進行停火談判](https://www.fastcompany.com/91532300/iran-war-hormuz-israel-pakistan-ceasefire-april?partner=rss)　*Fast Company・2026-04-24*
-- [白宮稱史蒂夫·威特科夫和賈里德·庫許納將前往巴基斯坦與伊朗舉行會談](https://www.dawn.com/news/1994680/white-house-says-steve-witkoff-jared-kushner-to-head-to-pakistan-for-talks-with-iran)　*Dawn・2026-04-24*
+- [伊朗與美國戰爭停火新聞直播：緊張局勢下伊朗排除美國在伊斯蘭堡舉行會談](https://www.news18.com/world/iran-us-war-ceasefire-news-live-iran-rules-out-us-talks-in-islamabad-amid-tensions-liveblog-ws-l-10056409.html)　*News 18・2026-04-24*
+- [美國財政部長貝森特表示，美國凍結了 3.44 億美元與伊朗相關的加密貨幣](https://www.channelnewsasia.com/world/us-freezes-us344-million-in-iran-linked-crypto-says-treasury-chief-bessent-6080181)　*Channel Newsasia・2026-04-24*
+- [一海峽兩灣：槓桿之戰](https://www.iol.co.za/sundayindependent/dispatch/one-strait-and-two-gulfs-the-war-of-leverage-a0a6c25d-3ad3-42f4-8321-00ad361cfa64)　*Iol・2026-04-24*
+- [美國希望取得進展，但伊朗表示不要指望直接會談](https://www.newsmax.com/us/iran-u-s/2026/04/24/id/1254133)　*Newsmax.com・2026-04-24*
+- [與伊朗相比，時間站在川普這邊，但不會永遠站在一邊](https://nypost.com/2026/04/24/opinion/time-is-on-trumps-side-versus-iran-but-not-forever/)　*New York Post・2026-04-24*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-25 14:29 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-04-25 20:11 台灣時間，僅供參考，不構成投資建議。*
