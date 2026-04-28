@@ -1,50 +1,71 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-04-27 14:01 台灣時間
+> 更新時間：2026-04-28 14:02 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
 > 本次抓取：16 篇
 
 ---
 
-### 今天 09:42（2026/04/27 09:42）
+### 昨天 23:35（2026/04/27 23:35）
+
+> 我的股后跌了4%啊！！！
+拿去買手錶不好嗎😭😭😭😭😭😭
+明天應該讓台積以外的漲一波了吧
+
+讚 2565 ｜ 回覆 178 ｜ [原文](https://www.threads.com/@banini31/post/DXo-yu_kubx)
+
+---
+
+### 昨天 14:01（2026/04/27 14:01）
+
+> 早上
+買什麼錶， 買股票賺錢更好賺
+下午
+可以把錢退給我買錶嗎⋯⋯
+
+讚 2365 ｜ 回覆 134 ｜ [原文](https://www.threads.com/@banini31/post/DXn9IkEmXFk)
+
+---
+
+### 昨天 09:42（2026/04/27 09:42）
 
 > 你們這些個股， 為什麼要拖累台積帶領台灣飛翔更高峰呢 
 
 😭😭😭😭😭
 我要是沒看到台積庫存，我真的以為今天又跌500點
 
-讚 902 ｜ 回覆 90 ｜ [原文](https://www.threads.com/@banini31/post/DXnfgremRnL)
+讚 1205 ｜ 回覆 118 ｜ [原文](https://www.threads.com/@banini31/post/DXnfgremRnL)
 
 ---
 
-### 今天 00:46（2026/04/27 00:46）
+### 昨天 00:46（2026/04/27 00:46）
 
 > 還是我先都買！？ 先吃到特價再決定要退哪一隻？！
 你們說呢？
 
 但是兩隻買下去， 可以買2張00981A再配200股0050啊啊
 
-讚 1641 ｜ 回覆 244 ｜ [原文](https://www.threads.com/@banini31/post/DXmiM7_Ew-N)
+讚 1943 ｜ 回覆 267 ｜ [原文](https://www.threads.com/@banini31/post/DXmiM7_Ew-N)
 
 ---
 
-### 昨天 18:49（2026/04/26 18:49）
+### 04/26 18:49（2026/04/26 18:49）
 
 > 那個⋯平價二選一 
 都幾 
 到底是開綠還是收黑呢？
 （都還沒買）
 
-讚 576 ｜ 回覆 122 ｜ [原文](https://www.threads.com/@banini31/post/DXl5VSmE7dC)
+讚 622 ｜ 回覆 126 ｜ [原文](https://www.threads.com/@banini31/post/DXl5VSmE7dC)
 
 ---
 
-### 昨天 15:17（2026/04/26 15:17）
+### 04/26 15:17（2026/04/26 15:17）
 
 > 是妹子～我跟妹子出來約會❤️❤️❤️
 吼吼吼吼（猩猩怒吼）
 
-讚 1929 ｜ 回覆 158 ｜ [原文](https://www.threads.com/@banini31/post/DXlhGYPE5sT)
+讚 2052 ｜ 回覆 159 ｜ [原文](https://www.threads.com/@banini31/post/DXlhGYPE5sT)
 
 ---
 
@@ -53,7 +74,7 @@
 > chatgpt真的進步好多(⊙ω⊙)/
 要不是有服裝限制⋯ 我的神奇贊助照片都給他生就好了_(:_」∠)_
 
-讚 1333 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXjsjlkE2ip)
+讚 1392 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXjsjlkE2ip)
 
 ---
 
@@ -62,7 +83,7 @@
 > 回台灣了～😭✌️
 可以去看錶了（誤）
 
-讚 2269 ｜ 回覆 197 ｜ [原文](https://www.threads.com/@banini31/post/DXjT4mQj7oI)
+讚 2281 ｜ 回覆 197 ｜ [原文](https://www.threads.com/@banini31/post/DXjT4mQj7oI)
 
 ---
 
@@ -72,7 +93,7 @@
 星期一用膝蓋想應該能4萬了
 我終於理解到什麼叫做Fomo😭😭
 
-讚 2374 ｜ 回覆 373 ｜ [原文](https://www.threads.com/@banini31/post/DXiV7rjk6gH)
+讚 2381 ｜ 回覆 378 ｜ [原文](https://www.threads.com/@banini31/post/DXiV7rjk6gH)
 
 ---
 
@@ -89,7 +110,7 @@
 我該怎麼辦才好～
 擦鞋童都擦成CEO，我還是那個只能找路邊擦鞋的上班族
 
-讚 3311 ｜ 回覆 338 ｜ [原文](https://www.threads.com/@banini31/post/DXhHfP8goFE)
+讚 3317 ｜ 回覆 339 ｜ [原文](https://www.threads.com/@banini31/post/DXhHfP8goFE)
 
 ---
 
@@ -97,7 +118,7 @@
 
 > 眼睛看到漲1000，體感跌600
 
-讚 2670 ｜ 回覆 363 ｜ [原文](https://www.threads.com/@banini31/post/DXf2de6mbQ-)
+讚 2672 ｜ 回覆 363 ｜ [原文](https://www.threads.com/@banini31/post/DXf2de6mbQ-)
 
 ---
 
@@ -120,7 +141,7 @@
 我要學習變大膽！ 
 不然你看，賺錢都是老闆在賺，我們這些底層的不炒股怎麼翻身？ 要是不炒股就能翻身，誰會想炒？
 
-讚 5150 ｜ 回覆 837 ｜ [原文](https://www.threads.com/@banini31/post/DXegdEck1tU)
+讚 5151 ｜ 回覆 837 ｜ [原文](https://www.threads.com/@banini31/post/DXegdEck1tU)
 
 ---
 
@@ -130,7 +151,7 @@
 股票賺錢就開始奢侈了(;´༎ຶД༎ຶ`)/ 
 我還想買Tissot 的ballade,綠色機械版本😈😈😈
 
-讚 1592 ｜ 回覆 200 ｜ [原文](https://www.threads.com/@banini31/post/DXbsx9VExWP)
+讚 1597 ｜ 回覆 201 ｜ [原文](https://www.threads.com/@banini31/post/DXbsx9VExWP)
 
 ---
 
@@ -153,35 +174,4 @@
 
 ---
 
-### 04/22 01:02（2026/04/22 01:02）
-
-> 請不要遺棄我
-其實是心中一個很大的恐懼
-畢竟我是在被遺棄中度過童年的 
-老爸在法院主動放棄監護
-成長的過程又一直被告知；
-要是沒有我，日子會多好過
-學生時間又常常是邊角料組的成員⋯ 
-
-雖然不停的改變自己，但是總覺的自己還是被大家嫌棄
-遲早會被遺棄
-
-沒有人會無條件愛我
-所以我要不停的展現自己的價值
-直到被遺棄的那天
-在那之前，我會努力的辦好小丑⋯
-
-讚 6621 ｜ 回覆 530 ｜ [原文](https://www.threads.com/@banini31/post/DXZsBwMkyQC)
-
----
-
-### 04/22 00:17（2026/04/22 00:17）
-
-> 唉，擦邊帳號的脆又被停權了
-明明最近的影片跟擦邊都沒關係了啊😭
-
-讚 1798 ｜ 回覆 70 ｜ [原文](https://www.threads.com/@banini31/post/DXZm7D6Gftl)
-
----
-
-*自動產生於 2026-04-27 14:01 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-04-28 14:02 台灣時間。僅供娛樂參考，不構成投資建議。*
