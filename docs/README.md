@@ -1,90 +1,94 @@
 # 美股當日跌幅榜
 
-> 更新時間：2026-04-27 11:34 ET（15:34 UTC）
+> 更新時間：2026-04-28 11:48 ET（15:48 UTC）
 
 ## S&P 500 Top Losers
 
 | # | 代碼 | 公司名稱 | 產業 | 現價 | 跌幅 | 成交量 |
 |---|------|----------|------|------|------|--------|
-| 1 | [**DPZ**](https://www.moneydj.com/us/basic/basic0001/DPZ) | Domino's Pizza Inc | Consumer Discretionary | **$334.17** | <span style="color:#e74c3c;white-space:nowrap">▼ 9.24%</span> | 2.0M |
-| 2 | [**DLTR**](https://www.moneydj.com/us/basic/basic0001/DLTR) | Dollar Tree, Inc. | Consumer Staples | **$97.89** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.65%</span> | 1.3M |
-| 3 | [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | **$318.50** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.23%</span> | 3.3M |
-| 4 | [**SMCI**](https://www.moneydj.com/us/basic/basic0001/SMCI) | Super Micro Computer, Inc. | Information Technology | **$27.69** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.78%</span> | 14.6M |
-| 5 | [**TER**](https://www.moneydj.com/us/basic/basic0001/TER) | Teradyne, Inc. | Information Technology | **$397.92** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.82%</span> | 1.6M |
-| 6 | [**MPWR**](https://www.moneydj.com/us/basic/basic0001/MPWR) | Monolithic Power Systems, Inc. | Information Technology | **$1,559.55** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.44%</span> | 245.2K |
-| 7 | [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices, Inc. | Information Technology | **$332.83** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.30%</span> | 26.7M |
-| 8 | [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum Holdings Inc. | Information Technology | **$844.00** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.27%</span> | 3.0M |
-| 9 | [**ULTA**](https://www.moneydj.com/us/basic/basic0001/ULTA) | Ulta Beauty, Inc. | Consumer Discretionary | **$535.19** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.18%</span> | 458.4K |
-| 10 | [**MCHP**](https://www.moneydj.com/us/basic/basic0001/MCHP) | Microchip Technology Incorporat | Information Technology | **$85.93** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.92%</span> | 3.3M |
-| 11 | [**NXPI**](https://www.moneydj.com/us/basic/basic0001/NXPI) | NXP Semiconductors N.V. | Information Technology | **$234.31** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.99%</span> | 1.5M |
-| 12 | [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Incorporated | Information Technology | **$169.33** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.73%</span> | 5.2M |
-| 13 | [**MRNA**](https://www.moneydj.com/us/basic/basic0001/MRNA) | Moderna, Inc. | Health Care | **$48.91** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.60%</span> | 1.9M |
-| 14 | [**ANET**](https://www.moneydj.com/us/basic/basic0001/ANET) | Arista Networks, Inc. | Information Technology | **$170.76** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.48%</span> | 2.8M |
-| 15 | [**AMAT**](https://www.moneydj.com/us/basic/basic0001/AMAT) | Applied Materials, Inc. | Information Technology | **$403.12** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.35%</span> | 2.0M |
-| 16 | [**NEM**](https://www.moneydj.com/us/basic/basic0001/NEM) | Newmont Corporation | Materials | **$116.52** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.46%</span> | 2.4M |
-| 17 | [**GEV**](https://www.moneydj.com/us/basic/basic0001/GEV) | GE Vernova Inc. | Industrials | **$1,110.64** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.35%</span> | 1.5M |
+| 1 | [**ARE**](https://www.moneydj.com/us/basic/basic0001/ARE) | Alexandria Real Estate Equities | Real Estate | **$41.21** | <span style="color:#e74c3c;white-space:nowrap">▼ 9.55%</span> | 2.8M |
+| 2 | [**ZBH**](https://www.moneydj.com/us/basic/basic0001/ZBH) | Zimmer Biomet Holdings, Inc. | Health Care | **$84.52** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.72%</span> | 3.4M |
+| 3 | [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Incorporated | Information Technology | **$153.30** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.76%</span> | 13.4M |
+| 4 | [**PNR**](https://www.moneydj.com/us/basic/basic0001/PNR) | Pentair plc. | Industrials | **$85.17** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.69%</span> | 2.5M |
+| 5 | [**ALLE**](https://www.moneydj.com/us/basic/basic0001/ALLE) | Allegion plc | Industrials | **$137.34** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.45%</span> | 974.0K |
+| 6 | [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena Corporation | Information Technology | **$468.90** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.39%</span> | 1.6M |
+| 7 | [**SNDK**](https://www.moneydj.com/us/basic/basic0001/SNDK) | Sandisk Corporation | Information Technology | **$993.00** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.21%</span> | 7.9M |
+| 8 | [**VRT**](https://www.moneydj.com/us/basic/basic0001/VRT) | Vertiv Holdings, LLC | Industrials | **$299.23** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.20%</span> | 4.5M |
+| 9 | [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | **$297.95** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.33%</span> | 3.9M |
+| 10 | [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum Holdings Inc. | Information Technology | **$798.04** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.14%</span> | 3.4M |
+| 11 | [**ALB**](https://www.moneydj.com/us/basic/basic0001/ALB) | Albemarle Corporation | Materials | **$186.35** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.61%</span> | 868.5K |
+| 12 | [**UHS**](https://www.moneydj.com/us/basic/basic0001/UHS) | Universal Health Services, Inc. | Health Care | **$168.42** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.18%</span> | 636.2K |
+| 13 | [**TER**](https://www.moneydj.com/us/basic/basic0001/TER) | Teradyne, Inc. | Information Technology | **$376.72** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.28%</span> | 1.5M |
+| 14 | [**AMAT**](https://www.moneydj.com/us/basic/basic0001/AMAT) | Applied Materials, Inc. | Information Technology | **$380.52** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.01%</span> | 3.3M |
+| 15 | [**MU**](https://www.moneydj.com/us/basic/basic0001/MU) | Micron Technology, Inc. | Information Technology | **$493.28** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.97%</span> | 24.3M |
+| 16 | [**MPWR**](https://www.moneydj.com/us/basic/basic0001/MPWR) | Monolithic Power Systems, Inc. | Information Technology | **$1,496.97** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.71%</span> | 206.9K |
+| 17 | [**DELL**](https://www.moneydj.com/us/basic/basic0001/DELL) | Dell Technologies Inc. | Information Technology | **$203.87** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.60%</span> | 2.3M |
 
-### DPZ 下跌時的同步股分析
-
-| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
-|----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | 18.9 | $11.2B | <span style="color:#e74c3c;white-space:nowrap">-10.49%</span> | <span style="color:#e74c3c;white-space:nowrap">-7.04%</span> | <span style="color:#e74c3c;white-space:nowrap">-19.28%</span> | <span style="color:#e74c3c;white-space:nowrap">-20.13%</span> |
-
-> 以過去 6 個月中 **DPZ** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Consumer Discretionary）各股的平均報酬與相關係數。
-
-| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
-|------|----------|------|----------------|----------|
-| [**RCL**](https://www.moneydj.com/us/basic/basic0001/RCL) | Royal Caribbean Group | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.79%</span> | 0.243 |
-| [**BKNG**](https://www.moneydj.com/us/basic/basic0001/BKNG) | Booking Holdings | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.74%</span> | 0.198 |
-| [**TSCO**](https://www.moneydj.com/us/basic/basic0001/TSCO) | Tractor Supply | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.71%</span> | 0.245 |
-| [**GPC**](https://www.moneydj.com/us/basic/basic0001/GPC) | Genuine Parts Company | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.70%</span> | 0.210 |
-| [**NCLH**](https://www.moneydj.com/us/basic/basic0001/NCLH) | Norwegian Cruise Line Holdings | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.68%</span> | 0.212 |
-| [**LEN**](https://www.moneydj.com/us/basic/basic0001/LEN) | Lennar | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.67%</span> | 0.232 |
-| [**EXPE**](https://www.moneydj.com/us/basic/basic0001/EXPE) | Expedia Group | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.64%</span> | 0.200 |
-| [**APTV**](https://www.moneydj.com/us/basic/basic0001/APTV) | Aptiv | Consumer Discretionary | <span style="color:#e74c3c;white-space:nowrap">-0.64%</span> | 0.150 |
-
-### DLTR 下跌時的同步股分析
+### ARE 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.56) | 15.6 | $19.3B | <span style="color:#e74c3c;white-space:nowrap">-7.09%</span> | <span style="color:#e74c3c;white-space:nowrap">-7.29%</span> | <span style="color:#e74c3c;white-space:nowrap">-22.31%</span> | <span style="color:#e74c3c;white-space:nowrap">-20.42%</span> |
-
-> 以過去 6 個月中 **DLTR** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Consumer Staples）各股的平均報酬與相關係數。
-
-| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
-|------|----------|------|----------------|----------|
-| [**DG**](https://www.moneydj.com/us/basic/basic0001/DG) | Dollar General | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-1.17%</span> | 0.577 |
-| [**EL**](https://www.moneydj.com/us/basic/basic0001/EL) | Estée Lauder Companies (The) | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-1.04%</span> | 0.266 |
-| [**CPB**](https://www.moneydj.com/us/basic/basic0001/CPB) | Campbell's Company (The) | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.73%</span> | 0.167 |
-| [**MKC**](https://www.moneydj.com/us/basic/basic0001/MKC) | McCormick & Company | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.71%</span> | 0.198 |
-| [**TAP**](https://www.moneydj.com/us/basic/basic0001/TAP) | Molson Coors Beverage Company | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.62%</span> | 0.241 |
-| [**CLX**](https://www.moneydj.com/us/basic/basic0001/CLX) | Clorox | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.62%</span> | 0.283 |
-| [**HRL**](https://www.moneydj.com/us/basic/basic0001/HRL) | Hormel Foods | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.60%</span> | 0.213 |
-| [**CAG**](https://www.moneydj.com/us/basic/basic0001/CAG) | Conagra Brands | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.58%</span> | 0.144 |
-
-### COHR 下跌時的同步股分析
-
-| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
-|----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#27ae60;font-weight:bold">Buy</span> (+0.27) | 315.1 | $62.2B | <span style="color:#e74c3c;white-space:nowrap">-8.05%</span> | <span style="color:#27ae60;white-space:nowrap">+30.60%</span> | <span style="color:#27ae60;white-space:nowrap">+58.11%</span> | <span style="color:#27ae60;white-space:nowrap">+69.36%</span> |
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.65) | — | $7.9B | <span style="color:#e74c3c;white-space:nowrap">-16.05%</span> | <span style="color:#e74c3c;white-space:nowrap">-14.10%</span> | <span style="color:#e74c3c;white-space:nowrap">-29.72%</span> | <span style="color:#e74c3c;white-space:nowrap">-15.87%</span> |
 
 **最新新聞**
 
-- 📰 COHR vs. ARM: Which Tech Growth Stock Offers More Upside Now?
+- 📰 ARE: Revenue and NOI fell sharply, but net income rebounded on a major debt repurchase gain
 
-> 以過去 6 個月中 **COHR** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **ARE** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Real Estate）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.72%</span> | 0.740 |
-| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.51%</span> | 0.733 |
-| [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.31%</span> | 0.729 |
-| [**APP**](https://www.moneydj.com/us/basic/basic0001/APP) | AppLovin | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.01%</span> | 0.304 |
-| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.95%</span> | 0.602 |
-| [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.84%</span> | 0.442 |
-| [**ANET**](https://www.moneydj.com/us/basic/basic0001/ANET) | Arista Networks | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.69%</span> | 0.420 |
-| [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.56%</span> | 0.386 |
+| [**CSGP**](https://www.moneydj.com/us/basic/basic0001/CSGP) | CoStar Group | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-1.56%</span> | 0.263 |
+| [**BXP**](https://www.moneydj.com/us/basic/basic0001/BXP) | BXP, Inc. | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-1.38%</span> | 0.585 |
+| [**DOC**](https://www.moneydj.com/us/basic/basic0001/DOC) | Healthpeak Properties | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-1.19%</span> | 0.650 |
+| [**CBRE**](https://www.moneydj.com/us/basic/basic0001/CBRE) | CBRE Group | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-1.17%</span> | 0.401 |
+| [**IRM**](https://www.moneydj.com/us/basic/basic0001/IRM) | Iron Mountain | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.85%</span> | 0.232 |
+| [**EXR**](https://www.moneydj.com/us/basic/basic0001/EXR) | Extra Space Storage | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.80%</span> | 0.407 |
+| [**UDR**](https://www.moneydj.com/us/basic/basic0001/UDR) | UDR, Inc. | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.66%</span> | 0.418 |
+| [**PSA**](https://www.moneydj.com/us/basic/basic0001/PSA) | Public Storage | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.65%</span> | 0.367 |
+
+### ZBH 下跌時的同步股分析
+
+| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
+|----------|-----------|------|-----|-----|-----|-----|
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | 23.7 | $16.3B | <span style="color:#e74c3c;white-space:nowrap">-12.08%</span> | <span style="color:#e74c3c;white-space:nowrap">-5.79%</span> | <span style="color:#e74c3c;white-space:nowrap">-1.61%</span> | <span style="color:#e74c3c;white-space:nowrap">-6.61%</span> |
+
+> 以過去 6 個月中 **ZBH** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Health Care）各股的平均報酬與相關係數。
+
+| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
+|------|----------|------|----------------|----------|
+| [**GEHC**](https://www.moneydj.com/us/basic/basic0001/GEHC) | GE HealthCare | Health Care | <span style="color:#e74c3c;white-space:nowrap">-1.05%</span> | 0.281 |
+| [**SOLV**](https://www.moneydj.com/us/basic/basic0001/SOLV) | Solventum | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.99%</span> | 0.398 |
+| [**HUM**](https://www.moneydj.com/us/basic/basic0001/HUM) | Humana | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.94%</span> | 0.205 |
+| [**PODD**](https://www.moneydj.com/us/basic/basic0001/PODD) | Insulet Corporation | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.94%</span> | 0.235 |
+| [**COO**](https://www.moneydj.com/us/basic/basic0001/COO) | Cooper Companies (The) | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.89%</span> | 0.385 |
+| [**BAX**](https://www.moneydj.com/us/basic/basic0001/BAX) | Baxter International | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.84%</span> | 0.249 |
+| [**BSX**](https://www.moneydj.com/us/basic/basic0001/BSX) | Boston Scientific | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.81%</span> | 0.066 |
+| [**SYK**](https://www.moneydj.com/us/basic/basic0001/SYK) | Stryker Corporation | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.80%</span> | 0.365 |
+
+### GLW 下跌時的同步股分析
+
+| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
+|----------|-----------|------|-----|-----|-----|-----|
+| <span style="color:#888888;font-weight:bold">Neutral</span> (-0.09) | 83.2 | $131.5B | <span style="color:#e74c3c;white-space:nowrap">-8.04%</span> | <span style="color:#27ae60;white-space:nowrap">+13.04%</span> | <span style="color:#27ae60;white-space:nowrap">+41.88%</span> | <span style="color:#27ae60;white-space:nowrap">+72.16%</span> |
+
+**最新新聞**
+
+- 📰 GLW: Q1 2026 delivered strong sales and EPS growth, driven by Optical and Solar momentum
+
+> 以過去 6 個月中 **GLW** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
+
+| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
+|------|----------|------|----------------|----------|
+| [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.06%</span> | 0.736 |
+| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.70%</span> | 0.652 |
+| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.53%</span> | 0.715 |
+| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.88%</span> | 0.652 |
+| [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.70%</span> | 0.464 |
+| [**JBL**](https://www.moneydj.com/us/basic/basic0001/JBL) | Jabil | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.57%</span> | 0.665 |
+| [**MPWR**](https://www.moneydj.com/us/basic/basic0001/MPWR) | Monolithic Power Systems | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.55%</span> | 0.585 |
+| [**AVGO**](https://www.moneydj.com/us/basic/basic0001/AVGO) | Broadcom | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.55%</span> | 0.502 |
 
 ---
 
-*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-04-27 11:34 ET，僅供參考，不構成投資建議。*
+*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-04-28 11:48 ET，僅供參考，不構成投資建議。*
