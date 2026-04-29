@@ -1,51 +1,81 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-04-28 14:02 台灣時間
+> 更新時間：2026-04-29 14:01 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：16 篇
+> 本次抓取：15 篇
 
 ---
 
-### 昨天 23:35（2026/04/27 23:35）
+### 今天 12:50（2026/04/29 12:50）
+
+> 我對個股的承受力越來越差
+
+讚 531 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXs-kMDmeJj)
+
+---
+
+### 今天 01:26（2026/04/29 01:26）
+
+> ⋯⋯⋯
+不知道為什麼又要整理一陣子了
+不要迷信說我買2330在2330才會這樣啦(⊙ω⊙)/
+
+是說， 正在設計新的粉專吉祥物： bunniny 🐰
+這樣周邊才不會宅到大家帶不出去⋯
+第一波試作品會在見面會發放喔(⊙ω⊙)/
+
+讚 906 ｜ 回覆 38 ｜ [原文](https://www.threads.com/@banini31/post/DXrwU17E-pm)
+
+---
+
+### 昨天 23:57（2026/04/28 23:57）
+
+> 不堪一擊
+
+讚 1474 ｜ 回覆 126 ｜ [原文](https://www.threads.com/@banini31/post/DXrmM4-GSV-)
+
+---
+
+### 04/27 23:35（2026/04/27 23:35）
 
 > 我的股后跌了4%啊！！！
 拿去買手錶不好嗎😭😭😭😭😭😭
 明天應該讓台積以外的漲一波了吧
 
-讚 2565 ｜ 回覆 178 ｜ [原文](https://www.threads.com/@banini31/post/DXo-yu_kubx)
+讚 3289 ｜ 回覆 212 ｜ [原文](https://www.threads.com/@banini31/post/DXo-yu_kubx)
 
 ---
 
-### 昨天 14:01（2026/04/27 14:01）
+### 04/27 14:01（2026/04/27 14:01）
 
 > 早上
 買什麼錶， 買股票賺錢更好賺
 下午
 可以把錢退給我買錶嗎⋯⋯
 
-讚 2365 ｜ 回覆 134 ｜ [原文](https://www.threads.com/@banini31/post/DXn9IkEmXFk)
+讚 2468 ｜ 回覆 136 ｜ [原文](https://www.threads.com/@banini31/post/DXn9IkEmXFk)
 
 ---
 
-### 昨天 09:42（2026/04/27 09:42）
+### 04/27 09:42（2026/04/27 09:42）
 
 > 你們這些個股， 為什麼要拖累台積帶領台灣飛翔更高峰呢 
 
 😭😭😭😭😭
 我要是沒看到台積庫存，我真的以為今天又跌500點
 
-讚 1205 ｜ 回覆 118 ｜ [原文](https://www.threads.com/@banini31/post/DXnfgremRnL)
+讚 1242 ｜ 回覆 121 ｜ [原文](https://www.threads.com/@banini31/post/DXnfgremRnL)
 
 ---
 
-### 昨天 00:46（2026/04/27 00:46）
+### 04/27 00:46（2026/04/27 00:46）
 
 > 還是我先都買！？ 先吃到特價再決定要退哪一隻？！
 你們說呢？
 
 但是兩隻買下去， 可以買2張00981A再配200股0050啊啊
 
-讚 1943 ｜ 回覆 267 ｜ [原文](https://www.threads.com/@banini31/post/DXmiM7_Ew-N)
+讚 1987 ｜ 回覆 268 ｜ [原文](https://www.threads.com/@banini31/post/DXmiM7_Ew-N)
 
 ---
 
@@ -56,7 +86,7 @@
 到底是開綠還是收黑呢？
 （都還沒買）
 
-讚 622 ｜ 回覆 126 ｜ [原文](https://www.threads.com/@banini31/post/DXl5VSmE7dC)
+讚 630 ｜ 回覆 126 ｜ [原文](https://www.threads.com/@banini31/post/DXl5VSmE7dC)
 
 ---
 
@@ -65,7 +95,7 @@
 > 是妹子～我跟妹子出來約會❤️❤️❤️
 吼吼吼吼（猩猩怒吼）
 
-讚 2052 ｜ 回覆 159 ｜ [原文](https://www.threads.com/@banini31/post/DXlhGYPE5sT)
+讚 2071 ｜ 回覆 159 ｜ [原文](https://www.threads.com/@banini31/post/DXlhGYPE5sT)
 
 ---
 
@@ -74,7 +104,7 @@
 > chatgpt真的進步好多(⊙ω⊙)/
 要不是有服裝限制⋯ 我的神奇贊助照片都給他生就好了_(:_」∠)_
 
-讚 1392 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXjsjlkE2ip)
+讚 1398 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXjsjlkE2ip)
 
 ---
 
@@ -83,7 +113,7 @@
 > 回台灣了～😭✌️
 可以去看錶了（誤）
 
-讚 2281 ｜ 回覆 197 ｜ [原文](https://www.threads.com/@banini31/post/DXjT4mQj7oI)
+讚 2284 ｜ 回覆 197 ｜ [原文](https://www.threads.com/@banini31/post/DXjT4mQj7oI)
 
 ---
 
@@ -93,7 +123,7 @@
 星期一用膝蓋想應該能4萬了
 我終於理解到什麼叫做Fomo😭😭
 
-讚 2381 ｜ 回覆 378 ｜ [原文](https://www.threads.com/@banini31/post/DXiV7rjk6gH)
+讚 2386 ｜ 回覆 378 ｜ [原文](https://www.threads.com/@banini31/post/DXiV7rjk6gH)
 
 ---
 
@@ -110,7 +140,7 @@
 我該怎麼辦才好～
 擦鞋童都擦成CEO，我還是那個只能找路邊擦鞋的上班族
 
-讚 3317 ｜ 回覆 339 ｜ [原文](https://www.threads.com/@banini31/post/DXhHfP8goFE)
+讚 3322 ｜ 回覆 339 ｜ [原文](https://www.threads.com/@banini31/post/DXhHfP8goFE)
 
 ---
 
@@ -118,7 +148,7 @@
 
 > 眼睛看到漲1000，體感跌600
 
-讚 2672 ｜ 回覆 363 ｜ [原文](https://www.threads.com/@banini31/post/DXf2de6mbQ-)
+讚 2674 ｜ 回覆 363 ｜ [原文](https://www.threads.com/@banini31/post/DXf2de6mbQ-)
 
 ---
 
@@ -132,46 +162,4 @@
 
 ---
 
-### 04/23 21:57（2026/04/23 21:57）
-
-> 我是覺得距離派對結束還有1-2年
-根本不用擔心！
-我就是太小心了，這幾年才會什麼都沒賺到
-別人賺了2-3000萬，我賺2-3000塊
-我要學習變大膽！ 
-不然你看，賺錢都是老闆在賺，我們這些底層的不炒股怎麼翻身？ 要是不炒股就能翻身，誰會想炒？
-
-讚 5151 ｜ 回覆 837 ｜ [原文](https://www.threads.com/@banini31/post/DXegdEck1tU)
-
----
-
-### 04/22 19:47（2026/04/22 19:47）
-
-> 浪費錢的小孩\(⊙ω⊙)/
-股票賺錢就開始奢侈了(;´༎ຶД༎ຶ`)/ 
-我還想買Tissot 的ballade,綠色機械版本😈😈😈
-
-讚 1597 ｜ 回覆 201 ｜ [原文](https://www.threads.com/@banini31/post/DXbsx9VExWP)
-
----
-
-### 04/22 17:25（2026/04/22 17:25）
-
-> 這次買發亮的錶
-
-讚 282 ｜ 回覆 16 ｜ [原文](https://www.threads.com/@banini31/post/DXbcgLnmWXc)
-
----
-
-### 04/22 17:14（2026/04/22 17:14）
-
-> 最近一直一直一直一直買手錶
-不只蜈蚣了，是千手觀音！
-
-每次輸錢或是繳稅的時候我就特別愛買錶
-
-讚 878 ｜ 回覆 119 ｜ [原文](https://www.threads.com/@banini31/post/DXbbOLlGfYw)
-
----
-
-*自動產生於 2026-04-28 14:02 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-04-29 14:01 台灣時間。僅供娛樂參考，不構成投資建議。*
