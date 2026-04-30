@@ -1,20 +1,71 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-04-29 14:01 台灣時間
+> 更新時間：2026-04-30 14:02 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：15 篇
+> 本次抓取：17 篇
 
 ---
 
-### 今天 12:50（2026/04/29 12:50）
+### 今天 13:51（2026/04/30 13:51）
+
+> 為什麼X會限我流量， 為什麼網黃男主角會不行了，為什麼我找的小編不能乖乖好好的工作，為什麼正職的爛事一直發生
+我真的好崩潰
+
+讚 155 ｜ 回覆 5 ｜ [原文](https://www.threads.com/@banini31/post/DXvqWedmSiu)
+
+---
+
+### 今天 13:48（2026/04/30 13:48）
+
+> 壓力爆炸
+好累
+好辛苦
+快不行了
+一堆爛事一直發生
+
+讚 417 ｜ 回覆 36 ｜ [原文](https://www.threads.com/@banini31/post/DXvqDUhmQ9O)
+
+---
+
+### 今天 02:48（2026/04/30 02:48）
+
+> 我的房貸很高，所以壓力也很大_(:_」∠)_⋯ 
+怎麼漾每個月產出現金流也是一個問題
+
+讚 1002 ｜ 回覆 23 ｜ [原文](https://www.threads.com/@banini31/post/DXuejcEk8Bl)
+
+---
+
+### 今天 02:44（2026/04/30 02:44）
+
+> 其實流量壓力很大(;´༎ຶД༎ຶ`)
+尤其網紅的部分我沒有收任何費用群組課程
+網黃我不正身材也差
+
+每天熬夜就是因為壓力很大
+
+讚 2243 ｜ 回覆 110 ｜ [原文](https://www.threads.com/@banini31/post/DXueFizE736)
+
+---
+
+### 昨天 19:14（2026/04/29 19:14）
+
+> 炒股能致富？ 可以啊，但是就不是我咩_(:_」∠)_
+不會停利就像在賭場不知道什麼時候該閃出來⋯
+
+讚 1717 ｜ 回覆 105 ｜ [原文](https://www.threads.com/@banini31/post/DXtqhEOE3qJ)
+
+---
+
+### 昨天 12:50（2026/04/29 12:50）
 
 > 我對個股的承受力越來越差
 
-讚 531 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXs-kMDmeJj)
+讚 1244 ｜ 回覆 120 ｜ [原文](https://www.threads.com/@banini31/post/DXs-kMDmeJj)
 
 ---
 
-### 今天 01:26（2026/04/29 01:26）
+### 昨天 01:26（2026/04/29 01:26）
 
 > ⋯⋯⋯
 不知道為什麼又要整理一陣子了
@@ -24,15 +75,15 @@
 這樣周邊才不會宅到大家帶不出去⋯
 第一波試作品會在見面會發放喔(⊙ω⊙)/
 
-讚 906 ｜ 回覆 38 ｜ [原文](https://www.threads.com/@banini31/post/DXrwU17E-pm)
+讚 1055 ｜ 回覆 42 ｜ [原文](https://www.threads.com/@banini31/post/DXrwU17E-pm)
 
 ---
 
-### 昨天 23:57（2026/04/28 23:57）
+### 04/28 23:57（2026/04/28 23:57）
 
 > 不堪一擊
 
-讚 1474 ｜ 回覆 126 ｜ [原文](https://www.threads.com/@banini31/post/DXrmM4-GSV-)
+讚 1711 ｜ 回覆 133 ｜ [原文](https://www.threads.com/@banini31/post/DXrmM4-GSV-)
 
 ---
 
@@ -42,7 +93,7 @@
 拿去買手錶不好嗎😭😭😭😭😭😭
 明天應該讓台積以外的漲一波了吧
 
-讚 3289 ｜ 回覆 212 ｜ [原文](https://www.threads.com/@banini31/post/DXo-yu_kubx)
+讚 3345 ｜ 回覆 215 ｜ [原文](https://www.threads.com/@banini31/post/DXo-yu_kubx)
 
 ---
 
@@ -53,7 +104,7 @@
 下午
 可以把錢退給我買錶嗎⋯⋯
 
-讚 2468 ｜ 回覆 136 ｜ [原文](https://www.threads.com/@banini31/post/DXn9IkEmXFk)
+讚 2482 ｜ 回覆 136 ｜ [原文](https://www.threads.com/@banini31/post/DXn9IkEmXFk)
 
 ---
 
@@ -64,7 +115,7 @@
 😭😭😭😭😭
 我要是沒看到台積庫存，我真的以為今天又跌500點
 
-讚 1242 ｜ 回覆 121 ｜ [原文](https://www.threads.com/@banini31/post/DXnfgremRnL)
+讚 1254 ｜ 回覆 122 ｜ [原文](https://www.threads.com/@banini31/post/DXnfgremRnL)
 
 ---
 
@@ -75,7 +126,7 @@
 
 但是兩隻買下去， 可以買2張00981A再配200股0050啊啊
 
-讚 1987 ｜ 回覆 268 ｜ [原文](https://www.threads.com/@banini31/post/DXmiM7_Ew-N)
+讚 1997 ｜ 回覆 268 ｜ [原文](https://www.threads.com/@banini31/post/DXmiM7_Ew-N)
 
 ---
 
@@ -86,7 +137,7 @@
 到底是開綠還是收黑呢？
 （都還沒買）
 
-讚 630 ｜ 回覆 126 ｜ [原文](https://www.threads.com/@banini31/post/DXl5VSmE7dC)
+讚 636 ｜ 回覆 126 ｜ [原文](https://www.threads.com/@banini31/post/DXl5VSmE7dC)
 
 ---
 
@@ -95,7 +146,7 @@
 > 是妹子～我跟妹子出來約會❤️❤️❤️
 吼吼吼吼（猩猩怒吼）
 
-讚 2071 ｜ 回覆 159 ｜ [原文](https://www.threads.com/@banini31/post/DXlhGYPE5sT)
+讚 2079 ｜ 回覆 159 ｜ [原文](https://www.threads.com/@banini31/post/DXlhGYPE5sT)
 
 ---
 
@@ -104,7 +155,7 @@
 > chatgpt真的進步好多(⊙ω⊙)/
 要不是有服裝限制⋯ 我的神奇贊助照片都給他生就好了_(:_」∠)_
 
-讚 1398 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXjsjlkE2ip)
+讚 1402 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DXjsjlkE2ip)
 
 ---
 
@@ -113,7 +164,7 @@
 > 回台灣了～😭✌️
 可以去看錶了（誤）
 
-讚 2284 ｜ 回覆 197 ｜ [原文](https://www.threads.com/@banini31/post/DXjT4mQj7oI)
+讚 2286 ｜ 回覆 197 ｜ [原文](https://www.threads.com/@banini31/post/DXjT4mQj7oI)
 
 ---
 
@@ -123,43 +174,8 @@
 星期一用膝蓋想應該能4萬了
 我終於理解到什麼叫做Fomo😭😭
 
-讚 2386 ｜ 回覆 378 ｜ [原文](https://www.threads.com/@banini31/post/DXiV7rjk6gH)
+讚 2388 ｜ 回覆 378 ｜ [原文](https://www.threads.com/@banini31/post/DXiV7rjk6gH)
 
 ---
 
-### 04/24 22:17（2026/04/24 22:17）
-
-> 首先， 不要在意我的三層肉
-
-如果賠錢，表示自己眼光不好，就算了
-如果績效輸人，表示看對卻沒那個勇氣😭😭
-
-我很不支持槓桿，卻發現自己才是小丑🤡
-我不想一輩子要看別人臉色過日子啊～是不是應該歐硬
-太多大大跟我說今年派對才開始⋯⋯
-我該怎麼辦才好～
-擦鞋童都擦成CEO，我還是那個只能找路邊擦鞋的上班族
-
-讚 3322 ｜ 回覆 339 ｜ [原文](https://www.threads.com/@banini31/post/DXhHfP8goFE)
-
----
-
-### 04/24 10:29（2026/04/24 10:29）
-
-> 眼睛看到漲1000，體感跌600
-
-讚 2674 ｜ 回覆 363 ｜ [原文](https://www.threads.com/@banini31/post/DXf2de6mbQ-)
-
----
-
-### 04/23 23:25（2026/04/23 23:25）
-
-> 想買一些能夠傳承的東西
-
-然後發現我沒人可以傳承啊
-
-讚 1267 ｜ 回覆 250 ｜ [原文](https://www.threads.com/@banini31/post/DXeqkWBmY6b)
-
----
-
-*自動產生於 2026-04-29 14:01 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-04-30 14:02 台灣時間。僅供娛樂參考，不構成投資建議。*
