@@ -1,26 +1,59 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-05-05 13:54 台灣時間
+> 更新時間：2026-05-06 14:02 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：17 篇
+> 本次抓取：15 篇
 
 ---
 
-### 昨天 17:51（2026/05/04 17:51）
+### 今天 09:14（2026/05/06 09:14）
+
+> 我是誰的結果開獎
+旺宏你他⋯⋯⋯⋯
+
+讚 1191 ｜ 回覆 69 ｜ [原文](https://www.threads.com/@banini31/post/DX-nda6GdNH)
+
+---
+
+### 昨天 22:21（2026/05/05 22:21）
+
+> 我個人喜歡破罐子破摔， 先讓大家把期待打下來，才不會有那種失落感
+希望我下個月還有勇氣再拍一次沒有美肌日🤣🤣🤣
+
+讚 2719 ｜ 回覆 219 ｜ [原文](https://www.threads.com/@banini31/post/DX9cxp9EpPy)
+
+---
+
+### 昨天 20:21（2026/05/05 20:21）
+
+> 壓力大到腦袋一直嗡嗡嗡的響～(;´༎ຶД༎ຶ`)/
+工作壓力+fomo壓力+一堆奇怪事情的壓力
+
+對了，我的信貸下來了～可以 "lets party" 了！ 
+不管最後結果如何，至少可以自豪的跟子孫說
+"阿嬤當初可是在那個黃金的2026年的股海中廝殺過喔"
+
+為了台股的榮耀！
+
+讚 2931 ｜ 回覆 117 ｜ [原文](https://www.threads.com/@banini31/post/DX9PDeDk28u)
+
+---
+
+### 05/04 17:51（2026/05/04 17:51）
 
 > 今天的你有是什麼反應呢？
 人果然是小確幸才是最幸福的～
 
-讚 1551 ｜ 回覆 106 ｜ [原文](https://www.threads.com/@banini31/post/DX6ZFTRALDQ)
+讚 1712 ｜ 回覆 111 ｜ [原文](https://www.threads.com/@banini31/post/DX6ZFTRALDQ)
 
 ---
 
-### 昨天 13:19（2026/05/04 13:19）
+### 05/04 13:19（2026/05/04 13:19）
 
 > 現在只要買科技股，根本不會跌吧
 哪需要什麼投顧老師啊？
 
-讚 4676 ｜ 回覆 384 ｜ [原文](https://www.threads.com/@banini31/post/DX556wPGUd_)
+讚 4917 ｜ 回覆 395 ｜ [原文](https://www.threads.com/@banini31/post/DX556wPGUd_)
 
 ---
 
@@ -33,7 +66,7 @@
 
 下一站，武道館（並不會）
 
-讚 3294 ｜ 回覆 148 ｜ [原文](https://www.threads.com/@banini31/post/DX4I-IPk2DI)
+讚 3348 ｜ 回覆 149 ｜ [原文](https://www.threads.com/@banini31/post/DX4I-IPk2DI)
 
 ---
 
@@ -48,7 +81,7 @@
 
 如果這樣可以讓你們的日子更好過的話， 那就這樣吧
 
-讚 10247 ｜ 回覆 845 ｜ [原文](https://www.threads.com/@banini31/post/DX3-s3tmTiT)
+讚 10369 ｜ 回覆 850 ｜ [原文](https://www.threads.com/@banini31/post/DX3-s3tmTiT)
 
 ---
 
@@ -58,7 +91,7 @@
 就知道什麼sell in may, Run away 就是騙人的
 今年不一樣，是擦鞋童翻盤逆轉成CEO的一年啊啊
 
-讚 1761 ｜ 回覆 128 ｜ [原文](https://www.threads.com/@banini31/post/DX31FenGT7E)
+讚 1785 ｜ 回覆 129 ｜ [原文](https://www.threads.com/@banini31/post/DX31FenGT7E)
 
 ---
 
@@ -70,7 +103,7 @@
 是說見面會該幹嘛咧
 總不能只喊身理心理健康財富自由吧🤣
 
-讚 3812 ｜ 回覆 231 ｜ [原文](https://www.threads.com/@banini31/post/DX3XdRak3_f)
+讚 3825 ｜ 回覆 231 ｜ [原文](https://www.threads.com/@banini31/post/DX3XdRak3_f)
 
 ---
 
@@ -79,7 +112,7 @@
 > 問之前：哼！ 不就是seiko嗎～我會買不起嗎？
 問之後： 不好意思，我就逛逛看看而已
 
-讚 1021 ｜ 回覆 79 ｜ [原文](https://www.threads.com/@banini31/post/DX1wd-yGT1U)
+讚 1026 ｜ 回覆 80 ｜ [原文](https://www.threads.com/@banini31/post/DX1wd-yGT1U)
 
 ---
 
@@ -88,7 +121,7 @@
 > 其實我好想全賣掉獲利了結
 但是又覺得大家都在慶祝， 那乾脆一起_(:_」∠)_
 
-讚 1670 ｜ 回覆 115 ｜ [原文](https://www.threads.com/@banini31/post/DXzf5-Ak5Lj)
+讚 1684 ｜ 回覆 115 ｜ [原文](https://www.threads.com/@banini31/post/DXzf5-Ak5Lj)
 
 ---
 
@@ -105,7 +138,7 @@
 5/2號晚上8點22分開始售票唷
 會不會到最後沒人到場然後上新聞啊🤣🤣
 
-讚 2314 ｜ 回覆 129 ｜ [原文](https://www.threads.com/@banini31/post/DXzMin2k_3l)
+讚 2318 ｜ 回覆 130 ｜ [原文](https://www.threads.com/@banini31/post/DXzMin2k_3l)
 
 ---
 
@@ -114,7 +147,7 @@
 > 我發現， 今年真的就是無腦的多
 什麼東西都是雜音！ 星期一又要大漲了❤️
 
-讚 2832 ｜ 回覆 332 ｜ [原文](https://www.threads.com/@banini31/post/DXyHhcujJTQ)
+讚 2837 ｜ 回覆 333 ｜ [原文](https://www.threads.com/@banini31/post/DXyHhcujJTQ)
 
 ---
 
@@ -123,7 +156,7 @@
 > 請不要截圖我上電視的畫面
 我不想看到那麼醜的東西
 
-讚 8397 ｜ 回覆 305 ｜ [原文](https://www.threads.com/@banini31/post/DXwkPcjGU32)
+讚 8406 ｜ 回覆 306 ｜ [原文](https://www.threads.com/@banini31/post/DXwkPcjGU32)
 
 ---
 
@@ -140,59 +173,8 @@
 
 最近生活狀態感覺像是過敏的人在濕度100的環境下過日子
 
-讚 1021 ｜ 回覆 72 ｜ [原文](https://www.threads.com/@banini31/post/DXwe_wXk8i6)
+讚 1022 ｜ 回覆 74 ｜ [原文](https://www.threads.com/@banini31/post/DXwe_wXk8i6)
 
 ---
 
-### 04/30 13:51（2026/04/30 13:51）
-
-> 為什麼X會限我流量， 為什麼網黃男主角會不行了，為什麼我找的小編不能乖乖好好的工作，為什麼正職的爛事一直發生
-我真的好崩潰
-
-讚 1261 ｜ 回覆 43 ｜ [原文](https://www.threads.com/@banini31/post/DXvqWedmSiu)
-
----
-
-### 04/30 13:48（2026/04/30 13:48）
-
-> 壓力爆炸
-好累
-好辛苦
-快不行了
-一堆爛事一直發生
-
-讚 2482 ｜ 回覆 144 ｜ [原文](https://www.threads.com/@banini31/post/DXvqDUhmQ9O)
-
----
-
-### 04/30 02:48（2026/04/30 02:48）
-
-> 我的房貸很高，所以壓力也很大_(:_」∠)_⋯ 
-怎麼漾每個月產出現金流也是一個問題
-
-讚 1099 ｜ 回覆 24 ｜ [原文](https://www.threads.com/@banini31/post/DXuejcEk8Bl)
-
----
-
-### 04/30 02:44（2026/04/30 02:44）
-
-> 其實流量壓力很大(;´༎ຶД༎ຶ`)
-尤其網紅的部分我沒有收任何費用群組課程
-網黃我不正身材也差
-
-每天熬夜就是因為壓力很大
-
-讚 2725 ｜ 回覆 124 ｜ [原文](https://www.threads.com/@banini31/post/DXueFizE736)
-
----
-
-### 04/29 19:14（2026/04/29 19:14）
-
-> 炒股能致富？ 可以啊，但是就不是我咩_(:_」∠)_
-不會停利就像在賭場不知道什麼時候該閃出來⋯
-
-讚 1988 ｜ 回覆 115 ｜ [原文](https://www.threads.com/@banini31/post/DXtqhEOE3qJ)
-
----
-
-*自動產生於 2026-05-05 13:54 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-05-06 14:02 台灣時間。僅供娛樂參考，不構成投資建議。*
