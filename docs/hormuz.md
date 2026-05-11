@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-05-11 15:07 台灣時間　｜　資料更新：2026-05-11 15:07 台灣時間
+> 更新時間：2026-05-11 20:56 台灣時間　｜　資料更新：2026-05-11 20:56 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-03-02 | 在美國和以色列發動攻擊後，伊朗於 2026 年 3 月 2 日對不友善國家關閉了海峽。整個三月份，大多數商業航運實際上已關閉，幾乎完全封鎖。自 2026 年 5 月起，僅對伊朗批准的船隻和在美國軍事護航下過境的船隻有條件開放。有條件停火，並允許有限的過境。 |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | 伊朗透過攻擊和通行費要求實際上封鎖了該海峽。自 4 月 8 日起脆弱的停火允许在有许可证和通行费的情况下通过伊朗控制的走廊进行有限通行，但军事冲突于 5 月 8 日恢复。美國自 4 月 13 日起持續封鎖伊朗港口。只有約 5% 的正常交通通過。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 10 | 10 | 60 | <span style="color:#e74c3c">16.7% ⚠️</span> |
+| 3 | 5 | 60 | <span style="color:#e74c3c">8.3% ⚠️</span> |
 
 ## 油價
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 1% | 0.15% | 6.67x |
+| 4.5% | 0.15% | 30x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 900,000 | 10,300,000 | <span style="color:#e74c3c">8.7% ⚠️</span> | 下跌 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** NO_TALKS
 
-**頭條：** 川普暫停軍事行動，尋求與巴基斯坦斡旋談判達成14點諒解備忘錄；伊朗提交反提案要求承認霍爾木茲主權
+**頭條：** 川普拒絕伊朗的反提議； 5 月 8 日軍事衝突後停火脆弱
 
-**各方：** United States, Iran, Pakistan (mediator), France, UK, China, Israel
+**各方：** USA, Iran, Pakistan (mediator), Israel
 
-> 由巴基斯坦斡旋的談判正在進行中，美國和伊朗正在討論一項 14 點諒解備忘錄，該備忘錄將宣布結束戰爭並開始為期 30 天的核談判。川普於 5 月 6 日暫停了「自由計畫」的軍事行動，稱其取得了進展。伊朗於5月10日提交了反提案，要求對霍爾木茲海峽擁有主權並給予賠償，但由於在核濃縮期限、解除制裁和霍爾木茲控制權等問題上存在嚴重分歧，談判仍陷入僵局。
+> 巴基斯坦斡旋的美國和伊朗之間的談判仍在進行中，但陷入停滯。伊朗要求承認海峽主權、戰爭損害賠償、資產釋放和製裁解除。川普稱伊朗的最新提議「完全不可接受」。儘管自 4 月 8 日起正式停火框架已到位，但 5 月 8 日的軍事衝突加劇了緊張局勢。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.5B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.8B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 伊朗襲擊拉斯拉凡設施後，卡達宣布液化天然氣運輸遭遇不可抗力。由於無人機/飛彈襲擊，卡達的液化天然氣出口能力損失約 17%。亞洲和歐洲的天然氣價格大幅上漲。
+> 卡達的拉斯拉凡液化天然氣設施於 3 月 4 日罷工並宣布不可抗力，損失約 17% 的產能。亞洲液化天然氣價格上漲；供應轉向北美，使美國出口商受益。恢復可能需要3-5年。
 
 **受影響地區**
 
@@ -74,72 +74,67 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| European Union | MODERATE | 20% |
-| Middle East (Saudi Arabia, UAE, Gulf States) | CRITICAL | 100% |
+| EU | MODERATE | 20% |
+| USA | MODERATE | 5% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | Primary active reroute. All major carriers (Maersk, CMA CGM, MSC, Hapag-Lloyd) redirecting container ships via Cape. ~147 containerships (~470K TEU) trapped awaiting reroute decisions. |
-| 東西原油管道（沙烏地阿拉伯至紅海延布） | +0 天 | — | 正在積極使用。容量约为 5 mbpd（相对于 20 mbpd 正常海峡流量）。沙特阿拉伯增加了对延布港的出口。 ~2.5-3.5 mbpd 有效吞吐量。 |
-| 哈布山-富查伊拉管道（阿聯酋至阿曼灣） | +0 天 | — | 運行但中斷。容量 1.5 mbpd。富查伊拉港口營運部分中斷。阿布達比國家石油公司正在運作。 |
-| 伊拉克-土耳其管道（基爾庫克至傑伊漢） | +0 天 | — | 間歇性操作。容量嚴重低於銘牌。 |
+| 好望角 | +12 天 | $650 | Actively used for ~50% of redirected traffic; suez canal partially operational but Red Sea risks remain |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | Running at ~50% capacity (2.5 mbpd of 5 mbpd capacity); Saudi ports and pipeline system constraints limit expansion |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 容量約 70%（1.05 mbpd 或 1.5 mbpd）；阿聯酋因伊朗石油基礎設施攻擊而受到限制 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +250% | +2.8% | 34 天 |
+| +420% | +8.2% | 31 天 |
 
 **主要供應鏈事件**
 
-- VLCC 現貨費率在幾天之內從約 20 萬美元/天翻了兩番，達到 77 萬至 80 萬美元/天。 VLCC 租船費用目前為 53.8 萬至 77 萬美元/天。
-- 戰爭險保費飆升 60 倍，從船體價值的 0.15% 升至 1%。 7 天再生能源政策使得交通運輸對大多數業者來說在商業上不可行。
-- 1,550 多艘商船擱淺，22,500 名海員受困。傑貝阿里港（杜拜）因船隻改道而嚴重擁擠。
-- 布蘭特原油價格飆升至 100-104 美元（戰前為 73 美元）。化肥出口中斷（全球約 30-35% 的尿素/氨正常透過霍爾木茲轉運）。
-- 7 mbpd 與 20 mbpd 正常海峽流量的替代管道容量。 65% 的正常石油量沒有運輸路線。
+- VLCC 費率：42.3 萬美元/天（3 月高峰），現在 ~10 萬美元/天； 40 倍於危機前基線 WS 50（每航次保險費用約為 2-300 萬美元）
+- 布蘭特原油上漲 20 美元/桶 (+24%) 至 104.50 美元；美國原油上漲10美元/桶至98.48美元；消費天然氣 + 0.65 美元至 4.52 美元/加侖
+- 伊朗襲擊液化天然氣設施後，卡達能源公司於 3 月 4 日宣布不可抗力；亞洲液化天然氣價格上漲兩倍
+- 紅海蘇伊士運河改道增加了幾週的時間；傑貝阿里（杜拜）因貨物滯留而造成嚴重擁堵
 
 ## 危機時間軸
 
-**2026-03-04** `ESCALATION` — **伊朗宣布霍爾木茲海峽關閉，卡達宣布液化天然氣不可抗力**
-> 伊朗正式宣布全面封鎖。伊朗襲擊拉斯拉凡設施後，卡達宣布液化天然氣運輸遭遇不可抗力。油輪運輸量下降至接近零。 P＆I保險範圍從3月5日起取消。
+**2026-02-28** `MILITARY` — **美以史詩憤怒行動啟動**
+> 美國和以色列對伊朗發動協調空襲，目標是核設施和軍事設施。伊朗最高領袖哈梅內伊遇刺身亡。伊朗對以色列、美國基地和海灣盟友發動反擊。
 
-**2026-03-05** `ECONOMIC` — **保障及賠償保險取消**
-> 自 3 月 5 日午夜起，國際保賠協會集團 (International Group of P&I Clubs) 的所有 12 名成員取消了戰爭險保險。由於不可保風險，商業航運實際上不可能進行。
+**2026-03-02** `ESCALATION` — **伊朗正式關閉霍爾木茲海峽**
+> 伊斯蘭革命衛隊宣布關閉海峽並威脅攻擊任何過境船隻。戰爭險保費從 0.125% 飆升至 0.2-0.4%。航運公司暫停營運。
 
-**2026-04-08** `DIPLOMATIC` — **宣布有條件停火**
-> 伊斯蘭堡會談失敗後，美國和伊朗同意停火。伊朗最初表示願意允許商業運輸。美伊封鎖動態加劇。
+**2026-03-04** `ECONOMIC` — **卡達液化天然氣不可抗力**
+> 伊朗無人機/飛彈襲擊拉斯拉凡設施後，卡達能源公司宣布所有液化天然氣運輸均遭遇不可抗力，導致產能損失約 17%。
 
-**2026-04-13** `MILITARY` — **美國對伊朗實施海上封鎖**
-> 在停火談判失敗後，美國對所有試圖到達伊朗港口和沿海地區的船隻發動反封鎖。
+**2026-04-08** `DIPLOMATIC` — **美伊同意臨時停火**
+> 川普和伊朗同意暫時停火，包括重新開放海峽。然而，伊朗開始對每艘船收取超過 100 萬美元的通行費，並僅限於「友好」國家。停火從一開始就脆弱。
 
-**2026-04-23** `MILITARY` — **川普下令掃雷和反地雷行動**
-> Trump ordered US Navy to destroy any Iranian boats laying mines in Hormuz and tripled mine-sweeping operations.
+**2026-04-13** `MILITARY` — **美國開始對伊朗實施海上封鎖**
+> 作為報復，美國海軍對伊朗港口實施封鎖。伊朗封鎖海峽，美國封鎖伊朗港口，形成「雙重封鎖」。伊斯蘭堡和談失敗。
 
 **2026-05-04** `MILITARY` — **自由行動計畫啟動**
-> 川普宣布，美國海軍將於 5 月 4 日起護送商船離開波斯灣和霍爾木茲海峽。截至 5 月 5 日，兩艘懸掛美國國旗的船隻在護航下成功過境。
+> 川普宣布“自由計劃”，即美國海軍護送商船通過海峽的任務。 5月5日，只有2艘船成功過境，之後才暫停營運。
 
-**2026-05-05** `MILITARY` — **法國貨櫃船在海峽遭遇襲擊**
-> CMA CGM 聖安東尼奧號被巡航飛彈擊中，造成 8 名船員受傷。儘管「自由計畫」正在實施，但攻擊仍在繼續升級。
+**2026-05-06** `DIPLOMATIC` — **川普暫停“自由計劃”**
+> 川普停止護航行動，稱談判取得「巨大進展」。美國對伊朗的封鎖依然存在。伊朗宣布波斯灣海峽管理局負責監管和收費通道。
 
-**2026-05-06** `DIPLOMATIC` — **川普暫停自由項目，表示談判取得進展**
-> 川普宣布暫時停止軍事護航行動，並稱伊朗協議取得「巨大進展」。巴基斯坦斡旋的會談呈現正面動能。美國對伊朗港口的封鎖仍然存在。
+**2026-05-08** `ESCALATION` — **美伊軍事衝突再起**
+> 美國和伊朗在海峽交火。美國驅逐艦遭到攻擊；誰先開槍的爭論。有關美國襲擊平民地區、伊朗反擊美國船隻的通報。停火的完整性受到威脅。
 
-**2026-05-06** `MILITARY` — **凱恩將軍證實 1,550 多艘船隻上有 22,500 名海員被困**
-> 參謀長聯席會議主席證實，海峽地區及週邊地區的 1,550 多艘商船上有 22,500 名海員滯留。
-
-**2026-05-10** `DIPLOMATIC` — **伊朗提交反提案；川普稱回應“完全不可接受”**
-> 伊朗透過巴基斯坦調解人提出反建議，要求承認霍爾木茲主權和戰爭賠償。伊朗拒絕了美國的14點諒解備忘錄。川普稱伊朗的反應“完全不可接受”，並再次發出轟炸威脅。
+**2026-05-10** `DIPLOMATIC` — **川普拒絕伊朗的反提議**
+> 伊朗提交全面反提案，要求海峽主權、戰爭損害、釋放資產、解除制裁。川普稱該提議“完全不可接受”，並威脅再次進行轟炸。
 
 ## 最新新聞
 
-- [伊朗警告英國，在部署“龍號”驅逐艦後，英國軍艦將在霍爾木茲海峽面臨“立即反應”](https://www.thesun.co.uk/news/39066775/iran-warns-britain-warships-hms-dragon/)　*The Sun・2026-05-10*
-- [伊朗回應美國和平計劃，新的無人機攻擊破壞了停火](https://www.ndtv.com/world-news/iran-responds-to-us-peace-plan-as-fresh-drone-attacks-rattle-ceasefire-11476287)　*Ndtv・2026-05-10*
-- [伊朗警告部署到霍爾木茲海峽的英國軍艦將遭到“果斷回應”](https://www.independent.co.uk/news/world/middle-east/iran-war-trump-strait-of-hormuz-hms-dragon-b2973894.html)　*The Independent・2026-05-10*
-- [全球最大石油公司報告利潤成長 25%，因沙烏地阿拉伯東西管道的出口繞道霍爾木茲海峽關閉](https://fortune.com/2026/05/10/aramco-earnings-q1-oil-exports-saudi-arabia-east-west-pipeline-strait-of-hormuz-bypass/)　*Fortune・2026-05-10*
-- [川普反悔天然氣價格吹噓](https://www.thedailybeast.com/trump-goon-backtracks-on-gas-price-brag/)　*The Daily Beast・2026-05-10*
+- [沙特阿美的巨額利潤可能會加深石油進口經濟體的痛苦](https://www.firstpost.com/business/aramco-bumper-profits-oil-importing-economies-hormuz-oil-shock-14009746.html)　*Firstpost・2026-05-11*
+- ['Totally unacceptable': Trump rejects Iran's counter-peace proposal as tension in West Asia heats up](https://www.firstpost.com/world/totally-unacceptable-trump-rejects-irans-counter-peace-proposal-as-tension-in-west-asia-heats-up-14009744.html)　*Firstpost・2026-05-11*
+- [伊朗發出戰爭警告，英國和法國在霍爾木茲海峽召開 40 國防會議](https://investinglive.com/commodities/uk-and-france-convene-40-nation-defence-meet-on-hormuz-as-iran-issues-war-warning-20260511/)　*Forexlive・2026-05-11*
+- [英國和法國將舉行國防部長會議以恢復霍爾木茲海峽的貿易流動](https://www.firstpost.com/world/uk-france-to-hold-defence-ministers-meeting-to-restore-trade-flows-through-strait-of-hormuz-14009743.html)　*Firstpost・2026-05-11*
+- [PM Modi calls for pandemic-era austerity drive](https://economictimes.indiatimes.com/news/india/pm-modi-calls-for-pandemic-era-austerity-drive/articleshow/130998406.cms)　*The Economic Times・2026-05-11*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-05-11 15:07 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-05-11 20:56 台灣時間，僅供參考，不構成投資建議。*
