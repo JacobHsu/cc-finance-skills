@@ -1,8 +1,37 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-05-18 14:27 台灣時間
+> 更新時間：2026-05-19 14:24 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：4 篇
+> 本次抓取：16 篇
+
+---
+
+### 今天 01:16（2026/05/19 01:16）
+
+> 明天看到3字頭？ 不不不
+明天台股休市不是嗎？ 
+大概一個月後才會開市吧？
+
+讚 1323 ｜ 回覆 52 ｜ [原文](https://www.threads.com/@banini31/post/DYfPEz2E7x5)
+
+---
+
+### 今天 01:05（2026/05/19 01:05）
+
+> 你看到的是營養， 我看到的是價格
+FB沒辦法用remix， 真是不好意思了， 營養師ricky
+
+讚 633 ｜ 回覆 25 ｜ [原文](https://www.threads.com/@banini31/post/DYfNyHmk_pH)
+
+---
+
+### 昨天 17:51（2026/05/18 17:51）
+
+> 車站回飯店的路上買了一個數字項鍊
+
+銀價果然很高_(:_」∠)_
+
+讚 716 ｜ 回覆 54 ｜ [原文](https://www.threads.com/@banini31/post/DYecKCWD4mw)
 
 ---
 
@@ -10,7 +39,7 @@
 
 > 星期一要崩了啦(;´༎ຶД༎ຶ`)
 
-讚 3520 ｜ 回覆 437 ｜ [原文](https://www.threads.com/@banini31/post/DYZpSpeCVDI)
+讚 3570 ｜ 回覆 442 ｜ [原文](https://www.threads.com/@banini31/post/DYZpSpeCVDI)
 
 ---
 
@@ -33,7 +62,7 @@
 至於第二場？ 
 人力不足真的太困難了⋯⋯⋯
 
-讚 1278 ｜ 回覆 26 ｜ [原文](https://www.threads.com/@banini31/post/DYZgh-5j2dL)
+讚 1298 ｜ 回覆 27 ｜ [原文](https://www.threads.com/@banini31/post/DYZgh-5j2dL)
 
 ---
 
@@ -44,7 +73,7 @@
 
 然後請大家強力譴責小編， 他沒有要帶我去拿錶(;´༎ຶД༎ຶ`)
 
-讚 1452 ｜ 回覆 35 ｜ [原文](https://www.threads.com/@banini31/post/DYZMaPUk-U7)
+讚 1473 ｜ 回覆 35 ｜ [原文](https://www.threads.com/@banini31/post/DYZMaPUk-U7)
 
 ---
 
@@ -52,8 +81,99 @@
 
 > 如果有， 就再多一支
 
-讚 1023 ｜ 回覆 51 ｜ [原文](https://www.threads.com/@banini31/post/DYYgNVOkuw0)
+讚 1032 ｜ 回覆 53 ｜ [原文](https://www.threads.com/@banini31/post/DYYgNVOkuw0)
 
 ---
 
-*自動產生於 2026-05-18 14:27 台灣時間。僅供娛樂參考，不構成投資建議。*
+### 05/15 21:06（2026/05/15 21:06）
+
+> 終於變成以前常說的
+穿辣妹裝的歐巴桑了(;´༎ຶД༎ຶ`)
+
+晚一點來個見面會前夜直播～🫠
+在哪之前我先點個外賣⋯⋯
+我這樣一直發文是不是很煩啊_(:_」∠)_
+
+讚 1407 ｜ 回覆 55 ｜ [原文](https://www.threads.com/@banini31/post/DYXEDx6E7cF)
+
+---
+
+### 05/15 20:56（2026/05/15 20:56）
+
+> 我自己的錶😭
+
+讚 156 ｜ 回覆 3 ｜ [原文](https://www.threads.com/@banini31/post/DYXC7DbGQ-D)
+
+---
+
+### 05/15 18:32（2026/05/15 18:32）
+
+> 凹嗚～～～～
+汪汪汪～
+
+讚 1090 ｜ 回覆 102 ｜ [原文](https://www.threads.com/@banini31/post/DYWycyqGdUp)
+
+---
+
+### 05/15 12:24（2026/05/15 12:24）
+
+> 信貸投資的第七天（其實不只了）
+這告訴我們不要一次all in, 不然真的很痛苦
+
+錢錢還我…………
+
+讚 3627 ｜ 回覆 303 ｜ [原文](https://www.threads.com/@banini31/post/DYWIUvKk_P-)
+
+---
+
+### 05/15 01:14（2026/05/15 01:14）
+
+> 我朋友說她的腳趾長到可以握馬克
+你們說有可能嗎_(:_」∠)_
+
+讚 4056 ｜ 回覆 88 ｜ [原文](https://www.threads.com/@banini31/post/DYU7q8ZGX5i)
+
+---
+
+### 05/14 22:18（2026/05/14 22:18）
+
+> 最近大家可能會比較少看到我買賣文章， 因為挪動的資金已經沒有了
+甚至超買到證券一直打來提醒補錢(;´༎ຶД༎ຶ`)
+我也正式進入fomo的狀態了
+
+讚 3426 ｜ 回覆 342 ｜ [原文](https://www.threads.com/@banini31/post/DYUnlXQk8aQ)
+
+---
+
+### 05/14 00:56（2026/05/14 00:56）
+
+> 目前應該要拍個三集， 希望暫時沒有第四集
+還有兩隻Seiko跟一個about vintage 要拍
+啊靠， 還有一個掃地機器人！
+我才不是亂花錢， 是在嘗試新主題！
+
+股票損失能不能報統編啊？
+
+讚 1001 ｜ 回覆 59 ｜ [原文](https://www.threads.com/@banini31/post/DYSU2ZOk01s)
+
+---
+
+### 05/13 20:12（2026/05/13 20:12）
+
+> 連車子都看不下去我的生活狀態了😭
+是在鼓勵還是感嘆呢？
+
+讚 520 ｜ 回覆 26 ｜ [原文](https://www.threads.com/@banini31/post/DYR0VGTk_Pv)
+
+---
+
+### 05/13 13:57（2026/05/13 13:57）
+
+> 為什麼MotoGP沒有女騎士
+因為比輸了她就會說： 咕⋯殺了我
+
+讚 315 ｜ 回覆 27 ｜ [原文](https://www.threads.com/@banini31/post/DYRJdvYmRqI)
+
+---
+
+*自動產生於 2026-05-19 14:24 台灣時間。僅供娛樂參考，不構成投資建議。*
