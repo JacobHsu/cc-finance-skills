@@ -1,86 +1,82 @@
 # 美股當日跌幅榜
 
-> 更新時間：2026-05-28 12:28 ET（16:28 UTC）
+> 更新時間：2026-05-29 12:19 ET（16:19 UTC）
 
 ## S&P 500 Top Losers
 
 | # | 代碼 | 公司名稱 | 產業 | 現價 | 跌幅 | 成交量 |
 |---|------|----------|------|------|------|--------|
-| 1 | [**SNPS**](https://www.moneydj.com/us/basic/basic0001/SNPS) | Synopsys, Inc. | Information Technology | **$481.93** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.36%</span> | 2.3M |
-| 2 | [**NSC**](https://www.moneydj.com/us/basic/basic0001/NSC) | Norfolk Southern Corporation | Industrials | **$308.25** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.35%</span> | 2.1M |
-| 3 | [**TSN**](https://www.moneydj.com/us/basic/basic0001/TSN) | Tyson Foods, Inc. | Consumer Staples | **$63.16** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.32%</span> | 1.4M |
-| 4 | [**TTD**](https://www.moneydj.com/us/basic/basic0001/TTD) | The Trade Desk, Inc. | Communication Services | **$21.34** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.24%</span> | 10.0M |
-| 5 | [**UNP**](https://www.moneydj.com/us/basic/basic0001/UNP) | Union Pacific Corporation | Industrials | **$266.16** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.74%</span> | 3.3M |
-| 6 | [**CBRE**](https://www.moneydj.com/us/basic/basic0001/CBRE) | CBRE Group Inc | Real Estate | **$126.32** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.94%</span> | 1.4M |
-| 7 | [**PODD**](https://www.moneydj.com/us/basic/basic0001/PODD) | Insulet Corporation | Health Care | **$142.89** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.14%</span> | 777.8K |
-| 8 | [**BSX**](https://www.moneydj.com/us/basic/basic0001/BSX) | Boston Scientific Corporation | Health Care | **$49.56** | <span style="color:#e74c3c;white-space:nowrap">▼ 1.77%</span> | 21.9M |
-| 9 | [**RJF**](https://www.moneydj.com/us/basic/basic0001/RJF) | Raymond James Financial, Inc. | Financials | **$141.80** | <span style="color:#e74c3c;white-space:nowrap">▼ 2.48%</span> | 511.3K |
+| 1 | [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | **$351.24** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.82%</span> | 3.2M |
+| 2 | [**COST**](https://www.moneydj.com/us/basic/basic0001/COST) | Costco Wholesale Corporation | Consumer Staples | **$948.09** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.73%</span> | 2.6M |
+| 3 | [**ADSK**](https://www.moneydj.com/us/basic/basic0001/ADSK) | Autodesk, Inc. | Information Technology | **$230.82** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.20%</span> | 2.9M |
+| 4 | [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena Corporation | Information Technology | **$546.65** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.13%</span> | 1.1M |
+| 5 | [**CLX**](https://www.moneydj.com/us/basic/basic0001/CLX) | Clorox Company (The) | Consumer Staples | **$92.16** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.20%</span> | 1.3M |
+| 6 | [**HII**](https://www.moneydj.com/us/basic/basic0001/HII) | Huntington Ingalls Industries,  | Industrials | **$306.34** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.12%</span> | 218.8K |
+| 7 | [**CHTR**](https://www.moneydj.com/us/basic/basic0001/CHTR) | Charter Communications, Inc. | Communication Services | **$141.81** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.70%</span> | 1.2M |
+| 8 | [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Incorporated | Information Technology | **$175.94** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.69%</span> | 6.3M |
+| 9 | [**VRSN**](https://www.moneydj.com/us/basic/basic0001/VRSN) | VeriSign, Inc. | Information Technology | **$285.01** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.76%</span> | 316.6K |
 
-### SNPS 下跌時的同步股分析
+### COHR 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Sell</span> (-0.16) | 111.2 | $92.1B | <span style="color:#e74c3c;white-space:nowrap">-2.14%</span> | <span style="color:#e74c3c;white-space:nowrap">-3.27%</span> | <span style="color:#27ae60;white-space:nowrap">+17.14%</span> | <span style="color:#27ae60;white-space:nowrap">+0.38%</span> |
+| <span style="color:#888888;font-weight:bold">Neutral</span> (-0.09) | 167.6 | $68.7B | <span style="color:#e74c3c;white-space:nowrap">-8.10%</span> | <span style="color:#27ae60;white-space:nowrap">+13.81%</span> | <span style="color:#27ae60;white-space:nowrap">+42.11%</span> | <span style="color:#27ae60;white-space:nowrap">+86.72%</span> |
+
+> 以過去 6 個月中 **COHR** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
+
+| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
+|------|----------|------|----------------|----------|
+| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.01%</span> | 0.773 |
+| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.89%</span> | 0.748 |
+| [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.83%</span> | 0.757 |
+| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.95%</span> | 0.606 |
+| [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.73%</span> | 0.464 |
+| [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.71%</span> | 0.388 |
+| [**JBL**](https://www.moneydj.com/us/basic/basic0001/JBL) | Jabil | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.70%</span> | 0.649 |
+| [**KLAC**](https://www.moneydj.com/us/basic/basic0001/KLAC) | KLA Corporation | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.67%</span> | 0.517 |
+
+### COST 下跌時的同步股分析
+
+| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
+|----------|-----------|------|-----|-----|-----|-----|
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.65) | 47.7 | $421.1B | <span style="color:#e74c3c;white-space:nowrap">-8.74%</span> | <span style="color:#e74c3c;white-space:nowrap">-3.97%</span> | <span style="color:#e74c3c;white-space:nowrap">-4.18%</span> | <span style="color:#27ae60;white-space:nowrap">+10.22%</span> |
 
 **最新新聞**
 
-- 📰 Synopsys, Inc. Stock 12‑Month Price Target Raised to $567.67, Implies 8% Upside
+- 📰 Costco Q3 Earnings Beat on Strong Membership and Digital Growth
 
-> 以過去 6 個月中 **SNPS** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **COST** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Consumer Staples）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**ORCL**](https://www.moneydj.com/us/basic/basic0001/ORCL) | Oracle Corporation | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.12%</span> | 0.435 |
-| [**APP**](https://www.moneydj.com/us/basic/basic0001/APP) | AppLovin | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.11%</span> | 0.325 |
-| [**CDNS**](https://www.moneydj.com/us/basic/basic0001/CDNS) | Cadence Design Systems | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.89%</span> | 0.765 |
-| [**DDOG**](https://www.moneydj.com/us/basic/basic0001/DDOG) | Datadog | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.75%</span> | 0.322 |
-| [**CRWD**](https://www.moneydj.com/us/basic/basic0001/CRWD) | CrowdStrike | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.73%</span> | 0.426 |
-| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.42%</span> | 0.381 |
-| [**AVGO**](https://www.moneydj.com/us/basic/basic0001/AVGO) | Broadcom | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.40%</span> | 0.373 |
-| [**KLAC**](https://www.moneydj.com/us/basic/basic0001/KLAC) | KLA Corporation | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.36%</span> | 0.398 |
+| [**WMT**](https://www.moneydj.com/us/basic/basic0001/WMT) | Walmart | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-1.14%</span> | 0.634 |
+| [**KR**](https://www.moneydj.com/us/basic/basic0001/KR) | Kroger | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-1.12%</span> | 0.497 |
+| [**CAG**](https://www.moneydj.com/us/basic/basic0001/CAG) | Conagra Brands | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.72%</span> | 0.253 |
+| [**CPB**](https://www.moneydj.com/us/basic/basic0001/CPB) | Campbell's Company (The) | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.71%</span> | 0.105 |
+| [**GIS**](https://www.moneydj.com/us/basic/basic0001/GIS) | General Mills | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.56%</span> | 0.100 |
+| [**MKC**](https://www.moneydj.com/us/basic/basic0001/MKC) | McCormick & Company | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.56%</span> | 0.026 |
+| [**CLX**](https://www.moneydj.com/us/basic/basic0001/CLX) | Clorox | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.47%</span> | 0.217 |
+| [**TAP**](https://www.moneydj.com/us/basic/basic0001/TAP) | Molson Coors Beverage Company | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.46%</span> | 0.182 |
 
-### NSC 下跌時的同步股分析
+### ADSK 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Sell</span> (-0.16) | 26.1 | $69.7B | <span style="color:#e74c3c;white-space:nowrap">-0.53%</span> | <span style="color:#e74c3c;white-space:nowrap">-3.37%</span> | <span style="color:#e74c3c;white-space:nowrap">-0.54%</span> | <span style="color:#27ae60;white-space:nowrap">+7.37%</span> |
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | 33.6 | $48.6B | <span style="color:#e74c3c;white-space:nowrap">-4.36%</span> | <span style="color:#e74c3c;white-space:nowrap">-1.63%</span> | <span style="color:#e74c3c;white-space:nowrap">-1.52%</span> | <span style="color:#e74c3c;white-space:nowrap">-22.29%</span> |
 
-**最新新聞**
-
-- 📰 Creating America's First Transcontinental Railroad: STB Accepts Union Pacific-Norfolk Southern Merger Application
-
-> 以過去 6 個月中 **NSC** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Industrials）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **ADSK** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**IR**](https://www.moneydj.com/us/basic/basic0001/IR) | Ingersoll Rand | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.56%</span> | 0.493 |
-| [**EMR**](https://www.moneydj.com/us/basic/basic0001/EMR) | Emerson Electric | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.33%</span> | 0.360 |
-| [**BLDR**](https://www.moneydj.com/us/basic/basic0001/BLDR) | Builders FirstSource | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.32%</span> | 0.319 |
-| [**LII**](https://www.moneydj.com/us/basic/basic0001/LII) | Lennox International | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.24%</span> | 0.429 |
-| [**AOS**](https://www.moneydj.com/us/basic/basic0001/AOS) | A. O. Smith | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.13%</span> | 0.478 |
-| [**ODFL**](https://www.moneydj.com/us/basic/basic0001/ODFL) | Old Dominion | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.11%</span> | 0.474 |
-| [**DOV**](https://www.moneydj.com/us/basic/basic0001/DOV) | Dover Corporation | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.11%</span> | 0.615 |
-| [**ALLE**](https://www.moneydj.com/us/basic/basic0001/ALLE) | Allegion | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.08%</span> | 0.345 |
-
-### TSN 下跌時的同步股分析
-
-| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
-|----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Sell</span> (-0.42) | 48.5 | $21.8B | <span style="color:#e74c3c;white-space:nowrap">-5.02%</span> | <span style="color:#e74c3c;white-space:nowrap">-1.77%</span> | <span style="color:#27ae60;white-space:nowrap">+0.65%</span> | <span style="color:#27ae60;white-space:nowrap">+7.84%</span> |
-
-> 以過去 6 個月中 **TSN** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Consumer Staples）各股的平均報酬與相關係數。
-
-| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
-|------|----------|------|----------------|----------|
-| [**CPB**](https://www.moneydj.com/us/basic/basic0001/CPB) | Campbell's Company (The) | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.85%</span> | 0.134 |
-| [**GIS**](https://www.moneydj.com/us/basic/basic0001/GIS) | General Mills | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.83%</span> | 0.215 |
-| [**KHC**](https://www.moneydj.com/us/basic/basic0001/KHC) | Kraft Heinz | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.77%</span> | 0.280 |
-| [**BF-B**](https://www.moneydj.com/us/basic/basic0001/BF-B) | Brown–Forman | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.74%</span> | 0.122 |
-| [**MKC**](https://www.moneydj.com/us/basic/basic0001/MKC) | McCormick & Company | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.74%</span> | 0.078 |
-| [**CAG**](https://www.moneydj.com/us/basic/basic0001/CAG) | Conagra Brands | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.70%</span> | 0.217 |
-| [**CLX**](https://www.moneydj.com/us/basic/basic0001/CLX) | Clorox | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.68%</span> | 0.186 |
-| [**SJM**](https://www.moneydj.com/us/basic/basic0001/SJM) | J.M. Smucker Company (The) | Consumer Staples | <span style="color:#e74c3c;white-space:nowrap">-0.55%</span> | 0.236 |
+| [**INTU**](https://www.moneydj.com/us/basic/basic0001/INTU) | Intuit | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.85%</span> | 0.625 |
+| [**APP**](https://www.moneydj.com/us/basic/basic0001/APP) | AppLovin | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.26%</span> | 0.380 |
+| [**IT**](https://www.moneydj.com/us/basic/basic0001/IT) | Gartner | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.07%</span> | 0.578 |
+| [**EPAM**](https://www.moneydj.com/us/basic/basic0001/EPAM) | EPAM Systems | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.00%</span> | 0.497 |
+| [**FICO**](https://www.moneydj.com/us/basic/basic0001/FICO) | Fair Isaac | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.91%</span> | 0.494 |
+| [**ADBE**](https://www.moneydj.com/us/basic/basic0001/ADBE) | Adobe Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.74%</span> | 0.613 |
+| [**ACN**](https://www.moneydj.com/us/basic/basic0001/ACN) | Accenture | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.56%</span> | 0.569 |
+| [**GDDY**](https://www.moneydj.com/us/basic/basic0001/GDDY) | GoDaddy | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-1.45%</span> | 0.456 |
 
 ---
 
-*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-05-28 12:28 ET，僅供參考，不構成投資建議。*
+*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-05-29 12:19 ET，僅供參考，不構成投資建議。*
