@@ -1,18 +1,36 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-06-15 14:48 台灣時間
+> 更新時間：2026-06-16 14:49 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
 > 本次抓取：15 篇
 
 ---
 
-### 昨天 21:02（2026/06/14 21:02）
+### 今天 14:41（2026/06/16 14:41）
+
+> 今天是不是大跌啊_(:_」∠)_
+
+讚 81 ｜ 回覆 11 ｜ [原文](https://www.threads.com/@banini31/post/DZoxd-yGepS)
+
+---
+
+### 昨天 23:14（2026/06/15 23:14）
+
+> 這樣不會無聊了吧！保潔你怎麼看！ 
+明天是不是還是由多軍持續勝出， 或是空軍的逆轉勝 
+目前年度賽事已經不知不覺由多軍大幅勝出， 究竟下半年空軍是否有奇蹟發生可以扭轉情勢呢！？
+
+讚 1388 ｜ 回覆 54 ｜ [原文](https://www.threads.com/@banini31/post/DZnHa1EDmG8)
+
+---
+
+### 06/14 21:02（2026/06/14 21:02）
 
 > 兩各都是給走頭無路的人做的事情啊🥲🥲🥲 
 喔嗚嗚嗚嗚
 都是騙人的！
 
-讚 394 ｜ 回覆 16 ｜ [原文](https://www.threads.com/@banini31/post/DZkTcULD-v-)
+讚 461 ｜ 回覆 20 ｜ [原文](https://www.threads.com/@banini31/post/DZkTcULD-v-)
 
 ---
 
@@ -20,7 +38,7 @@
 
 > （猴子狂叫）
 
-讚 842 ｜ 回覆 82 ｜ [原文](https://www.threads.com/@banini31/post/DZhhc-bGUGI)
+讚 859 ｜ 回覆 82 ｜ [原文](https://www.threads.com/@banini31/post/DZhhc-bGUGI)
 
 ---
 
@@ -31,7 +49,7 @@
 
 好想下輩子被包養，不用工作耍廢_(:_」∠)_
 
-讚 215 ｜ 回覆 18 ｜ [原文](https://www.threads.com/@banini31/post/DZgz_GomXVd)
+讚 222 ｜ 回覆 18 ｜ [原文](https://www.threads.com/@banini31/post/DZgz_GomXVd)
 
 ---
 
@@ -43,7 +61,7 @@
 
 個股的崩跌， 是大戶的放空，還是散戶的不挽留？
 
-讚 1085 ｜ 回覆 68 ｜ [原文](https://www.threads.com/@banini31/post/DZcqX9AERFe)
+讚 1091 ｜ 回覆 69 ｜ [原文](https://www.threads.com/@banini31/post/DZcqX9AERFe)
 
 ---
 
@@ -51,7 +69,7 @@
 
 > 痛苦面具
 
-讚 743 ｜ 回覆 54 ｜ [原文](https://www.threads.com/@banini31/post/DZbfdbGmRzk)
+讚 744 ｜ 回覆 54 ｜ [原文](https://www.threads.com/@banini31/post/DZbfdbGmRzk)
 
 ---
 
@@ -70,7 +88,7 @@
 當崩盤的時候，當崩盤的時候
 我會活著
 
-讚 441 ｜ 回覆 31 ｜ [原文](https://www.threads.com/@banini31/post/DZbOd8bj8Kq)
+讚 443 ｜ 回覆 31 ｜ [原文](https://www.threads.com/@banini31/post/DZbOd8bj8Kq)
 
 ---
 
@@ -78,7 +96,7 @@
 
 > 跌成這樣只能吸手指了_(:_」∠)_
 
-讚 383 ｜ 回覆 25 ｜ [原文](https://www.threads.com/@banini31/post/DZaJ8sHGZLf)
+讚 384 ｜ 回覆 25 ｜ [原文](https://www.threads.com/@banini31/post/DZaJ8sHGZLf)
 
 ---
 
@@ -86,7 +104,7 @@
 
 > 這隻好像很難買到
 
-讚 144 ｜ 回覆 12 ｜ [原文](https://www.threads.com/@banini31/post/DZaEbdDGUyB)
+讚 146 ｜ 回覆 12 ｜ [原文](https://www.threads.com/@banini31/post/DZaEbdDGUyB)
 
 ---
 
@@ -94,7 +112,7 @@
 
 > 現在會賺錢的散熱大概剩下only fan了吧
 
-讚 2970 ｜ 回覆 109 ｜ [原文](https://www.threads.com/@banini31/post/DZY5MlMmesj)
+讚 2975 ｜ 回覆 109 ｜ [原文](https://www.threads.com/@banini31/post/DZY5MlMmesj)
 
 ---
 
@@ -102,7 +120,7 @@
 
 > 佈局雲豹的時間到了！
 
-讚 771 ｜ 回覆 131 ｜ [原文](https://www.threads.com/@banini31/post/DZYsjsBGT3T)
+讚 773 ｜ 回覆 131 ｜ [原文](https://www.threads.com/@banini31/post/DZYsjsBGT3T)
 
 ---
 
@@ -118,7 +136,7 @@
 
 > 嗚嗚嗚嗚讓我繼續睡回去(;´༎ຶД༎ຶ`)～ 那邊才是真實的
 
-讚 1313 ｜ 回覆 66 ｜ [原文](https://www.threads.com/@banini31/post/DZVSthLE6MQ)
+讚 1314 ｜ 回覆 66 ｜ [原文](https://www.threads.com/@banini31/post/DZVSthLE6MQ)
 
 ---
 
@@ -130,21 +148,4 @@
 
 ---
 
-### 06/08 15:08（2026/06/08 15:08）
-
-> 我要被可愛使了
-
-讚 195 ｜ 回覆 4 ｜ [原文](https://www.threads.com/@banini31/post/DZUOPQvmaWZ)
-
----
-
-### 06/07 23:21（2026/06/07 23:21）
-
-> 請大家做好衝擊姿勢， 指數即將墜機
-起幫自己戴好氧氣面罩後再去協助他人⋯⋯
-
-讚 2654 ｜ 回覆 115 ｜ [原文](https://www.threads.com/@banini31/post/DZShzLbAMXb)
-
----
-
-*自動產生於 2026-06-15 14:48 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-06-16 14:49 台灣時間。僅供娛樂參考，不構成投資建議。*
