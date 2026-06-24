@@ -1,21 +1,53 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-06-23 14:24 台灣時間
+> 更新時間：2026-06-24 14:21 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：17 篇
+> 本次抓取：18 篇
 
 ---
 
-### 今天 10:00（2026/06/23 10:00）
+### 今天 10:15（2026/06/24 10:15）
+
+> 衝啊啊啊啊啊啊啊
+
+讚 5613 ｜ 回覆 1105 ｜ [原文](https://www.threads.com/@banini31/post/DZ85WHAmT7j)
+
+---
+
+### 今天 01:05（2026/06/24 01:05）
+
+> 男生除非是遇到什麼爽事才會請客啦
+我每次叫我朋友請我吃飯， 他只會說你去吃大便_(:_」∠)_
+
+讚 1056 ｜ 回覆 24 ｜ [原文](https://www.threads.com/@banini31/post/DZ76a_vGXXh)
+
+---
+
+### 今天 00:43（2026/06/24 00:43）
+
+> 妹子們，不要騙自己了
+一個會請妳吃飯，幫你搬東西的男生
+絕對不是純友誼
+
+純友誼=不想跟你怎樣=把你當男的
+
+男生請男生吃飯？ 
+一般來說你只會得到一句： 立假小啦！
+
+讚 5796 ｜ 回覆 318 ｜ [原文](https://www.threads.com/@banini31/post/DZ739tSmfrU)
+
+---
+
+### 昨天 10:00（2026/06/23 10:00）
 
 > 我這輩子沒想到會上彭博社_(:_」∠)_
 我終於要去華爾街教美國人做股票了嗎🤣🤣
 
-讚 3785 ｜ 回覆 233 ｜ [原文](https://www.threads.com/@banini31/post/DZ6S14Yk3CP)
+讚 6713 ｜ 回覆 327 ｜ [原文](https://www.threads.com/@banini31/post/DZ6S14Yk3CP)
 
 ---
 
-### 今天 00:04（2026/06/23 00:04）
+### 昨天 00:04（2026/06/23 00:04）
 
 > 現在每個人動不動身價都5000萬1億的
 突然覺得我這十幾年拼命工作存錢存到現在戶頭只有幾百萬的人生， 在他們眼中一定個在老鼠籠跑輪子的倉鼠一樣可笑吧
@@ -23,11 +55,11 @@
 另外想買這隻錶
 反正不買我也還是那隻倉鼠
 
-讚 718 ｜ 回覆 70 ｜ [原文](https://www.threads.com/@banini31/post/DZ5OqddmSFt)
+讚 1009 ｜ 回覆 81 ｜ [原文](https://www.threads.com/@banini31/post/DZ5OqddmSFt)
 
 ---
 
-### 昨天 19:30（2026/06/22 19:30）
+### 06/22 19:30（2026/06/22 19:30）
 
 > 按照馬斯克的說法，接下來水才是最重要的，
 所以我要好好看看台灣有哪些是水相關的股票
@@ -38,7 +70,7 @@
 
 然後31mm的手錶根本看不清楚時間啊
 
-讚 922 ｜ 回覆 50 ｜ [原文](https://www.threads.com/@banini31/post/DZ4vWwOk6QZ)
+讚 1052 ｜ 回覆 55 ｜ [原文](https://www.threads.com/@banini31/post/DZ4vWwOk6QZ)
 
 ---
 
@@ -48,7 +80,7 @@
 還是少一事就好
 對不起我的粉絲，這樣感覺很沒有擔當，但是我怕_(:_」∠)_
 
-讚 400 ｜ 回覆 11 ｜ [原文](https://www.threads.com/@banini31/post/DZ1ysmImTI3)
+讚 403 ｜ 回覆 11 ｜ [原文](https://www.threads.com/@banini31/post/DZ1ysmImTI3)
 
 ---
 
@@ -59,7 +91,7 @@
 
 （請幫擴散）
 
-讚 21919 ｜ 回覆 1018 ｜ [原文](https://www.threads.com/@banini31/post/DZ1eVoYGTBw)
+讚 24930 ｜ 回覆 1156 ｜ [原文](https://www.threads.com/@banini31/post/DZ1eVoYGTBw)
 
 ---
 
@@ -75,7 +107,7 @@
 
 我先跟各位道歉
 
-讚 2597 ｜ 回覆 179 ｜ [原文](https://www.threads.com/@banini31/post/DZ1TREcmeVi)
+讚 2603 ｜ 回覆 179 ｜ [原文](https://www.threads.com/@banini31/post/DZ1TREcmeVi)
 
 ---
 
@@ -86,7 +118,7 @@
 今天說封鎖，然後又開了
 選一邊啦！
 
-讚 1923 ｜ 回覆 71 ｜ [原文](https://www.threads.com/@banini31/post/DZ0HjtoEzYs)
+讚 1930 ｜ 回覆 71 ｜ [原文](https://www.threads.com/@banini31/post/DZ0HjtoEzYs)
 
 ---
 
@@ -97,7 +129,7 @@
 
 總而言之你們知道的～ 房市可以看一下啦
 
-讚 2503 ｜ 回覆 83 ｜ [原文](https://www.threads.com/@banini31/post/DZzxY3kE5Pn)
+讚 2528 ｜ 回覆 83 ｜ [原文](https://www.threads.com/@banini31/post/DZzxY3kE5Pn)
 
 ---
 
@@ -105,7 +137,7 @@
 
 > 台灣太難逛了， 還是去日本逛好了（誤）
 
-讚 1339 ｜ 回覆 44 ｜ [原文](https://www.threads.com/@banini31/post/DZw0UAbGeJW)
+讚 1341 ｜ 回覆 44 ｜ [原文](https://www.threads.com/@banini31/post/DZw0UAbGeJW)
 
 ---
 
@@ -113,7 +145,7 @@
 
 > 這應該比點點點好一些
 
-讚 104 ｜ 回覆 5 ｜ [原文](https://www.threads.com/@banini31/post/DZwaJBUmZ48)
+讚 106 ｜ 回覆 5 ｜ [原文](https://www.threads.com/@banini31/post/DZwaJBUmZ48)
 
 ---
 
@@ -121,7 +153,7 @@
 
 > 點點點
 
-讚 268 ｜ 回覆 15 ｜ [原文](https://www.threads.com/@banini31/post/DZwZ_xQGXqZ)
+讚 272 ｜ 回覆 15 ｜ [原文](https://www.threads.com/@banini31/post/DZwZ_xQGXqZ)
 
 ---
 
@@ -130,7 +162,7 @@
 > 現主時， 問一下大家西門町有什麼好逛的地方
 不要跟我說大西門鐘錶，那是下星期的行程（疑？）
 
-讚 1890 ｜ 回覆 107 ｜ [原文](https://www.threads.com/@banini31/post/DZwWVm-E-MP)
+讚 1897 ｜ 回覆 107 ｜ [原文](https://www.threads.com/@banini31/post/DZwWVm-E-MP)
 
 ---
 
@@ -139,7 +171,7 @@
 > 自從買了meta股票後身體疲勞，四肢無力
 這就是買到爛公司的生理反應嗎
 
-讚 7636 ｜ 回覆 315 ｜ [原文](https://www.threads.com/@banini31/post/DZufCihme4u)
+讚 7644 ｜ 回覆 315 ｜ [原文](https://www.threads.com/@banini31/post/DZufCihme4u)
 
 ---
 
@@ -147,7 +179,7 @@
 
 > 來吧！ 我準備好了！ 大多頭三年總資產才漲10%不到！
 
-讚 1313 ｜ 回覆 53 ｜ [原文](https://www.threads.com/@banini31/post/DZtsKuckZ08)
+讚 1318 ｜ 回覆 53 ｜ [原文](https://www.threads.com/@banini31/post/DZtsKuckZ08)
 
 ---
 
@@ -162,33 +194,8 @@
 別再叫我直上勞了_(:_」∠)_
 我就只是一個月收8萬的上班族啊啊
 
-讚 1149 ｜ 回覆 146 ｜ [原文](https://www.threads.com/@banini31/post/DZspi86k3Us)
+讚 1156 ｜ 回覆 146 ｜ [原文](https://www.threads.com/@banini31/post/DZspi86k3Us)
 
 ---
 
-### 06/17 20:52（2026/06/17 20:52）
-
-> 爛到說不完， 這邊是我塞不進去影片的
-1. 機器人掃地運作聲音超級吵（基站洗滾筒也超級吵）
-2.除了牆壁以外，他都是跟10年前一樣，遇到障礙物就是用撞的
-3.App超級難用，沒有一鍵設置；每個房間都要個別設置
-4.更新斷線後，也完全不會執行排程
-5.跨越能力爛到不行，一個8mm的突起就感覺要散架了
-6.機器定位超級久，還常常失敗
-7.意外停止不會跟你講原因
-8. 掃到一半還會自己沒電
-
-讚 1324 ｜ 回覆 112 ｜ [原文](https://www.threads.com/@banini31/post/DZsAsM4k5iV)
-
----
-
-### 06/17 16:42（2026/06/17 16:42）
-
-> 是不是該買一下粗用的錶_(:_」∠)_ 
-就是露營跟戶外活動的(⊙ω⊙)
-
-讚 249 ｜ 回覆 69 ｜ [原文](https://www.threads.com/@banini31/post/DZrkIA3mXVg)
-
----
-
-*自動產生於 2026-06-23 14:24 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-06-24 14:21 台灣時間。僅供娛樂參考，不構成投資建議。*
