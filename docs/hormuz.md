@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-07 07:51 台灣時間　｜　資料更新：2026-08-07 07:51 台灣時間
+> 更新時間：2026-08-07 15:01 台灣時間　｜　資料更新：2026-08-07 15:01 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 2 月 28 日以來，該海峽實際上仍關閉商業航運。海峽在海軍護航下進行了有限的過境，最近就透過分道安排（伊朗控制的入境，阿曼控制的出境）部分重新開放進行了框架討論。截至 8 月 1 日至 2 日對阿曼航線流量的最新攻擊表明安全威脅持續存在。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial shipping on Day 158 of crisis. Limited convoy transits under naval escort. A brief reopening under MOU in June broke down in July after renewed vessel attacks. Iran and Oman finalizing new shipping route agreement, but strait remains non-operational pending political resolution. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 7 | 7 | 60 | <span style="color:#e74c3c">11.7% ⚠️</span> |
+| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **280** | 95 | 78 | 107 | <span style="color:#27ae60">0.00</span> |
+| **280** | 95 | 75 | 110 | <span style="color:#27ae60">+5.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,206,000 | 10,300,000 | <span style="color:#e74c3c">11.7% ⚠️</span> | 上升 |
+| 309,000 | 10,300,000 | <span style="color:#e74c3c">3.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** 伊朗-阿曼框架談判即將完成；提議部分重新開放分車道折衷方案
+**頭條：** 伊朗-阿曼航線協議進入最後階段；更廣泛的海峽重新開放需要美國附加條件
 
-**各方：** Iran, Oman, United States, Qatar, Regional mediators
+**各方：** Iran, Oman, United States, Qatar
 
-> Iran and Oman approaching finalization of framework for commercial shipping with split-lane compromise under discussion (entry via Iranian side, exit via Omani side). Qatar's foreign ministry reports mediators seeking short-term arrangement to bring US and Iran back to negotiating table. Trump claims progress on 'new round of talks' disputed by Tehran, which denies direct US negotiations.
+> 伊朗和阿曼已就擬議的進出港航線達成廣泛協議，談判持續了三週多。最終聯合聲明正在審查中，等待伊朗最高領袖批准。川普政府聲稱對重新開放持樂觀態度，但伊朗否認美國直接會談，除了伊朗與阿曼協議之外還提出了其他條件。卡達調解員尋求短期解決方案以恢復更廣泛的談判。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.8B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> LNG carrier operations severely curtailed due to war-risk premiums and security concerns. One Qatari LNG carrier struck in July; gas carrier resumption resumed week of July 27-Aug 2 after two-week pause.
+> 卡達液化天然氣運輸船於七月下旬發生攻擊事件。日本、韓國和中國面臨嚴重的液化天然氣短缺。由於供應中斷和危機地區的改道，液化天然氣價格上漲。
 
 **受影響地區**
 
@@ -74,66 +74,66 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| EU | MODERATE | 20% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | Actively used but constrained by vessel availability and cost; shipping rates elevated globally |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | Limited to 5 mbpd; insufficient capacity for crisis diversion; restricted Saudi use only |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 容量限制為 1.5 mbpd；最低程度的危機緩解；阿聯酋油輪成為攻擊目標 |
+| 好望角 | +12 天 | $650 | 發生中度改道；主要用於無法通過霍爾木茲獲得保險的油輪 |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | 限制使用； 5 mbpd 容量，由沙烏地阿拉伯控制，以較低的吞吐量運行 |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 最少的重新路由； 1.5 mbpd 容量，不足以滿足全球需求轉移 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +185% | +2.3% | 70 天 |
+| +220% | +4.2% | 68 天 |
 
 **主要供應鏈事件**
 
-- 6000多名海員被困波斯灣地區；疏散後勤工作正在進行中
-- 8 月 4 日至 5 日，布蘭特原油上漲 9.59%，至 83.30 美元；盤中交易價格接近 86 美元；戰爭溢價減少約 11 美元，但市場定價與實際運營存在差異
-- 港口擁擠：24小時窗口內有381艘船舶抵港； 280艘船舶在遠離泊位的位置停留；阿曼灣港口的停泊能力有限
-- LNG carrier strikethrough dropped from 4-5/day to single digits; three LNG departures last week with one struck; Qatari plant blast (13 killed) added supply constraint
+- 布蘭特原油交易價格接近 81 美元/桶，較一週上漲約 9%，較戰前上漲約 19%；能源成本透過製造供應鏈層層傳遞
+- 6000多名海員被困海灣地區；國際海事組織致力於解決影響船員調度和營運延誤的疏散問題
+- 亞洲至歐盟貨櫃運價年增180%；船舶改道至開普敦航線，每航次成本為 500-80 萬美元
+- 液化天然氣期貨飆升；日本公用事業公司面臨能源成本增加 15-25% 的問題；韓國工業生產受能源成本限制
 
 ## 危機時間軸
 
-**2026-02-28** `ESCALATION` — **美以空戰打響；阿里·哈梅內伊被暗殺**
-> 美國和以色列對伊朗軍事目標進行空襲，包括暗殺最高領袖。伊朗做出回應，宣布關閉並警告伊斯蘭革命衛隊禁止通行。
+**2026-02-28** `ESCALATION` — **伊朗戰爭開始；宣布關閉海峽**
+> 美國和以色列的空襲殺死了阿里·哈梅內伊；伊朗對所有外國航運關閉霍爾木茲海峽； IRGC 發出甚高頻警告
 
-**2026-03-02** `MILITARY` — **伊朗確認對不友善國家關閉**
-> IRGC 正式限制僅允許伊朗批准的船隻通行；皇家海軍指出，關閉不具有法律約束力，但無法保證安全。
+**2026-03-19** `MILITARY` — **美軍空襲開始**
+> 美國空軍、海軍和以色列飛機對伊朗海軍艦艇、無人機和沿海目標發動持續攻擊
 
-**2026-06-14** `DIPLOMATIC` — **簽署諒解備忘錄**
-> 美國和伊朗達成 60 天免費路線圖協議，包括安全通道通訊和衝突消除小組；第一次船隻撞擊週期發生在六月下旬。
+**2026-04-08** `DIPLOMATIC` — **Two-week ceasefire agreed**
+> US and Iran announce conditional 2-week ceasefire; Iran commits to safe passage through Strait; oil markets rally briefly
 
-**2026-07-07** `ESCALATION` — **Second escalation cycle begins**
-> 三艘船在阿曼附近遭遇攻擊；美國撤銷伊朗石油銷售制裁豁免；隨著攻擊的恢復，諒解備忘錄框架遭到破壞。
+**2026-04-13** `MILITARY` — **美國對伊朗實施海上封鎖**
+> 4 月 11 日至 12 日伊斯蘭堡會談失敗後，美國開始封鎖伊朗港口；限制伊朗航運
 
-**2026-07-12** `MILITARY` — **伊朗持續襲擊油輪**
-> IRGC 襲擊了兩艘 AIS 黑暗超級油輪和懸掛塞浦路斯國旗的貨櫃船；阿聯酋阿布達比國家石油公司證實，兩艘油輪在阿曼領海遭到攻擊，一名水手喪生。
+**2026-06-17** `DIPLOMATIC` — **簽署諒解備忘錄**
+> 美伊諒解備忘錄重新開放海峽 60 天免費通行；與伊朗無關的交通恢復；市場短暫緩解
 
-**2026-08-01** `ESCALATION` — **阿曼航線繞行航運再次遭受攻擊**
-> Two ships struck via Omani route circumvention with at least one additional attempted attack; roughly 25% of non-Iranian traffic confirmed using Oman coastline channel.
+**2026-07-07** `ESCALATION` — **重新發動攻擊；諒解備忘錄破裂**
+> 三艘船在阿曼附近遭遇攻擊；美國撤銷伊朗石油銷售制裁豁免；第二個升級週期開始
 
-**2026-08-02** `DIPLOMATIC` — **川普取消罷工；分道妥協出現**
-> 川普宣布暫停罷工，等待協議敲定。 Axios 報告稱，伊朗外交部長接受了卡達-美國方案：伊朗控制入境通道，阿曼控制出口通道。
+**2026-07-11** `MILITARY` — **伊朗對油輪發動新一輪攻擊**
+> IRGC 襲擊了兩艘 AIS 黑暗超級油輪和貨櫃船；一名印度船員失踪；中央情報局證實阿聯酋阿布扎比國家石油公司油輪被擊中，一名水手喪生
 
-**2026-08-05** `DIPLOMATIC` — **Iran-Oman framework near completion**
-> 外交部副部長表示擬議的商業航運框架即將敲定；框架不會自動重新開放海峽；卡達調解員尋求短期安排。
+**2026-08-01** `ESCALATION` — **對阿曼航線旁路流量的攻擊**
+> 伊朗針對阿曼海岸附近使用南部航線的船隻；額外嘗試攻擊 1 次，至少擊中 2 次；影子艦隊活動增加
 
-**2026-08-06** `DIPLOMATIC` — **交易談判仍在繼續； 24小時內有7艘船過境**
-> 海洋交通數據顯示，有七艘商船透過霍爾木茲；伊朗-阿曼會談就框架取得進展；川普否認與伊朗直接談判；相互衝突的訊號使行運陷入低迷。
+**2026-08-05** `DIPLOMATIC` — **伊朗-阿曼航線協議即將敲定**
+> 經過三週多的談判，伊朗和阿曼宣布就航線達成廣泛協議；哈梅內伊審查下的最終聯合聲明；川普聲稱取得進展
 
 ## 最新新聞
 
-- [在前線：印度水手如何在中東戰爭中付出代價](https://timesofindia.indiatimes.com/india/on-the-frontlines-how-indian-sailors-are-paying-the-price-in-middle-east-war/articleshow/133000249.cms)　*The Times Of India・2026-08-06*
-- [美國和伊朗即將達成協議重新開放霍爾木茲海峽](https://www.kcra.com/article/us-iran-near-deal-to-reopen-strait-of-hormuz/73364244)　*Kcra・2026-08-06*
-- [伊朗、阿曼和美國即將達成霍爾木茲協議——SpaceX 的內部人士終於可以出售了](https://qz.com/dow-futures-hormuz-deal-nasdaq-ai-sandisk-spacex-080626)　*Quartz・2026-08-06*
-- [廣島的教訓在核子時代仍然很重要](https://gulfnews.com/opinion/op-eds/hiroshimas-lesson-still-matters-in-a-nuclear-age-1.500632667)　*Gulf News・2026-08-06*
-- [情境意識的興衰](https://seekingalpha.com/article/4931593-the-rise-and-fall-of-situational-awareness)　*Seeking Alpha・2026-08-06*
+- [巴基斯坦希望霍爾木茲海峽協議將為恢復美伊談判鋪路](https://www.moneycontrol.com/world/pakistan-hopes-agreement-on-hormuz-will-pave-way-for-resumption-of-us-iran-talks-article-13997007.html)　*Moneycontrol・2026-08-06*
+- [“極度難相處的人”：JD萬斯警告伊朗協議將“混亂”](https://www.ndtv.com/world-news/extraordinarily-difficult-people-jd-vance-warns-iran-deal-will-be-messy-11876695)　*Ndtv・2026-08-06*
+- [報告稱，如果美國襲擊發電廠，伊朗威脅將「封鎖」海灣國家](https://www.ndtv.com/world-news/us-iran-war-update-middle-east-iran-threatened-to-black-out-gulf-nations-if-us-hit-power-plants-report-11876693)　*Ndtv・2026-08-06*
+- [每週測驗：艾德希蘭 (Ed Sheeran) 在 DVLA 因哪種品牌的老爺車而陷入麻煩？](https://www.bbc.co.uk/news/articles/c4gx6yj56y6o)　*The Bbc・2026-08-06*
+- [Trump’s military leverage against Iran nearly gone, warns former Israel Air Force commander](https://www.jpost.com/middle-east/iran-news/article-904796)　*Jpost・2026-08-06*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-07 07:51 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-07 15:01 台灣時間，僅供參考，不構成投資建議。*
