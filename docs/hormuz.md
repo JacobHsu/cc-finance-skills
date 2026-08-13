@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-13 02:51 台灣時間　｜　資料更新：2026-08-13 02:51 台灣時間
+> 更新時間：2026-08-13 15:14 台灣時間　｜　資料更新：2026-08-13 15:14 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 海峽實際上仍然對商業航運關閉。最少的轉運（每天 2-8 艘船，正常情況下為 73 艘）。伊朗透過伊斯蘭革命衛隊的警告和對試圖過境（包括途經阿曼水域）的船隻的攻擊來維持軍事控制。偶爾會有護航船隊在海軍保護下行駛。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 儘管進行了外交談判，霍爾木茲海峽實際上仍然關閉商業航運。伊朗對通過 2026 年 5 月成立的波斯灣海峽管理局 (PGSA) 的船隻通行保持控制。雖然船隊在海軍護航下航行且偶爾發生過境，但該水道並未對暢通無阻的商業交通開放。儘管進行了談判，但對船隻的襲擊仍在繼續。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 8 | 8 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
+| 8 | 16 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **135** | 29 | 51 | 55 | <span style="color:#27ae60">0.00</span> |
+| **51** | 25 | 20 | 6 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 5% | 0.15% | 33.3x |
+| 8.75% | 0.15% | 58.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,370,000 | 10,300,000 | <span style="color:#e74c3c">13.3% ⚠️</span> | 上升 |
+| 1.3 | 10,300,000 | <span style="color:#e74c3c">1.3% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** 伊朗與阿曼就海峽管理問題進行談判​​接近達成協議；美國要求賠償
+**頭條：** 伊朗與阿曼關於新霍爾木茲海事安排的談判進入最後階段
 
-**各方：** Iran, Oman, United States, Qatar (mediator)
+**各方：** Iran, Oman, United States, Pakistan (mediator)
 
-> 據報道，伊朗和阿曼「非常接近」達成為期 60 天的過境管理協議，該協議將建立安全的航運路線。然而，伊朗外交部長阿拉格奇警告稱，重新開放將需要美國的賠償以及伊朗與阿曼協議之外的其他條件。川普政府要求伊朗賠償作為直接談判的先決條件，造成新的僵局。
+> Iran and Oman are in final stages of negotiating a new maritime route through Hormuz separate from existing northern and southern corridors. Trump has postponed major airstrikes multiple times to allow diplomacy. However, Iran continues vessel attacks despite talks, and negotiations appear stalled over control arrangements and US security guarantees.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $0.75B | Japan, South Korea, China |
 
-> 全球 25% 的液化天然氣貿易中斷。日本、韓國面臨中東主要供應商的嚴重短缺。液化天然氣再氣化終端具有管理策略儲備和替代採購的能力。液化天然氣現貨價格上漲。
+> LNG shipments severely disrupted; top Asian importers facing spot price spikes and contract renegotiations. Japan's winter LNG demand approaching; storage levels critical.
 
 **受影響地區**
 
@@ -75,70 +75,68 @@
 | China | HIGH | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
-| Saudi Arabia, UAE, Iraq, Kuwait (exporters) | CRITICAL | 100% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角（非洲週邊） | +12 天 | $650 | 主要貨櫃航運公司（MSC、馬士基）為亞歐長途服務提供主動路由；完全替代昂貴；由於往返經濟性，液化天然氣油輪路線有限 |
-| 東西管（沙烏地阿拉伯，5mbpd） | +0 天 | — | 以最大容量運作；可用 5 mbpd 緩解，但不足以滿足霍爾木茲海峽總吞吐量（21 mbpd）；僅限沙烏地阿拉伯的供應限制 |
-| 哈布山-富查伊拉管道（阿聯酋，1.5 兆桶/日） | +0 天 | — | 以最大容量運作；僅限阿聯酋石油；提供最大 1.5 mbpd 的緩解 |
-| 阿曼水域南部繞道（有風險） | +1 天 | $150 | 約 25% 的船隻嘗試過；伊朗自8月1日起襲擊了該航線上的船隻；在不節省時間的情況下創造安全溢價 |
+| 好望角 | +12 天 | $650 | 由於霍爾木茲和蘇伊士的替代方案都受到限制，因此經歷嚴重擁塞；成為亞歐貿易的大動脈。 |
+| 蘇伊士運河途經紅海 | +8 天 | $400 | Operating well below capacity; ongoing Houthi threats and war risk insurance surge limiting utilization despite lower transit times than Cape. |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | 產能限制為 500 萬桶/日；沙烏地阿拉伯獨有的替代方案只能為全球供應鏈提供最小程度的緩解。 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +15% | +2.1% | 67 天 |
+| +180% | +3.2% | 67 天 |
 
 **主要供應鏈事件**
 
-- 傑貝阿里（阿聯酋轉運中心）面臨上游限制，因為很少有船隻直接到達它；經由開普敦的替代路線為亞歐貿易增加了 2-3 週的延誤
-- 大約6,000名海員被困在該地區；船員疲勞和合約到期造成海事勞工危機； IMO 疏散工作正在進行中
-- 石化原料出現短缺；由於原料成本因替代採購而上升，亞太地區的塑膠和化肥製造業面臨利潤壓縮
-- 亞太地區液化天然氣現貨價格為 18-22 美元/mmBtu，而危機前為 12-14 美元；2026-27 年冬季 暖氣燃料儲備在初秋耗盡；如果海峽仍關閉，可能會出現輪流斷電的風險
+- Container shipping rates doubled; Asia-Europe routes commanding premium rates; equipment repositioning severely delayed
+- IT 硬體和電子產品供應鏈中斷；阿聯酋貨櫃港口（傑貝阿里）以前擁擠，現在顯示接近正常的等待時間，但上游通道受到限制
+- 海灣地區石化產品出口減少60%； global manufacturing input costs rising; 汽車和塑膠產業面臨利潤壓力
+- 汽油零售價格較戰前基準上漲 27%（每加侖 2.98 美元至 3.78 美元）；柴油和暖氣油價格同樣上漲；通膨預期上升
 
 ## 危機時間軸
 
-**2026-04-17** `DIPLOMATIC` — **伊朗宣布暫時重新開放**
-> 伊朗宣佈在以色列和黎巴嫩停火期間對商業航運開放海峽，但美國仍繼續封鎖伊朗港口，引發伊朗報復。
+**2026-03-02** `MILITARY` — **伊斯蘭革命衛隊確認霍爾木茲關閉**
+> 伊斯蘭革命衛隊正式確認該海峽對「不友善國家」關閉，並宣布僅允許伊朗批准的船隻過境。
 
-**2026-06-17** `DIPLOMATIC` — **簽署諒解備忘錄（MOU）**
-> 美伊諒解備忘錄暫時緩解敵對行動；戰爭險保費降至2%；船舶過境量略有增加；約 160 艘油輪開始離開海灣。
+**2026-03-19** `MILITARY` — **美軍空襲開始**
+> United States begins sustained aerial campaign against Iranian naval targets and drones to reopen Strait of Hormuz.
 
-**2026-06-25** `MILITARY` — **Iran attacks ship in Omani waters**
-> 伊朗在阿曼海岸襲擊船隻；美國以空襲報復。標誌著平靜期的結束。
+**2026-04-13** `MILITARY` — **美國對伊朗實施海上封鎖**
+> United States commences coordinated naval blockade of Iranian ports alongside aerial operations.
 
-**2026-07-07** `ESCALATION` — **伊朗再次發動攻擊**
-> 7月7日至8日，伊朗在阿曼海岸襲擊了多艘船隻；美軍進一步發動空襲。川普宣布諒解備忘錄「不再有效」。
+**2026-05-01** `MILITARY` — **自由計畫行動暫停**
+> US briefly suspends major strikes to allow diplomatic initiatives; temporary halt signals shift toward negotiation.
 
-**2026-07-08** `ESCALATION` — **諒解備忘錄崩潰已確認**
-> 川普正式終止諒解備忘錄；軍事緊張局勢加劇；船隻襲擊增加；過境急劇下降；諒解備忘錄期間受困的 65 艘船現已擱淺。
+**2026-06-17** `DIPLOMATIC` — **伊朗與美國簽署諒解備忘錄**
+> 伊朗和美國簽署諒解備忘錄，允許 60 天的自由商業過境；過境量暫時增加，但低於戰前平均。
 
-**2026-07-22** `ECONOMIC` — **戰爭險保費飆升至 7.5-10%**
-> 再次遭受攻擊後，戰爭險保險費用從船體價值的 1-3% 躍升至 7.5-10%。 7月21日只有10次過境。
+**2026-06-25** `MILITARY` — **伊朗在阿曼海域攻擊船隻**
+> 撤離行動開始幾天后，伊朗襲擊了霍爾木茲傳統航道以南阿曼水域的船隻，引發美國空襲和諒解備忘錄崩潰。
 
-**2026-08-01** `MILITARY` — **伊朗瞄準阿曼繞行路線**
-> 伊朗襲擊試圖繞道阿曼水域南部的船隻；自 8 月 1 日以來，至少有 2 艘船被擊中，1 次企圖襲擊。關閉非正式逃生路線。
+**2026-07-07** `MILITARY` — **伊朗在阿曼海岸發動攻擊**
+> 伊朗對阿曼附近的船隻進行第二輪攻擊；美國隨後發動報復性打擊；川普總統宣布諒解備忘錄不再有效。
 
-**2026-08-04** `DIPLOMATIC` — **伊朗與阿曼談判加劇**
-> 伊朗繼續與阿曼就安全航線進行直接談判；卡達調解員推動「短期解決方案」以恢復美伊談判。
+**2026-08-02** `DIPLOMATIC` — **伊朗-阿曼最後階段談判**
+> 伊朗外長宣布與阿曼的談判進入最後階段；討論與現有走廊分開的新海上路線。
 
-**2026-08-08** `DIPLOMATIC` — **伊朗與阿曼達成協議；伊朗提出條件**
-> 阿曼和伊朗報告「積極和建設性」的會談；伊朗聲稱「非常接近」達成 60 天過境協議。伊朗外長阿拉格奇警告美國必須滿足實際重新開放的額外賠償要求。
+**2026-08-08** `DIPLOMATIC` — **Trump postpones bombing campaign**
+> 川普取消了計劃中的針對伊朗的大規模轟炸行動，以便為外交留出更多時間；第四次確認計劃中的重大罷工被取消。
 
-**2026-08-10** `DIPLOMATIC` — **川普要求賠償；死鎖返回**
-> 特朗普政府宣布美国将要求伊朗赔偿作为谈判的先决条件。伊朗拒絕新的要求。外交前景黯淡；快速解决问题的前景越来越渺茫。
+**2026-08-11** `MILITARY` — **川普重申美國的控制言論**
+> 川普堅稱美國控制了霍爾木茲海峽，並威脅伊朗將承擔嚴重後果；航運數據與開放航道的說法相矛盾。
 
 ## 最新新聞
 
-- [胡塞武裝飛彈燒毀紅海錨地懸掛坦尚尼亞國旗的蒂哈馬號；罷工造成至少六人死亡](https://timesofindia.indiatimes.com/videos/international/houthi-missiles-burns-tanzania-flagged-tihamah-at-anchor-in-red-sea-strike-kills-at-least-six/videoshow/133173868.cms)　*The Times Of India・2026-08-12*
-- [阿聯酋計劃在第一季恢復受戰爭影響的鋁產量](https://financialpost.com/pmn/business-pmn/uae-aims-to-restore-war-hit-aluminum-output-in-first-quarter)　*Financial Post・2026-08-12*
-- [美元在美國通膨前屏住呼吸](https://www.marketscreener.com/news/the-dollar-holds-its-breath-ahead-of-us-inflation-ce7859d8d98df326)　*Marketscreenerc・2026-08-12*
-- [川普宣稱控制霍爾木茲海峽，美國和伊朗則強化立場](https://financialpost.com/pmn/business-pmn/trump-claims-hormuz-control-as-us-iran-harden-their-positions)　*Financial Post・2026-08-12*
-- [世界市場漲跌互現，石油和黃金在美國通膨數據公佈前上漲](https://ca.finance.yahoo.com/news/world-markets-mixed-oil-gold-063438020.html)　*Yahoo! News・2026-08-12*
+- [川普宣稱要控制伊朗：“讚美真主！”](https://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/)　*Brietbart・2026-08-12*
+- [近十幾家公司已經每月支付高達 10 萬美元的費用，以搶先體驗川普的「真相社會」帖子](https://fortune.com/2026/08/12/trump-media-truth-api-insider-trading/)　*Fortune・2026-08-12*
+- [派拉蒙 Skydance 在反壟斷合併挑戰中考慮出售 CNN](https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge)　*Al Jazeera・2026-08-12*
+- [由於投資人權衡美伊談判陷入僵局而降低需求預測，油價下跌](https://nypost.com/2026/08/12/business/oil-prices-drop-as-investors-weigh-lower-demand-forecasts-against-us-iran-talks-deadlock/)　*New York Post・2026-08-12*
+- [「讚美真主」：川普稱美國「完全控制」霍爾木茲，伊朗無能為力](https://www.india.com/news/world/donald-trump-says-us-has-total-control-of-strait-of-hormuz-iran-can-do-nothing-praise-be-to-allah-middle-east-conflict-iran-us-war-8500122/)　*India・2026-08-12*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-13 02:51 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-13 15:14 台灣時間，僅供參考，不構成投資建議。*
