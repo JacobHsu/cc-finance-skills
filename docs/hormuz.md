@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-20 02:21 台灣時間　｜　資料更新：2026-08-20 02:21 台灣時間
+> 更新時間：2026-08-20 14:30 台灣時間　｜　資料更新：2026-08-20 14:30 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 海峽實際上仍然對商業航運關閉，8 月 16 日只有 1 次過境，而正常情況下每天約 73 次過境。伊朗繼續透過波斯灣海峽管理局行使控制權；美國聲稱擁有控制權，但航運數據並不支持這一點。對阿曼海域船隻的襲擊仍在繼續；伊朗和阿曼之間的外交談判正在進行，但陷入僵局。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 8 月 19 日起，霍爾木茲海峽實際上已關閉商業航運。伊朗已宣布控制並繼續對船隻進行有針對性的打擊；最近針對阿聯酋 ADNOC 油輪的襲擊得到證實。在嚴重的安全威脅和伊朗要求通行許可的情況下，透過阿曼水域的過境嘗試有限。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 1 | 60 | <span style="color:#e74c3c">1.4% ⚠️</span> |
+| 13 | 13 | 60 | <span style="color:#e74c3c">21.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **449** | 180 | 120 | 149 | <span style="color:#27ae60">+2.00</span> |
+| **449** | 180 | 120 | 149 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 10% | 0.15% | 66.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 154,000 | 10,300,000 | <span style="color:#e74c3c">1.5% ⚠️</span> | 下跌 |
+| 2,123,500 | 10,300,000 | <span style="color:#e74c3c">20.6% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** NO_TALKS
 
-**頭條：** 伊朗-阿曼過境路線談判陷入僵局；川普威脅阿曼；日內瓦核會談如期舉行
+**頭條：** 美伊談判陷入僵局；阿曼調解臨時航線；川普要求戰後控制海峽
 
-**各方：** Iran, United States, Oman, Qatar (mediator), Egypt (mediator)
+**各方：** United States, Iran, Oman, Qatar, Turkey, UAE, Saudi Arabia
 
-> 伊朗和阿曼已就過境路線圖達成一致，但最終協議尚未簽署。川普威脅稱，如果阿曼幹擾談判，將對阿曼採取軍事行動。美國與伊朗的 60 天諒解備忘錄窗口於 8 月 17 日到期，但沒有達成更廣泛的協議。日內瓦核談判正在進行，阿拉格奇出席；由阿曼調解的並行間接會談繼續就霍爾木茲過境和核問題進行。
+> 由於華盛頓和德黑蘭發出相互矛盾的訊號，美國和伊朗之間的談判仍陷入僵局。阿曼和卡達正試圖達成臨時航運安排，但伊朗繼續透過新成立的波斯灣海峽管理局（PGSA）主張對該海峽的控制，並要求獲得通行許可。川普聲稱他將在戰後宣布美國海峽擁有領土；伊朗對此予以拒絕。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> 全球 25% 的液化天然氣貿易經過霍爾木茲。日本、韓國和中國面臨嚴重的短缺和價格飆升。液化天然氣現貨價格上漲；長期合約改道為更長的路線，增加了 5-7 天的運輸時間。
+> 液化天然氣運輸船嚴重中斷；全球 25% 的液化天然氣貿易受阻。日本、韓國面臨嚴重供應短缺；價格處於危機高點；冬季可能實施需求配給。
 
 **受影響地區**
 
@@ -73,70 +73,71 @@
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
-| India | HIGH | 60% |
 | European Union | MODERATE | 20% |
+| India | HIGH | 60% |
+| Saudi Arabia & UAE | CRITICAL | 95% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 利用率高；約 35-40% 的改道流量；開普敦港口壅塞加劇 |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~4.8 mbpd capacity (96% of 5 mbpd max); near-saturated; limited spare capacity |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | Operating at ~1.4 mbpd capacity (93% of 1.5 mbpd max); near-saturated; minimal spare capacity |
+| 好望角 | +12 天 | $650 | 越來越多地被利用；路由成為規避風險的運營商的標準；由於同時發生的紅海危機，蘇伊士運河利用率嚴重不足 |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | 最大容量為 5 mbpd；無法吸收額外的原油；僅限沙烏地阿拉伯的管道；不足以緩解危機 |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbpd 的滿容量運作；最小的閒置產能；僅限阿聯酋原油；替代方案不足 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +185% | +4.2% | 68 天 |
+| +750% | +12.5% | 70 天 |
 
 **主要供應鏈事件**
 
-- Brent crude at $91.50/bbl (+45% vs pre-crisis $63/bbl); US Strategic Petroleum Reserve approaching minimum operational threshold
-- 449艘船滯留在波斯灣和阿曼灣；被困在該地區的海員； IMO疏散行動正在進行中
-- 圍繞霍爾木茲中斷的全球供應鏈重組； IT 硬體、工業品、資料中心設備透過 Cape 重新路由將增加 10-14 天
-- VLCC 油輪在霍爾木茲以西裝載，並透過阿曼灣的船對船轉運卸貨；低效率的替代物流成本加倍
+- VLCC 租船費率飆升至 49 萬美元至 50 萬美元/天（10 倍基線）；海灣裝載的油輪可用性大幅下降
+- 由於船隻改道離開中東，全球貨櫃運費上漲了 3-4 倍；紅海替代方案也受阻
+- 布蘭特原油期貨飆升至 102 美元以上；消費燃料價格較去年同期上漲 18-22%；通貨膨脹蔓延至食品/交通
+- Manufacturing input costs spiking; petrochemical production curtailed; industrial output declining in Asia-Pacific region
 
 ## 危機時間軸
 
-**2026-02-28** `ESCALATION` — **US-Israel war on Iran begins**
-> 敵對行動開始；霍爾木茲海峽實際上關閉了商業航運。幾天之內，交通量從每天 178 趟銳減至接近零。
+**2026-04-15** `MILITARY` — **美國海軍封鎖伊朗港口**
+> 美國封鎖伊朗港口；與伊朗結盟的船隻成為目標；油輪攻擊加劇；超過150艘油輪停泊在海峽外。
 
-**2026-03-27** `MILITARY` — **伊朗伊斯蘭革命衛隊宣布封鎖波斯灣海峽管理局**
-> 伊朗宣布對往返美國、以色列和盟國的船隻關閉海峽。波斯灣海峽管理局的成立是為了控制過境。
+**2026-06-17** `DIPLOMATIC` — **伊朗與美國簽署諒解備忘錄**
+> 諒解備忘錄暫時重新開放海峽免費電話，為期 60 天的談判窗口；交通量短暫增加至每週 84 班；伊朗建立波斯灣海峽管理局（PGSA）。
 
-**2026-04-17** `DIPLOMATIC` — **伊朗宣布重新開放海峽**
-> 宣布臨時開業；數十艘船湧向海峽，但由於局勢仍然不穩定，大多數船隻在數小時內改變航向。
+**2026-06-25** `ESCALATION` — **伊朗在阿曼水域襲擊船隻；美軍空襲緊追在後**
+> 伊朗襲擊阿曼疏散走廊內的船隻；美國進行報復；諒解備忘錄框架惡化；川普宣布諒解備忘錄不再有效。
 
-**2026-06-17** `DIPLOMATIC` — **簽署諒解備忘錄**
-> 美國與伊朗簽署為期60天的諒解備忘錄；伊朗同意允許自由通行60天。交通量暫時增加至每週約 84-130 趟。
+**2026-07-07** `MILITARY` — **伊朗在阿曼海岸發動第二輪攻擊**
+> 伊朗無人機/飛彈襲擊了阿曼附近的多艘船隻；美軍空襲加劇；攻擊量高於 4 月以來的任何點；過境再次崩潰。
 
-**2026-06-25** `MILITARY` — **伊朗在阿曼海域攻擊船隻**
-> 伊朗在阿曼海岸襲擊船隻；美國以空襲報復。諒解備忘錄的執行受到質疑。
+**2026-08-01** `MILITARY` — **伊朗恢復對阿曼航線船隻的攻擊**
+> 兩艘途經阿曼南部走廊的船隻發生碰撞；至少還有一次未遂攻擊；繞過伊朗交通系統的船隻成為目標。
 
-**2026-07-07** `ESCALATION` — **伊朗再次襲擊航運**
-> 伊朗對阿曼附近的船隻發動新的攻擊；美軍空襲緊跟在後。川普於 7 月 8 日宣布諒解備忘錄不再生效。
+**2026-08-08** `ESCALATION` — **三艘阿布達比國家石油公司油輪遭到攻擊；伊朗與阿曼協議談判接近**
+> 阿聯酋報告稱，阿布達比國家石油公司的三艘船在一周內遭到飛彈襲擊；伊朗聲稱與阿曼就海峽管理協議取得進展；伊朗要求美國在重新開放方面做出讓步。
 
-**2026-08-01** `MILITARY` — **伊朗襲擊繞過其交通系統的船隻**
-> 兩艘途經阿曼航線的船隻發生撞擊；至少有一次額外的攻擊嘗試。美國報告稱，45 艘商船改道，2 艘癱瘓，2 艘登上。
+**2026-08-13** `DIPLOMATIC` — **全球庫存迅速耗盡；加強復工力度**
+> 國際能源總署警告石油儲備以不可持續的速度燃燒；雙方面臨國際壓力進行談判；阿曼和卡達積極斡旋。
 
-**2026-08-13** `ECONOMIC` — **IEA警告石油庫存迅速耗盡**
-> 國際能源總署警告全球庫存迅速減少；隨著世界儲備耗盡，呼籲緊急重新開放霍爾木茲。
+**2026-08-15** `ESCALATION` — **美伊僵局；川普威脅戰後宣布美國海峽擁有領土**
+> 川普聲稱戰爭結束後他將宣布霍爾木茲為美國領土；伊朗回應「一條推文無法佔領海峽」；對水路的控制是伊朗談判籌碼的核心。
 
-**2026-08-17** `DIPLOMATIC` — **美國與伊朗 60 天諒解備忘錄窗口期滿**
-> 60天談判期滿，仍無突破。川普威脅採取軍事行動；伊朗重申重新開放的條件（解除封鎖、結束制裁、釋放凍結資產）。
+**2026-08-16** `ESCALATION` — **伊朗宣稱控制權； 449艘船擱淺；談判陷入僵局**
+> 伊朗透過新的打擊確認對海峽的控制； 449艘船舶在泊位外等候；美伊談判陷入僵局；土耳其總統艾爾段呼籲重新開放。
 
-**2026-08-18** `DIPLOMATIC` — **Iran-Oman transit route agreement progresses**
-> 消息人士稱，伊朗和阿曼已就過境路線圖達成協議；最終聯合聲明尚未敲定。川普威脅阿曼如果乾涉談判。
+**2026-08-19** `MILITARY` — **海峽有效關閉；海上混亂仍在繼續**
+> PortWatch 記錄最少 AIS 確認的過境； GPS/AIS 普遍受到干擾； 24 小時內檢測到 13 艘船穿越基線，而危機前為 73 艘；布倫特原油價格為 91.70 美元。
 
 ## 最新新聞
 
-- [FT: Iran considers strikes on U.S. targets in Europe, with Cyprus and Bulgaria in the “Crosshairs”](https://en.protothema.gr/2026/08/19/ft-iran-considers-strikes-on-u-s-targets-in-europe-with-cyprus-and-bulgaria-in-the-crosshairs/)　*Protothema・2026-08-19*
-- [川普下令後美韓演習縮短：他想從北韓得到什麼](https://timesofindia.indiatimes.com/defence/international/us-south-korea-drills-cut-short-after-donald-trump-order-what-he-wants-from-north-korea/articleshow/133338249.cms)　*The Times Of India・2026-08-19*
-- [MU、SNDK 隔夜下跌：KOSPI 因亞洲科技晶片潰敗而暫停，軟銀、三星、SK 海力士撤退](https://newsable.asianetnews.com/markets/mu-sndk-dip-overnight-kospi-hits-halt-amid-asian-tech-chip-rout-softbank-samsung-sk-hynix-retreat-articleshow-ddymygt)　*Asianet Newsable・2026-08-19*
-- [富時 100 實時：通膨飆升後股市上漲；川普宣稱擁有霍爾木茲海峽，油價飆漲 - City AM](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlBVR1J6MTlwZDloamZUeUxhUV9pWjRfVGdhbmxWR29pN09HMXg5R2VSRGlfaTd0QlliX1FyVDRtX3NSQmJRdmRWcEp3clVoYks1NDFLTUZfWXNkaDZwYkl4aTYxb0lhUnAzM3VJSHVudjlZazF1TzJsOXdmRXdPNjJOc0xKc2RfbFlSeGVRM2l3WUhBb1FSVVRpb1BIQ2pCOFlV?oc=5)　*Google News・2026-08-19*
-- [8月19日今日金價：查看金奈、孟買、德里、加爾各答等城市18、22、24克拉黃金價格](https://indianexpress.com/article/india/gold-rate-today-august-19-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10839587/)　*The Indian Express・2026-08-19*
+- [CM可能將Raj推介為阿聯酋的投資中心](https://timesofindia.indiatimes.com/city/jaipur/cm-to-likely-pitch-raj-as-investment-hub-in-uae-meet/articleshow/133355724.cms)　*The Times Of India・2026-08-19*
+- [神秘Polymarket百萬富翁押注179,000美元 伊朗核談判今年將失敗](https://www.forbes.com/sites/antoniopequenoiv/2026/08/19/mystery-polymarket-millionaire-bets-179000-iran-nuclear-talks-will-fail-this-year/)　*Forbes・2026-08-19*
+- [巴勒斯坦國是區域和平的基礎](https://www.thehindu.com/opinion/lead/a-palestinian-state-is-the-foundation-for-regional-peace/article71365974.ece)　*The Hindu・2026-08-19*
+- [伊朗新「戰爭地圖」揭曉：繼海灣戰爭之後，美國在歐洲各地的基地現在都在莫吉塔巴的雷達範圍內嗎？ |伊朗戰爭](https://www.hindustantimes.com/videos/irans-new-war-map-revealed-after-gulf-us-bases-across-europe-now-on-mojtaba-s-radar-iran-war-101787158923503.html)　*Hindustan Times・2026-08-19*
+- [揭曉：為什麼伊朗的霍爾木茲協議會給川普和美國軍隊帶來麻煩；莫吉塔巴將增強飛彈...](https://www.hindustantimes.com/videos/revealed-why-irans-hormuz-deal-can-spell-trouble-for-trump-us-army-mojtaba-to-boost-missile-101787158068122.html)　*Hindustan Times・2026-08-19*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-20 02:21 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-20 14:30 台灣時間，僅供參考，不構成投資建議。*
