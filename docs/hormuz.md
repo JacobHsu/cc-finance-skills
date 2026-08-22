@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-22 14:24 台灣時間　｜　資料更新：2026-08-22 14:24 台灣時間
+> 更新時間：2026-08-22 20:21 台灣時間　｜　資料更新：2026-08-22 20:21 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | 海峽實際上仍然對商業航運關閉。過境嚴格限制為每天 1-10 艘船，而危機前為 60-130 艘。過去一周發生多起船隻攻擊事件。外交談判正在進行但陷入停滯。美國對伊朗港口的海上封鎖活躍；伊朗對航運的攻擊仍在繼續。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 儘管 6 月 17 日諒解備忘錄短暫重新開放，但海峽實際上仍關閉商業航運。德黑蘭針對船隻的攻擊和美國海軍的封鎖繼續抑制交通。第二個升級週期於 7 月 7 日開始； 6 月 17 日的交易於 7 月中旬破裂。最近的船隻襲擊和外交緊張局勢使交通量遠低於危機前標準的 1%。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 3 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
+| 4 | 6 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **325** | 120 | 95 | 110 | <span style="color:#27ae60">+2.00</span> |
+| **480** | 185 | 160 | 135 | <span style="color:#e74c3c">-2.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 205,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 下跌 |
+| 620,000 | 10,300,000 | <span style="color:#e74c3c">6.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** 美伊外交崩潰；阿曼-伊朗技術談判的重點是船隻路線，而不是重新開放
+**頭條：** 美伊60天和平窗口期滿；在川普威脅阿曼之際，伊朗與阿曼的談判仍在持續
 
-**各方：** United States, Iran, Oman, Qatar (mediator)
+**各方：** Iran, United States, Oman, Qatar (mediation)
 
-> 由於雙方聲明相互矛盾，美伊直接談判實際上已經破裂。伊朗繼續堅持廣泛的政治和經濟要求（凍結資產釋放、地區局勢緩和）。伊朗和阿曼之間的單獨技術會談主要集中在船隻移動和航行路線上，明確地不是重新開放海峽。卡達試圖促成短期安排以重啟談判。
+> 美伊60天外交窗口於8月17日到期，未取得突破。截至 8 月 8 日，伊朗和阿曼正在就安全航線舉行技術會談，會談被描述為“積極且富有建設性”，不過伊朗官員警告稱，協議仍需要美國做出讓步。川普威脅稱，如果阿曼幹擾美國的努力，就會攻擊阿曼，而伊朗則要求美國賠償，作為重新開放的先決條件。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.8B |
+| 21% | $3.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> 液化天然氣貿易嚴重中斷。日本和韓國面臨嚴重的供應短缺，替代品有限。液化天然氣現貨價格上漲；由於無法履行或轉移好望角周圍的貨物，長期合約面臨壓力。
+> 全球 25% 的液化天然氣貿易經過霍爾木茲。三大進口商面臨嚴峻的供應成本；自危機爆發以來，液化天然氣現貨價格上漲了 45-60%。有限的替代供應商（澳洲、美國、俄羅斯）無法迅速填補空白。
 
 **受影響地區**
 
@@ -72,63 +72,68 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| China | HIGH | 40% |
 | India | HIGH | 60% |
-| EU | MODERATE | 20% |
-| Gulf Exporters (Saudi, UAE, Kuwait) | CRITICAL | 100% |
+| China | HIGH | 40% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | Heavily used for non-urgent cargo; queue times at Cape increasing; costs rising as competition for tonnage intensifies |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以 5 mbpd 的容量運作；重要但不足以取代霍爾木茲；沙烏地阿拉伯維持嚴格的分配控制 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 最大運行速度為 1.5 mbpd；產能利用率至關重要；僅服務阿聯酋和有限的區域出口 |
+| 好望角 | +12 天 | $650 | 正在進行大規模的路線調整；經開普敦改道的貨櫃船和散裝貨船；每艘 VLCC 增加 10-15 天和 500-80 萬美元。 |
+| East-West Saudi Pipeline | +0 天 | — | 以 5 mbpd 的容量運作；僅限沙特；提供了一些體積緩解，但不足以取代霍爾木茲封閉。 |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 運行速度為 1.5 mbpd；迪拜環球港務集團每月花費約 1 億美元用於富查伊拉擴建，作為旁路基礎設施；集裝箱吞吐量約為正常水平的 10%。 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +280% | +2.1% | 68 天 |
+| +85% | +2.3% | 70 天 |
 
 **主要供應鏈事件**
 
-- Crude oil freight rates from AG to China quadrupled (~$78/mt vs $18-20/mt pre-crisis); shipping economics fundamentally broken
-- 貨櫃運輸嚴重中斷；經開普敦改道的船隻會增加 10 至 15 天的時間； IT/電子產品供應鏈中東港口出現 3-4 週的延誤
-- 由於IEA鼓勵緊急釋放，全球石油庫存加速消耗；美國SPR在觸及結構性腳跟之前以最大速率持續釋放約68天
-- 煉油廠利潤壓縮且波動；有限的原油投入迫使減產；全球汽油/柴油/航空燃油溢價上漲；交通/能源部門的消費者通膨加速
+- 傑貝阿里（世界第四大貨櫃港）的營運吞吐量約為正常吞吐量的 10%；改道途經富查伊拉、豪爾法坎、阿曼，增加了延誤和成本。
+- 原油穿梭作業（阿曼灣的 STS 轉運）成為解決辦法，但效率低； VLCC 在霍爾木茲以西裝載，並透過船對船轉運卸載，增加了時間和成本。
+- 波斯灣約 480 艘船上有 6,000 多名海員受困；船員疲勞、法律/合約問題日益增多；疏散後勤綜合體。
+- 油輪運價（VLCC TD3C）飆升；現貨運費較危機前上漲 85% 以上；光是戰爭險保費就為每艘價值 1 億美元的船舶每次過境增加了 3-1000 萬美元。
 
 ## 危機時間軸
 
-**2026-02-28** `ESCALATION` — **危機開始：美以對伊朗的戰爭開始**
-> 美國和以色列對伊朗採取軍事行動後，霍爾木茲海峽開始受到干擾。 48 小時內，運輸量從每天 130 次銳減至個位數。
+**2026-02-28** `ESCALATION` — **伊朗戰爭開始；事實上的關閉**
+> 2026年伊朗戰爭爆發；隨著伊朗伊斯蘭革命衛隊發出警告並開始布雷和商船襲擊，霍爾木茲海峽實際上被關閉。
 
-**2026-04-08** `DIPLOMATIC` — **雙方達成為期兩週的停火協議**
-> 美國和伊朗同意有條件停火兩週，並安全通過海峽。石油價格大幅下跌；市場對決議短暫樂觀。
+**2026-03-02** `MILITARY` — **伊斯蘭革命衛隊正式關閉海峽**
+> 伊斯蘭革命衛隊宣布對「不友善國家」關閉海峽；僅允許伊朗批准的船隻；美國開始海軍反應。
 
-**2026-06-17** `DIPLOMATIC` — **簽署諒解備忘錄 (MoU)**
-> 美國與伊朗簽署諒解備忘錄；中轉班次暫時增至每天 84-95 班。伊朗建立波斯灣海峽管理局，聲稱擁有行政控制權。允許 60 天自由通行。
+**2026-04-13** `MILITARY` — **美國海軍封鎖開始**
+> US blockade of Iranian ports begins (April 13-May 29); simultaneous US-Iran dual blockade causes 70% tanker traffic drop; ~150 ships anchor outside strait.
 
-**2026-06-25** `MILITARY` — **伊朗在阿曼水域襲擊船隻**
-> 伊朗對阿曼南部走廊的船隻進行攻擊；美國以空襲回應。諒解備忘錄框架經過測試並開始崩潰。
+**2026-06-17** `DIPLOMATIC` — **美伊簽署諒解備忘錄**
+> Temporary ceasefire and reopening agreement signed; US lifts blockade June 18; commercial traffic surges June 19 with ~100 vessels/day transiting.
 
-**2026-07-07** `ESCALATION` — **伊朗再次發動攻擊；諒解備忘錄崩潰**
-> 7 月 7 日至 8 日，伊朗在阿曼海岸襲擊了多艘船隻。川普宣布諒解備忘錄不再有效。中轉次數下降至每天 73-78 次。外交框架被放棄。
+**2026-07-07** `ESCALATION` — **第二次攻擊週期開始；諒解備忘錄崩潰**
+> 三艘船在阿曼附近遭遇襲擊；美國撤銷伊朗石油銷售制裁豁免；儘管 6 月 17 日簽署了諒解備忘錄，升級仍在繼續；襲擊持續到七月中旬。
 
-**2026-08-13** `MILITARY` — **ADNOC油輪遭到攻擊**
-> 兩艘阿聯酋國有油輪（ADNOC）在海峽遭到無人機攻擊。一名水手被殺。升級顯示伊朗持續打擊商業目標的能力和意願。
+**2026-08-04** `DIPLOMATIC` — **伊朗-阿曼航線談判進展**
+> 伊朗和阿曼宣布就安全航線坐標達成協議；會談被描述為“專業”和“進展”，並在最終審查中發表了聯合聲明。
 
-**2026-08-20** `DIPLOMATIC` — **美伊外交實際上崩潰了**
-> 華盛頓和德黑蘭的相互矛盾的聲明使得近期突破的可能性不大。阿曼-伊朗技術談判仍在繼續，但主要集中在路線問題上，而不是重新開放。戰爭險保費維持在船體價值的 7.5-10%。
+**2026-08-08** `DIPLOMATIC` — **伊朗-阿曼協議即將完成；伊朗要求美國賠償**
+> 伊朗外交部長阿拉格奇表示，一些國家“非常接近”與阿曼達成海峽管理協議；警告說，重新開放仍需遵守“其他條件”，包括美國的賠償。
+
+**2026-08-17** `ESCALATION` — **美伊60天和平窗口期滿；外交崩潰**
+> 6月份设定的两个月外交窗口期满，但没有取得突破。川普威脅稱，如果阿曼幹擾美國的努力，就會對其發動攻擊。华盛顿和德黑兰的相互矛盾的声明扩大了分歧。油价小幅上涨；没有明确的解决途径。
+
+**2026-08-21** `ESCALATION` — **川普宣布針對伊朗的全面經濟措施**
+> 川普宣布新的經濟制裁，涵蓋銀行、航運登記、現金轉移和走私網路。布蘭特原油價格上漲至 93.01 美元（7 月 24 日以來的最高水準），週漲幅超過 5%。阿聯酋切斷與伊朗的所有金融聯繫。
 
 ## 最新新聞
 
-- [伊朗登陸日、梅塔受審、俄羅斯對英國：影響本週的 RT 通報](https://www.rt.com/news/644492-rt-stop-stories-iran-russia/)　*Rt・2026-08-21*
-- [美國威脅嚴厲制裁旨在「垮台」政權，伊朗誓言做出「毀滅性」反應](https://nypost.com/2026/08/21/world-news/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/)　*New York Post・2026-08-21*
-- [NATO members discuss Strait of Hormuz options without alliance involvement](https://ca.news.yahoo.com/nato-members-discuss-strait-hormuz-163705918.html)　*Yahoo! News・2026-08-21*
-- [Q&A: UW professors explain how we’re misreading the energy crisis](https://www.washington.edu/news/2026/08/21/qa-uw-professors-explain-how-were-misreading-the-energy-crisis/)　*University Of Washington・2026-08-21*
-- [國際事務的一週：川普對伊朗宣戰，俄羅斯威脅英國向烏克蘭供應無人機](https://timesofindia.indiatimes.com/toi-blogs/planet-watch/the-week-that-was-in-international-affairs-trump-declares-economic-war-on-iran-russia-threatens-uk-for-supplying-drones-to-ukraine/articleshow/133408816.cms)　*The Times Of India・2026-08-21*
+- [保守派《華爾街日報》質疑川普「咆哮」的可信度](https://www.rawstory.com/wsj-trump-2677757829/)　*Raw Story・2026-08-21*
+- [伊朗就新制裁威脅向川普發出令人不寒而慄的警告：“粉碎、懲罰、毀滅性”](https://www.timesnownews.com/world/middle-east/us-iran-war-latest-updates-abbas-araghchi-trump-economic-sanctions-threats-strait-of-hormuz-article-155951652)　*Times Now News・2026-08-21*
+- [在與伊朗的對峙中，美軍透過霍爾木茲運送1500萬桶石油](https://economictimes.indiatimes.com/news/international/world-news/us-military-moves-15-million-barrels-through-hormuz-amid-standoff-with-iran/articleshow/133417233.cms)　*The Economic Times・2026-08-21*
+- [伊朗是否在霍爾木茲海峽附近擊落了美國空軍E-3G飛機？這是事實](https://www.hindustantimes.com/world-news/us-news/did-iran-shoot-down-us-air-force-e-3g-plane-near-strait-of-hormuz-heres-the-truth-101787351176473.html)　*Hindustan Times・2026-08-21*
+- [川普稱伊朗尚未準備好達成“正確協議”](https://ca.news.yahoo.com/trump-says-iran-not-ready-222821955.html)　*Yahoo! News・2026-08-21*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-22 14:24 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-22 20:21 台灣時間，僅供參考，不構成投資建議。*
