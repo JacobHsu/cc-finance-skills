@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-23 14:26 台灣時間　｜　資料更新：2026-08-23 14:26 台灣時間
+> 更新時間：2026-08-23 20:22 台灣時間　｜　資料更新：2026-08-23 20:22 台灣時間
 
 ---
 
@@ -8,7 +8,7 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 海峽實際上仍然對商業航運關閉，只有零星的軍事護航過境。每天過境的船舶少於 1-5 艘。伊朗控制通過波斯灣海峽管理局的通行；美國維持與伊朗有關的船隻的海上封鎖。外交已經崩潰，衝突依然活躍。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to routine commercial shipping after collapse of June US-Iran memorandum. Only selective transits permitted under Persian Gulf Strait Authority control with navigation fees. Vessels under naval escort only. Most shipping diverted. |
 
 ## 船舶流量
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **250** | 120 | 80 | 50 | <span style="color:#27ae60">0.00</span> |
+| **310** | 180 | 80 | 50 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 6% | 0.15% | 40x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 51,500 | 10,300,000 | <span style="color:#e74c3c">0.5% ⚠️</span> | 下跌 |
+| 73,000 | 10,300,000 | <span style="color:#e74c3c">0.7% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** 美伊外交其實已經崩潰；川普宣布全面經濟制裁
+**頭條：** Trump threatens Oman as Qatar mediates; Iran rejects new talks claims
 
-**各方：** United States, Iran, Oman, UAE
+**各方：** USA, Iran, Qatar, Egypt, Oman
 
-> 6月17日簽署的美伊諒解備忘錄已到期，外交努力陷入停滯。短暫開火後，軍事衝突於 7 月恢復升級。川普政府於 8 月 21 日宣布針對伊朗的全面經濟措施。近期不存在可靠的緩和局勢途徑。
+> Trump threatened Oman with military action over Hormuz negotiations while Qatar's foreign ministry reported mediation efforts. Parliament Speaker Ghalibaf reiterated Iran's preconditions: lifting US blockade, ending oil sanctions, and releasing frozen assets. Conflicting signals from Washington and Tehran indicate widening diplomatic divide with negotiations stalled.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> 25% of global LNG trade disrupted. Japan, South Korea, and China face supply constraints and price spikes. LNG spot prices elevated; long-term contracts honored but shipping bottlenecked.
+> Quarter of global LNG supply at risk. Premium reimports diverted through Cape route adding 20-25 days transit time and $800k-$1.2M per vessel. Spot LNG prices near 3-year highs.
 
 **受影響地區**
 
@@ -72,62 +72,62 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| India | HIGH | 60% |
 | China | HIGH | 40% |
+| India | HIGH | 60% |
 | European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 由於成本原因，改道有限；一些油輪繞過霍爾木茲 |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以 5 mbpd 的容量運作；為沙烏地出口提供重要緩解 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbpd 的容量運作；可用的額外吞吐量有限 |
+| Cape of Good Hope | +12 天 | $750 | Primary reroute; carrying ~60-70% of diverted crude |
+| East-West Pipeline | +0 天 | — | Operational Saudi-only capacity at 5 mbpd; full utilization |
+| 哈布山-富查伊拉管道 | +0 天 | — | 阿聯酋管道流量為 1.5 mbpd；重新路由基礎設施成本不斷上升 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +340% | +3.2% | 71 天 |
+| +580% | +3.2% | 68 天 |
 
 **主要供應鏈事件**
 
-- 由於航線變更和風險溢價，全球貨櫃運費上漲 200-400%
-- 液化天然氣現貨價格上漲兩倍；預計 2026-27 年冬季暖氣燃料短缺
-- 製造業供應鏈緊張；半導體和汽車生產受到影響
-- 美國SPR產量為3.6億桶；策略性縮減維持市場，但長期結構性挑戰
+- Container ports Jebel Ali, Doha operating at 10% capacity; DP World incurring $100M/month in standby costs
+- 390 vessels in unauthorized holding pattern inside Persian Gulf; seafarer welfare crisis ongoing
+- Asian petrochemical refinery output down 15-20% due to crude feedstock unavailability
+- Air freight premiums +250-400% for critical parts; electronics, pharmaceuticals redirected to airfreight
 
 ## 危機時間軸
 
-**2026-02-28** `ESCALATION` — **戰爭開始；霍爾木茲海峽宣布關閉**
-> 美國和以色列對伊朗的空襲引發了戰爭。伊朗實際上關閉了霍爾木茲海峽。
+**2026-02-28** `ESCALATION` — **Iran closes Strait to commercial shipping**
+> 在美以史詩憤怒行動空襲之後，伊斯蘭革命衛隊正式宣布對不友善國家關閉霍爾木茲海峽。封鎖開始。
+
+**2026-03-02** `MILITARY` — **伊斯蘭革命衛隊聲稱完全控制**
+> Islamic Republic of Iran Navy announces achievement of complete control over strait; permits only Iran-approved vessels.
+
+**2026-04-08** `DIPLOMATIC` — **US-Iran ceasefire begins**
+> Two-week ceasefire agreement between Washington and Tehran; traffic remains suppressed at 95% below normal despite limited reopening signals.
 
 **2026-06-17** `DIPLOMATIC` — **美伊簽署諒解備忘錄**
-> 簽署臨時停火協議；海峽短暫重新開放，設有免費電話窗口。
+> Formal MoU agreement lifts US naval blockade on June 18. Strait reopens June 19 with commercial traffic surge; war-risk premiums drop from 100x to 8-10x normal.
 
-**2026-06-25** `MILITARY` — **伊朗在阿曼海域攻擊船隻**
-> 諒解備忘錄後的第一個重大攻擊週期；美軍空襲緊跟在後。
+**2026-07-12** `ESCALATION` — **Renewed hostilities; attacks resume**
+> After initial reopening calm, attacks on vessels resume. Commercial traffic collapses; memorandum framework effectively breaks down.
 
-**2026-07-07** `MILITARY` — **第二波升級浪潮開始**
-> 伊朗襲擊三艘船隻；川普宣布諒解備忘錄無效。外交勢頭崩潰。
+**2026-07-30** `ECONOMIC` — **Strait effectively closes again**
+> Traffic plummets following continued attacks. Strait reverts to de facto closure; only 10 vessels per day transiting vs 60+ normal baseline.
 
-**2026-07-16** `ESCALATION` — **胡塞武裝準備封鎖曼德海峽**
-> 伊朗要求也門胡塞武裝做好準備，如果美國攻擊伊朗基礎設施，則關閉紅海門戶。
-
-**2026-08-13** `ECONOMIC` — **全球庫存耗盡**
-> 國際能源總署警告稱，儘管價格下跌，但全球石油庫存仍在迅速減少；救濟不可持續。
-
-**2026-08-21** `ESCALATION` — **川普宣布對伊朗實施經濟制裁**
-> 新的全面製裁針對的是伊朗銀行、航運登記處和金融網絡。布蘭特原油漲至 93 美元以上。
+**2026-08-18** `DIPLOMATIC` — **Trump threatens Oman; Qatar mediates**
+> Trump warns Oman against interfering with Hormuz negotiations. Qatar reports mediation efforts. Iran rejects claims of new talks; demands remain unchanged.
 
 ## 最新新聞
 
-- [莫森雷扎伊 |伊斯蘭官僚](https://www.thehindu.com/news/international/mohsen-rezaee-the-islamic-apparatchik/article71378773.ece)　*The Hindu・2026-08-22*
-- [Fox News Host Dismantles JD Vance Rally Speech Point By Point](https://www.huffpost.com/entry/fox-news-host-jessica-tarlov-debunks-jd-vance-claims_n_6a89aa72e4b0832f431747c2)　*Huffpost・2026-08-22*
-- [Over 700 US troops killed, wounded as Iran war nears seventh month](https://timesofindia.indiatimes.com/world/us/over-700-us-troops-killed-wounded-as-iran-war-nears-seventh-month/articleshow/133427446.cms)　*The Times Of India・2026-08-22*
-- [特魯姆皮亞納：無論是朋友還是敵人，唐不會讓老松雞消失在草叢中](https://timesofindia.indiatimes.com/world/us/trumpiana-friends-or-foes-the-don-doesnt-let-old-grouses-go-under-grass/articleshow/133427532.cms)　*The Times Of India・2026-08-22*
-- [伊朗稱美國「為了以色列」將盟友置於危險之中，鄰國尋求新的安全關係](https://www.firstpost.com/world/iran-says-us-put-allies-at-risk-for-sake-of-israel-neighbours-seek-new-security-ties-14040104.html)　*Firstpost・2026-08-22*
+- [Iran warns nearby nations against joining US ‘economic war’ efforts](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts)　*Al Jazeera・2026-08-22*
+- [EU nations push windfall tax on oil giants over Iran war profits – media](https://www.rt.com/news/644543-eu-oil-windfall-tax-supply/)　*Rt・2026-08-22*
+- [US Gen. Jack Keane said Iran could have been defeated - so why did Trump stop? - opinion](https://www.jpost.com/opinion/article-905970)　*Jpost・2026-08-22*
+- [Sunday shows preview: Canada faces off in trade ‘war’ with U.S. amid national debt woes, Republicans gear up for upcoming primaries](https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries/)　*The Hill・2026-08-22*
+- [Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'](https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms)　*The Times Of India・2026-08-22*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-23 14:26 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-23 20:22 台灣時間，僅供參考，不構成投資建議。*
