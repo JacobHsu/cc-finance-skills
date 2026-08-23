@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-23 02:16 台灣時間　｜　資料更新：2026-08-23 02:16 台灣時間
+> 更新時間：2026-08-23 14:26 台灣時間　｜　資料更新：2026-08-23 14:26 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | 該海峽仍然正式開放，但在功能上對常規商業航運關閉。每天只有 10-15 次過境（而危機前為 130 次），美國護航的黑暗油輪運行抵消了報告的 AIS 過境。伊朗繼續襲擊船隻並透過 PGSA 許可證計畫控制過境；美國維持對伊朗船隻的海上封鎖和空中打擊。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 海峽實際上仍然對商業航運關閉，只有零星的軍事護航過境。每天過境的船舶少於 1-5 艘。伊朗控制通過波斯灣海峽管理局的通行；美國維持與伊朗有關的船隻的海上封鎖。外交已經崩潰，衝突依然活躍。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 10 | 10 | 60 | <span style="color:#e74c3c">16.7% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **220** | 85 | 65 | 70 | <span style="color:#27ae60">0.00</span> |
+| **250** | 120 | 80 | 50 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,400,000 | 10,300,000 | <span style="color:#e74c3c">13.6% ⚠️</span> | 上升 |
+| 51,500 | 10,300,000 | <span style="color:#e74c3c">0.5% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
 **狀態：** NO_TALKS
 
-**頭條：** US-Iran diplomacy collapses; Trump rejects talks, MOU expires without final agreement
+**頭條：** 美伊外交其實已經崩潰；川普宣布全面經濟制裁
 
-**各方：** United States, Iran, Oman
+**各方：** United States, Iran, Oman, UAE
 
-> 自 2026 年 8 月 20 日（6 月 17 日諒解備忘錄到期）起，美國與伊朗的外交接觸實際上已停止。川普政府表示沒有進行任何談判；伊朗外交部尚未承諾恢復談判。雙方關於海峽控制和封鎖狀況的相互矛盾的聲明消除了近期局勢緩和的途徑。
+> 6月17日簽署的美伊諒解備忘錄已到期，外交努力陷入停滯。短暫開火後，軍事衝突於 7 月恢復升級。川普政府於 8 月 21 日宣布針對伊朗的全面經濟措施。近期不存在可靠的緩和局勢途徑。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 25% of global LNG trade threatened; Japan and South Korea critically dependent. Spot LNG prices elevated 40-60% above normal; replacement via alternative routes adds 15+ days to delivery; strategic reserves being drawn down.
+> 25% of global LNG trade disrupted. Japan, South Korea, and China face supply constraints and price spikes. LNG spot prices elevated; long-term contracts honored but shipping bottlenecked.
 
 **受影響地區**
 
@@ -72,73 +72,62 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| China | CRITICAL | 40% |
 | India | HIGH | 60% |
+| China | HIGH | 40% |
 | European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 積極的;主要貨櫃和散裝船改道；增加了新加坡/海角裝載區的區域擁堵 |
-| 蘇伊士運河（經紅海） | +8 天 | $450 | Partially available but Houthi/Yemen instability adds war risk; fewer vessels routing this way than Cape |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 容量限制為 5 mbpd；充分利用；無法吸收增量原油需求 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | Limited to 1.5 mbpd; fully utilized; no spare capacity |
-| 美國護送的黑暗過境（霍爾木茲南部走廊） | +0 天 | $800 | 操作;每個 DOE 關閉 AIS 的夜間運行平均為 8-9 mbpd；高保險和操作風險 |
+| 好望角 | +12 天 | $650 | 由於成本原因，改道有限；一些油輪繞過霍爾木茲 |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以 5 mbpd 的容量運作；為沙烏地出口提供重要緩解 |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbpd 的容量運作；可用的額外吞吐量有限 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +320% | +2.1% | 71 天 |
+| +340% | +3.2% | 71 天 |
 
 **主要供應鏈事件**
 
-- VLCC 即期運費為 WS466+（與危機前的 WS40-60 相比）；直接霍爾木茲過境的運費上漲 8-10 倍
-- 液化天然氣現貨價格為 35-42 美元/mmBtu（危機前為 8-12 美元）；進口商提取戰略儲備的速度加快 20-30%
-- 由於運輸瓶頸，煉油廠吞吐量延遲 10-15 天；亞洲原油庫存跌破 30 天水平
-- 在結構性轉變之前，美國 SPR 可以維持 440 萬桶/天的釋放量約 71 天；全球庫存消耗速度加快
+- 由於航線變更和風險溢價，全球貨櫃運費上漲 200-400%
+- 液化天然氣現貨價格上漲兩倍；預計 2026-27 年冬季暖氣燃料短缺
+- 製造業供應鏈緊張；半導體和汽車生產受到影響
+- 美國SPR產量為3.6億桶；策略性縮減維持市場，但長期結構性挑戰
 
 ## 危機時間軸
 
-**2026-04-13** `MILITARY` — **美國開始對伊朗港口實施海上封鎖**
-> 美國海軍實施封鎖持續至5月底；海峽過境船隻銳減至每天 2-10 艘。
+**2026-02-28** `ESCALATION` — **戰爭開始；霍爾木茲海峽宣布關閉**
+> 美國和以色列對伊朗的空襲引發了戰爭。伊朗實際上關閉了霍爾木茲海峽。
 
-**2026-06-17** `DIPLOMATIC` — **US-Iran MOU signed; brief traffic recovery**
-> 諒解備忘錄暫時重新開放走廊；過境量增加，但仍比正常水平低 40-50%。
+**2026-06-17** `DIPLOMATIC` — **美伊簽署諒解備忘錄**
+> 簽署臨時停火協議；海峽短暫重新開放，設有免費電話窗口。
 
-**2026-06-25** `ESCALATION` — **伊朗在阿曼水域襲擊船隻；諒解備忘錄有效結束**
-> 伊朗的新一輪攻擊促使美國再次發動空襲；川普宣布諒解備忘錄不再有效。
+**2026-06-25** `MILITARY` — **伊朗在阿曼海域攻擊船隻**
+> 諒解備忘錄後的第一個重大攻擊週期；美軍空襲緊跟在後。
 
-**2026-07-07** `MILITARY` — **第二升級階段；伊朗和美國多次發動攻擊**
-> 7 月 7 日至 8 日阿曼水域航運遭受襲擊；美國空襲緊隨其後；交通量再次銳減至每天 10-16 艘船。
+**2026-07-07** `MILITARY` — **第二波升級浪潮開始**
+> 伊朗襲擊三艘船隻；川普宣布諒解備忘錄無效。外交勢頭崩潰。
 
-**2026-08-05** `DIPLOMATIC` — **Iran-Oman-US near-deal rumors; temporary optimism**
-> 臨時協議框架報告；德黑蘭與阿曼就航線座標達成協議；市場短暫走軟。
+**2026-07-16** `ESCALATION` — **胡塞武裝準備封鎖曼德海峽**
+> 伊朗要求也門胡塞武裝做好準備，如果美國攻擊伊朗基礎設施，則關閉紅海門戶。
 
-**2026-08-13** `MILITARY` — **ADNOC船隻遭到攻擊； IEA警告庫存耗盡**
-> 兩艘阿聯酋國家油輪發生攻擊；沒有人員受傷，但海上風險升高；全球庫存迅速下降。
+**2026-08-13** `ECONOMIC` — **全球庫存耗盡**
+> 國際能源總署警告稱，儘管價格下跌，但全球石油庫存仍在迅速減少；救濟不可持續。
 
-**2026-08-15** `MILITARY` — **美伊僵局持續；胡塞武裝紅海襲擊**
-> 航運面臨兩個方面的干擾：也門莫卡港口遭遇攻擊並暫停營運。
-
-**2026-08-18** `DIPLOMATIC` — **川普宣布沒有正在進行任何談判；加強海軍態勢**
-> 美國否認秘密管道外交主張；宣布霍爾木茲開放，但過境數據矛盾；擱淺船隻數量仍然很高。
-
-**2026-08-20** `DE_ESCALATION` — **6 月 17 日諒解備忘錄到期且未更換**
-> 臨時協議框架崩潰；沒有安排新的談判；外交通道有效關閉。
-
-**2026-08-22** `MILITARY` — **暗油輪過境策略占主導地位； ~8-9 mbpd 秘密移動**
-> 由美國護航的沙烏地阿拉伯、阿聯酋、科威特、卡達油輪在夜間過境時不使用 AIS，這抵消了官方過境計數；實際原油流量約為正常流量的 50%。
+**2026-08-21** `ESCALATION` — **川普宣布對伊朗實施經濟制裁**
+> 新的全面製裁針對的是伊朗銀行、航運登記處和金融網絡。布蘭特原油漲至 93 美元以上。
 
 ## 最新新聞
 
-- [Watch: USS George Washington ramps up night flights in Arabian Sea amid Iran tensions](https://gulfnews.com/world/americas/watch-uss-george-washington-ramps-up-night-flights-in-arabian-sea-amid-iran-tensions-1.500648657)　*Gulf News・2026-08-22*
-- [UK could have averted US 'trap' in Iran war, says Boris Johnson; calls for India-US-UK coordination over Hormuz](https://economictimes.indiatimes.com/news/defence/uk-could-have-averted-us-trap-in-iran-war-says-boris-johnson-calls-for-india-us-uk-coordination-over-hormuz/articleshow/133417978.cms)　*The Economic Times・2026-08-22*
-- [8月22日今日金價：查看金奈、孟買、德里、加爾各答等城市18、22、24克拉黃金價格](https://indianexpress.com/article/india/gold-rate-today-august-22-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10844441/)　*The Indian Express・2026-08-22*
-- [分析-川普進入中期選舉時外交政策勝利還很渺茫](https://ca.news.yahoo.com/analysis-trump-heads-midterms-short-050428875.html)　*Yahoo! News・2026-08-22*
-- [“經典殖民主義”：伊朗抨擊美國制裁是“經濟戰”](https://www.ndtvprofit.com/world/classic-colonialism-iran-slams-us-sanctions-as-economic-warfare-calls-it-attack-on-sovereignty-11943362)　*Ndtv・2026-08-22*
+- [莫森雷扎伊 |伊斯蘭官僚](https://www.thehindu.com/news/international/mohsen-rezaee-the-islamic-apparatchik/article71378773.ece)　*The Hindu・2026-08-22*
+- [Fox News Host Dismantles JD Vance Rally Speech Point By Point](https://www.huffpost.com/entry/fox-news-host-jessica-tarlov-debunks-jd-vance-claims_n_6a89aa72e4b0832f431747c2)　*Huffpost・2026-08-22*
+- [Over 700 US troops killed, wounded as Iran war nears seventh month](https://timesofindia.indiatimes.com/world/us/over-700-us-troops-killed-wounded-as-iran-war-nears-seventh-month/articleshow/133427446.cms)　*The Times Of India・2026-08-22*
+- [特魯姆皮亞納：無論是朋友還是敵人，唐不會讓老松雞消失在草叢中](https://timesofindia.indiatimes.com/world/us/trumpiana-friends-or-foes-the-don-doesnt-let-old-grouses-go-under-grass/articleshow/133427532.cms)　*The Times Of India・2026-08-22*
+- [伊朗稱美國「為了以色列」將盟友置於危險之中，鄰國尋求新的安全關係](https://www.firstpost.com/world/iran-says-us-put-allies-at-risk-for-sake-of-israel-neighbours-seek-new-security-ties-14040104.html)　*Firstpost・2026-08-22*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-23 02:16 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-23 14:26 台灣時間，僅供參考，不構成投資建議。*
