@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-26 20:34 台灣時間　｜　資料更新：2026-08-26 20:34 台灣時間
+> 更新時間：2026-08-27 03:38 台灣時間　｜　資料更新：2026-08-27 03:38 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping with only 3-4% of normal traffic transiting daily. Iran controls northern corridor with permit requirements; US maintains naval blockade on Iran-linked vessels and announced 20% toll on other cargo. Sporadic vessel transits occurring under extreme difficulty. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains under dual blockade with Iran-Oman temporary shipping corridor proposal outlined August 25. Traffic has increased to ~20% of pre-war levels. US military maintaining escort operations; Iran enforcing transit permit requirements via Persian Gulf Strait Authority. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 12 | 12 | 60 | <span style="color:#e74c3c">20.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **120** | 45 | 35 | 40 | <span style="color:#27ae60">+2.00</span> |
+| **127** | 45 | 52 | 30 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 9% | 0.15% | 60x |
+| 6% | 0.15% | 40x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
+| 2,060,000 | 10,300,000 | <span style="color:#e74c3c">20.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran-Oman framework talks continue but no automatic reopening; Trump threatens to bomb Oman over strait negotiations
+**頭條：** Iran-Oman propose temporary shipping corridor through Strait; wider negotiations continue
 
-**各方：** Iran, Oman, United States, Pakistan, Regional powers
+**各方：** Iran, Oman, United States, UAE, Saudi Arabia, Qatar, Pakistan
 
-> Iran and Oman have been negotiating for over three weeks on a shipping framework with proposed inbound/outbound routes and joint coordination center, but negotiations remain incomplete and fraught. Trump administration continues military and economic pressure including threats against Oman for engaging Iran. A two-month diplomatic window expired without progress as of August 21.
+> Iran and Oman outlined proposal August 25 to jointly establish temporary shipping corridor and clear mines after weeks of fraught discussions. Talks covering technical, legal, security and environmental aspects with focus on phased framework. Negotiations continuing despite Trump threats against Oman and expired 60-day US-Iran MOU deadline (August 17).
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $18.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.8B | Japan, South Korea, China |
+| 25% | $3.2B | Japan, South Korea, China |
 
-> 液化天然氣貿易嚴重受限，油輪運輸量極少。日本、韓國和中國的液化天然氣進口商面臨嚴重的成本通膨和供應短缺。全球液化天然氣價格上漲。
+> 25% of global LNG transits Hormuz. Top three importers facing supply constraints driving spot LNG prices up 180-220%. Japan, South Korea, China seeking alternative suppliers (Australia, US, Qatar) at premium pricing.
 
 **受影響地區**
 
@@ -75,69 +75,70 @@
 | China | HIGH | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
-| United States | HIGH | 15% |
+| United States | MODERATE | 5% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Mediterranean Shipping Company routing all Asia-Europe vessels via Cape; increased activity but slow ramp-up due to limited VLCC availability. |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating at capacity (5 mbpd); provides partial relief for Saudi crude exports. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at capacity (1.5 mbpd); ship-to-ship transfer activity increasing in Omani waters. |
+| Cape of Good Hope | +12 天 | $650 | In active use; tankers rerouting despite 12-day delay. Estimated 35-40% of diverted crude now using Cape route. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at 5 mbpd capacity; Saudi-only export option. Limited capacity; prioritized for Aramco crude. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; supplementing strait volumes but insufficient to offset blockade impacts. |
+| Omani Evacuation Route | +2 天 | $180 | UN-authorized corridor used for evacuations and limited commercial traffic; over 80% of recent transits using Omani route per latest reports. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +350% | +2.8% | 68 天 |
+| +185% | +12.5% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC TD3C 運價接近 52 萬美元/天，而危機前 WS 為 40-60 美元（溢價 40 萬美元以上）；對於邊際生產者來說運輸成本過高
-- 6,000+ seafarers stranded in region awaiting evacuation; crew welfare crisis ongoing
-- Insurance premiums at 9% of hull value vs. 0.15% normal; underwriters increasingly reluctant to provide coverage
-- LNG and refined products unable to access Hormuz; global refinery margins compressed; heating oil and diesel shortages in vulnerable regions
+- Global gasoline prices +$0.93/gallon YoY; crude Brent at $88.85/bbl August 25
+- Automotive production delays in Japan/Korea due to energy costs and component shortages
+- Chemical/fertilizer manufacturing curtailments in India and Europe
+- Refineries globally reducing throughput by 8-12% to manage margin compression from elevated crude but constrained export logistics
 
 ## 危機時間軸
 
-**2026-04-13** `ESCALATION` — **US counter-blockade**
-> US adds naval blockade of Iranian ports; both maritime corridors now effectively shut.
+**2026-06-25** `MILITARY` — **Iran Attacks Shipping in Omani Waters**
+> Iran strikes vessels south of traditional Hormuz lanes; US responds with airstrikes. MOU credibility damaged; traffic begins to decline.
 
-**2026-05-16** `ECONOMIC` — **IEA supply loss milestone**
-> IEA reports cumulative supply losses exceed one billion barrels—largest disruption in agency records.
+**2026-07-07** `MILITARY` — **Renewed Iranian Tanker Attacks**
+> Iran attacks multiple ships July 7-8 off Oman coast; US retaliates. Trump declares MOU 'no longer in force.' War risk premiums spike to 7.5-10%.
 
-**2026-06-17** `DIPLOMATIC` — **US-Iran MOU signed**
-> Memorandum of understanding announced; allows temporary passage increase and emergency evacuations. War-risk premiums drop to ~2%.
+**2026-07-10** `ECONOMIC` — **War Risk Premiums Peak at New Market Norm**
+> Hull war-risk premiums reach 5% of vessel value as market norm; ranged 3-10% at crisis peaks. Insurance costs for $100M tanker now $5-10M per voyage.
 
-**2026-06-25** `MILITARY` — **Iran attacks in Omani waters**
-> 伊朗在傳統霍爾木茲航道以南的阿曼水域襲擊船隻；美軍空襲緊隨其後。諒解備忘錄的有效性受到質疑。
+**2026-08-04** `DIPLOMATIC` — **Iran-Oman Negotiations Intensify**
+> Iran reports continuing negotiations with Oman over safe shipping routes. Focus on 'short-term resolution' to bring US and Iran back to table. No direct US-Iran talks ongoing.
 
-**2026-07-07** `MILITARY` — **新的攻擊升級**
-> 7月7日至8日，伊朗對阿曼海岸附近的船隻進行了襲擊；引發了美國的額外空襲。川普宣布諒解備忘錄不再有效。
+**2026-08-05** `DIPLOMATIC` — **Iran-Oman Agree on Route Coordinates**
+> Iran and Oman reach agreement on geographical coordinates of proposed safe shipping route. Technical and security aspects nearly finalized. Trump claims Hormuz reopening 'very soon.'
 
-**2026-07-12** `ECONOMIC` — **Transit collapse**
-> Only 14 vessels transit (vs. 130+ pre-crisis); US-protected southern corridor reportedly 'effectively collapsed'; war-risk premiums spike to 5-10%.
+**2026-08-13** `ECONOMIC` — **Global Oil Stockpile Depletion Warning**
+> IEA warns global oil stockpiles diminishing at rapid clip as crisis persists. Hormuz traffic remains low; industry calls for urgent reopening efforts.
 
-**2026-08-05** `DIPLOMATIC` — **伊朗-阿曼框架取得進展**
-> Iran and Oman report near-finalization of shipping framework after three weeks of talks; Trump claims Hormuz will reopen 'soon'.
+**2026-08-15** `MILITARY` — **UAE Tanker Attack and Red Sea Escalation**
+> ADNOC tankers attacked in Strait; Houthi port attacks in Yemen intensify. Dual maritime security crisis in Hormuz and Red Sea.
 
-**2026-08-21** `DIPLOMATIC` — **Peace talks window closes**
-> Two-month diplomatic window expires without clear path to end US-Iran war. Trump threatens to bomb Oman over negotiations.
+**2026-08-17** `DIPLOMATIC` — **60-day MOU Deadline Expires; Trump Threatens Oman**
+> 60-day US-Iran negotiation window expires without lasting deal. Trump threatens military action against Oman if it 'gets in the way.' Oil prices rise modestly (Brent +0.38%).
 
-**2026-08-23** `ESCALATION` — **Iran tightens control**
-> Iran warns of penalties for vessels violating transit rules; threatens to halt oil flow entirely if neighbors cooperate with US sanctions.
+**2026-08-21** `ECONOMIC` — **US Gas Prices Rise; Hormuz Traffic at 20% of Normal**
+> US gas prices up nearly $1 YoY. Ship transits increase 27% past week but remain at only 20% of pre-war average. Omani route carries 80%+ of recent transits.
 
-**2026-08-24** `ECONOMIC` — **US announces toll scheme**
-> Trump administration announces 20% toll on non-US cargo transiting strait (≈$32M per supertanker), stacking on Iran's own proposed fees.
+**2026-08-25** `DIPLOMATIC` — **Iran-Oman Propose Temporary Shipping Corridor**
+> Iran and Oman outline proposal to jointly establish temporary shipping corridor and clear mines after weeks of fraught discussions. Framework for phased implementation discussed. Deputy FM hints southern route may close under deal.
 
 ## 最新新聞
 
-- [美伊衝突轉變的五種方式—分析](https://www.jpost.com/middle-east/iran-news/article-906594)　*Jpost・2026-08-25*
-- [Strait of Hormuz 'militarily closed', says Iran despite Oman deal](https://newsable.asianetnews.com/world/strait-of-hormuz-militarily-closed-says-iran-despite-oman-deal-articleshow-eh3yct9)　*Asianet Newsable・2026-08-25*
-- [Iran, Oman reach agreement to temporarily reopen Strait of Hormuz](https://nypost.com/2026/08/25/world-news/iran-oman-reach-agreement-to-temporarily-reopen-strait-of-hormuz/)　*New York Post・2026-08-25*
-- [由於伊朗與阿曼霍爾木茲海峽談判的希望，美國油價擴大跌幅](https://www.channelnewsasia.com/business/us-oil-prices-extend-losses-hopes-iran-oman-talks-strait-hormuz-6341076)　*Channel Newsasia・2026-08-25*
-- [Oil falls as traders shrug off Iran sanctions](https://www.thestar.com.my/business/2026/08/26/oil-falls-as-traders-shrug-off-iran-sanctions)　*The Star・2026-08-25*
+- [Onion Price Hike: Govt To Sell Onions At Rs 35/kg In Delhi As Kanda Express Brings 800 Tonnes](https://news.abplive.com/business/onion-price-hike-government-orders-kanda-express-to-sell-onions-1863936)　*Abp News・2026-08-26*
+- [Oil Falls as Strait of Hormuz Talks Advance](https://uk.investing.com/analysis/oil-falls-as-strait-of-hormuz-talks-advance-200627527)　*Investing Uk・2026-08-26*
+- [Earnings call transcript: MPC Container Ships posts strong Q2 2026 backlog growth](https://uk.investing.com/news/stock-market-news/earnings-call-transcript-mpc-container-ships-posts-strong-q2-2026-backlog-growth-93CH-4847125)　*Investing Uk・2026-08-26*
+- [GIEWS Country Brief: The Kingdom of Eswatini 25-August-2026](https://reliefweb.int/report/eswatini/giews-country-brief-kingdom-eswatini-25-august-2026)　*Reliefweb・2026-08-26*
+- [USS Abraham Lincoln heads to Thailand for brief stop after lengthy deployment at sea](https://abcnews.com/US/wireStory/uss-abraham-lincoln-heads-thailand-brief-stop-after-135961847)　*Abc News・2026-08-26*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-26 20:34 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-27 03:38 台灣時間，僅供參考，不構成投資建議。*
