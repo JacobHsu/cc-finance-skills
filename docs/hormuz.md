@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-08-30 18:57 台灣時間　｜　資料更新：2026-08-30 18:57 台灣時間
+> 更新時間：2026-08-30 23:46 台灣時間　｜　資料更新：2026-08-30 23:46 台灣時間
 
 ---
 
@@ -8,7 +8,7 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 霍爾木茲海峽實際上仍然對商業航運關閉。伊朗聲稱，未經伊朗波斯灣海峽管理局批准，該海峽對船隻關閉。 8 月 23 日僅記錄了 3 次凌日，而危機前的基線為 85 次。伊斯蘭革命衛隊海軍繼續瞄準艦艇； 425 艘船堅守陣地等待許可。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 8 月 29 日起，商業航運實際上已關閉。 8 月 23 日只有 3 艘船舶過境，而正常情況下每天約 85 艘船舶過境。伊朗維持封鎖立場；美國聲稱已清除地雷並開放航道，但實際商業交通量仍接近零。伊朗和阿曼正在談判臨時航運走廊框架，尚未實施。 |
 
 ## 船舶流量
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **425** | 220 | 120 | 85 | <span style="color:#27ae60">0.00</span> |
+| **250** | 95 | 85 | 70 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 6% | 0.15% | 40x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 下跌 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** 伊朗-阿曼會談取得一定進展，但美伊僵局持續存在
+**頭條：** 伊朗-阿曼臨時航運走廊提案；卡達調解；美國未直接參與
 
-**各方：** Iran, Oman, United States, Qatar, UAE
+**各方：** Iran, Oman, Qatar, Pakistan, United States
 
-> 伊朗和阿曼以適度樂觀的態度討論管理霍爾木茲海峽，儘管德黑蘭要求美國在重新開放之前做出讓步。卡達外交部報告稱，調解員尋求短期安排以重啟談判。華盛頓和德黑蘭的相互矛盾的聲明表明短期內不太可能取得突破。
+> Iran and Oman outlined a phased framework for a temporary shipping corridor through Hormuz on August 25-26, with mine-clearing component. Qatar Prime Minister visited Tehran August 27 to discuss the proposal. US remains outside direct negotiations, with White House stating no active talks with Iran as of August 27. Iran conditions reopening on US lifting naval blockade and unfreezing assets.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $4.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 全球 25% 的液化天然氣供應面臨風險。與正常流量相比，每週只有 1 艘液化天然氣運輸船進入海灣，3 艘離開。液化天然氣現貨價格較危機前水準飆升 150% 以上。頂級進口商面臨嚴重的短缺和配給。
+> 25% of global LNG trade disrupted. Japan and South Korea facing acute supply pressure. Spot LNG prices elevated 30-50% above pre-crisis levels.
 
 **受影響地區**
 
@@ -74,66 +74,66 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| European Union | MODERATE | 20% |
+| EU | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 正在進行大規模的路線調整；成為亞歐貿易的主要通道；好望角端點的港口擁堵得到緩解 |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | Operating at 5 mbpd capacity; Saudi-only crude; insufficient to offset Hormuz loss |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | Operating at 1.5 mbpd capacity; DP World spending $100m/month keeping Jebel Ali ready; cargo rerouting through Fujairah accelerating |
+| Cape of Good Hope | +12 天 | $650 | 觀察到中度改道；儘管避免霍爾木茲風險和保險費的成本很高，但許多船東還是更願意改變路線。 |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | Limited utilization due to 5 mbpd capacity constraint and Saudi preference for Hormuz transits when safe. |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | Operating below 1.5 mbpd capacity; limited benefit to non-UAE producers. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +285% | +3.2% | 70 天 |
+| +250% | +1.8% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates at $480-510k/day (WS475-485); 850% above pre-crisis WS40-60 baseline; extraordinary freight premiums strangling supply
-- 戰爭險保費為船體價值的8.5%（正常的56.7倍）；每艘油輪運輸 3-800 萬美元；航運公司從波斯灣撤運噸位
-- 傑貝阿里的貨櫃吞吐量銳減至正常水準的 10%；杜拜環球港務集團透過富查伊拉和其他樞紐重新安排貨品路線
-- Global oil prices up 35-40%; LNG prices elevated 150%+; CPI inflation accelerating in energy-dependent economies; fuel price pass-through to consumers underway
+- Global LNG spot prices up 35-45%; Japan and Korea facing energy rationing discussions
+- AG-East 航線的油輪運價較危機前基準上漲 250% 以上；一些業者支付峰值1000+ WS
+- Six P&I insurance clubs have withdrawn war-risk cover; market concentration increasing insurer risk
+- Approximately 6000 seafarers stranded in region; IMO evacuation operations ongoing but limited capacity
 
 ## 危機時間軸
 
-**2026-02-28** `ESCALATION` — **Crisis Begins - Strait of Hormuz Closure**
-> Iran issues warnings forbidding passage through Strait; IRGC begins boarding and attacking merchant ships; sea mines laid in strait. Shipping companies suspend operations.
+**2026-02-28** `ESCALATION` — **US-Israel airstrikes; Hormuz closure begins**
+> US and Israel conduct airstrikes on Iranian targets including assassination of Ali Khamenei. Iran closes Strait of Hormuz to foreign shipping in response.
 
-**2026-04-17** `DIPLOMATIC` — **Iran Claims Reopening**
-> Iran's foreign minister announces reopening, prompting rush of vessels toward strait. Most quickly reverse course; only 13 tankers successfully exit.
+**2026-03-02** `MILITARY` — **Iran declares Hormuz closed to unfriendly nations**
+> IRGC officially closes strait to unfriendly nations; only Iran-approved vessels allowed. Traffic collapses.
 
-**2026-06-17** `DIPLOMATIC` — **US-Iran Memorandum of Understanding**
-> MOU signed promising 60 days of calm; vessel transits temporarily increase but remain below pre-war averages.
+**2026-04-08** `DIPLOMATIC` — **Two-week ceasefire agreement announced**
+> US and Iran agree to two-week ceasefire with Strait of Hormuz safe passage terms. Traffic temporarily increases but remains well below normal.
 
-**2026-06-25** `ESCALATION` — **Iran Attacks Ships in Omani Waters**
-> Iran attacks vessel in Omani waters south of Hormuz; US launches airstrikes in response; MOU effectively begins to unravel.
+**2026-06-17** `DIPLOMATIC` — **Iran-US MOU signed**
+> Memorandum of understanding signed between US and Iran; IMO evacuation operation begins via Omani waters. Transit volume increases slightly.
 
-**2026-07-07** `MILITARY` — **US-Iran Tit-for-Tat Attacks Resume**
-> Second round of Iranian attacks on ships off Oman coast; US airstrikes follow; President Trump declares MOU no longer in force.
+**2026-06-25** `ESCALATION` — **Iran attacks ship in Omani waters; US airstrikes**
+> 伊朗在傳統霍爾木茲航道以南的阿曼水域襲擊了船隻。美國以空襲報復。諒解備忘錄實際上被川普終止了。
 
-**2026-08-05** `MILITARY` — **ADNOC Vessels Targeted**
-> Three ADNOC tankers attacked by missiles and drones in single week; no injuries reported but security situation deteriorates.
+**2026-07-07** `MILITARY` — **伊朗再次發動攻擊以及美國的回應**
+> Iran conducts attacks on ships off Oman coast July 7-8. US retaliates with airstrikes. Trump declares MOU no longer in force. Traffic drops sharply.
 
-**2026-08-08** `DIPLOMATIC` — **Iran-Oman Negotiations Advance**
-> Iran claims near agreement with Oman on strait management; warns US concessions required before reopening.
+**2026-08-01** `MILITARY` — **Ongoing low-intensity conflict**
+> Periodic attacks continue through early August. Commercial transits remain severely restricted at 3-10 vessels/day. Tanker hit on August 25.
 
-**2026-08-13** `ECONOMIC` — **Global Oil Stockpiles Diminishing Rapidly**
-> IEA warns global oil stockpiles declining at accelerated pace; diplomatic efforts to reopen strait become increasingly urgent.
+**2026-08-25** `DIPLOMATIC` — **Iran-Oman temporary corridor proposal outlined**
+> 伊朗和阿曼宣布了聯合掃雷倡議的臨時航運走廊框架。提案包括分階段實施和潛在的永久安排。
 
-**2026-08-25** `MILITARY` — **Unidentified Tanker Struck**
-> Unidentified tanker struck by projectile transiting Hormuz; fire extinguished; crew safe; attribution unconfirmed.
+**2026-08-27** `DIPLOMATIC` — **卡達總理訪問德黑蘭；調解力道加大**
+> Qatar's Prime Minister Sheikh Mohammed holds talks in Tehran with Iranian FM Abbas Araghchi regarding Strait of Hormuz proposal and de-escalation efforts. Pakistan and Qatar acting as mediators.
 
 ## 最新新聞
 
-- [What’s behind the US deal to seize control of Venezuelan oil reserves?](https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves)　*Al Jazeera・2026-08-29*
-- [GDP data, crude prices among 7 factors likely to steer D-Street this week](https://economictimes.indiatimes.com/markets/stocks/news/gdp-data-crude-prices-among-7-factors-likely-to-steer-d-street-this-week/articleshow/133622736.cms)　*The Economic Times・2026-08-29*
-- [Judge rules against Trump over deporting students critical of Israel](https://www.upi.com/Top_News/US/2026/08/29/trump-deporations-unconstitutional/5771788040530/)　*Upi・2026-08-29*
-- [Pentagon Pete Quietly Sidelined After Trump Blowup](https://www.thedailybeast.com/pentagon-pete-quietly-sidelined-after-trump-blowup/)　*The Daily Beast・2026-08-29*
-- [Trump's naming game expands to buildings, ships, money and more](https://www.usatoday.com/story/news/politics/2026/08/29/president-trump-stamps-name-brand-government/91526378007/)　*Usa Today・2026-08-29*
+- [隨著「經濟戰」持續，美國制裁對伊朗造成壓力](https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-august-30-2026-live-updates)　*Khaleej Times・2026-08-30*
+- [No Ship Passes Hormuz Without Iran's Permission — Foreign Ministry](https://sputniknews.in/20260830/12094063.html)　*Sputnik News・2026-08-30*
+- [伊朗最高領袖呼籲穆斯林國家團結](https://gulfnews.com/world/mena/iran-supreme-leader-calls-for-unity-among-muslim-countries-2-1.500656852)　*Gulf News・2026-08-30*
+- [Iran's president says US peace MoU serves Iran, region and world](https://gulfnews.com/world/mena/irans-president-says-us-peace-mou-serves-iran-region-and-world-1.500656852)　*Gulf News・2026-08-30*
+- [Auto, taxi unions demand fare hike, threaten strike over CNG price rise](https://www.thehindu.com/news/cities/Delhi/auto-taxi-unions-demand-fare-hike-threaten-strike-over-cng-price-rise/article71405932.ece)　*The Hindu・2026-08-30*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-30 18:57 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-08-30 23:46 台灣時間，僅供參考，不構成投資建議。*
