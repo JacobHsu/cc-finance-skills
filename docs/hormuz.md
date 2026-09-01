@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-01 23:49 台灣時間　｜　資料更新：2026-09-01 23:49 台灣時間
+> 更新時間：2026-09-02 04:20 台灣時間　｜　資料更新：2026-09-02 04:20 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping since July 12, 2026 after Iran renewed attacks on vessels. As of August 31, 2026, only 3-10 vessels transiting per day versus normal 85-90, representing 3-12% of pre-crisis traffic. Convoys operate under naval escort; Iran claims closure remains in effect until 'end of America's evils'; US Navy operations ongoing. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自伊朗於 2026 年 3 月 2 日宣布關閉霍爾木茲海峽以來，截至 2026 年 8 月 31 日，霍爾木茲海峽實際上仍關閉商業航運。伊朗聲稱擁有控制權，美國海軍存在實施反封鎖。過境極為有限（8 月 23 日有 3 艘船，而正常情況下約為 85 艘/天）。美國於 8 月 30 日發動最新攻擊，伊斯蘭革命衛隊誓言報復。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 5 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
+| **325** | 150 | 95 | 80 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 10% | 0.15% | 66.7x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 上升 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** US-Iran tensions resurge with mutual military strikes as diplomatic corridor remains stalled
+**頭條：** 伊朗與阿曼就霍爾木茲航運協議進行最後階段起草，美伊60天談判窗口結束但未取得重大突破
 
-**各方：** United States, Iran, Oman, Yemen (Houthis)
+**各方：** United States, Iran, Oman, Qatar, Pakistan
 
-> Following the June 2026 MOU that briefly reopened the strait, Iran renewed attacks on shipping in July 2026 and the IRGC declared closure on July 12. Tit-for-tat US-Iran military strikes resumed late August, with US bombing Hormuz targets and IRGC vowing retaliation on August 30. Diplomatic corridor talks via Iran-Oman intermediaries continue in parallel with military escalation. Houthis have also declared blockade of Bab el-Mandeb chokepoint.
+> 截至八月初，伊朗和阿曼正處於穿越霍爾木茲海峽商業航運走廊協議的最後起草階段。川普政府取消了額外的打擊（8 月 4 日），但也於 8 月 17 日威脅阿曼，當時 60 天的談判窗口期滿，但沒有重大協議。更廣泛的和平框架仍然停滯不前，霍爾木茲控制是關鍵癥結。
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.95B | Japan, South Korea, China |
+| 25% | $0.42B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face 35-50% longer delivery times via Cape of Good Hope. LNG spot prices have surged 80-120% above pre-crisis levels. Approximately 6,000 seafarers trapped in region awaiting evacuation or stranded vessel relief.
+> 全球約 25% 的液化天然氣貿易通常會經過霍爾木茲海峽。日本和韓國面臨嚴重的供應短缺，液化天然氣價格上漲，現貨市場極度緊張。
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope (Africa Route) | +12 天 | $650 | Heavily utilized; 30-40% of Gulf crude now routed via Cape; shipping capacity heavily taxed |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at maximum 5 mbpd capacity; Saudi-only; insufficient for global demand |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | At 1.5 mbpd maximum capacity; UAE domestic and limited regional distribution only |
-| Suez Canal (Red Sea Route) | +8 天 | $480 | Partially operational; Houthis now blocking Bab el-Mandeb gate since July 26; premium route now faces secondary chokepoint risk |
+| 好望角（非洲） | +12 天 | $650 | 正在進行大量重新路由；約佔非霍爾木茲原油流量的 70%；非洲港口擁塞現像日益嚴重。 |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以 5 mbpd 的容量運作；僅限沙烏地阿拉伯石油；非沙烏地阿拉伯生產商的利益有限。 |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | Operating at 1.5 mbpd capacity; partial relief; UAE-only crude; insufficient to offset Hormuz closure. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +650% | +8.5% | 70 天 |
+| +250% | +2.1% | 70 天 |
 
 **主要供應鏈事件**
 
-- VLCC rates peaked at $500k/day (June), now $350-400k/day; baseline $50-60k pre-crisis — 700% above normal
-- 全球海運貨櫃費率上漲45-65%；杜拜、新加坡、鹿特丹港壅塞導致延誤 5 至 7 天
-- Refineries in Japan, South Korea, India running 15-25% below capacity due to crude shortage; fuel rationing active in 8+ countries
-- LNG spot prices up 95-125% year-over-year; winter heating concerns emerging in Northern Hemisphere; spot bids for September/October cargoes 2-3x forward prices
+- 自戰前以來，跨太平洋貨櫃運價上漲約 40%；亞洲-北歐運價上漲約 20%
+- 與海灣相連的走廊需支付 3,000 美元/FEU 的緊急附加費
+- 布蘭特原油價格比戰前水準上漲約 19%，至約 86-90 美元/桶
+- 據報道，超過 1,550 艘船滯留在波斯灣，約 22,500 名海員被困（5 月高峰）；目前水平較低，但恢復緩慢
 
 ## 最新新聞
 
-- [investingLive Asia-Pacific market news: Oil steady near highs, gold flat](https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-near-highs-gold-flat/)　*Forexlive・2026-09-01*
-- [9 月 1 日今日黃金和白銀價格：查看德里、孟買、加爾各答其他城市的 24K、22K 黃金價格](https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-september-1-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14019481.html)　*Moneycontrol・2026-09-01*
-- [Global Bond Selloff Sends Yields to the Highest Level Since 2008](https://uk.finance.yahoo.com/news/global-bond-selloff-sends-yields-033811407.html)　*Yahoo! News・2026-09-01*
-- [油價突破 90 美元，Nifty 持平，投資者追蹤全球風險](https://www.business-standard.com/markets/capital-market-news/nifty-seen-flat-as-oil-tops-90-investors-track-global-risks-126090100127_1.html)　*Business Standard・2026-09-01*
-- [Jet Fuel Prices Hiked By 5.46% Amid Iran War. Will Flight Travel Get Costlier?](https://www.ndtv.com/india-news/jet-fuel-prices-for-domestic-airlines-hiked-by-5-46-to-rs-121-28-per-litre-11984810)　*Ndtv・2026-09-01*
+- [黃金：緊張局勢再升級和能源驅動的通膨可能引發拋售壓力](https://au.investing.com/analysis/gold-renewed-tensions-and-energydriven-inflation-may-trigger-selling-pressure-200616562)　*Investing Australia・2026-09-01*
+- [PM Shehbaz addresses SCO summit in Bishkek](https://www.dawn.com/news/2026583/pm-shehbaz-addresses-sco-summit-in-bishkek)　*Dawn・2026-09-01*
+- [Opinion: Opinion | The Story Of How India Managed To Grow At 7.8% Even When Oil Was On Fire](https://www.ndtv.com/opinion/how-india-managed-to-grow-at-7-8-when-oil-was-on-fire-11985814)　*Ndtv・2026-09-01*
+- [Duolingo D-Day：伊朗人質疑美國對教育的最新制裁](https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education)　*Al Jazeera・2026-09-01*
+- [沙烏地阿拉伯油輪在霍爾木茲停靠，進入海峽的船隻數量低於10天平均水平](https://timesofindia.indiatimes.com/world/middle-east/saudi-tanker-stopped-at-hormuz-as-vessels-entering-the-strait-fall-below-10-day-average/articleshow/133672109.cms)　*The Times Of India・2026-09-01*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-01 23:49 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-02 04:20 台灣時間，僅供參考，不構成投資建議。*
