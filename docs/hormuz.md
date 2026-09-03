@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-03 18:27 台灣時間　｜　資料更新：2026-09-03 18:27 台灣時間
+> 更新時間：2026-09-03 23:32 台灣時間　｜　資料更新：2026-09-03 23:32 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-07-01 | 截至 2026 年 9 月 3 日，海峽實際上對大多數商業航運關閉。過境記錄有限（每天 6-13 艘船隻，而正常情況為每天 85 艘）。部分船隻可以進行實體通行，但通行條件嚴格，安全風險極大，有效關閉仍在繼續。局勢在選擇性重新開放和軍事升級後幾乎完全關閉之間搖擺不定。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait is effectively closed to commercial shipping with only 3-9 vessels transiting daily (vs. 60-85 normal). While physically passable via two corridors, access is severely restricted with Iranian conditions and US naval blockade in effect. Fresh escalation on Sept 1-2 with new tanker attacks. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 13 | 13 | 60 | <span style="color:#e74c3c">21.7% ⚠️</span> |
+| 6 | 5 | 60 | <span style="color:#e74c3c">8.3% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$88.24** | <span style="color:#e74c3c">-4.47</span> | <span style="color:#e74c3c">-4.82%</span> | 下跌 |
+| **$96.02** | <span style="color:#27ae60">+6.27</span> | <span style="color:#27ae60">+6.99%</span> | 上升 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **465** | 220 | 95 | 150 | <span style="color:#27ae60">+5.00</span> |
+| **240** | 85 | 95 | 60 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 9% | 0.15% | 60x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1.2 | 10,300,000 | <span style="color:#e74c3c">11.7% ⚠️</span> | 上升 |
+| 1,237,500 | 10,300,000 | <span style="color:#e74c3c">12.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** NO_TALKS
 
-**頭條：** US-Iran hardened positions; Oman mediating corridor arrangement with Iran in advanced stages
+**頭條：** 軍事升級占主導地位；伊斯蘭堡談判失敗和六月諒解備忘錄破裂後沒有積極的外交軌道
 
-**各方：** United States, Iran, Oman, Pakistan
+**各方：** United States, Iran, Israel, Saudi Arabia, UAE
 
-> 海峽管理問題的談判仍陷入僵局。伊朗提議在談判的「最後階段」與阿曼建立聯合走廊安排。美國和伊朗交換了新的強硬要求。沒有安排美伊直接會談；透過阿曼的調解努力仍在繼續。核心爭議集中在海峽准入條款、美國對伊朗港口的封鎖以及伊朗核計畫。
+> 伊斯兰堡和谈失败后，美国于 4 月 13 日实施海上封锁，随后 6 月签署的美伊临时谅解备忘录短暂缓解了紧张局势，随后于 6 月 27 日破裂。最新升级涉及美国于 9 月 1 日至 2 日发动袭击，伊朗则在约旦、阿联酋、巴林、科威特和伊拉克进行报复。目前沒有計劃或提議進行外交談判。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $1.8B |
+| 21% | $4.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.65B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 全球 25% 的液化天然氣貿易通常經過霍爾木茲海峽。日本、韓國面臨嚴重的液化天然氣短缺和價格飆升。中國可以獲得替代供應商。全球液化天然氣價格較危機前基準上漲 40-60%；亞洲液化天然氣現貨價格平均為 18-22 美元/MMBtu，而歷史價格為 8-12 美元。
+> 液化天然氣通過海峽的流量接近零；亞洲現貨價格比正常水平高出 40-60%。日本、韓國面臨嚴峻的能源安全危機，冬季需求接近。
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +13 天 | $650 | 主要承運商（馬士基、MSC、CMA CGM）主動改道；約佔嘗試過境的 30-35%；積壓了 150 多艘船舶等待開普航線航線。 |
-| 沙烏地阿拉伯東西管道（延布） | +0 天 | — | 容量~5mbpd；沙烏地阿拉伯最大化流量；管線接近滿載；沙烏地阿拉伯原油改道至紅海出口碼頭。 |
-| 阿聯酋哈卜尚-富查伊拉管道 | +0 天 | — | 容量~1.5 mbpd；被利用但受到限制；透過富查伊拉（西海岸繞道）增加 1-1.5 mbpd 的出口能力。 |
+| 好望角 | +12 天 | $650 | Heavy utilization; Red Sea route also disrupted by Houthis pushing more traffic around Africa |
+| 沙烏地阿拉伯東西管道 | +0 天 | — | 以接近滿 5 mbpd 的容量運作；沙烏地阿拉伯原油改道至紅海港口 |
+| 阿聯酋哈卜尚-富查伊拉管道 | +0 天 | — | 以 1.5 mbpd 的容量運作；擴展能力有限 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +275% | +2.3% | 71 天 |
+| +850% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- Crude oil throughput collapsed from 20+ mbpd to 4-5 mbpd; oil prices held elevated at $87-96/bbl despite demand destruction.
-- 全球運費比危機前基準高出 275%；改道油輪的運費為每航次 400 萬美元以上，而危機前為 90 萬美元。
-- Manufacturing input costs rising; automotive, petrochemicals, plastics production curtailed; semiconductor fab cooling systems constrained.
-- 消費燃料價格比危機前高 15-25%；能源密集商品（食品運輸、製造業）的通膨導致已開發經濟體 CPI 壓力上升 2-3%。
+- VLCC charter rates AG-China at $200-300k/day vs $50k normal (4-6x multiplier); some fixtures to $470-500k
+- War risk insurance premiums at 7.5-10% hull value vs 0.15% normal; $100M tanker facing $7.5-10M per transit vs $150k pre-crisis
+- Asian LNG spot prices up 40-60% YoY; Japanese utilities rationing industrial use; South Korean petrochemical production constrained
+- Brent crude at $88-95/bbl (elevated but below model $100+ scenarios due to SPR releases and rerouting efficacy)
 
 ## 最新新聞
 
-- [From 'Lake America' to 'Trump Strait': How the White House is renaming the globe](https://www.sbs.com.au/news/article/trump-renaming-spree-lake-america-strait-of-hormuz/zdwd60lwl)　*Sbs News・2026-09-02*
-- [Will Trump Account holders get $250 Dell grant starting Monday? Here’s who actually qualifies](https://www.hindustantimes.com/world-news/us-news/will-trump-account-holders-get-250-dell-grant-starting-monday-here-s-who-actually-qualifies-101788383908709.html)　*Hindustan Times・2026-09-02*
-- [Trump suggests changing Strait of Hormuz name to "Trump Strait"](https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/)　*Cbs News・2026-09-02*
-- [‘Trump Strait’: In Bizarre new push, Trump wants to put his name on Hormuz](https://zeenews.india.com/world/trump-strait-in-bizarre-new-push-trump-wants-to-put-his-name-on-hormuz-3069752.html)　*Zee News・2026-09-02*
-- [Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding](https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/)　*Fortune・2026-09-02*
+- [Oil prices edge lower as markets weigh renewed US-Iran supply risks](https://www.business-standard.com/markets/commodities/oil-prices-edge-lower-as-markets-weigh-renewed-us-iran-supply-risks-126090300067_1.html)　*Business Standard・2026-09-03*
+- [Stock market today: GIFT Nifty jumps 105 points, signals positive start for Dalal Street](https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-03-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133723589.cms)　*The Times Of India・2026-09-03*
+- [日本停電是合約問題](https://thediplomat.com/2026/09/japans-electricity-shock-is-a-contract-problem/)　*The Diplomat・2026-09-03*
+- [川普想稱之為「川普海峽」。但他真的能重新命名霍爾木茲嗎？](https://www.news18.com/world/trump-wants-to-call-it-trump-strait-but-can-he-actually-rename-hormuz-10307349.html)　*News 18・2026-09-03*
+- [All About US Strike On An Iran Wedding That Killed 4, Including Children](https://www.ndtv.com/world-news/kuhestak-strike-iran-us-war-all-about-us-strike-on-an-iran-wedding-that-killed-4-including-children-11995054)　*Ndtv・2026-09-03*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-03 18:27 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-03 23:32 台灣時間，僅供參考，不構成投資建議。*
