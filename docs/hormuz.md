@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-03 04:20 台灣時間　｜　資料更新：2026-09-03 04:20 台灣時間
+> 更新時間：2026-09-03 18:27 台灣時間　｜　資料更新：2026-09-03 18:27 台灣時間
 
 ---
 
@@ -8,7 +8,7 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 9 月 1 日起，海峽實際上對商業航運關閉。根據美伊諒解備忘錄（2026 年 6 月 17 日至 7 月），過境短暫恢復，但在伊朗襲擊船隻後於 7 月初崩潰。目前每天過境的船隻少於 10 艘，而正常基線為 60-85 艘/天。活躍的軍事行動和水雷繼續限制交通。 |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-07-01 | 截至 2026 年 9 月 3 日，海峽實際上對大多數商業航運關閉。過境記錄有限（每天 6-13 艘船隻，而正常情況為每天 85 艘）。部分船隻可以進行實體通行，但通行條件嚴格，安全風險極大，有效關閉仍在繼續。局勢在選擇性重新開放和軍事升級後幾乎完全關閉之間搖擺不定。 |
 
 ## 船舶流量
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **437** | 185 | 150 | 102 | <span style="color:#27ae60">0.00</span> |
+| **465** | 220 | 95 | 150 | <span style="color:#27ae60">+5.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 9% | 0.15% | 60x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 2,150,000 | 10,300,000 | <span style="color:#e74c3c">20.9% ⚠️</span> | 上升 |
+| 1.2 | 10,300,000 | <span style="color:#e74c3c">11.7% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** 美伊諒解備忘錄於 2026 年 7 月上旬破裂；截至 9 月 2 日尚未進行積極談判
+**頭條：** US-Iran hardened positions; Oman mediating corridor arrangement with Iran in advanced stages
 
-**各方：** United States, Iran, Israel, United Nations, Regional stakeholders
+**各方：** United States, Iran, Oman, Pakistan
 
-> A US-Iran memorandum of understanding signed June 17, 2026, temporarily reopened the strait from June 19-July 2, 2026. Iran resumed attacks on commercial vessels deemed noncompliant with Iranian demands in early July, effectively closing the strait again. Periodic diplomatic engagement continues but no formal peace talks currently scheduled.
+> 海峽管理問題的談判仍陷入僵局。伊朗提議在談判的「最後階段」與阿曼建立聯合走廊安排。美國和伊朗交換了新的強硬要求。沒有安排美伊直接會談；透過阿曼的調解努力仍在繼續。核心爭議集中在海峽准入條款、美國對伊朗港口的封鎖以及伊朗核計畫。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.8B |
+| 21% | $1.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $0.65B | Japan, South Korea, China |
 
-> 全球約 25% 的液化天然氣貿易經過霍爾木茲。日本面臨嚴重的供應中斷；韓國和中國以高價增加現貨採購。液化天然氣現貨價格較危機前水準上漲 30-45%。
+> 全球 25% 的液化天然氣貿易通常經過霍爾木茲海峽。日本、韓國面臨嚴重的液化天然氣短缺和價格飆升。中國可以獲得替代供應商。全球液化天然氣價格較危機前基準上漲 40-60%；亞洲液化天然氣現貨價格平均為 18-22 美元/MMBtu，而歷史價格為 8-12 美元。
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $625 | 大量使用；大多數亞歐貨櫃航線（MSC、馬士基）改道。增加 10-15 天，每艘船的航程成本增加 500-80 萬美元。 |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以 5 mbpd 的滿容量運作；僅限沙烏地阿拉伯訪問；不能取代更廣泛的全球流動。 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbpd 的容量運作；受小直徑限制；系統性地將海灣地區對霍爾木茲海峽的依賴度降低<2%。 |
+| 好望角 | +13 天 | $650 | 主要承運商（馬士基、MSC、CMA CGM）主動改道；約佔嘗試過境的 30-35%；積壓了 150 多艘船舶等待開普航線航線。 |
+| 沙烏地阿拉伯東西管道（延布） | +0 天 | — | 容量~5mbpd；沙烏地阿拉伯最大化流量；管線接近滿載；沙烏地阿拉伯原油改道至紅海出口碼頭。 |
+| 阿聯酋哈卜尚-富查伊拉管道 | +0 天 | — | 容量~1.5 mbpd；被利用但受到限制；透過富查伊拉（西海岸繞道）增加 1-1.5 mbpd 的出口能力。 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +320% | +2.1% | 68 天 |
+| +275% | +2.3% | 71 天 |
 
 **主要供應鏈事件**
 
-- 美國 SPR 可以維持每天 4.4 mbbps 的最大提款量約 68 天，然後再達到 5,800 萬桶結構性最低限度。
-- 馬士基、MSC、CMA CGM皆改道至好望角；亞洲-歐洲運輸時間 +10-15 天，每艘船成本 +500-80 萬美元。
-- VLCC rates spiked to near $500k/day (Aug 2026) from pre-crisis $40-60 WS (≈$20-30k/day baseline); effective 10x multiplier.
-- 6,000名海員仍滯留在海灣；437 艘船堅守陣地；心理保險市場退出風險上升。
+- Crude oil throughput collapsed from 20+ mbpd to 4-5 mbpd; oil prices held elevated at $87-96/bbl despite demand destruction.
+- 全球運費比危機前基準高出 275%；改道油輪的運費為每航次 400 萬美元以上，而危機前為 90 萬美元。
+- Manufacturing input costs rising; automotive, petrochemicals, plastics production curtailed; semiconductor fab cooling systems constrained.
+- 消費燃料價格比危機前高 15-25%；能源密集商品（食品運輸、製造業）的通膨導致已開發經濟體 CPI 壓力上升 2-3%。
 
 ## 最新新聞
 
-- [粗俗的人群？ 10桶交易如何打開3兆美元的石油市場](https://www.moneycontrol.com/world/crude-for-crowd-how-10-barrel-trades-are-opening-up-3-trillion-oil-market-article-14020684.html)　*Moneycontrol・2026-09-02*
-- [ED vs 旁遮普警察 | 1 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ | 1巴爾萬特·拉霍辛格 |哈米特希斯維爾 |哈米特希斯維爾 |](https://punjab.news18.com/videos/punjab/ed-vs-punjab-police-1-balwant-rajoana-harmeet-singh-jasvir-garhi-1000562.html)　*News18 Punjabi News・2026-09-02*
-- [US-Iran conflict: What UAE residents need to know today (Sept. 2, 2026)](https://gulfnews.com/uae/us-iran-conflict-what-uae-residents-need-to-know-today-sept-2-2026-1.500660357)　*Gulf News・2026-09-02*
-- [OMC可吸收85-90美元原油，持續100美元可能引發汽油、柴油價格上漲](https://www.moneycontrol.com/news/business/economy/omcs-can-absorb-85-90-crude-sustained-100-may-trigger-petrol-diesel-price-hike-14020725.html)　*Moneycontrol・2026-09-02*
-- [Cars set on fire in West Bank village, suspected nationalistic motivation to attack - report](https://www.jpost.com/israel-news/crime-in-israel/article-907303)　*Jpost・2026-09-02*
+- [From 'Lake America' to 'Trump Strait': How the White House is renaming the globe](https://www.sbs.com.au/news/article/trump-renaming-spree-lake-america-strait-of-hormuz/zdwd60lwl)　*Sbs News・2026-09-02*
+- [Will Trump Account holders get $250 Dell grant starting Monday? Here’s who actually qualifies](https://www.hindustantimes.com/world-news/us-news/will-trump-account-holders-get-250-dell-grant-starting-monday-here-s-who-actually-qualifies-101788383908709.html)　*Hindustan Times・2026-09-02*
+- [Trump suggests changing Strait of Hormuz name to "Trump Strait"](https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/)　*Cbs News・2026-09-02*
+- [‘Trump Strait’: In Bizarre new push, Trump wants to put his name on Hormuz](https://zeenews.india.com/world/trump-strait-in-bizarre-new-push-trump-wants-to-put-his-name-on-hormuz-3069752.html)　*Zee News・2026-09-02*
+- [Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding](https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/)　*Fortune・2026-09-02*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-03 04:20 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-03 18:27 台灣時間，僅供參考，不構成投資建議。*
