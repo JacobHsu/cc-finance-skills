@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-04 18:14 台灣時間　｜　資料更新：2026-09-04 18:14 台灣時間
+> 更新時間：2026-09-04 23:30 台灣時間　｜　資料更新：2026-09-04 23:30 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 海峽實際上對商業航運關閉，每天只有 6-9 艘船過境，而正常情況下為 85-100 艘。伊朗保持事實上的控制；美國領導的空中戰役和海上封鎖正在進行中。 |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | 在關閉/封鎖 188 天后，海峽仍然受到嚴重破壞。據報道，過境有限（每天 6-9 艘船）；只有願意接受極端安全風險的船舶才能航行。雙重封鎖：伊朗控制北部走廊，美國引導的南部走廊在阿曼海域。訪問條件很高；交通量比正常情況減少了 93%。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 8 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
+| 8 | 8 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **408** | 180 | 120 | 108 | <span style="color:#27ae60">0.00</span> |
+| **408** | 180 | 120 | 108 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 9% | 0.15% | 60x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,030,000 | 10,300,000 | <span style="color:#e74c3c">10.0% ⚠️</span> | 下跌 |
+| 1,050,000 | 10,300,000 | <span style="color:#e74c3c">10.2% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** 美國攻擊伊朗油輪，伊朗報復；危機升級至第七個月
+**頭條：** 伊朗-阿曼走廊談判正在進行中；沒有突破；美伊諒解備忘錄於 7 月 8 日破裂
 
-**各方：** United States, Iran, Israel, IRGC Navy
+**各方：** Iran, Oman, United States, Pakistan (mediator)
 
-> 2026 年 9 月 1 日至 2 日，美軍襲擊了伊朗政府油輪和約 100 個 IRGC 目標。伊朗向與美國有關的基地發射了 25 枚彈道飛彈和無人機進行報復。沒有關於積極和平談判的報導；先前的伊斯蘭堡會談於 2026 年 4 月破裂。
+> 德黑蘭自8月起重點關注與阿曼建立單一走廊安排，尋求持續1-3個月的伊朗控制的安全安排。美國表示有興趣恢復直接談判，但沒有安排談判。外交鴻溝擴大；根據勞合社的分析，近期突破的可能性不大。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $8.5B |
+| 21% | $12.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $0.85B | Japan, South Korea, China |
 
-> 通過霍爾木茲海峽的全球 25% 液化天然氣貿易嚴重中斷。液化天然氣現貨價格上漲；長期合約保護了一些買家，但現貨市場面臨正常利率 200% 以上的溢價。
+> 全球約 25% 的液化天然氣經過霍爾木茲。亞洲液化天然氣進口價格較危機前基準飆升 180% 以上。日本面臨冬季暖氣問題；韓國工業天然氣配給。印度和巴基斯坦以高價尋求替代供應商。
 
 **受影響地區**
 
@@ -72,39 +72,39 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| China | HIGH | 40% |
 | India | HIGH | 60% |
+| China | HIGH | 40% |
 | European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 提高利用率；超級油輪繞非洲改道，成本高。 |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以 5 mbpd 的滿容量運作；沙烏地阿拉伯原油經由紅海碼頭改道。 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbpd 的容量運作；閒置產能有限。 |
+| 好望角 | +12 天 | $650 | 主動改道路線約為正常霍爾木茲體積的 5%；隨著船員尋求安全而增加使用 |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | Operating near full 5 mbpd capacity; limited expansion potential; Saudi-exclusive supply |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 活躍容量約 1.5 mbpd；位於富查伊拉和阿曼海岸的 STS 轉運樞紐處理溢流；不足以抵消霍爾木茲海峽的關閉 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +280% | +2.1% | 71 天 |
+| +250% | +4.2% | 68 天 |
 
 **主要供應鏈事件**
 
-- 布蘭特原油價格每桶 95 美元以上，較危機前上漲 52%
-- 6,000多名海員被困在該地區；船員疏散正在進行中
-- 戰爭險索賠額超過20億美元；勞合社市場面臨數十年的損失事件風險
-- 亞洲石化和塑膠產量減少；化肥出口停止
+- VLCC 對 AG-China 的評級為 50 萬美元以上/天，而危機前為 5 萬美元（增長 900%）；戰爭險保費 船體價值的 7.5%
+- 約 6,000 名海員被困在該地區； IMO 疏散行動正在進行中；船員士氣/安全危機
+- 全球煉油廠開工量削減40%；亞洲成品油短缺；日本取暖燃料配給
+- 液化天然氣現貨價格為 45-52 美元/mmBtu，而危機前為 8-12 美元；長期合約重新談判；由於保險/人員問題導致液化廠停駛
 
 ## 最新新聞
 
-- [萬斯表示伊朗衝突不是一場“戰爭”，但他拒絕透露衝突何時結束](https://www.wcpo.com/politics/the-president/vance-says-iran-conflict-isnt-a-war-as-he-refuses-to-say-when-it-will-end)　*Wcpo・2026-09-03*
-- [ICYMI：據稱阿曼拒絕伊朗對霍爾木茲船舶聯合收費的計劃](https://investinglive.com/commodities/icymi-oman-said-to-reject-iran-s-plan-to-jointly-charge-fees-on-ships-in-hormuz/)　*Forexlive・2026-09-03*
-- [「我不會稱之為戰爭」：萬斯淡化美國對伊朗的打擊](https://www.timesnownews.com/world/us/us-news/i-wouldnt-call-it-a-war-vance-downplays-american-strikes-on-iran-article-156039170)　*Times Now News・2026-09-03*
-- [全國拉斯維加斯預計將創下有史以來最高的勞動節週末汽油價格](https://www.reviewjournal.com/local/traffic/highest-ever-labor-day-weekend-gas-prices-expected-in-las-vegas-nationwide-3881872/)　*Las-vegas Review Journal・2026-09-03*
-- [另一個可怕的退出應該是壓垮這場行走的國家安全危機的最後一根稻草](https://www.rawstory.com/pete-hegseth-2677817300/)　*Raw Story・2026-09-03*
+- [由於美國就業數據公佈前聯準會升息擔憂有所緩解，亞洲股市上漲](https://www.business-standard.com/markets/news/asian-shares-climb-as-fed-rate-hike-fears-ease-ahead-of-us-jobs-data-126090400087_1.html)　*Business Standard・2026-09-04*
+- [9 月 4 日汽油、柴油價格：查看孟買、德里等地的新燃料價格](https://www.ndtvprofit.com/markets/petrol-diesel-prices-on-september-4-check-new-fuel-rates-in-mumbai-bengaluru-chennai-kolkata-and-more-12000154)　*Ndtv・2026-09-04*
+- [GIFT Nifty 躍升 100 點，標誌著 Sensex、Nifty 的強勁開局；華爾街反彈，聯準會升息押注緩和](https://www.moneycontrol.com/news/business/markets/gift-nifty-jumps-100-pts-signals-strong-start-for-sensex-nifty-wall-street-rallies-fed-rate-hike-bets-ease-14022406.html)　*Moneycontrol・2026-09-04*
+- [柴油緊縮、ISM 數據顯示通膨風險根深蒂固：黃金、股票風險](https://investinglive.com/stock-market-update/diesel-crunch-hot-ism-data-point-to-entrenched-inflation-risk-gold-equity-risks/)　*Forexlive・2026-09-04*
+- [美國就業數據公佈前股市上漲，聯準會沃勒安撫債券](https://www.channelnewsasia.com/business/shares-rally-ahead-us-jobs-data-feds-waller-soothes-bonds-6362001)　*Channel Newsasia・2026-09-04*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-04 18:14 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-04 23:30 台灣時間，僅供參考，不構成投資建議。*
