@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-05 17:43 台灣時間　｜　資料更新：2026-09-05 17:43 台灣時間
+> 更新時間：2026-09-05 22:18 台灣時間　｜　資料更新：2026-09-05 22:18 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 7 月 8 日 6 月諒解備忘錄破裂以來，海峽實際上仍關閉商業航運。實際過境量繼續維持在正常水準的 5-10%（約 6-9 艘船/天，而危機前為 85-88 艘）。只允許有選擇的伊朗批准或美國護航的車隊進入。安全風險極大，環境惡劣。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 2 月 28 日以來，霍爾木茲海峽實際上仍關閉常規商業航運。過境船隻數量已銳減至每天約 6-9 艘，而危機前的基線為 85-130 艘。只有經伊朗批准或與伊朗有聯繫的船隻定期過境；近 70% 在 AIS 禁用的情況下進行過境。戰爭險保險費用阻止大多數商業業者嘗試通行。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 8 | 60 | <span style="color:#e74c3c">10.7% ⚠️</span> |
+| 6 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **120** | 45 | 35 | 40 | <span style="color:#27ae60">0.00</span> |
+| **420** | 185 | 120 | 115 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 10% | 0.15% | 66.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 618,000 | 10,300,000 | <span style="color:#e74c3c">6.0% ⚠️</span> | 上升 |
+| 617,000 | 10,300,000 | <span style="color:#e74c3c">6.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Qatar/Oman mediators seek short-term safe passage corridor agreement; direct US-Iran talks unconfirmed
+**頭條：** 美伊緊張局勢升級；軍事打擊仍在繼續，外交途徑看不到
 
-**各方：** United States, Iran, Qatar, Oman, Pakistan
+**各方：** United States, Iran, Israel, Iraq, Saudi Arabia, UAE
 
-> Mediators pursuing 1-3 month temporary corridor arrangement under Iranian control (proposed early August). Trump announced new talks; Tehran disputed claim. Qatar foreign ministry confirms mediation efforts for short-term resolution to restart substantive negotiations. No scheduled direct talks confirmed as of Sept 5.
+> 2026年9月1日至3日，美軍對伊朗革命衛隊油輪和防空系統等目標進行了攻擊。伊朗向該地區與美國有聯繫的基地發射了大約 25 枚彈道飛彈和無人機作為回應。目前尚未進行任何實質和平談判；此前，由於商船再次遭受襲擊，2026 年 6 月的美伊諒解備忘錄於 7 月初破裂。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $0.8B | Japan, South Korea, China |
 
-> 全球約 25% 的液化天然氣供應受阻；日本、韓國和中國面臨現貨市場升級和供應不確定性。液化天然氣運輸船以高額保險附加費改道至替代路線（紅海繞道、較長的運輸）。
+> ~25% of global LNG trade disrupted; Japan, South Korea, and China face severe winter heating and power generation risks. Spot LNG prices elevated 60-80% above pre-crisis levels; long-term contracts disrupted by flow halts.
 
 **受影響地區**
 
@@ -75,36 +75,38 @@
 | China | HIGH | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
+| Saudi Arabia and UAE | CRITICAL | 100% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily utilized for crude and product; backup for stranded Gulf cargo; transit times 35-40 days vs ~15 normal |
-| East-West Pipeline (Saudi) | +0 天 | — | 5 mbpd 容量利用率接近最大值；沙烏地阿拉伯與伊朗原油互換安排中斷；上漲空間有限 |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity fully booked; UAE offload points saturated; ship-to-ship transfers in Gulf of Oman ongoing |
+| Cape of Good Hope (South Africa) | +12 天 | $650 | Moderate usage; significant portion of VLCC fleet now routing via Cape, adding ~12-15 days and $500-800k per vessel |
+| Saudi Arabia East-West Pipeline (Yanbu export terminal) | +0 天 | — | Operating at full capacity (5 mbpd); primary workaround for Saudi crude; no additional transit time but pipeline capacity-limited |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at capacity (1.5 mbpd); UAE workaround; limited capacity, frequently at max throughput |
+| Suez Canal / Red Sea (Egypt route) | +3 天 | $180 | Operating at 77% of pre-war traffic due to residual Houthi threats and seasonal constraints; still viable alternative for non-Gulf crude |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +280% | +2.1% | 68 天 |
+| +280% | +2.8% | 74 天 |
 
 **主要供應鏈事件**
 
-- VLCC 運費為 400 萬美元以上，而危機前為 90 萬美元；透過開普敦改道每艘船將增加 500-80 萬美元
-- LNG spot prices 40-50% above contract; heating season demand pressure in Northern Hemisphere
-- Refinery throughput reduced in Japan, South Korea, India; product exports diverted to domestic markets
-- 新加坡傑貝阿里港口壅塞有所緩解，但改道後的貨物延誤總計 5-8 天；保險延誤增加 2-3 天
+- Brent crude trading at $95-96/barrel (up from ~$75 pre-crisis); gasoline and diesel prices up 18-22% in US and Europe
+- Container shipping rates via alternatives up 280% due to rerouting; 40-day Asia-Europe transits versus 30-day direct Hormuz route
+- LNG spot prices at $35-38/MMBtu (up from $8-12 pre-crisis); winter heating fuel shortages in Japan, Korea; power rationing scenarios in discussion
+- Global supply chain delays of 3-6 weeks for Asian-destined goods; automotive and semiconductor production constrained by input shortages and logistics costs
 
 ## 最新新聞
 
-- [勞動節創紀錄的汽油價格：巴達維亞的期待](https://patch.com/illinois/batavia/record-gas-prices-labor-day-what-expect-batavia)　*Patch・2026-09-04*
-- [Trump wanted to blow up Iran. He may have detonated the bond market instead](https://www.theglobeandmail.com/business/commentary/article-trump-wanted-to-blow-up-iran-he-may-have-detonated-the-bond-market/)　*Theglobeandmail・2026-09-04*
-- [Record Labor Day Gas Prices Projected: What GA Motorists Should Know](https://patch.com/georgia/atlanta/record-labor-day-gas-prices-projected-what-ga-motorists-should-know)　*Patch・2026-09-04*
-- [Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK](https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk)　*The Guardian・2026-09-04*
-- [US Sanctions Turkish Bank Over Alleged Iran Links, First Such Move Against NATO Ally](https://www.news18.com/world/us-sanctions-turkish-bank-over-alleged-iran-links-first-such-move-against-nato-ally-ws-l-10311294.html)　*News 18・2026-09-04*
+- ['If Anything Goes Bad...': Trump Says US Could Strike Iran's Pickaxe Mountain 'Very Soon'](https://www.news18.com/world/if-anything-goes-bad-trump-says-us-could-strike-irans-pickaxe-mountain-very-soon-ws-l-10311354.html)　*News 18・2026-09-05*
+- ['We may hit Pickaxe very soon': Trump issues fresh threat to Iran’s nuclear site](https://timesofindia.indiatimes.com/world/us/we-may-hit-pickaxe-very-soon-trump-issues-fresh-threat-to-irans-nuclear-site/articleshow/133783585.cms)　*The Times Of India・2026-09-05*
+- [Trump’s wild response to Iran War stuns](https://www.news.com.au/world/north-america/us-politics/donald-trumps-insane-twoword-comment-about-the-iran-war-angers/news-story/60ad520590a22224b9458465a91b4c43)　*News・2026-09-05*
+- [US-Venezuela oil deal redraws global energy power](https://gulfnews.com/opinion/op-eds/us-venezuela-oil-deal-redraws-global-energy-power-1.500662350)　*Gulf News・2026-09-05*
+- [Samsara (IOT) Stock Is Up, What You Need To Know](https://ca.finance.yahoo.com/news/samsara-iot-stock-know-003810428.html)　*Yahoo! News・2026-09-05*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-05 17:43 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-05 22:18 台灣時間，僅供參考，不構成投資建議。*
