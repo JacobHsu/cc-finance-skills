@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-06 22:41 台灣時間　｜　資料更新：2026-09-06 22:41 台灣時間
+> 更新時間：2026-09-07 03:48 台灣時間　｜　資料更新：2026-09-07 03:48 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 2 月 28 日美以空襲伊朗以來，該海峽實際上已關閉商業航運。 2026 年 4 月至 6 月的短暫重新開放在新的攻擊後於 7 月初崩潰。截至 2026 年 9 月初，每天只有 4-15 艘 AIS 可見船隻過境（而危機前的基線約為 85-130 艘）。 40倍於正常水平的戰爭險保費、大量船舶積壓以及超過56艘船舶的黑名單幾乎阻礙了所有商業運營。美國於 2026 年 7 月 14 日恢復海上封鎖。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping with transits at ~7-10/day vs. pre-crisis 85-130/day baseline. Physical passage continues but highly restricted; access is selective/conditional with extreme risk. Military clashes ongoing, including recent Iranian attacks on commercial vessels. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 4 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
+| 8 | 10 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **470** | 426 | 34 | 10 | <span style="color:#27ae60">0.00</span> |
+| **333** | 120 | 85 | 128 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 6% | 0.15% | 40x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 645,000 | 10,300,000 | <span style="color:#e74c3c">6.3% ⚠️</span> | 上升 |
+| 1,371,000 | 10,300,000 | <span style="color:#e74c3c">13.3% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** 伊朗和阿曼提議臨時航線清除地雷；美國聲稱可能達成協議，但爭議仍然存在
+**頭條：** 危機持續崩潰；伊朗停火期滿後執行海事法規
 
-**各方：** Iran, Oman, United States, Israel
+**各方：** Iran (IRGC), United States, Israel, Shipping companies, Regional allies
 
-> 伊朗和阿曼概述了截至 2026 年 8 月 26 日建立临时航运走廊并开展扫雷作业的提案。由于希望部分恢复，油价下跌 3%。然而，伊朗伊斯兰革命卫队声称已经就水份额和收入达成了协议，但美国的阻挠推迟了实施。美伊6月17日諒解備忘錄仍存爭議；在伊朗再次攻擊商船和阿拉伯國家後，美國於 2026 年 7 月 14 日重新實施海上封鎖。
+> 六月諒解備忘錄促成的停火到期，引發伊朗恢復執法。對散裝船米諾斯尊嚴號的致命襲擊和對阿馬拉號油輪的扣押標誌著最近的重大升級。沒有正式外交談判的報導；地位仍然是一種敵對姿態，而不是建設性接觸。
 
 ## 全球貿易影響
 
@@ -64,7 +64,7 @@
 |--------------|-------------|----------------|
 | 25% | $0.95B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transited Hormuz pre-crisis. Japan, South Korea, and China face LNG supply tightness, spot prices elevated. Alternative supply from Australia, Qatar, and US available but at premium prices.
+> 全球 25% 的液化天然氣運輸中斷；三大進口商面臨嚴重的供應緊張。液化天然氣現貨價格上漲；長期合約量轉向利潤率較高的市場。
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Primary alternative route now handling bulk of Asia-Europe traffic; freight rates elevated due to supply tightness; route itself exposed to Red Sea/Suez disruption. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | 容量 5mbpd；僅限沙烏地阿拉伯供應；對地區原油的增量幫助微乎其微。在容量限制下運作。 |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Capacity 1.5 mbpd; UAE crude bypass; bottleneck relieved somewhat but insufficient for full compensation of Hormuz closure. |
+| Cape of Good Hope (East Africa route) | +12 天 | $650 | 使用量增加；25-35% 的改道油輪接受更長的運輸；燃油費+盜版保險費 |
+| East-West Pipeline (Saudi Arabia, capacity 5 mbpd) | +0 天 | — | 接近滿載運轉；激增空間有限；主要服務於沙烏地阿拉伯出口策略 |
+| Habshan-Fujairah 管道（阿聯酋，產能 1.5 mbpd） | +0 天 | — | 飽和；可能的最小擴展；區域生產約束約束 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +300% | +1.8% | 67 天 |
+| +750% | +4.2% | 67 天 |
 
 **主要供應鏈事件**
 
-- Brent crude trading $95-96/bbl (vs $70-75 pre-crisis); refinery margins compressed due to supply uncertainty
-- Tanker freight rates (crude/products) elevated 200-400% for Asia-Europe; peak premiums driven by war risk and Cape routing demand
-- 由於艙位配給和經開普敦轉運時間延長，亞歐貨櫃運輸費率飆升 150-250%；蘇伊士和新加坡港口擁擠
-- Supply chain delays of 10-14 days for Asia-Europe traffic; manufacturing lead times extended; inventory de-risking raising logistics costs
+- 全球貨櫃運價上漲；遠東至歐盟現在為 1,200-1,400 美元/TEU，而危機前為 600 美元
+- 石化供應鏈斷裂；中東石腦油價格較全球平均溢價 15-20%
+- 亞太地區出現燃油短缺；電力公司部署燃煤發電作為緩解措施
+- 日本、韓國航油供應緊張；恢復徵收航空燃油附加費
 
 ## 最新新聞
 
-- [Iran targets US warships with ballistic missiles, warns of ‘severe response’](https://www.moneycontrol.com/world/iran-targets-us-warships-with-ballistic-missiles-warns-of-severe-response-article-14023488.html)　*Moneycontrol・2026-09-06*
-- [Iran Targets US Warships With Ballistic Missiles, Warns Of Severe Attacks Over Shipping Interference](https://www.news18.com/world/iran-attacks-us-warships-irgc-ballistic-missiles-aircraft-carrier-destroyer-ws-l-10312538.html)　*News 18・2026-09-06*
-- [通膨測試、伊朗升級為大宗商品市場帶來動盪的一周](https://www.moneycontrol.com/news/opinion/inflation-test-iran-escalation-set-up-a-volatile-week-ahead-for-commodity-markets-14023476.html)　*Moneycontrol・2026-09-06*
-- [美伊船隻襲擊開啟霍爾木茲海峽之戰危險的新階段](https://gulfnews.com/world/mena/us-iran-war-tanker-strikes-open-dangerous-new-phase-in-hormuz-as-tehran-threatens-us-warships-1.500664548)　*Gulf News・2026-09-06*
-- [「殺害兒童的軍隊被迫逃離」：伊朗用彈道飛彈攻擊美國軍艦，聲稱直接命中](https://zeenews.india.com/world/child-killing-army-forced-to-flee-iran-strikes-us-warships-with-ballistic-missiles-claims-direct-hit-3070133.html)　*Zee News・2026-09-06*
+- [消息人士稱，OPEC+週日將維持石油產量政策不變](https://ca.finance.yahoo.com/news/opec-set-keep-oil-output-073830005.html)　*Yahoo! News・2026-09-06*
+- [警方對 Pardes Hanna-Karkur 學校闖入事件中塗鴉的納粹十字記號展開調查](https://www.jpost.com/israel-news/crime-in-israel/article-907672)　*Jpost・2026-09-06*
+- [西亞衝突、原油價格本周可能推動股市](https://www.business-standard.com/markets/news/west-asia-conflict-crude-prices-likely-to-drive-stock-markets-this-week-126090600218_1.html)　*Business Standard・2026-09-06*
+- [伊朗與美國的最新戰爭：衝突加劇，美國襲擊三艘伊朗油輪後，德黑蘭報復](https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-oil-tankers-hormuz-b3045426.html)　*The Independent・2026-09-06*
+- [Fighting escalates in Strait of Hormuz as Iran claims strike on US ship - AP News](https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpPTUJjVll0WEd0Wk90aXMyTzltVWQwNXk2Y0hXZ1JsWVZmeFpLMTN0VG9CdlVrdjFKRXlRWWpkczdkOVk4blJKOVZNYUYtbi1fLUpqOXBnN25hdFZDQWN1S3BtWGxJM3NRdHg2a3VPTUVYZzkzUjFTc1JGQkZPd0FwR3dRdUFXeV91UWJyZURPTFZwWXJTYjRXNS1hdw?oc=5)　*Google News・2026-09-06*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-06 22:41 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-07 03:48 台灣時間，僅供參考，不構成投資建議。*
