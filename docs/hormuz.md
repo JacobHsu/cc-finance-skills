@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-09 23:39 台灣時間　｜　資料更新：2026-09-09 23:39 台灣時間
+> 更新時間：2026-09-10 04:14 台灣時間　｜　資料更新：2026-09-10 04:14 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 2 月 28 日起，海峽實際上對商業航運關閉。最近的過境數量：8 月 30 日有 6 艘船（正常情況的 7% ~ 85 艘/天）。戰爭險保險定價使得大多數業者在經濟上難以接受交通運輸。最新升級：9月1日至4日，美國空襲摧毀/摧毀了伊朗油輪；伊朗軍隊威脅任何可疑行動；截至 9 月 9 日，已關閉 192 天。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping since Feb 28. Only 6 ships transited Aug 30 vs 85/day normal. US-Iran military escalation ongoing; recent US strikes disabled 5 Iranian tankers (Sep 1-4). Iran declared Persian Gulf Exclusion Zone; blacklisted 57 vessels. Crisis Pressure Index at extreme band as of Sep 8. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 3 | 60 | <span style="color:#e74c3c">3.5% ⚠️</span> |
+| 6 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **436** | 185 | 120 | 131 | <span style="color:#27ae60">+2.00</span> |
+| **436** | 180 | 120 | 136 | <span style="color:#27ae60">+5.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 6% | 0.15% | 40x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 180,000 | 10,300,000 | <span style="color:#e74c3c">1.8% ⚠️</span> | 下跌 |
+| 618,000 | 10,300,000 | <span style="color:#e74c3c">6.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** NO_TALKS
 
-**頭條：** 六月短暫開火後，衝突重新燃起；美伊軍事升級再度升級
+**頭條：** No active peace talks; military escalation continues with US-Iran tit-for-tat strikes
 
-**各方：** United States, Iran, Israel, United Kingdom, Oman, shipping companies
+**各方：** United States, Iran, IRGC
 
-> 先前的停火協議（2026 年 4 月）和 6 月諒解備忘錄在 7 月伊朗恢復對商業航運的襲擊後崩潰。 9月1日至4日，美國與伊朗的軍事交流達到頂峰，美國對伊朗飛彈襲擊進行了打擊，導致伊朗油輪癱瘓。截至 9 月 9 日，尚未安排積極的外交努力或會談；衝突仍處於軍事急劇升級階段。
+> US struck 5 Iranian tankers Sep 1-4 in retaliation for IRGC attacks on commercial ships. Iran responded by declaring Persian Gulf Exclusion Zone and blacklisting vessels. Previous Islamabad talks (April 2026) collapsed; no new negotiations reported. Military posture remains hostile.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 危機期間液化天然氣現貨價格增加了兩倍。至少41艘載有204K+TEU的貨櫃船滯留在波斯灣；液化天然氣運輸船完全避開霍爾木茲。由於液化天然氣無法進入市場，卡達和澳洲的碼頭出現擁擠。
+> LNG flows through Hormuz reduced by 95%. Major importers face supply constraints and spot-market price spikes. JKM LNG forward prices elevated.
 
 **受影響地區**
 
@@ -74,38 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| European Union | MODERATE | 20% |
+| EU | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 受貨櫃和液化天然氣運輸船大量採用；亞歐航線改道；總運輸時間增加 15-20 天 |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 最大程度利用僅限沙烏地阿拉伯的容量（5 mbpd）；沒有可用的擴展；只供應沙烏地阿拉伯國內煉油廠 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbbpd 的產能運行，但繞過大多數海灣原油；鑑於全球需求需求，緩解有限 |
-| 船對船轉運（阿曼灣） | +0 天 | $350 | 成為常規解決方法；油輪在霍爾木茲境外集運貨物以進行最終交付；增加轉運成本和延誤 |
+| Cape of Good Hope | +12 天 | $650 | Major rerouting in progress; MSC, other carriers moving Asia-Europe via Cape; adds 12+ days and ~$650k/VLCC |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | 5 mbpd capacity being utilized; Saudi crude increasingly shipped via Yanbu Red Sea terminal |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity online; Fujairah anchorage showing 165 vessels (32 dark-flagged) as of Sep 8 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +350% | +8.5% | 68 天 |
+| +850% | +4.2% | 70 天 |
 
 **主要供應鏈事件**
 
-- 布蘭特原油價格為 100.74 美元/桶（高於危機前的約 75 美元）；煉油廠和石化部門的供應鏈成本級聯
-- SCFI貨櫃指數週比上漲4.67%；由於好望角改道和船舶稀缺，全球貨櫃運輸費率上升
-- 6,000-8,000名海員受困地區等待疏散；IMO 協調有限的安全通道
-- SPR儲備接近臨界最低值；在結構塌陷阻止進一步提取之前，還剩下 68 天的最大回撤
+- Brent crude at $100.74 (Sep 9); global oil flows reduced to ~5 mbpd vs 20 mbpd pre-crisis
+- Freight surcharges $4M+ for compliant tonnage vs $900k pre-crisis; insurance unaffordability stranding vessels
+- LNG spot prices elevated (JKM); Japan/Korea facing supply rationing by early Q4 2026
+- 約6,000名海員受困/擱淺；IMO 疏散行動正在進行中；港口壅塞嚴重
 
 ## 最新新聞
 
-- [伊朗衝突升級，霍爾木茲海峽交通量減少至6艘](https://www.moneycontrol.com/world/strait-of-hormuz-traffic-falls-to-6-vessels-amid-escalating-iran-conflict-article-14025688.html)　*Moneycontrol・2026-09-09*
-- [伊朗聲稱襲擊穿越霍爾木茲的美國驅逐艦和油輪](https://investinglive.com/commodities/iran-claims-strikes-on-us-destroyers-tankers-crossing-hormuz/)　*Forexlive・2026-09-09*
-- [伊朗衛隊稱，他們在海灣和霍爾木茲海峽襲擊了2艘美國船隻、8艘油輪和10艘船](https://economictimes.indiatimes.com/news/international/world-news/iran-guards-attack-10-ships-strait-of-hormuz/articleshow/133949621.cms)　*The Economic Times・2026-09-09*
-- [美國摧毀油輪後伊朗對約旦和沙烏地阿拉伯進行報復](https://www.haaretz.com/israel-news/israel-security/2026-09-09/ty-article-live/iran-retaliates-against-jordan-and-saudi-arabia-after-u-s-destroys-oil-tankers/000001a0-83d7-d290-a9e3-dff7871b0000)　*Haaretz・2026-09-09*
-- [股市直播：GIFT Nifty 發出向下跳空缺口的信號；亞洲市場好壞參半；布蘭特原油價格高於 99 美元](https://www.business-standard.com/markets/news/stock-market-live-september-9-nse-bse-sensex-today-nifty50-gift-nifty-brent-crude-oil-prices-126090900115_1.html)　*Business Standard・2026-09-09*
+- [Oil prices rise above $100 a barrel for first time since July as Iran war escalates](https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates)　*The Guardian・2026-09-09*
+- [今天富時 100 指數：海灣罷工導致油價跌至 100 美元，股市回落](https://au.investing.com/news/stock-market-news/ftse-100-today-stocks-retreat-as-gulf-strikes-send-oil-toward-100-4633700)　*Investing Australia・2026-09-09*
+- [抗議者敦促韓國不要捲入伊朗戰爭](https://www.channelnewsasia.com/east-asia/south-korea-us-iran-war-hormuz-protesters-6372216)　*Channel Newsasia・2026-09-09*
+- [Medicine shortages grow in Iran as US tightens sanctions, blockade](https://ca.news.yahoo.com/medicine-shortages-grow-iran-us-071412396.html)　*Yahoo! News・2026-09-09*
+- [美軍擊毀5艘伊朗油輪，引發德黑蘭報復](https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price/)　*Cbs News・2026-09-09*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-09 23:39 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-10 04:14 台灣時間，僅供參考，不構成投資建議。*
