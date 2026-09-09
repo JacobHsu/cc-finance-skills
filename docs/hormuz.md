@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-09 04:31 台灣時間　｜　資料更新：2026-09-09 04:31 台灣時間
+> 更新時間：2026-09-09 18:29 台灣時間　｜　資料更新：2026-09-09 18:29 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 自 2026 年 9 月 7 日起，霍爾木茲海峽實際上已關閉商業航運。美國和伊朗軍隊在 9 月初的直接交火將危機推向了最嚴重的階段。 8 月 30 日，只有 6 艘船過境（為危機前正常水準的 7%）。伊朗伊斯蘭革命衛隊警告稱，該海峽的任何可疑舉動都將成為目標。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 海峽實際上對商業航運關閉。截至 2026 年 9 月 8 日，關閉第 192 天。每天只有 4-10 艘船過境，而危機前的基線為 85-130 艘。 9月3日至5日伊朗襲擊美國船隻和資產；美國的反應使伊朗油輪癱瘓。流量處於 2026 年 5 月以來的最低水準。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
+| 6 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **436** | 195 | 128 | 113 | <span style="color:#e74c3c">-8.00</span> |
+| **290** | 145 | 95 | 50 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 6% | 0.15% | 40x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 155,000 | 10,300,000 | <span style="color:#e74c3c">1.5% ⚠️</span> | 下跌 |
+| 309,000 | 10,300,000 | <span style="color:#e74c3c">3.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** NO_TALKS
 
-**頭條：** 美國堅持不與伊朗進行談判；軍事衝突升級，外交努力陷入停滯
+**頭條：** 除非伊朗停止攻擊航運，否則美國拒絕談判；伊朗與阿曼的討論陷入僵局
 
-**各方：** United States, Iran, Israel, Oman, Saudi Arabia, India
+**各方：** United States, Iran, Oman, Pakistan
 
-> 副總統萬斯於 2026 年 9 月 3 日表示，美國沒有與伊朗進行外交談判，只要霍爾木茲海峽的控制權有爭議，美國就會維持這一立場。繼 6 月早些時候嘗試停火和簽署諒解備忘錄之後，直接軍事升級於 9 月初恢復。沙烏地阿拉伯呼籲伊朗進行有意義的接觸，而伊朗外交部仍對美國的意圖持懷疑態度。
+> 副總統萬斯9月3日表示，美國沒有與伊朗進行外交談判，除非伊朗停止商業航運的攻擊，否則不會進行接觸。伊朗與阿曼關於海峽管理框架的談判於八月進入最後階段，但在軍事升級再次升級後陷入停滯。自 6 月 17 日諒解備忘錄破裂以來，美國與伊朗沒有進行直接會談。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $8.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 全球約 25% 的液化天然氣貿易經過霍爾木茲。日本和韓國作為主要液化天然氣進口國，面臨嚴重的供應中斷和價格波動。液化天然氣現貨價格（JKM 指數）在關閉期間大幅上漲。
+> 卡達、澳洲和其他海灣液化天然氣出口國無法運往亞洲主要市場。日本和韓國的液化天然氣需求由戰略儲備和高價替代採購來滿足。
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 主要航運公司積極透過開普敦改道亞歐航線；根據營運商的建議，佔轉移流量的 30-40%。 |
-| 沙烏地阿拉伯東西管道 | +0 天 | — | 容量為 5 mbbpd，但僅限沙烏地阿拉伯；對非沙烏地阿拉伯生產商的效用有限；觀察到吞吐量的最小增加。 |
-| 阿聯酋哈卜尚-富查伊拉管道 | +0 天 | — | 1.5mbpd 容量；接近最大運行；提供了一些緩解，但不足以抵消霍爾木茲海峽的關閉。 |
+| 好望角 | +12 天 | $650 | 歐盟和有限的亞洲航線的主要改道；大約 30-40% 的流離失所的霍爾木茲油輪使用這條路線 |
+| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以 5 mbpd 的容量運作（僅限沙烏地阿拉伯）；不適用於非沙烏地阿拉伯原油；部分偏移 |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbpd 的容量運作；吞吐量有限；相對於需求而言未被充分利用 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +185% | +4.8% | 68 天 |
+| +450% | +2.3% | 74 天 |
 
 **主要供應鏈事件**
 
-- 2026 年第二季霍爾木茲原油吞吐量從危機前的 20.4-21.6 mbpd 降至 4.9 mbpd；8月至9月復甦陷入停滯
-- 估計有 6,000 名海員被困在該地區；國際海事組織在疏散走廊方面的協調成效有限
-- 貨櫃航運公司暫停或減少海灣航線；杜拜、新加坡和鹿特丹的港口擁塞；亞歐航線延誤 2-3 週
-- LNG projects in Qatar, Australia diverted to premium spot markets; global fertilizer and petrochemical production curtailed due to feedstock shortages
+- 布蘭特原油97-100美元/桶；6週以來最高；現貨溢價訊號緊急供應緊張
+- VLCC 即期運價 (TD3C) 為 WS372+（較 7 月初上漲 27%）；每航程相當於 290,000-330,000 美元
+- 貨櫃運費上漲； 9家最大貨櫃運輸公司中的4家已暫停霍爾木茲航線
+- SPR 提款上限為 440 萬桶/天；達到結構跟限前74天的儲備能力
 
 ## 最新新聞
 
-- [也門叛軍襲擊沙烏地阿拉伯造成73人受傷](https://www.bangkokpost.com/world/3316035/yemen-rebel-strikes-on-saudi-arabia-wound-73)　*Bangkok Post・2026-09-08*
-- [胡塞武裝襲擊沙烏地阿拉伯能源基地和城市，造成 73 人受傷，伊朗戰爭有可能進一步升級](https://economictimes.indiatimes.com/news/defence/houthis-attack-saudi-energy-sites-cities-wound-73-as-iran-war-risks-wider-escalation/articleshow/133914888.cms)　*The Economic Times・2026-09-08*
-- [霍爾木茲海峽關閉測試供應鏈，阿聯酋啟動替代貿易走廊](https://www.khaleejtimes.com/uae/uae-activates-alternative-trade-corridors-hormuz-supply-chains)　*Khaleej Times・2026-09-08*
-- [戰爭、經濟衰退與全球混亂？ “中国的诺查丹玛斯”做出 5 个严峻的预测](https://www.ndtv.com/offbeat/war-recession-and-global-chaos-chinas-nostradamus-makes-5-grim-predictions-12016817)　*Ndtv・2026-09-08*
-- [全球航運當局警告地緣政治動盪可能導致海上貿易崩潰](https://www.cnbc.com/2026/09/08/global-shipping-iran-war-hormuz-rules.html)　*Cnbc・2026-09-08*
+- [美國在哈格島附近襲擊伊朗油輪；德黑蘭威脅海灣石油船隻](https://timesofindia.indiatimes.com/world/middle-east/us-strikes-iranian-tankers-near-kharg-island-tehran-threatens-gulf-oil-vessels/articleshow/133942382.cms)　*The Times Of India・2026-09-08*
+- [Ripple聯合創始人表示加州應該允許低收入買家購買中國電動車：“我們永遠不會生產那種東西”](https://www.businessinsider.com/ripple-california-chinese-evs-low-income-2026-9)　*Business Insider・2026-09-08*
+- [伊朗聲稱在霍爾木茲附近捕獲了美國水下無人機；華盛頓稱其“故障”](https://www.news18.com/world/iran-claims-capture-of-us-underwater-drone-near-hormuz-washington-says-it-malfunctioned-ws-l-10317533.html)　*News 18・2026-09-08*
+- [美國襲擊後伊朗威脅巴林和科威特附近的油輪](https://www.rt.com/news/645293-iran-oil-tanker-attacks/)　*Rt・2026-09-08*
+- [美伊交戰胡塞武裝攻擊加劇，沙烏地阿拉伯石油設施遭到攻擊](https://www.sbs.com.au/news/article/saudi-oil-sites-hit-as-houthi-attacks-intensify-amid-us-iran-fighting/xlxaw17rf)　*Sbs News・2026-09-08*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-09 04:31 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-09 18:29 台灣時間，僅供參考，不構成投資建議。*
