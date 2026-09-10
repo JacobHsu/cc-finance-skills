@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-10 18:18 台灣時間　｜　資料更新：2026-09-10 18:18 台灣時間
+> 更新時間：2026-09-10 23:34 台灣時間　｜　資料更新：2026-09-10 23:34 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 海峽實際上仍然對商業航運關閉。有限的過境（6-10 次/天）是零星的且大部分是伊朗批准的船隻。目前的製度始於 2 月 28 日初步關閉；進化為選擇性通過。截至 9 月 9 日，商業流量接近零，戰爭險保險定價讓大多數業者望而卻步。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 截至 2026 年 9 月 9 日，霍爾木茲海峽實際上關閉商業航運。 8 月 30 日只有 6 艘船舶通過，而正常每日基線約為 85 艘。 9 月 5 日至 8 日，美國與伊朗的直接交鋒、無人機襲擊和油輪襲擊仍在繼續，嚴重的軍事壓力仍在持續。 |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
+| 6 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **300** | 120 | 90 | 90 | <span style="color:#27ae60">0.00</span> |
+| **450** | 180 | 140 | 130 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,030,000 | 10,300,000 | <span style="color:#e74c3c">10.0% ⚠️</span> | 持平 |
+| 85,000 | 10,300,000 | <span style="color:#e74c3c">0.8% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** 沒有積極的和平談判；伊斯蘭堡談判失敗後的現狀（2026 年 4 月）
+**頭條：** 阿曼調解的談判陷入僵局；美伊在海峽管理問題上的立場趨於強硬
 
-**各方：** USA, Iran, Israel, UAE, Saudi Arabia, UN mediators
+**各方：** United States, Iran, Oman, Qatar
 
-> 軍事衝突仍在持續，針鋒相對。美國和伊朗在 9 月初升級了攻擊（中央司令部於 9 月 1 日發動攻擊，伊朗對約旦/阿聯酋/巴林的伊朗基地進行報復）。伊斯蘭堡談判於四月破裂，導緻美國海軍封鎖伊朗港口。截至 9 月 9 日，尚無外交突破或預定談判。
+> US-Iran negotiating positions have hardened over Strait of Hormuz reopening and management. Iran insists on co-management with Oman and demands US withdrawal and compensation, while US demands compensation for historical attacks. No direct US-Iran talks currently scheduled; Oman remains mediator but progress limited.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.5B |
+| 21% | $3.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> 全球 25% 的液化天然氣經過霍爾木茲。日本90%以上依賴霍爾木茲液化天然氣；韓國80%+；中國40%以上。液化天然氣價格飆升；戰略儲備正在減少。前三大進口商受到嚴重限制。
+> 通過霍爾木茲的液化天然氣運輸量減少到接近零。日本和韩国面临严重的短缺和配给。全球液化天然氣價格較基準線上漲 300-400%。
 
 **受影響地區**
 
@@ -74,37 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| EU | MODERATE | 20% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $600 | 利用率高；大多數貨櫃和油輪運輸現在改道通過開普敦；運輸時間 10-15 天罰款 |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 以約 5 mbpd 的容量運作；能力有限；沙烏地阿拉伯積極利用但不足以取代全球需求 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 以 1.5 mbpd 的容量運作；為阿聯酋原油提供緩解，但不足以滿足地區需求 |
+| 好望角 | +12 天 | $650 | 貨櫃和一些油輪航線的重大改道；大約 20-30% 的可改道貨物現在通過好望角運送；成本影響降低了亞洲進口產品在歐盟/美國市場的競爭力 |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5 mbpd capacity since April 2026; major volume increase to Yanbu terminal but limited to Saudi crude only |
+| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | Running at 1.5 mbpd capacity; bypasses Hormuz but limited geographic coverage |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +250% | +4.5% | 68 天 |
+| +320% | +4.8% | 68 天 |
 
 **主要供應鏈事件**
 
-- 根據航線，全球貨櫃運費上漲 75-250%；亞歐經開普溢價嚴重
-- 液化天然氣現貨價格上漲60-80%；公用事業公司減少需求或提取策略儲備
-- 布蘭特原油價格為 100.74 美元/桶（9 月 9 日）； WTI壓力；下游燃料（柴油/航空燃料）保費上漲
-- 供應鏈延遲10-30天；汽車、電子、消費品出貨延遲；替代採購轉向大西洋盆地供應商
+- Automotive production halted in Japan and South Korea due to energy rationing
+- 台灣和韓國的電子製造業受到電力限制
+- 由於出口封鎖，中東石化煉油廠產能僅開工 30-40%
+- Container shipping rates to Asia increased 400-500% for Cape routing; blanked sailings by MSC and Maersk
 
 ## 最新新聞
 
-- [匯豐銀行警告石油市場現在“在更長時間內趨緊”，上調布倫特原油預測](https://investinglive.com/commodities/hsbc-warns-oil-market-is-now-tighter-for-longer-raises-brent-forecast-even-higher/)　*Forexlive・2026-09-09*
-- [石油價格達到非常不受歡迎的水平](https://www.thestreet.com/economy/middle-east-fighting-pushes-key-oil-price-above-100)　*Thestreet・2026-09-09*
-- [唐納德·川普表示，伊朗戰爭將在美國中期選舉後結束](https://www.deccanherald.com/world/donald-trump-says-iran-war-will-end-right-after-us-midterm-elections-4141170)　*Deccan Herald・2026-09-09*
-- [分析師稱油價可能達到 120 美元](https://www.rnz.co.nz/news/business/1320478/oil-prices-could-reach-us120-analysts)　*Rnz Co Nz・2026-09-09*
-- [隨著美國收緊擠壓，伊朗重燃霍爾木茲海峽之爭](https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/)　*The Hill・2026-09-09*
+- [‘I am the house now’: US dares the world](https://www.news.com.au/finance/economy/world-economy/i-am-the-house-now-us-dares-the-world-to-bet-against-it-as-6-billion-move-sparks-huge-sell-off/news-story/0c2cd79f5af21943f8d1fd7309ba64d4)　*News・2026-09-10*
+- [Trump says he will grant a $5,000 dividend to all Americans if Republicans win midterms](https://www.jpost.com/international/article-908180)　*Jpost・2026-09-10*
+- [Trump suggests Strait of Hormuz be renamed Trump Strait](https://tass.com/world/2185183)　*Тасс・2026-09-10*
+- [From ‘zero’ border crossings to ‘Trump Strait’: 10 key takeaways from POTUS' GOP convention speech](https://www.hindustantimes.com/world-news/us-news/from-zero-border-crossings-to-trump-strait-10-key-takeaways-from-potus-gop-convention-speech-101789006242175.html)　*Hindustan Times・2026-09-10*
+- [Oil Price Today (September 10): Crude oil at $101 as Iran attack on 10 ships raises supply fears. $120 in sight?](https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-10-crude-oil-at-101-as-iran-attack-on-10-ships-raises-supply-fears-120-in-sight/articleshow/133990953.cms)　*The Economic Times・2026-09-10*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-10 18:18 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-10 23:34 台灣時間，僅供參考，不構成投資建議。*
