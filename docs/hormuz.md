@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-11 04:15 台灣時間　｜　資料更新：2026-09-11 04:15 台灣時間
+> 更新時間：2026-09-11 18:18 台灣時間　｜　資料更新：2026-09-11 18:18 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial shipping. Iran continues to enforce restrictions and maintain warning broadcasts forbidding passage. US Navy has cleared mines from traffic separation schemes, but war-risk insurance costs and ongoing military escalation prevent normal transit operations. As of September 9, 2026, only sporadic transits occur (estimated 6-21 vessels per day vs. 60 normal). |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping; 6 transits on Sept 6 vs ~85/day normal (7% of baseline). Acute military pressure with US-Iran tit-for-tat attacks ongoing. Crisis Pressure Index in extreme band. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 11 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
+| 6 | 7 | 60 | <span style="color:#e74c3c">7.1% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **285** | 168 | 89 | 28 | <span style="color:#27ae60">0.00</span> |
+| **436** | 174 | 156 | 106 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.75% | 0.15% | 58.3x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,080,000 | 10,300,000 | <span style="color:#e74c3c">10.5% ⚠️</span> | 下跌 |
+| 721,000 | 10,300,000 | <span style="color:#e74c3c">7.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** NO_TALKS
 
-**頭條：** Iran announces exclusion zone; military escalation continues with US-Iran exchanges in strait
+**頭條：** No active diplomatic talks; US-Iran military escalation continued through early September
 
-**各方：** Iran, United States, Israel, Houthis, Saudi Arabia
+**各方：** United States, Iran, Israel
 
-> No formal negotiations underway. Iran announced plans for a maritime exclusion zone where it will stop vessels without Iranian permission. Recent military exchanges include US strikes on Iranian oil tankers and Iranian missile attacks on US warships. Houthis and Saudi Arabia renewed fighting after four-year truce, further destabilizing the region and adjacent sea lanes.
+> Military conflict continues with no peace negotiations active as of September 8. Recent escalation includes US strikes on Iranian tankers and IRGC ballistic missile attacks on US Navy warships. A brief MoU in June 2026 temporarily eased hostilities but collapsed, leading to resumed fighting. The White House internally projects the war continuing past January 2029.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.95B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 25% of global LNG trade disrupted; Japan 90% dependent on Hormuz, South Korea 80% dependent. LNG prices elevated; spot market LNG cargo costs surged. Rerouting via Cape adds 10-15 days and $300-500k per cargo.
+> 25% of global LNG trade through Hormuz. LNG prices hit multi-year highs; Japan, South Korea, China severely impacted. Demand destruction and strategic reserve drawdowns in effect. Chinese LNG imports moderately stabilized through state control.
 
 **受影響地區**
 
@@ -80,31 +80,32 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used by major container carriers (MSC rerouted all Asia-Europe services); VLCC rerouting limited due to cost and voyage economics. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Limited; 5 mbpd capacity but Saudi-only, does not help international trade. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Limited; 1.5 mbpd capacity but mainly for UAE domestic supply; does not fully offset Hormuz loss. |
+| 好望角 | +12 天 | $650 | 歐盟和非中國貿易商大量改變路線；約 30-40% 的改道油輪使用此航線。長期營運帶來的環境風險。 |
+| 沙烏地阿拉伯東西管道（延布） | +0 天 | — | Capacity 5 mbpd, operating near max. Used by Saudi ARAMCO for own exports. Limited spare capacity for third-party crude. |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Capacity 1.5 mbpd, operating at capacity. Serving UAE National Oil Company. No spare capacity available. |
+| Pakistan Gwadar Port (Red Sea routing) | +5 天 | $280 | Emerging hedge for long-term diversification; currently underutilized. Limited capacity but strategic positioning noted. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +410% | +3.5% | 67 天 |
+| +385% | +2.1% | 66 天 |
 
 **主要供應鏈事件**
 
-- 41 container ships stranded in Persian Gulf with 204K TEU stuck; carriers suspended or reduced Hormuz calls
-- At least 300+ vessels stuck in Gulf (tankers, bulk, containerships); evacuation paused by IMO
-- War-risk insurance premiums at 8.75% of hull value (vs. 0.15% pre-crisis); $3M-$10M per VLCC transit
-- Brent crude $100.74/bbl (7-week high); TD3C VLCC rates estimated WS400+ (vs. WS50 pre-crisis)
+- US SPR drawdown 285M bbl after 130M bbl release over 27 weeks; emergency authority expires Oct 1 with no renewal plan — triggers demand destruction risk
+- Global crude exports down 6.1 mbpd on VLCCs (27% y/y decline); suezmax and aframax partially offsetting via shorter routes
+- LNG prices +40% to +65% above pre-crisis; LNG carriers avoiding Hormuz entirely, reducing regional throughput to ~2 mbpd equivalent from normal ~8 mbpd
+- Brent crude +18% in September, now $107-109/bbl with $8.3/bbl backwardation signaling physical desperation and supply tightness
 
 ## 最新新聞
 
-- [能源價格上漲推動德國通膨率接近 3%](https://finance.yahoo.com/energy/articles/higher-energy-prices-pushing-german-073340139.html)　*Yahoo! News・2026-09-10*
-- [Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz](https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html)　*Cnbc・2026-09-10*
-- [IEA 報告顯示，2026 年全球煤炭需求將創歷史新高](https://newsable.asianetnews.com/business/global-coal-demand-to-hit-record-high-in-2026-iea-report-shows-articleshow-2dm38w3)　*Asianet Newsable・2026-09-10*
-- [伊朗警告美國在中東駐軍；「更多的攻擊將會...」|手錶](https://timesofindia.indiatimes.com/videos/international/iran-warns-american-troops-in-middle-east-more-attacks-will-watch/videoshow/133998498.cms)　*The Times Of India・2026-09-10*
-- [This tiny island, once used by British ships bound for India, is now a ‘prize’ amid US-Iran war](https://www.moneycontrol.com/world/this-tiny-island-once-used-by-british-ships-bound-for-india-is-now-a-prize-amid-us-iran-war-article-14026929.html)　*Moneycontrol・2026-09-10*
+- [Fuel prices are so high in America gas station displays can’t fit the numbers](https://www.independent.co.uk/bulletin/news/fuel-gas-prices-flip-signs-costs-b3048288.html)　*The Independent・2026-09-10*
+- [JD Vance breaks from Trump to find unvarnished truth behind Iran war](https://www.the-express.com/news/politics/215741/jd-vance-iran-war-truth)　*Daily Express Us・2026-09-10*
+- [US announces new sanctions against networks aiding Hezbollah, other Iranian proxies in Middle East](https://www.jpost.com/middle-east/iran-news/article-908348)　*Jpost・2026-09-10*
+- [A Complete Mess: Middle East Escalations And Diesel Out Of Control](https://seekingalpha.com/article/4945084-a-complete-mess-middle-east-escalations-and-diesel-out-of-control)　*Seeking Alpha・2026-09-10*
+- [Houthi rebels seize strategic port city in Yemen, escalating US-Iran crisis](https://www.sbs.com.au/news/article/houthi-rebels-seize-strategic-port-city-in-yemen-escalating-regional-crisis/zutk1v233)　*Sbs News・2026-09-10*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-11 04:15 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-11 18:18 台灣時間，僅供參考，不構成投資建議。*
