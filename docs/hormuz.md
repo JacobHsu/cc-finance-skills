@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-11 18:18 台灣時間　｜　資料更新：2026-09-11 18:18 台灣時間
+> 更新時間：2026-09-11 23:36 台灣時間　｜　資料更新：2026-09-11 23:36 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping; 6 transits on Sept 6 vs ~85/day normal (7% of baseline). Acute military pressure with US-Iran tit-for-tat attacks ongoing. Crisis Pressure Index in extreme band. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Effectively closed to commercial shipping as of September 10, 2026. Only 6 ships transited on September 6 vs ~85/day normal. Physical passage exists but is severely restricted, with Iran maintaining selective control based on flag state, cargo destination, and diplomatic negotiation. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 7 | 60 | <span style="color:#e74c3c">7.1% ⚠️</span> |
+| 6 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$96.02** | <span style="color:#27ae60">+6.27</span> | <span style="color:#27ae60">+6.99%</span> | 上升 |
+| **$109.51** | <span style="color:#27ae60">+3.39</span> | <span style="color:#27ae60">+3.19%</span> | 上升 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **436** | 174 | 156 | 106 | <span style="color:#27ae60">0.00</span> |
+| **250** | 45 | 120 | 85 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 721,000 | 10,300,000 | <span style="color:#e74c3c">7.0% ⚠️</span> | 上升 |
+| 618,000 | 10,300,000 | <span style="color:#e74c3c">6.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** No active diplomatic talks; US-Iran military escalation continued through early September
+**頭條：** Iran-Oman agree on temporary Hormuz route framework; technical talks planned
 
-**各方：** United States, Iran, Israel
+**各方：** Iran, Oman, United States
 
-> Military conflict continues with no peace negotiations active as of September 8. Recent escalation includes US strikes on Iranian tankers and IRGC ballistic missile attacks on US Navy warships. A brief MoU in June 2026 temporarily eased hostilities but collapsed, leading to resumed fighting. The White House internally projects the war continuing past January 2029.
+> Iran and Oman finalized details of a phased framework for temporary maritime corridor on August 26, 2026. Iran's Foreign Minister met Omani counterpart to discuss temporary navigation corridor and mine-clearing project. Long-term arrangement negotiations continue, though broader US-Iran peace deal remains stalled with hardening positions over compensation and control terms.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $0.45B | Japan, South Korea, China |
 
-> 25% of global LNG trade through Hormuz. LNG prices hit multi-year highs; Japan, South Korea, China severely impacted. Demand destruction and strategic reserve drawdowns in effect. Chinese LNG imports moderately stabilized through state control.
+> 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face critical LNG supply constraints. Only 1 LNG carrier crossed strait since conflict began (Sohar LNG in April 2026); alternative pipelines insufficient to replace lost throughput.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | 歐盟和非中國貿易商大量改變路線；約 30-40% 的改道油輪使用此航線。長期營運帶來的環境風險。 |
-| 沙烏地阿拉伯東西管道（延布） | +0 天 | — | Capacity 5 mbpd, operating near max. Used by Saudi ARAMCO for own exports. Limited spare capacity for third-party crude. |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Capacity 1.5 mbpd, operating at capacity. Serving UAE National Oil Company. No spare capacity available. |
-| Pakistan Gwadar Port (Red Sea routing) | +5 天 | $280 | Emerging hedge for long-term diversification; currently underutilized. Limited capacity but strategic positioning noted. |
+| Cape of Good Hope | +12 天 | $650 | Primary rerouting corridor; majority of container traffic diverted; Houthi activity in Red Sea further extends transit times |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5 mbpd capacity; Saudi crude actively rerouting to Yanbu terminal on Red Sea |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at ~1.5 mbpd capacity; limited role in offsetting Hormuz disruption |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +385% | +2.1% | 66 天 |
+| +350% | +3.2% | 68 天 |
 
 **主要供應鏈事件**
 
-- US SPR drawdown 285M bbl after 130M bbl release over 27 weeks; emergency authority expires Oct 1 with no renewal plan — triggers demand destruction risk
-- Global crude exports down 6.1 mbpd on VLCCs (27% y/y decline); suezmax and aframax partially offsetting via shorter routes
-- LNG prices +40% to +65% above pre-crisis; LNG carriers avoiding Hormuz entirely, reducing regional throughput to ~2 mbpd equivalent from normal ~8 mbpd
-- Brent crude +18% in September, now $107-109/bbl with $8.3/bbl backwardation signaling physical desperation and supply tightness
+- Tanker freight rates surged from ~$900K pre-crisis to $4M+ per voyage (350%+ increase); war risk premiums jumped from 0.15% to 7.5% of hull value (50x)
+- Brent crude at $107-109/bbl (up 18% in September 2026); WTI at $102+; containment measures and SPR drawdown maintaining moderate price floor
+- US SPR now at ~285M barrels after 130M bbl drawdown over 27 weeks; emergency authority expires October 1 with no Congressional renewal, creating demand-destruction or price-spike risk
+- Approximately 6,000 seafarers trapped in region awaiting evacuation; insurance market capacity strained; some carriers suspending operations
 
 ## 最新新聞
 
-- [Fuel prices are so high in America gas station displays can’t fit the numbers](https://www.independent.co.uk/bulletin/news/fuel-gas-prices-flip-signs-costs-b3048288.html)　*The Independent・2026-09-10*
-- [JD Vance breaks from Trump to find unvarnished truth behind Iran war](https://www.the-express.com/news/politics/215741/jd-vance-iran-war-truth)　*Daily Express Us・2026-09-10*
-- [US announces new sanctions against networks aiding Hezbollah, other Iranian proxies in Middle East](https://www.jpost.com/middle-east/iran-news/article-908348)　*Jpost・2026-09-10*
-- [A Complete Mess: Middle East Escalations And Diesel Out Of Control](https://seekingalpha.com/article/4945084-a-complete-mess-middle-east-escalations-and-diesel-out-of-control)　*Seeking Alpha・2026-09-10*
-- [Houthi rebels seize strategic port city in Yemen, escalating US-Iran crisis](https://www.sbs.com.au/news/article/houthi-rebels-seize-strategic-port-city-in-yemen-escalating-regional-crisis/zutk1v233)　*Sbs News・2026-09-10*
+- [US sends up to 200 troops to help Saudi Arabia fight Iran-backed Houthis: Report](https://timesofindia.indiatimes.com/world/middle-east/us-sends-up-to-200-troops-to-help-saudi-arabia-fight-iran-backed-houthis-report/articleshow/134041099.cms)　*The Times Of India・2026-09-11*
+- ['They Blew The Hell Out Of Bahrain': US Official's Stark Admission On Iran Strike](https://www.timesnownews.com/world/us/us-news/they-blew-the-hell-out-of-bahrain-us-officials-stark-admission-on-iran-strike-article-156136696)　*Times Now News・2026-09-11*
+- [Houthis Appear To Strike Major Saudi Pipeline, Worsening Global Energy Crisis](https://dailycaller.com/2026/09/10/houthis-strike-saudi-aramco-east-west-oil-pipeline)　*Dailycaller・2026-09-11*
+- [Vessel carrying Qatari LNG arrives at Port Qasim](https://www.dawn.com/news/2029001/vessel-carrying-qatari-lng-arrives-at-port-qasim)　*Dawn・2026-09-11*
+- [Saudi oil pipeline may be hit as Houthi attacks escalate: report](https://gulfnews.com/business/energy/saudi-oil-pipeline-may-be-hit-as-houthi-attacks-escalate-report-1.500670510)　*Gulf News・2026-09-11*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-11 18:18 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-11 23:36 台灣時間，僅供參考，不構成投資建議。*
