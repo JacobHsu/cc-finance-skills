@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-11 23:36 台灣時間　｜　資料更新：2026-09-11 23:36 台灣時間
+> 更新時間：2026-09-12 04:15 台灣時間　｜　資料更新：2026-09-12 04:15 台灣時間
 
 ---
 
@@ -8,7 +8,7 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Effectively closed to commercial shipping as of September 10, 2026. Only 6 ships transited on September 6 vs ~85/day normal. Physical passage exists but is severely restricted, with Iran maintaining selective control based on flag state, cargo destination, and diplomatic negotiation. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 截至 2026 年 9 月 10 日，海峽實際上已關閉商業航運。 9 月 6 日只有 6 艘船通過，而危機前的基線為 85 艘。隨著美國與伊朗針鋒相對的攻擊持續不斷，嚴重的軍事壓力持續存在。危機持續時間：195天以上。 |
 
 ## 船舶流量
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **250** | 45 | 120 | 85 | <span style="color:#27ae60">0.00</span> |
+| **436** | 218 | 145 | 73 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,7 +34,7 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 8.75% | 0.15% | 58.3x |
 
 ## 貨物吞吐量
 
@@ -44,27 +44,27 @@
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Iran-Oman agree on temporary Hormuz route framework; technical talks planned
+**頭條：** 阿曼調解的走廊談判“接近完成”，但全面重新開放存在爭議
 
-**各方：** Iran, Oman, United States
+**各方：** United States, Iran, Oman, Qatar, Israel, UAE
 
-> Iran and Oman finalized details of a phased framework for temporary maritime corridor on August 26, 2026. Iran's Foreign Minister met Omani counterpart to discuss temporary navigation corridor and mine-clearing project. Long-term arrangement negotiations continue, though broader US-Iran peace deal remains stalled with hardening positions over compensation and control terms.
+> 伊朗外交部長阿拉格奇表示，由阿曼調解的狹窄管理走廊的談判「即將完成」。然而，伊朗發言人巴蓋伊對川普「立即、完全、全面開放」的說法提出異議，稱美國「沒有立即計劃」進行談判，海峽「在任何情況下」都不會恢復到戰前狀態。談判仍有爭議，沒有明顯突破。
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $3.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.45B | Japan, South Korea, China |
+| 25% | $1.1B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face critical LNG supply constraints. Only 1 LNG carrier crossed strait since conflict began (Sohar LNG in April 2026); alternative pipelines insufficient to replace lost throughput.
+> 全球 25% 的液化天然氣經過霍爾木茲。日本、韓國和中國面臨嚴重的短缺。液化天然氣價格比危機前水準上漲 300-400%。大約6,000名海員滯留在該地區。
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Primary rerouting corridor; majority of container traffic diverted; Houthi activity in Red Sea further extends transit times |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5 mbpd capacity; Saudi crude actively rerouting to Yanbu terminal on Red Sea |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at ~1.5 mbpd capacity; limited role in offsetting Hormuz disruption |
+| 好望角 | +12 天 | $650 | 主動重新路由；大約 30% 的改道油輪使用這條路線；增加 12-15 天的運輸時間 |
+| 沙烏地阿拉伯東西管道 | +0 天 | — | 以 5 mbpd 的容量運行；接近最大值；有限的擴展可能 |
+| 阿聯酋哈卜尚-富查伊拉管道 | +0 天 | — | 以 1.5 mbpd 的容量運作；充分利用；沒有可用的閒置容量 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +350% | +3.2% | 68 天 |
+| +850% | +4.2% | 66 天 |
 
 **主要供應鏈事件**
 
-- Tanker freight rates surged from ~$900K pre-crisis to $4M+ per voyage (350%+ increase); war risk premiums jumped from 0.15% to 7.5% of hull value (50x)
-- Brent crude at $107-109/bbl (up 18% in September 2026); WTI at $102+; containment measures and SPR drawdown maintaining moderate price floor
-- US SPR now at ~285M barrels after 130M bbl drawdown over 27 weeks; emergency authority expires October 1 with no Congressional renewal, creating demand-destruction or price-spike risk
-- Approximately 6,000 seafarers trapped in region awaiting evacuation; insurance market capacity strained; some carriers suspending operations
+- VLCC 運價飆升至約 50 萬美元/天（正常水準的 10 倍）；海灣賽程費用為 46.9 萬美元/天，需要 2-3 週的承諾
+- 美國SPR 2.85億桶，縮減1.3億桶；緊急授權將於 10 月 1 日到期且無更新計畫；需求破壞或油價飆升的風險
+- Refinery runs in Middle East damaged; Asian refinery recovery delayed until Q4 2026 at earliest
+- 6,000+ seafarers trapped in region; IMO coordinating evacuation through safe corridors
 
 ## 最新新聞
 
-- [US sends up to 200 troops to help Saudi Arabia fight Iran-backed Houthis: Report](https://timesofindia.indiatimes.com/world/middle-east/us-sends-up-to-200-troops-to-help-saudi-arabia-fight-iran-backed-houthis-report/articleshow/134041099.cms)　*The Times Of India・2026-09-11*
-- ['They Blew The Hell Out Of Bahrain': US Official's Stark Admission On Iran Strike](https://www.timesnownews.com/world/us/us-news/they-blew-the-hell-out-of-bahrain-us-officials-stark-admission-on-iran-strike-article-156136696)　*Times Now News・2026-09-11*
-- [Houthis Appear To Strike Major Saudi Pipeline, Worsening Global Energy Crisis](https://dailycaller.com/2026/09/10/houthis-strike-saudi-aramco-east-west-oil-pipeline)　*Dailycaller・2026-09-11*
-- [Vessel carrying Qatari LNG arrives at Port Qasim](https://www.dawn.com/news/2029001/vessel-carrying-qatari-lng-arrives-at-port-qasim)　*Dawn・2026-09-11*
-- [Saudi oil pipeline may be hit as Houthi attacks escalate: report](https://gulfnews.com/business/energy/saudi-oil-pipeline-may-be-hit-as-houthi-attacks-escalate-report-1.500670510)　*Gulf News・2026-09-11*
+- [U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy](https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html)　*Cnbc・2026-09-11*
+- [Why is Trainline stock rallying today?](https://uk.investing.com/news/stock-market-news/why-is-trainline-stock-rallying-today-93CH-4865824)　*Investing Uk・2026-09-11*
+- [UK changes its tune on Israeli policies in the West Bank](https://ca.news.yahoo.com/uk-changes-tune-israeli-policies-074004004.html)　*Yahoo! News・2026-09-11*
+- [US Diesel Prices Rise Past $6 a Gallon for First Time Ever](https://uk.finance.yahoo.com/news/us-diesel-prices-rise-past-073731620.html)　*Yahoo! News・2026-09-11*
+- [Diesel hits all-time high of $6 per gallon and just about everything will cost more](https://www.nbcnews.com/business/energy/diesel-record-price-trump-inflation-rcna596843)　*Nbc News・2026-09-11*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-11 23:36 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-12 04:15 台灣時間，僅供參考，不構成投資建議。*
