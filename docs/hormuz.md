@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-12 17:51 台灣時間　｜　資料更新：2026-09-12 17:51 台灣時間
+> 更新時間：2026-09-12 22:42 台灣時間　｜　資料更新：2026-09-12 22:42 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | 在美國和以色列對伊朗發動攻擊以及伊朗伊斯蘭革命衛隊的反應（包括布雷和船隻襲擊）之後，海峽實際上對商業航運關閉了 195 天以上。最近的過境數量：9 月 6 日有 6 艘船，而正常基線為 85 艘/天。戰爭險保險費率是和平時期水準的 40 倍，這實際上禁止了大多數商業運輸。 |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping since February 28, 2026 following US-Israeli airstrikes and Iranian counter-closure. Only Iran-approved vessels transiting, mostly cargo to China/India. 6 transits on Sept 6 vs ~85/day normal. Recent escalation: US destroyed 5 IRGC tankers after Iranian ballistic missile attacks on US Navy warship (Sept 5-9, 2026). 441 vessels holding position away from berth. Crisis Pressure Index in extreme band. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 6 | 60 | <span style="color:#e74c3c">7.0% ⚠️</span> |
+| 6 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **436** | 210 | 120 | 106 | <span style="color:#27ae60">0.00</span> |
+| **441** | 185 | 156 | 100 | <span style="color:#27ae60">+5.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 6% | 0.15% | 40x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 721,000 | 10,300,000 | <span style="color:#e74c3c">7.0% ⚠️</span> | 上升 |
+| 520,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Iran-Oman negotiations on temporary corridor; US signals optimism but conditions harden
+**頭條：** Qatar-Iran Diplomacy Ongoing; Trump Says 'Not in Hurry' to Resume Negotiations
 
-**各方：** Iran, United States, Oman, Qatar
+**各方：** Iran, Qatar, Pakistan, United States, Oman
 
-> 伊朗專注於與阿曼就穿越海峽的臨時單一走廊進行談判，並聲稱擔任管理角色。美國和伊朗8月交換新要求；談判仍陷入僵局，等待霍爾木茲管理階層解決。卡達調解員報告了德黑蘭和馬斯喀特發出的積極訊息，但美伊直接會談尚未安排。
+> Qatar's PM/FM Sheikh Mohammed met Iranian leaders on August 27, 2026 to discuss de-escalation and creating conditions for dialogue on Strait of Hormuz management. However, Trump stated he is 'not in a hurry' to resume negotiations, and Iranian officials remain only meeting with mediators. Earlier ceasefire (June-July 2026) failed after both sides resumed attacks in early July. Iran-US and Iran-Oman talks continue via intermediaries, but no breakthrough apparent.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $8.5B |
+| 21% | $8.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $3.2B | Japan, South Korea, China |
+| 25% | $2.1B | Japan, South Korea, China |
 
-> 全球25%的液化天然氣供應受阻；日本、韓國、中國面臨嚴重短缺和現貨市場價格飆升。液化天然氣期貨較危機前水準上漲 35-40%。
+> 25% of global LNG trade disrupted. LNG carriers nearly halted; critical shortage for Japan and South Korea. Spot LNG prices elevated due to reduced supply and rerouting delays.
 
 **受影響地區**
 
@@ -75,36 +75,37 @@
 | China | HIGH | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
+| Saudi Arabia & UAE | HIGH | 100% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | Active rerouting by major container lines (CMA CGM, Maersk); limited LNG reroute feasibility due to infrastructure constraints |
-| 東西管道（沙烏地阿拉伯） | +0 天 | — | 可以運行，但容量限制為 5 mbpd；沙烏地阿拉伯傾向於紅海/蘇伊士運河與其他航線 |
-| 哈布山-富查伊拉管道（阿聯酋） | +0 天 | — | 運行速度約為 1.5 mbpd，但容量有限；不足以完全繞過霍爾木茲 |
+| Cape of Good Hope | +12 天 | $650 | Moderate rerouting; higher costs and 10-15 day delays discourage adoption. ~8-10 VLCC-equivalent daily transits shifting to Cape route. |
+| Saudi Arabia East-West Pipeline | +0 天 | — | Operating at 5 Mbpd capacity (full). Saudi crude from Eastern fields redirected westward to Red Sea export terminals. |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at 1.5 Mbpd capacity (full). UAE crude rerouted to Fujairah for Red Sea/Suez export. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +285% | +4.2% | 68 天 |
+| +425% | +3.8% | 70 天 |
 
 **主要供應鏈事件**
 
-- 布蘭特原油價格為 104.42 美元/桶（較危機前的 58 美元上漲 75%）；消費者燃料/暖氣成本飆升
-- 全球貨櫃運費上漲280-300%；汽車/電子供應鏈嚴重延遲
-- 超過 41 艘貨櫃船（204K+ TEU）被困在海灣；到 2026 年第四季零售商將面臨庫存短缺
-- 化肥/糧食安全危機浮現：全球 60% 的氨透過霍爾木茲出口；大宗商品價格上漲40-50%
+- VLCC tanker rates surged from ~$900k pre-crisis ($50 WS) to $4M+ for compliant tonnage (300+ WS) — 4-5x normal cost.
+- Approximately 6,000 seafarers trapped in region; IMO evacuation efforts ongoing via safe routes.
+- LNG spot prices elevated; Japan & South Korea facing $15-20/MMBtu vs $8-10 pre-crisis; winter demand fears.
+- Global automotive, petrochemical, and manufacturing output declining due to diesel/jet fuel shortages and cost inflation; refinery throughput down 15-25%.
 
 ## 最新新聞
 
-- [伊朗支持的胡塞武裝控制也門紅海海岸線](https://www.nbcnews.com/video/iran-backed-houthis-take-control-of-red-sea-coastline-in-yemen-269743173909)　*Nbc News・2026-09-11*
-- [報告稱，白宮考慮利用國防生產法擴大煉油規模](https://dailycaller.com/2026/09/11/defense-production-act-oil-refineries-white-house-trump-admin)　*Dailycaller・2026-09-11*
-- [伊朗支持的胡塞武裝加強對關鍵航運走廊的控制，襲擊導致沙烏地阿拉伯石油管道起火](https://nypost.com/2026/09/11/world-news/strikes-set-saudi-oil-pipeline-on-fire-as-iran-backed-houthis-tighten-grip-on-key-shipping-corridor/)　*New York Post・2026-09-11*
-- [沙烏地阿拉伯稱東西方管線遭到從伊拉克發射的無人機攻擊](https://www.yahoo.com/news/world/articles/saudi-arabia-says-east-west-213047644.html)　*Yahoo! News・2026-09-11*
-- [沙烏地阿拉伯稱來自伊拉克的無人機襲擊了石油管道，迫使其關閉；阻止報復](https://www.news18.com/world/saudi-says-drones-from-iraq-hit-oil-pipeline-forcing-shutdown-holds-off-retaliation-ws-l-10324319.html)　*News 18・2026-09-11*
+- [Saudi Arabia shuts key oil pipeline as Houthis seize strategic Red Sea island](https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-shuts-key-oil-pipeline-as-houthis-seize-strategic-red-sea-island/articleshow/134102085.cms)　*The Times Of India・2026-09-12*
+- [Oil above $100: Red Sea threat could add month to Asia shipments](https://gulfnews.com/world/mena/oil-above-100-red-sea-threat-could-add-month-to-asia-shipments-1.500671694)　*Gulf News・2026-09-12*
+- [Six months into the Iran war, no end is in sight](https://gulfnews.com/opinion/op-eds/six-months-into-the-iran-war-no-end-is-in-sight-1.500670195)　*Gulf News・2026-09-12*
+- [BRICS Has The Numbers, PM Modi Wants Action: '50% Of Humanity, 40% Of Global GDP'](https://www.timesnownews.com/india/brics-has-the-numbers-pm-modi-wants-action-50-of-humanity-40-of-global-gdp-article-156142979)　*Times Now News・2026-09-12*
+- [Modi hosts Xi and Putin at BRICS summit focused on trade, conflicts](https://www.yahoo.com/news/world/articles/modi-hosts-xi-putin-brics-010328179.html)　*Yahoo! News・2026-09-12*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-12 17:51 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-12 22:42 台灣時間，僅供參考，不構成投資建議。*
