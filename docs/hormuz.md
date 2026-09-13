@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-13 03:55 台灣時間　｜　資料更新：2026-09-13 03:55 台灣時間
+> 更新時間：2026-09-13 18:50 台灣時間　｜　資料更新：2026-09-13 18:50 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz effectively closed to commercial shipping since US-Israeli attacks on Iran began. Only 6 transits recorded on Sept 6 vs 85/day pre-crisis. Iran maintains declaration of closure and threatens transit; US-led military operations ongoing with recent drone losses and escalations. Insurance and risk environment pricing passage as economically infeasible. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping; only 6 transits on 2026-09-06 vs. 85-100 pre-crisis baseline. Limited convoys under naval escort; Iran maintains control; 418 vessels holding position. Fresh escalation Sept 1-9 with US CENTCOM strikes and Iranian retaliatory attacks on Gulf bases. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
+| 6 | 1 | 60 | <span style="color:#e74c3c">1.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **441** | 145 | 156 | 140 | <span style="color:#27ae60">+2.00</span> |
+| **418** | 180 | 120 | 118 | <span style="color:#27ae60">+5.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8% | 0.15% | 53.3x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
+| 775,000 | 10,300,000 | <span style="color:#e74c3c">7.5% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** US-Iran talks on Hormuz access stalled; Oman-hosted discussions seeking interim shipping corridor arrangement
+**頭條：** Iran rejects signed deal from Monday Oman meeting; negotiations remain deadlocked
 
-**各方：** United States, Iran, Oman, Qatar, Pakistan
+**各方：** Iran, United States, Gulf States, Oman
 
-> 美國和伊朗的談判在 60 天的備忘錄於 8 月中旬到期後陷入僵局。伊朗與阿曼就臨時航線和管理安排直接進行談判，堅持要求賠償和減輕制裁。美國要求伊朗賠償。卡達和巴基斯坦進行調解；有報導稱，談判將在伊斯蘭堡恢復，但目前尚未達成具體協議。
+> Iranian official stated no signed Hormuz agreement expected from Sept 9 Oman talks between Iran and Gulf states. Despite earlier June 17 US-Iran memorandum, recent military escalation (Sept 1-9) with US airstrikes and Iranian retaliation has derailed negotiations. Both parties remain on record against resuming normal commercial traffic.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $12.5B |
+| 21% | $2.1B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $4.2B | Japan, South Korea, China |
+| 25% | $0.85B | Japan, South Korea, China |
 
-> 全球 25% 的液化天然氣經過霍爾木茲；液化天然氣現貨價格較危機前基準上漲 200-300%。亞洲主要進口商面臨供應短缺和配給；儲存消耗加速。
+> LNG spot prices surge $25-40/MMBtu above contract levels; top 3 importers facing 70-80% supply reduction; cascading power generation disruptions expected across East Asia within 60-90 days if closure persists.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| 好望角 | +12 天 | $650 | Moderate rerouting activity; selected routes experiencing congestion; charterers accepting longer transits to avoid Hormuz war premium |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating at 5 mbpd capacity limit; insufficient to offset Hormuz closure; no expansion capability during crisis |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; insufficient for crisis volumes; UAE pipeline integrity concerns due to war proximity |
+| Cape of Good Hope (Africa Route) | +12 天 | $650 | High utilization; 30-40% of normal Hormuz traffic now routing around Cape; port congestion at Cape ports increasing |
+| Saudi East-West Pipeline | +0 天 | — | Operating at 5 mbpd capacity (maximum); Saudi Aramco pumping full volume to Red Sea outlets; limited spare capacity |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Fully utilized at 1.5 mbpd capacity; critical supplement to Hormuz bypass |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +75% | +4.2% | 71 天 |
+| +550% | +3.2% | 71 天 |
 
 **主要供應鏈事件**
 
-- Brent crude at $104/bbl (up 50% from pre-crisis); LNG spot prices 250%+ above baseline affecting winter heating plans
-- Container carriers report 41 vessels stranded inside Persian Gulf; 204K+ TEU of cargo unable to move; 4 of 9 largest carriers halted Hormuz operations
-- 化肥和化學品供應鏈中斷；替代採購和重新路由使交貨時間延長 8-12 週
-- Automotive and electronics manufacturing experiencing JIT supply failures; semiconductor shortages emerging from logistics bottlenecks
+- VLCC fixtures commanding $365k-$410k/day for GOO-China vs. $100-120k pre-crisis; 6-month forward rates locked at $250k+ as shippers hedge volatility
+- 6,000+ seafarers stranded in Persian Gulf region; IMO evacuation efforts hampered by security concerns; psychological toll on crews mounting
+- Petrochemical plants in East Asia operating at 40-60% capacity due to feedstock shortages; polyethylene prices up 45%, fertilizer shortages intensifying
+- Insurance market showing signs of stress; major underwriters raising deductibles and reducing line capacity; new policies requiring government backstops
 
 ## 最新新聞
 
-- [沙烏地阿拉伯石油管道遭伊拉克無人機襲擊](https://gulfnews.com/world/gulf/saudi/saudi-oil-pipeline-hit-by-drones-launched-from-iraq-1.500671647)　*Gulf News・2026-09-12*
-- [Iran Hints at Opening the Strait of Hormuz](https://www.bluewin.ch/en/news/iran-hints-at-opening-the-strait-of-hormuz-li.3597083)　*Bluewin・2026-09-12*
-- ['Air support never came': How Houthis caught Saudi forces off guard in 'lightning' strike](https://timesofindia.indiatimes.com/world/middle-east/air-support-never-came-how-houthis-caught-saudi-forces-off-guard-in-a-lightning-strike/articleshow/134115165.cms)　*The Times Of India・2026-09-12*
-- [沙烏地阿拉伯的東西管道是什麼？為什麼針對它的攻擊很重要？](https://indianexpress.com/article/explained/explained-global/saudi-east-west-oil-pipeline-attack-hormuz-explained-10874799/)　*The Indian Express・2026-09-12*
-- [安瓦爾總理強調霍爾木茲海峽的航行自由，呼籲外交](https://www.thestar.com.my/news/nation/2026/09/12/pm-anwar-stresses-on-freedom-of-navigation-in-strait-of-hormuz-calls-for-diplomacy)　*The Star・2026-09-12*
+- [Oil on the Boil: Diesel Prices Hit $9.999 Amid Iran War, Pumps Run Out of Digits](https://www.timesnownews.com/world/us/us-news/oil-on-the-boil-diesel-prices-hit-9-999-amid-iran-war-pumps-run-out-of-digits-article-156147996)　*Times Now News・2026-09-12*
+- [Knives out for Trump as cost hikes start breaking gas station displays: ‘Good job Trumpy!’](https://www.rawstory.com/trump-gas-prices-2677851948/)　*Raw Story・2026-09-12*
+- [Trump Points Finger At Iran After Drone Attack Shuts Vital Saudi Oil Pipeline](https://www.timesnownews.com/world/middle-east/houthis-saudi-arabia-pipeline-attack-us-president-donald-trump-iran-war-oil-prices-article-156148031)　*Times Now News・2026-09-12*
+- [Iraq says Saudi pipeline attack originated from its territory](https://www.news18.com/agency-feeds/iraq-says-saudi-pipeline-attack-originated-from-its-territory-10325850.html)　*News 18・2026-09-12*
+- [Middle East, Ukraine just dealt another blow to your wallet](https://www.thestreet.com/economy/middle-east-ukraine-boost-diesel-prices-record-strain-consumers)　*Thestreet・2026-09-12*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-13 03:55 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-13 18:50 台灣時間，僅供參考，不構成投資建議。*
