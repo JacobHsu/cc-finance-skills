@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-15 18:44 台灣時間　｜　資料更新：2026-09-15 18:44 台灣時間
+> 更新時間：2026-09-15 23:58 台灣時間　｜　資料更新：2026-09-15 23:58 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping as of September 15, 2026. Only 5-11 ships per day (mean ~7.7) transiting versus pre-war normal of ~125/day. Iran maintains complete control; commercial traffic reduced to ~40% of 2025 flows with >80% AIS-dark vessels. PETROLINE (East-West Pipeline bypass) shut since September 11. Recent vehicle strikes reported: one cargo vessel struck near Qeshm on September 13 (10 crew killed). |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping for 198 days since February 28, 2026. Only 6 vessels transited on September 6 (7% of ~85/day normal). Traffic remains ~90% below pre-crisis levels amid ongoing US-Iran military clashes, Iranian warnings, vessel attacks, and disputed closure declarations. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 7 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
+| 6 | 6 | 60 | <span style="color:#e74c3c">7.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **280** | 85 | 95 | 100 | <span style="color:#27ae60">+3.00</span> |
+| **240** | 85 | 95 | 60 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 4,120,000 | 10,300,000 | <span style="color:#e74c3c">40.0% ⚠️</span> | 上升 |
+| 720,500 | 10,300,000 | <span style="color:#e74c3c">7.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Scheduled Iran-Gulf talks on Hormuz reopening indefinitely postponed as of September 13
+**頭條：** Iran dismisses fresh talks; Iran-Oman shipping route agreement signed in Muscat
 
-**各方：** Iran, Oman, United Arab Emirates, Saudi Arabia, Qatar, United States
+**各方：** United States, Iran, Oman, Gulf States
 
-> Omani-led regional talks scheduled for September 15 (Salalah) to discuss reopening the Strait of Hormuz under an Omani proposal were indefinitely postponed on September 13. Iran-Oman bilateral negotiations over a managed corridor continue at advanced stage, but broader regional and US-Iran positions remain hardened. The 60-day deadline for US-Iran negotiations expired with no formal agreement.
+> Direct US-Iran negotiations remain stalled with no near-term prospects for resumption. A senior Iranian official dismissed hopes of fresh talks. However, Iranian officials met with Gulf countries in Muscat to sign an agreement establishing an alternative Iran-Oman shipping route through the Strait of Hormuz, representing an attempt to bypass US restrictions.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $3.85B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG supplies transits Hormuz. Japan, South Korea, and China face severe LNG import disruptions. Spot LNG prices elevated; long-term contracts under renegotiation. Japan particularly vulnerable with 90%+ LNG dependency on regional suppliers.
+> 25% of global LNG trade passes through Hormuz. Japan, South Korea, and China face acute supply shortages and price spikes. LNG spot prices elevated; long-term contracts strained as alternative suppliers (Australia, Qatar) prioritize long-term commitments.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope (Africa routing) | +12 天 | $650 | Active; major shipping lines (MSC, Maersk) routing Asia-Europe via Cape; estimated 25-30% of normal Hormuz traffic shifted to this route |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | SHUT DOWN since September 11, 2026 after 3 days of operation; was carrying ~5 million bpd capacity (83% of Saudi national output). No restart date announced. Damage assessment pending. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at partial capacity; 1.5 mbpd capacity partially utilized; provides limited bypass relief |
+| Cape of Good Hope | +12 天 | $650 | Increasingly used by rerouting vessels; adds 12+ days transit time and significant fuel surcharge; becoming default route for many carriers |
+| East-West Pipeline (Saudi) | +0 天 | — | 5 mbpd capacity; Saudi Arabia only; insufficient to absorb diverted Hormuz volumes; operating below capacity due to geopolitical constraints |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; limited utility; pipeline undersized relative to daily Hormuz disruption of ~15 million barrels |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +185% | +2.4% | 71 天 |
+| +1245% | +2.8% | 70 天 |
 
 **主要供應鏈事件**
 
-- Brent crude at $107.70/bbl (September 15), WTI at $100.05/bbl; week-on-week +8.7% Brent, +9.4% WTI
-- VLCC tanker rates (TD3C) at estimated 180-220 WS, up from pre-crisis 40-60 WS (300-400% increase)
-- Approximately 6,000 seafarers trapped or stranded in Gulf region; IMO evacuation plan paused but ongoing
-- Petrochemical feedstock shortages emerging; plastics and fertilizer prices rising; automotive production threatened in Asia-Pacific
+- VLCC spot rates peaked at $982,072/day (TD3C route); 1,500% above pre-crisis WS 40-60; freight cost per barrel reaching $15-20
+- Petroline (East-West Pipeline) shut down; Saudi pipeline unable to absorb Persian Gulf diversion; alternative routes insufficient
+- Approximately 6,000 seafarers stranded in region; crew evacuations ongoing; IMO coordination for safe vessel passage breaking down
+- Oil prices at $107/barrel Brent; 67% above pre-crisis levels; consumer fuel inflation spreading to food and transportation sectors globally
 
 ## 最新新聞
 
-- [US blocks Iran nuclear chief from attending key Vienna conference](https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference)　*Al Jazeera・2026-09-14*
-- [What the closure of Saudi Arabia's East-West pipeline could mean for oil flows](https://www.independent.co.uk/news/saudi-arabia-iran-strait-of-hormuz-middle-east-red-sea-b3050143.html)　*The Independent・2026-09-14*
-- [Fresh Houthi Strikes Inject New Uncertainty Into Iran War](https://foreignpolicy.com/2026/09/14/houthi-strikes-yemen-red-sea-saudi-arabia-iran-east-west-oil-pipeline/)　*Foreign Policy・2026-09-14*
-- [Oil Stays Above $100 as Hormuz Talks With Iran Are Postponed](https://www.newsmax.com/newsfront/Oil-Stays-Above-100-as-Hormuz-Talks-With-Iran-Are-Postponed/2026/09/14/id/1269415)　*Newsmax.com・2026-09-14*
-- [investingLive Americas FX news wrap 14 Sept: It’s a Wrap: Oil tops $100 as higher yields and AI worries pressure stocks](https://investinglive.com/news/investinglive-americas-fx-news-wrap-14-sept-it-s-a-wrap-oil-tops-100-as-higher-yields-and-ai-worries-pressure-stocks/)　*Forexlive・2026-09-14*
+- [US Escalates Iran Pressure, Targets Russia's VTB Over Sanctions Evasion](https://www.ndtvprofit.com/world/us-escalates-iran-pressure-targets-russias-vtb-over-sanctions-evasion-12047268)　*Ndtv・2026-09-15*
+- [Oil Prices Stay On Boil As Saudi Pipeline Outage Deepens West Asia Supply Fears](https://www.timesnownews.com/business-economy/economy/oil-prices-stay-on-boil-as-saudi-pipeline-outage-deepens-west-asia-supply-fears-article-156158746)　*Times Now News・2026-09-15*
+- [US-Iran tensions mount as Strait of Hormuz crisis disrupts tanker traffic, oil prices; Houthi attacks injure Saudi civilians](https://gulfnews.com/world/mena/us-iran-tensions-mount-as-strait-of-hormuz-crisis-disrupts-tanker-traffic-oil-prices-houthi-attacks-injure-saudi-civilians-1.500674804)　*Gulf News・2026-09-15*
+- [Saudi oil pipeline to remain shut for weeks after drone attack, threatening global supply](https://www.firstpost.com/business/saudi-oil-pipeline-drone-attack-global-supply-14045890.html)　*Firstpost・2026-09-15*
+- [Saudi Arabia vows ‘firm’ response after Houthi missile, drone attacks wound 13](https://www.moneycontrol.com/world/saudi-arabia-vows-firm-response-after-houthi-missile-drone-attacks-wound-13-article-14029857.html)　*Moneycontrol・2026-09-15*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-15 18:44 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-15 23:58 台灣時間，僅供參考，不構成投資建議。*
