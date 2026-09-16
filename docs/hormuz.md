@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-16 23:50 台灣時間　｜　資料更新：2026-09-16 23:50 台灣時間
+> 更新時間：2026-09-17 04:41 台灣時間　｜　資料更新：2026-09-17 04:41 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping by Iranian declaration and military action. Only 8 transits on Sept 13 vs pre-crisis baseline of 85/day. Physical passage possible but constrained by IRGC control, Iranian approval requirement, and extreme war risk. >80% of vessel AIS data dark. Most commercial shipping suspended; only Iran-approved vessels move through with military escort. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial shipping following February 28, 2026 US-Israeli strikes on Iran. Current transits at 5-11 ships per day versus pre-war baseline of ~85-130, representing ~9% of normal traffic. Iran maintains selective passage policy for limited countries; >80% of remaining traffic operates with AIS dark. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 8 | 8 | 60 | <span style="color:#e74c3c">9.4% ⚠️</span> |
+| 8 | 8 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **320** | 145 | 98 | 77 | <span style="color:#27ae60">+2.00</span> |
+| **250** | 120 | 80 | 50 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 上升 |
+| 824,000 | 10,300,000 | <span style="color:#e74c3c">8.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran-Oman corridor negotiations stalled; direct US-Iran talks deadlocked after 60-day MOU expired July 8
+**頭條：** Iran-Gulf talks on Omani reopening plan postponed indefinitely
 
-**各方：** Iran, United States, Oman, Pakistan (mediator)
+**各方：** Iran, Oman, Saudi Arabia, UAE, United States, China
 
-> Negotiations have stalled with positions hardening. Iran and Oman negotiating a managed corridor (single 7nm-wide passage under Iranian control), but talks show no tangible progress. The June 17 US-Iran Memorandum of Understanding expired July 8 with fighting resuming. Recent attacks on commercial vessels in early September have further escalated tensions, making near-term reopening unlikely.
+> Regional meeting scheduled for September 15 in Salalah to discuss Omani plan for reopening strait was indefinitely postponed on September 15. Iran and Oman have been negotiating for weeks on corridor arrangement and potential toll system. Broader US-Iran peace talks stalled; Trump asserts US control of waterway.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.8B |
+| 21% | $3.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $0.8B | Japan, South Korea, China |
 
-> 25% of global LNG trade disrupted. LNG cargo diversions and delayed shipments raising landed costs by 40-60% above normal. Japan and South Korea facing potential winter heating constraints if crisis extends into Q4 2026.
+> LNG supply severely constrained; Japan and South Korea facing industrial and heating fuel shortages. Liquefied natural gas prices up 35-45% above pre-crisis levels. Only marginal volumes moving through strait due to safety concerns.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Operational but heavily congested; increased transit times and fuel surcharges. Estimated 15-20% of rerouted tanker traffic using this route. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5.0 mbpd (at stated capacity limit); sufficient to offset only ~25% of lost Hormuz flow |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | At 1.5 mbpd capacity limit; shipping from Fujairah Red Sea port; alternative to Hormuz but limited volumetric relief |
-| Southern Oman Corridor (US-backed) | +2 天 | $120 | Experimental; minimal traffic (2-3 vessels/week); requires Iranian coordination for Oman side; confidence very low among shipowners |
+| Cape of Good Hope | +12 天 | $650 | Actively used by major carriers; MSC routing Asia-Europe services via Cape since March 2026 |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Capacity limited to 5.0 mbpd; operating near capacity; Saudi-only domestic access |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Capacity limited to 1.5 mbpd; insufficient to replace Hormuz flows |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +185% | +2.1% | 68 天 |
+| +180% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- Container shipping rates on Asia-Europe routes up 185% vs pre-crisis; congestion in alternate ports (Singapore, Jebel Ali) causing $50-150k/day demurrage per vessel
-- Oil refinery utilization in Japan, South Korea falling; cracks narrowing; delayed downstream product release affecting retail fuel prices (+15-22% in Japan, +12-18% South Korea)
-- LNG spot prices up 120% on peak scarcity; long-term contracts forcing buyers to accept force majeure triggers; winter 2026-27 heating season at risk in East Asia
-- US SPR drawn down to ~365M barrels (assuming 4.4M bbl/day max release rate began Sept 1, reducing from 385M baseline); sustains ~68 days of maximum release before structural heel (58M barrel minimum)
+- Automotive production delays in Japan, South Korea, and India due to parts supply shortages and fuel price spikes
+- Chemical and petrochemical feedstock rationing across Asia; plastics, fertilizers, and resins in acute shortage
+- Container shipping rates tripled from $2,500 to $7,500 per 40ft container for Asia-Europe routes
+- Power generation fuel switching in Japan and South Korea driving coal and LNG spot market disruption
 
 ## 最新新聞
 
-- [Strait of hormuz ship crossings remain in single digits, data shows](https://www.thestar.com.my/business/business-news/2026/09/16/strait-of-hormuz-ship-crossings-remain-in-single-digits-data-shows)　*The Star・2026-09-16*
-- [Mecca Targeted? Saudi Arabia Warns Of ‘Red Line’ After Houthi Drone Intercepted Near Holy City](https://news.abplive.com/news/world/houthi-saudi-arabia-attack-riyadh-warns-of-red-line-after-houthi-drone-intercepted-near-mecca-1866911)　*Abp News・2026-09-16*
-- [Iran war nears $40B as half of voters say sending U.S. troops was a mistake](https://ca.news.yahoo.com/iran-war-nears-40b-half-033307237.html)　*Yahoo! News・2026-09-16*
-- [Iran War Has Cost US $38 Billion Over Five Months, CBO Says](https://www.ndtvprofit.com/world/iran-war-has-cost-us-38-billion-over-five-months-cbo-says-12052392)　*Ndtv・2026-09-16*
-- [Oil tanker El Gaia hit by sea mines while passing through prohibited zone south of Hormuz](https://economictimes.indiatimes.com/news/videos/oil-tanker-el-gaia-hit-by-sea-mines-while-passing-through-prohibited-zone-south-of-hormuz/videoshow/134277231.cms)　*The Economic Times・2026-09-16*
+- [Iran war has cost the US more than $38 billion so far, says Congressional Budget Office](https://www.euronews.com/2026/09/16/iran-war-has-cost-the-us-more-than-38-billion-so-far-says-congressional-budget-office)　*Euronews・2026-09-16*
+- [China opens major canal linking southwest to sea, cutting 560-km trade detour](https://gulfnews.com/world/asia/china-opens-major-canal-linking-southwest-to-sea-cutting-560-km-trade-detour-1.500676377)　*Gulf News・2026-09-16*
+- [Drone attack prompts air alert over Mecca: Why this is unprecedented and alarming](https://www.firstpost.com/explainers/houthi-drone-attack-air-alert-mecca-saudi-arabia-analysis-alarming-14046252.html)　*Firstpost・2026-09-16*
+- [Pakistan ‘perturbed’; Saudi warns of ‘red line’: Here’s how Muslim nations reacted to Mecca attack claim](https://english.mathrubhumi.com/news/world/pakistan-perturbed-saudi-warns-of-red-line-heres-how-muslim-nations-reacted-to-mecca-attack-claim-ctzfgv55)　*Mathrubhumi English・2026-09-16*
+- [Houthis say Saudi fighter jet shot down, calls claims of targeting Mecca 'a worn-out lie'](https://www.deccanherald.com/world/middle-east/houthis-say-saudi-fighter-jet-shot-down-calls-claims-of-targeting-mecca-a-worn-out-lie-4147860)　*Deccan Herald・2026-09-16*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-16 23:50 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-17 04:41 台灣時間，僅供參考，不構成投資建議。*
