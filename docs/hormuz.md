@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-19 04:11 台灣時間　｜　資料更新：2026-09-19 04:11 台灣時間
+> 更新時間：2026-09-19 18:01 台灣時間　｜　資料更新：2026-09-19 18:01 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial shipping as of September 18, 2026, despite a brief reopening attempt under the Islamabad Memorandum in June 2026. The strait was initially closed by Iran on February 28, 2026, in response to US-Israeli airstrikes. A temporary US-Iran agreement reopened it toll-free from mid-June, but the agreement collapsed in early July after renewed attacks on commercial vessels. Transit is now reduced to approximately 5-8% of pre-crisis levels with sporadic convoys under naval escort and numerous vessels with AIS transponders disabled. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping since February 28, 2026. Tanker attacks continue with 8 transits on September 13 vs 85/day normal baseline. Latest attack on product tanker Trend (September 17). Iran rules out talks until terms met. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 8 | 8 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
+| 8 | 4 | 60 | <span style="color:#e74c3c">9.4% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **369** | 145 | 110 | 114 | <span style="color:#27ae60">0.00</span> |
+| **369** | 156 | 89 | 124 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 854,000 | 10,300,000 | <span style="color:#e74c3c">8.3% ⚠️</span> | 下跌 |
+| 873,000 | 10,300,000 | <span style="color:#e74c3c">8.5% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Iran-Oman corridor proposal under negotiation as US-Iran ceasefire framework remains stalled
+**頭條：** China urges resumed talks; Iran-Gulf corridor meeting postponed indefinitely
 
-**各方：** Iran, Oman, United States, Pakistan, Gulf States
+**各方：** Iran, United States, China, Gulf States
 
-> Iran and Oman have proposed a temporary shipping corridor through the Strait of Hormuz following weeks of negotiations. A planned Iran-Gulf states corridor meeting was postponed with no new date set. Iran continues to rule out direct talks with Washington until its terms are met, while the US maintains operational control of the strait with naval escort operations.
+> China urged Iran and US to resume talks and reopen the strait. Iran-Gulf states corridor meeting proposed but postponed with no new date set. Iran rules out negotiations with Washington until its terms are met. No scheduled diplomatic engagement confirmed.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $0.95B | Japan, South Korea, China |
 
-> LNG flows through Hormuz reduced to minimal levels. Qatar and UAE supply pushed via alternative routes with severe rerouting costs ($3-5/MMBtu premiums through winter). East-West Pipeline offline since September 11 compounds supply crunch, forcing spot market purchases at elevated winter prices.
+> 25% of global LNG trade at risk. Japan as top importer facing severe supply constraints. LNG prices elevated as rerouting adds 10-15 days and significant costs per vessel.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily utilized by container lines (Maersk, MSC, CMA CGM, Hapag-Lloyd) and oil majors; vessel supply tight on traditional Asia-Europe routes; surcharges on 20-foot equivalent units in effect |
-| East-West Crude Oil Pipeline (Saudi Arabia) | +0 天 | — | OFFLINE since September 11, 2026; 5 mbpd capacity lost; adds pressure to maritime alternatives |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at partial capacity (1.5 mbpd max); insufficient to replace Hormuz closure; utilized for UAE domestic exports but cannot absorb Gulf-wide throughput |
+| Cape of Good Hope | +12 天 | $650 | Moderate uptake; container carriers accelerating return to Suez despite Houthi risks near Bab al-Mandeb |
+| East-West Crude Oil Pipeline (Saudi) | +0 天 | — | SHUTDOWN as of September 11, 2026; 5 mbpd capacity offline |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating but capacity limited to 1.5 mbpd; insufficient to offset Hormuz closure |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +320% | +3.2% | 71 天 |
+| +75% | +3.2% | 71 天 |
 
 **主要供應鏈事件**
 
-- War risk insurance costs now 7.5-10% of hull value (vs 0.15% pre-crisis); $5-7.5M per VLCC transit impossible for commercial operators
-- Freight rates for Persian Gulf to China crude shipments at ~$78/mt (4× five-year pre-crisis average); war insurance alone adds $20+/mt component
-- Global tanker backlog of 145+ crude and product carriers; average waiting period 180+ days as vessels queue outside Persian Gulf for escort clearance
-- Consumer fuel prices up 20-25% YTD as crude spot premiums and refinery margins widen; heating oil and jet fuel shortages emerging in Northern Hemisphere ahead of winter
+- 41 container vessels stranded inside Gulf with 204K+ TEU capacity trapped
+- War risk insurance at 8.5% hull value (56.7× normal); P&I clubs restricting coverage availability
+- Brent crude $104.89 (+1.49% last 24h); global fuel crisis characterized as largest supply disruption in oil market history
+- 6,000+ seafarers trapped in region; IMO conducting evacuation operations through safe routes
 
 ## 最新新聞
 
-- [US approves potential $24 billion sale of F-35 jets to Saudi Arabia](https://www.cnn.com/2026/09/18/politics/us-f35-fighter-jet-sale-saudi-arabia-hnk)　*Cnn・2026-09-18*
-- [Iran Navy Hits Tanker Over Unauthorised Hormuz Crossing](https://sputniknews.in/20260918/iran-navy-hits-tanker-over-unauthorised-hormuz-crossing-12336885.html)　*Sputnik News・2026-09-18*
-- [Italy to deploy warships in Red Sea to protect shipping as Houthis tighten grip on Bab el-Mandeb](https://www.moneycontrol.com/world/italy-to-deploy-warships-in-red-sea-to-protect-shipping-as-houthis-tighten-grip-on-bab-el-mandeb-article-14032828.html)　*Moneycontrol・2026-09-18*
-- [Ban on new cars, one dish at weddings: How severe is Pakistan’s fuel crisis?](https://www.firstpost.com/explainers/pakistan-fuel-crisis-austerity-measures-ban-vehicle-purchase-limited-wedding-menu-west-asia-conflict-oil-14046802.html)　*Firstpost・2026-09-18*
-- [BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June - CoinDesk](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVOa3BVUE1iUTV1MTdMOWcwcW1MaFNKREhLSmdiTUQteGY5QVFJZUFyUDBKSEU1UFFqQUxMSDZvdk9GZUd3MWJ1cnd5OU1hSklpbnZjLVRfZ2UtVzAwUVhGaUdwd2tpUlpFLUFZSWp5UUF3UDVaVHlBOTgtY1BSZ2NoMkRST3YxcGxVR09Pa1ZfemNZLW1TRG1mczZ4WGJkUDdUNFN6cFhQRTBFVkh0UEVmaGtqU2tP?oc=5)　*Google News・2026-09-18*
+- [Houthis eye Yemen’s oil-rich east after seizing Red Sea coast](https://www.timesofisrael.com/houthis-eye-yemens-oil-rich-east-after-seizing-red-sea-coast/)　*The Times Of Israel・2026-09-18*
+- [Michigan gas prices soar to $4.89, some Metro Detroit stations top $5](https://www.clickondetroit.com/news/local/2026/09/18/michigan-gas-prices-soar-to-dollar489-some-metro-detroit-stations-top-dollar5/)　*Clickondetroit・2026-09-18*
+- [US military nearly attacked Chinese vessel and 'started a war' after massive AI error](https://www.dailymail.com/news/article-16142939/US-military-nearly-attacked-Chinese-vessel-started-war-massive-AI-error.html)　*Mail Online・2026-09-18*
+- [Israel’s UN envoy calls out European countries for failing to help US secure Strait of Hormuz](https://nypost.com/2026/09/18/us-news/israels-un-envoy-calls-out-european-countries-for-letting-iran-meddle-in-hormuz/)　*New York Post・2026-09-18*
+- [The Iran war is minting new one-day millionaires: oil tankers brave enough to sail across the Strait of Hormuz](https://fortune.com/2026/09/18/iran-war-minting-new-one-day-millionaires-oil-tankers-crossing-strait-of-hormuz-1-million-dollars-per-day/)　*Fortune・2026-09-18*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-19 04:11 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-19 18:01 台灣時間，僅供參考，不構成投資建議。*
