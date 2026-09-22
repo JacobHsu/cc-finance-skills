@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-22 05:28 台灣時間　｜　資料更新：2026-09-22 05:28 台灣時間
+> 更新時間：2026-09-22 18:39 台灣時間　｜　資料更新：2026-09-22 18:39 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Effectively closed to commercial traffic since Feb 28, 2026. Iran maintains strict closure pending US fulfillment of stated conditions. Sporadic US-escorted transits and dark-transit attempts occur but represent minimal commercial throughput. Multiple ship attacks reported mid-September 2026. East-West Pipeline shutdown Sept 11 has eliminated main bypass. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic since February 28, 2026 when US-Israel launched air strikes on Iran. Iran closed the strait in retaliation with warnings, mine laying, and attacks on merchant vessels. As of September 22, only 8 transits recorded on September 13 versus ~85 pre-crisis baseline. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 8 | 8 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
+| 8 | 5 | 60 | <span style="color:#e74c3c">8.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **376** | 140 | 120 | 116 | <span style="color:#27ae60">+19.00</span> |
+| **443** | 156 | 187 | 100 | <span style="color:#27ae60">+8.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 9% | 0.15% | 60x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,339,000 | 10,300,000 | <span style="color:#e74c3c">13.0% ⚠️</span> | 上升 |
+| 857,000 | 10,300,000 | <span style="color:#e74c3c">8.3% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** NO_TALKS
 
-**頭條：** Iran reiterates closure posture; warns US against military resumption; no active dialogue channel
+**頭條：** Iran maintains closure; talks stalled with no agreement path visible
 
-**各方：** Iran, United States, Israel
+**各方：** Iran, United States, Pakistan, Qatar, Oman
 
-> As of September 20, Iran maintains firm stance that strait remains closed until US meets its demands. Iran has warned Washington against resuming military action. Postponed Gulf-Iran shipping-route meeting has no rescheduled date. The memorandum of understanding signed in June has collapsed; no active diplomatic negotiations are underway.
+> Iranian parliament speaker Ghalibaf declared strait will remain closed until Washington meets Iran's conditions. Iran-Gulf talks scheduled in Oman have been postponed with no new date set. Previous ceasefire (April-July 2026) collapsed and fighting resumed July 8; both sides now setting maximalist demands with little diplomatic momentum.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.92B | Japan, South Korea, China |
+| 25% | $0.6B | Japan, South Korea, China |
 
-> 25% of global LNG trade disrupted. Top three importers face acute shortages with spot prices 8-12x normal. Winter heating demand looming for Northern Hemisphere.
+> 25% of global LNG trade transits Hormuz. Qatar reports readiness to resume LNG operations within weeks of reopening. Current LNG rerouting via ship-to-ship transfers in UAE.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used but saturated. Increased transits driving port congestion in Singapore, Rotterdam. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | OFFLINE since Sept 11, 2026 after drone strikes. 5 mbpd capacity lost. Repair timeline uncertain. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity but insufficient to offset closure. Limited expansion possible. |
+| Cape of Good Hope | +12 天 | $650 | Active rerouting; CMA CGM activated for all Asia-Europe services; vessel supply tightening |
+| East-West Pipeline (Saudi) | +0 天 | — | Closed since September 13 after strike on critical pipeline infrastructure |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at reduced capacity; 1.5 mbpd maximum |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +320% | +2.4% | 68 天 |
+| +300% | +4.2% | 68 天 |
 
 **主要供應鏈事件**
 
-- Auto manufacturing halted in Japan, South Korea due to energy costs and supply logistics disruption
-- Petrochemical production curtailed across Asia; fertilizer prices up 45% YoY impacting agricultural supply chains
-- LNG spot prices at $65-75/MMBtu (vs $8-12 normal); heating oil prices approaching $150/bbl in some European markets
-- Global container shipping rates up 180%; port congestion at Cape routing has created 15-25 day delays at major Asian hubs
+- Brent crude rose to $107.77 (Sept 13) following Saudi pipeline strike; $101-103 range as of Sept 22
+- War risk insurance 7.5-10% of hull value; $3-10M per $100M tanker (vs. $250K pre-crisis)
+- 8 vessels stranded in Gulf unable to exit; 443 total waiting vessels off ports
+- Crew evacuations ongoing; 20 seafarers dead, 35+ injured, 1 missing; ~6,000 trapped in region
 
 ## 最新新聞
 
-- [Oil Market Weekly: Refineries Are the Main Chokepoint for Global Energy Supplies](https://uk.investing.com/analysis/oil-market-weekly-refineries-are-the-main-chokepoint-for-global-energy-supplies-200628191)　*Investing Uk・2026-09-21*
-- [Never been a time the world has been more interested in India: Narendran](https://newsable.asianetnews.com/business/never-been-a-time-the-world-has-been-more-interested-in-india-narendran-articleshow-q4mznlr)　*Asianet Newsable・2026-09-21*
-- [Treasury yields ease as global borrowing costs tumble](https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html)　*Cnbc・2026-09-21*
-- [No, yes, then no again: Trump's flip-flop on striking Houthis despite loaded bombs](https://www.hindustantimes.com/world-news/no-yes-no-again-trump-houthi-yemen-strike-u-turn-despite-ready-targets-loaded-bombs-nyt-saudi-iran-war-101789976718231.html)　*Hindustan Times・2026-09-21*
-- [US Prepared To Strike Houthis As Saudi Asked For Help. Hours Later, Trump Pulled The Plug](https://www.news18.com/world/trumps-saudi-dilemma-why-striking-houthis-could-widen-the-iran-war-ws-l-10343561.html)　*News 18・2026-09-21*
+- [UK agrees to support Saudi Arabia with air-to-air refueling in midst of Houthi attacks](https://www.jpost.com/middle-east/article-909219)　*Jpost・2026-09-21*
+- [UK drivers urged to fill up with petrol now before £2.20 per litre charge comes in](https://www.express.co.uk/life-style/cars/2250521/uk-drivers-fill-petrol-now)　*Express・2026-09-21*
+- [US wants to redraw Gulf’s energy map with a $5 billion bet beyond Hormuz: Report](https://economictimes.indiatimes.com/news/international/world-news/us-wants-to-redraw-gulfs-energy-map-with-a-5-billion-bet-beyond-hormuz-report/articleshow/134400654.cms)　*The Economic Times・2026-09-21*
+- [UK Agrees To Saudi Request For Refuelling Support To Counter Houthis](https://www.ndtv.com/world-news/uk-agrees-to-saudi-request-for-refuelling-support-to-counter-houthis-12078571)　*Ndtv・2026-09-21*
+- [Rogers calls for end to war in Iran: ‘Michigan families can’t afford to wait’](https://thehill.com/homenews/campaign/6102630-rogers-iran-war-gas-tax/)　*The Hill・2026-09-21*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-22 05:28 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-22 18:39 台灣時間，僅供參考，不構成投資建議。*
