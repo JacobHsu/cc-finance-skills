@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-23 18:31 台灣時間　｜　資料更新：2026-09-23 18:31 台灣時間
+> 更新時間：2026-09-23 23:50 台灣時間　｜　資料更新：2026-09-23 23:50 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic. Iran declared the strait closed following US-Israeli airstrikes on February 28, 2026. Despite contested reports of occasional transits (8-12 vessels reported), official Iranian statements maintain closure. Only a trickle of traffic continues amid active military attacks on vessels. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial shipping, with Iran maintaining full control and blocking transit except for limited escorted convoys. Iran continues to attack vessels attempting transit. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 8 | 8 | 60 | <span style="color:#e74c3c">9.4% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.2% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **443** | 180 | 150 | 113 | <span style="color:#27ae60">+42.00</span> |
+| **373** | 180 | 110 | 83 | <span style="color:#27ae60">+3.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 6% | 0.15% | 40x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,650,000 | 10,300,000 | <span style="color:#e74c3c">16.0% ⚠️</span> | 上升 |
+| 78,000 | 10,300,000 | <span style="color:#e74c3c">0.8% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran rules out talks with Washington; no rescheduled date for Gulf shipping meeting
+**頭條：** US and Iran hold mediated talks at UN General Assembly on reopening Strait
 
-**各方：** Iran, United States, Israel
+**各方：** United States, Iran, Oman, Pakistan, United Nations
 
-> Iran continues to reject diplomatic engagement with the US until stated terms are met. A postponed Gulf-Iran shipping-route meeting has no rescheduled date. Despite Trump's statements, few visible signs of material US-Iran progress toward agreement exist, with markets pricing disruption lasting through end of year.
+> Mediated negotiations continue between US and Iran at UNGA with shuttling by third parties. Iran conditions reopening on US lifting military pressure and naval blockade. Previous June memorandum collapsed; diplomatic efforts ongoing but no agreement imminent.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $0.95B | Japan, South Korea, China |
 
-> LNG transits through Hormuz virtually halted. Qatar signals readiness to resume operations within weeks of reopening. Regional producers routing cargoes via ship-to-ship transfers to bypass strait.
+> 25% of global LNG trade normally transits Hormuz; Japan, South Korea most critically affected; LNG prices surged 35-45% from pre-crisis levels; spot market illiquid.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily utilized; congestion building at African waypoints. Brokers report strong fixing activity on long-haul routes. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | CLOSED since September 11, 2026 due to drone strikes. Capacity: 5 mbpd. Major loss of bypass infrastructure. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating but severely constrained. Capacity: 1.5 mbpd. Limited relief to overall disruption. |
+| Cape of Good Hope | +12 天 | $650 | Heavily utilized; shipping supply tight on traditional Cape routes; backhaul imbalance worsening |
+| East-West Pipeline | +0 天 | — | Shut down since September 11, 2026 after drone strikes; capacity 5 mbpd offline |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at reduced capacity; 1.5 mbpd limit insufficient for demand; not compensating for Hormuz closure |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +450% | +8.5% | 70 天 |
+| +280% | +4.2% | 72 天 |
 
 **主要供應鏈事件**
 
-- Brent crude surged to $103.87/barrel; elevated above pre-crisis $70 level despite slight recent softening
-- Container and multipurpose vessel availability decimated; all major shipping rates inflated 200-400%
-- Global manufacturing inputs facing 4-8 week delays; automotive and petrochemical sectors severely impacted
-- US SPR at approximately 370M barrels; maximum release rate exhaustion timeline ~70 days if maintained at 4.4M bbl/day
+- VLCC tanker freight rates (TD3C) at extreme highs; Persian Gulf-Asia routes 3-4x normal
+- 6,000+ seafarers stranded in Gulf region; IMO evacuation efforts ongoing
+- Brent crude $103+ per barrel; energy inflation cascading to consumer goods
+- Container shipping diverted; schedule reliability collapsed; port congestion spreading
 
 ## 最新新聞
 
-- [Recap: Oil settles lower as Saudi flows recover and US, Iran hold talks](https://investinglive.com/commodities/recap-oil-settles-lower-as-saudi-flows-recover-and-us-iran-hold-talks/)　*Forexlive・2026-09-22*
-- [Trump considers diesel export ban in threat to UK](https://uk.finance.yahoo.com/news/trump-considers-diesel-export-ban-212629349.html)　*Yahoo! News・2026-09-22*
-- [Emmanuel Macron decries 'law of the jungle' in call for global commitment to UN](https://www.washingtonexaminer.com/news/world/4738339/emmanuel-macron-decries-law-of-the-jungle-un/)　*Washington Examiner・2026-09-22*
-- [Iran and US hold talks on sidelines of UN summit, says Trump](https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us)　*Theguardiantheguardian・2026-09-22*
-- [Outgoing UN chief says polluters have treated atmosphere like an ‘open sewer’](https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-polluters)　*Theguardiantheguardian・2026-09-22*
+- [investingLive Asia-Pacific market news: Oil slips as US and Iran hold Qatar-mediated talks](https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-slips-as-us-and-iran-hold-qatar-mediated-talks/)　*Forexlive・2026-09-23*
+- [Petrol, Diesel Prices On Sept. 23: Check New Fuel Rates In Mumbai, Bengaluru And More](https://www.ndtvprofit.com/markets/petrol-diesel-prices-on-september-23-check-new-fuel-rates-in-mumbai-bengaluru-chennai-kolkata-and-more-12084344)　*Ndtv・2026-09-23*
+- [Bypassing Iran? Trump backs India-Middle East-Europe Economic Corridor to re-route Middle East energy supplies](https://zeenews.india.com/india/bypassing-iran-trump-backs-india-middle-east-europe-economic-corridor-to-re-route-middle-east-energy-supplies-3072891.html)　*Zee News・2026-09-23*
+- [Nifty set for muted opening as US-China Summit in focus](https://www.business-standard.com/markets/capital-market-news/nifty-set-for-muted-opening-as-us-china-summit-in-focus-126092300165_1.html)　*Business Standard・2026-09-23*
+- [Trump supports diesel export ban as fuel prices hit record highs amid US-Iran war](https://www.khaleejtimes.com/world/americas/trump-supports-diesel-export-ban-fuel-prices-hit-record-high)　*Khaleej Times・2026-09-23*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-23 18:31 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-23 23:50 台灣時間，僅供參考，不構成投資建議。*
