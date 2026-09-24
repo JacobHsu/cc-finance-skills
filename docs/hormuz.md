@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-25 00:12 台灣時間　｜　資料更新：2026-09-25 00:12 台灣時間
+> 更新時間：2026-09-25 04:58 台灣時間　｜　資料更新：2026-09-25 04:58 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial shipping as of September 24, 2026. Only 1-7 vessels transit daily (vs 85-125 pre-crisis baseline). Iran maintains control through IRGC naval presence with mines, drones, and missile threats. Recent attacks continue despite earlier June ceasefire agreement. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-04-22T00:00:00Z | The Strait of Hormuz was briefly reopened on April 21, 2026, but closed again on April 22, 2026. Commercial shipping remains suspended. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 1 | 60 | <span style="color:#e74c3c">1.2% ⚠️</span> |
+| 0 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$114.89** | <span style="color:#e74c3c">-1.26</span> | <span style="color:#e74c3c">-1.08%</span> | 上升 |
+| **$98.30** | <span style="color:#27ae60">+1.20</span> | <span style="color:#27ae60">+1.24%</span> | 上升 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **357** | 145 | 89 | 123 | <span style="color:#e74c3c">-2.00</span> |
+| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,77 +34,79 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 5% | 0.15% | 33.3x |
+| 2.5% | 0.15% | 16.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 上升 |
+| 180,000 | 10,300,000 | <span style="color:#e74c3c">1.7% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** NO_TALKS
 
-**頭條：** US-Iran mediated talks at UN General Assembly September 23; regional Oman-Iran-GCC summit postponed indefinitely
+**頭條：** No peace talks currently scheduled
 
-**各方：** United States, Iran, Oman, GCC States, UN Mediators, Saudi Arabia
+**各方：** Iran, United States, GCC
 
-> US and Iranian delegations engaged in indirect talks through mediators at UNGA on September 23. Iran demands lifting of naval blockade, unfreezing assets, and end to war; US seeks nuclear denuclearization. Regional Oman-Iran-GCC summit scheduled for September 14 was indefinitely postponed without rescheduled date.
+> Despite international pressure, no formal negotiations have been announced. UN Security Council held emergency session on March 3.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.8B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $2.1B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz. Japan and South Korea face critical LNG shortages. Fujairah STS operations provide partial bypass (~7.7M bbl on Sept 21), but insufficient for normal demand.
+> Approximately 25% of global LNG trade transits the Strait of Hormuz, with Qatar as the dominant exporter. Asian importers face acute shortage risks.
 
 **受影響地區**
 
 | 地區 | 嚴重程度 | 石油依賴度 |
 |------|---------|-----------|
-| Japan | CRITICAL | 90% |
-| South Korea | CRITICAL | 80% |
-| China | CRITICAL | 40% |
-| India | HIGH | 60% |
-| EU | MODERATE | 20% |
+| South Korea | CRITICAL | 70% |
+| Japan | CRITICAL | 62% |
+| India | HIGH | 55% |
+| China | HIGH | 44% |
+| European Union | HIGH | 18% |
+| Southeast Asia | MODERATE | 30% |
+| United States | MODERATE | 8% |
+| Africa | LOW | 5% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increased rerouting; limited by shipping capacity bottlenecks; adds 12+ days transit time |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | CLOSED since September 11 due to drone strikes; was carrying ~5M bpd; no restart date |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at capacity (~1.5M bpd); STS transfers ongoing in Gulf of Oman; partial alternative |
+| Cape of Good Hope | +14 天 | $800 | Active rerouting — dozens of tankers diverted south around Africa |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating near 5 Mbbl/d capacity — pipeline bypass limited to Saudi crude only |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +380% | +8.2% | 66 天 |
+| +200% | +1.4% | 70 天 |
 
 **主要供應鏈事件**
 
-- Maersk, MSC, CMA CGM, Hapag-Lloyd suspended Gulf bookings; partial resumption with extreme risk premiums
-- East-West Pipeline closed Sept 11; Saudi crude blocked; no restart timeline announced
-- Brent crude at $104-106/barrel (vs pre-crisis $70); WTI at $100+; volatility persisting
-- 6,000+ seafarers trapped or stranded in region; evacuation via safe corridors ongoing
+- Tanker spot rates tripled for Gulf-to-Asia routes
+- European gas prices up 40% on LNG supply fears
+- Petrochemical feedstock shortages reported in South Korea and Japan
+- Container shipping delays of 7-10 days for rerouted vessels
 
 ## 最新新聞
 
-- [40 Filipino seafarers safe after Singapore Strait collision](https://globalnation.inquirer.net/339232/40-filipino-seafarers-safe-after-singapore-strait-collision)　*Inquirer・2026-09-24*
-- [Defiance, threats and a ‘rebirth’: five key points from day two of the UN’s big gathering](https://www.theguardian.com/world/2026/sep/24/united-nations-general-assembly-key-takeaways-day-two-iran-venezuela-ukraine)　*The Guardian・2026-09-24*
-- [China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'](https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html)　*Cnbc・2026-09-24*
-- [Pezeshkian tells Trump Iran will never 'bend at the knee'](https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-september-24-2026)　*Khaleej Times・2026-09-24*
-- [‘While others talked, I have acted’: Sergio Gor lauds Trump for 'one of his strongest’ UN speeches](https://www.moneycontrol.com/world/while-others-talked-i-have-acted-sergio-gor-lauds-trump-for-one-of-his-strongest-un-speeches-article-14036887.html)　*Moneycontrol・2026-09-24*
+- [Why were US troops on their knees? Viral video shows last-minute red carpet fix before Xi Jinping’s arrival](https://www.moneycontrol.com/world/why-were-us-troops-on-their-knees-viral-video-shows-last-minute-red-carpet-fix-before-xi-s-arrival-article-14037304.html)　*Moneycontrol・2026-09-24*
+- [Brent Crude Jumps Nearly 3% To $106 Per Barrel Amid US-Iran Truce Talk Uncertainty](https://www.ndtvprofit.com/markets/crude-oil-price-today-brent-jumps-sharply-to-106-per-barrel-amid-growing-uncertainty-around-us-iran-truce-talks-12091213)　*Ndtv・2026-09-24*
+- [Trump called NATO a ‘paper tiger’, then signed Greenland pact. What if US quits?](https://indianexpress.com/article/world/trump-greenland-military-base-agreement-denmark-nato-10891301/)　*The Indian Express・2026-09-24*
+- [War may reach Indian Ocean if US attacks again, warns Iran](https://www.moneycontrol.com/world/war-may-reach-indian-ocean-if-us-attacks-again-warns-iran-article-14037285.html)　*Moneycontrol・2026-09-24*
+- [India must reduce oil dependence, embrace renewables: Power Secretary](https://newsable.asianetnews.com/business/india-must-reduce-oil-dependence-embrace-renewables-power-secretary-articleshow-psd82pd)　*Asianet Newsable・2026-09-24*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-25 00:12 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-25 04:58 台灣時間，僅供參考，不構成投資建議。*
