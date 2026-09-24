@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-24 04:53 台灣時間　｜　資料更新：2026-09-24 04:53 台灣時間
+> 更新時間：2026-09-24 18:49 台灣時間　｜　資料更新：2026-09-24 18:49 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial traffic following US-Israeli airstrikes on Iran. Iran blockaded the strait via IRGC closure declaration on March 27, 2026. US imposed reciprocal naval blockade from April 13, 2026. As of September 19, 2026, only ~8 transits recorded against pre-crisis baseline of 85/day. Sporadic attacks on shipping continue through September. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping; convoys moving under naval escort only. As of Sep 20, only 1 vessel transited vs. 85 pre-crisis baseline. Traffic at ~1% of normal. Ongoing attacks and mining concerns continue to restrict transit. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 8 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
+| 12 | 12 | 60 | <span style="color:#e74c3c">20.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **357** | 180 | 120 | 57 | <span style="color:#27ae60">0.00</span> |
+| **70** | 42 | 18 | 10 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 615,000 | 10,300,000 | <span style="color:#e74c3c">6.0% ⚠️</span> | 上升 |
+| 927,000 | 10,300,000 | <span style="color:#e74c3c">9.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** US-Iran mediated talks at UN General Assembly; Iran proposes 60-day regional ceasefire and phased Hormuz reopening
+**頭條：** US-Iran talks at UN General Assembly on war and strait; reopening conditions remain unresolved
 
-**各方：** United States, Iran, Qatar, Pakistan, Egypt, Gulf Cooperation Council states, Oman
+**各方：** United States, Iran, Gulf States, UN
 
-> On September 22-23, 2026, US and Iranian officials held mediated talks at the UN General Assembly in New York through Qatari, Pakistani, and Egyptian intermediaries. Iran presented a roadmap including a 60-day regional ceasefire, phased Hormuz reopening, and US blockade lifting. Trump has ruled out lifting the blockade without prior Iranian 'goodwill demonstrations.' Regional Gulf states are pursuing parallel bilateral negotiations with Iran through Oman.
+> US and Iran held discussions at UN General Assembly covering both the war and Hormuz reopening. Iran has floated conditions for reopening; US continues to insist waterway remain 'fully open' for international shipping. No formal negotiations scheduled but diplomatic engagement ongoing at UN level.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.9B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> QatarEnergy declared force majeure on LNG shipments in early March 2026 following attacks on Ras Laffan facilities. 25% of global LNG trade disrupted; LNG spot prices elevated 180-220% above pre-crisis levels; top three importers collectively dependent on 65%+ Gulf LNG supply.
+> 25% of global LNG trade normally transits Hormuz. Japan (90%+ LNG import dependency), South Korea, and China facing severe supply constraints and spot price inflation. LNG spot prices elevated 300-500% above pre-crisis levels.
 
 **受影響地區**
 
@@ -75,38 +75,36 @@
 | China | HIGH | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
-| United Arab Emirates | CRITICAL | 100% |
-| Saudi Arabia | CRITICAL | 95% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Primary reroute for Asia-Europe cargo; Suez route disrupted by concurrent Red Sea Houthi attacks; heaviest usage March-May 2026, stable elevated levels through September |
-| East-West Crude Oil Pipeline (Saudi Arabia) | +0 天 | — | Shut down September 11, 2026 after drone strikes; restarting September 22 at reduced capacity ~2-3 mbpd (vs 5 mbpd nominal); critical alternate for Saudi exports |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operates at 1.5 mbpd capacity; insufficient to substitute Hormuz closure; heavily utilized but insufficient for Gulf-wide backup |
+| Cape of Good Hope (Suez Alternative) | +12 天 | $650 | Major container and tanker lines (Maersk, MSC, CMA CGM, Hapag-Lloyd) rerouting Asia-Europe via Cape; high utilization but adds 10-15 day transit delays and $500-800k per VLCC |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | 5 mbpd capacity; Saudi-only crude; operates at reduced capacity due to war disruptions |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; limited alternative for UAE crude only; operating at partial capacity |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +340% | +4.2% | 70 天 |
+| +250% | +3.2% | 70 天 |
 
 **主要供應鏈事件**
 
-- IT hardware supply chains to Middle East rerouting via Cape (10-14 days additional); air freight for critical-path cargo; manufacturing delays 3-4 weeks
-- Container dwell times at Jebel Ali port normalized by late July after severe March-May congestion; but upstream constraint remains: reaching UAE ports by direct Asia-Europe sea freight effectively blocked
-- Global shipping rate index elevated 250-380% above pre-crisis; VLCC AG-East spot rates at WS 300-380 vs WS 40-60 baseline; Suez closure adds Red Sea risk premium
-- Crude oil price volatility extreme: Brent crude surged to $104-107/bbl (July-September) vs $60-70 pre-crisis; SPR withdrawal capacity at 4.4 mbpd maximum; current reserve ~350-385M bbls supports ~70 days max output before structural heel constraint
+- Global oil prices near $100/bbl; 21% of world oil supply unable to transit normal routes creating severe supply tightness
+- Container freight rates to Asia elevated 200-300%; Asia-Europe shipping redirected to Cape adds $2-5k per TEU
+- LNG spot market at $35-45/MMBtu vs. $8-12 pre-crisis; winter heating season approaching with severe supply risk
+- Approximately 6,000 seafarers trapped in Persian Gulf region; crew evacuation operations ongoing but limited safe corridors
 
 ## 最新新聞
 
-- [The selloff in oil prices stalls as Trump pours cold water on expectations of an earlier end to the conflict](https://investinglive.com/commodities/the-selloff-in-oil-prices-stalls-as-trump-pours-cold-water-on-expectations-of-an-earlier-end-to-the-conflict/)　*Forexlive・2026-09-23*
-- [Israel's diplomatic isolation prevents proper recognition for its military achievements - analysis](https://www.jpost.com/israel-news/defense-news/article-909409)　*Jpost・2026-09-23*
-- [Brent Drops Below $100](https://au.investing.com/analysis/brent-drops-below-100-200617124)　*Investing Australia・2026-09-23*
-- [Benchmarks hold firm; Europe opens higher after Saudi Arabia restarts east-west pipeline](https://www.business-standard.com/markets/capital-market-news/benchmarks-hold-firm-europe-opens-higher-after-saudi-arabia-restarts-east-west-pipeline-126092300575_1.html)　*Business Standard・2026-09-23*
-- [Oil Tests Key Support as Supply Concerns Ease and Trump Hails Progress in US-Iran](https://au.investing.com/analysis/oil-tests-key-support-as-supply-concerns-ease-and-trump-hails-progress-in-usiran-200617122)　*Investing Australia・2026-09-23*
+- [Iran will not be bullied, president says in defiant UN speech](https://www.bostonglobe.com/2026/09/23/world/iran-will-not-be-bullied-president-says-defiant-un-speech/)　*The Boston Globe・2026-09-23*
+- [How an island paradise 6,000 miles from UK became vital to Western security after Trump slammed ‘terrible’ Chagos deal](https://www.thesun.co.uk/news/40476254/chagos-islands-vital-western-security-deal/)　*The Sun・2026-09-23*
+- [Skyrocketing diesel prices rattle Republicans as midterms approach](https://www.clickondetroit.com/news/politics/2026/09/23/skyrocketing-diesel-prices-rattle-republicans-as-midterms-approach/)　*Clickondetroit・2026-09-23*
+- [US invites Putin to G20 summit, hopes for engagement with Trump](https://newsable.asianetnews.com/world/us-invites-putin-to-g20-summit-hopes-for-engagement-with-trump-articleshow-dp020f6)　*Asianet Newsable・2026-09-23*
+- [Bolton praises IMEC, but warns Iran regime change is key to security](https://newsable.asianetnews.com/world/bolton-praises-imec-but-warns-iran-regime-change-is-key-to-security-articleshow-iyrput3)　*Asianet Newsable・2026-09-23*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-24 04:53 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-24 18:49 台灣時間，僅供參考，不構成投資建議。*
