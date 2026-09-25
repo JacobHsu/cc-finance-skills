@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-26 00:13 台灣時間　｜　資料更新：2026-09-26 00:13 台灣時間
+> 更新時間：2026-09-26 04:55 台灣時間　｜　資料更新：2026-09-26 04:55 台灣時間
 
 ---
 
@@ -101,12 +101,12 @@
 
 ## 最新新聞
 
-- [Oil prices fall as markets weigh Iran truce, oil facility attack risks](https://www.business-standard.com/markets/commodities/oil-prices-fall-as-markets-weigh-iran-truce-oil-facility-attack-risks-126092500081_1.html)　*Business Standard・2026-09-25*
-- [Asian shares steady as bond selloff lifts US yields to two-decade highs](https://www.business-standard.com/markets/news/asian-shares-steady-as-bond-selloff-lifts-us-yields-to-two-decade-highs-126092500099_1.html)　*Business Standard・2026-09-25*
-- [investingLive Asia-Pacific market news: Iran offers seven-day Hormuz dea](https://investinglive.com/news/investinglive-asia-pacific-market-news-iran-offers-seven-day-hormuz-dea/)　*Forexlive・2026-09-25*
-- [Global Market: BoE officials signal growing openness to rate hike as energy costs stay high](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boe-officials-signal-growing-openness-to-rate-hike-as-energy-costs-stay-high/articleshow/134480587.cms)　*The Economic Times・2026-09-25*
-- [Bahrain leads 80-nation call to reopen Hormuz amid Iran tensions](https://newsable.asianetnews.com/world/bahrain-leads-80-nation-call-to-reopen-hormuz-amid-iran-tensions-articleshow-fftyk73)　*Asianet Newsable・2026-09-25*
+- [He showed family his ship on video call. 30 minutes later, missile struck](https://indianexpress.com/article/cities/lucknow/ship-strait-hormuz-oman-navy-missile-10893582/)　*The Indian Express・2026-09-25*
+- [Saudi Arabia allies line up support as Houthi attacks mount](https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount)　*Al Jazeera・2026-09-25*
+- [Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus](https://newsable.asianetnews.com/markets/nasdaq-s-p-500-futures-rise-despite-surging-treasury-yields-amd-tsla-spcx-akam-be-stocks-in-focus-articleshow-3wi1m7i)　*Asianet Newsable・2026-09-25*
+- [Trump-Iran Talks Put Strait of Hormuz Access On Table In Exchange For US Blockade Relief: Report](https://www.benzinga.com/news/politics/26/09/61989445/trump-iran-talks-put-strait-of-hormuz-access-on-table-in-exchange-for-us-blockade-relief-report)　*Benzinga・2026-09-25*
+- [Houthis Target Taif, Yanbu With 6 Missiles: Saudi Oil Infrastructure In The Crosshairs](https://www.timesnownews.com/world/middle-east/houthis-target-taif-yanbu-with-6-missiles-saudi-oil-infrastructure-in-the-crosshairs-article-156222997)　*Times Now News・2026-09-25*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-26 00:13 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-26 04:55 台灣時間，僅供參考，不構成投資建議。*
