@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-25 18:53 台灣時間　｜　資料更新：2026-09-25 18:53 台灣時間
+> 更新時間：2026-09-26 00:13 台灣時間　｜　資料更新：2026-09-26 00:13 台灣時間
 
 ---
 
@@ -101,12 +101,12 @@
 
 ## 最新新聞
 
-- [Eight sailors in Lincoln carrier group attempted suicide on extended deployment, Navy leader says](https://www.bostonglobe.com/2026/09/24/nation/eight-sailors-lincoln-carrier-group-attempted-suicide-extended-deployment-navy-leader-says/)　*The Boston Globe・2026-09-24*
-- [Could Las Vegas set new gas price records in the coming weeks?](https://www.reviewjournal.com/business/energy/could-las-vegas-set-new-gas-price-records-in-the-coming-weeks-3890744/)　*Las-vegas Review Journal・2026-09-24*
-- [Netanyahu at U.N.: Iran’s ‘Murderous Regime Will Be Toppled,’ ‘We’re Going to Win’](https://www.breitbart.com/politics/2026/09/24/netanyahu-at-u-n-irans-murderous-regime-will-be-toppled-were-going-to-win/)　*Brietbart・2026-09-24*
-- [Netanyahu Faces an UNGA Walkout (Again)](https://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-mamdani/)　*Foreign Policy・2026-09-24*
-- [Iran proposed new seven-day plan to reopen Strait of Hormuz to U.S. this week: MS NOW](https://www.cnbc.com/video/2026/09/24/iran-proposed-new-seven-day-plan-to-reopen-strait-of-hormuz-to-u-s-this-week-ms-now.html)　*Cnbc・2026-09-24*
+- [Oil prices fall as markets weigh Iran truce, oil facility attack risks](https://www.business-standard.com/markets/commodities/oil-prices-fall-as-markets-weigh-iran-truce-oil-facility-attack-risks-126092500081_1.html)　*Business Standard・2026-09-25*
+- [Asian shares steady as bond selloff lifts US yields to two-decade highs](https://www.business-standard.com/markets/news/asian-shares-steady-as-bond-selloff-lifts-us-yields-to-two-decade-highs-126092500099_1.html)　*Business Standard・2026-09-25*
+- [investingLive Asia-Pacific market news: Iran offers seven-day Hormuz dea](https://investinglive.com/news/investinglive-asia-pacific-market-news-iran-offers-seven-day-hormuz-dea/)　*Forexlive・2026-09-25*
+- [Global Market: BoE officials signal growing openness to rate hike as energy costs stay high](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boe-officials-signal-growing-openness-to-rate-hike-as-energy-costs-stay-high/articleshow/134480587.cms)　*The Economic Times・2026-09-25*
+- [Bahrain leads 80-nation call to reopen Hormuz amid Iran tensions](https://newsable.asianetnews.com/world/bahrain-leads-80-nation-call-to-reopen-hormuz-amid-iran-tensions-articleshow-fftyk73)　*Asianet Newsable・2026-09-25*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-25 18:53 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-26 00:13 台灣時間，僅供參考，不構成投資建議。*
