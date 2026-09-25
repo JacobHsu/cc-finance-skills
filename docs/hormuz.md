@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-25 04:58 台灣時間　｜　資料更新：2026-09-25 04:58 台灣時間
+> 更新時間：2026-09-25 18:53 台灣時間　｜　資料更新：2026-09-25 18:53 台灣時間
 
 ---
 
@@ -101,12 +101,12 @@
 
 ## 最新新聞
 
-- [Why were US troops on their knees? Viral video shows last-minute red carpet fix before Xi Jinping’s arrival](https://www.moneycontrol.com/world/why-were-us-troops-on-their-knees-viral-video-shows-last-minute-red-carpet-fix-before-xi-s-arrival-article-14037304.html)　*Moneycontrol・2026-09-24*
-- [Brent Crude Jumps Nearly 3% To $106 Per Barrel Amid US-Iran Truce Talk Uncertainty](https://www.ndtvprofit.com/markets/crude-oil-price-today-brent-jumps-sharply-to-106-per-barrel-amid-growing-uncertainty-around-us-iran-truce-talks-12091213)　*Ndtv・2026-09-24*
-- [Trump called NATO a ‘paper tiger’, then signed Greenland pact. What if US quits?](https://indianexpress.com/article/world/trump-greenland-military-base-agreement-denmark-nato-10891301/)　*The Indian Express・2026-09-24*
-- [War may reach Indian Ocean if US attacks again, warns Iran](https://www.moneycontrol.com/world/war-may-reach-indian-ocean-if-us-attacks-again-warns-iran-article-14037285.html)　*Moneycontrol・2026-09-24*
-- [India must reduce oil dependence, embrace renewables: Power Secretary](https://newsable.asianetnews.com/business/india-must-reduce-oil-dependence-embrace-renewables-power-secretary-articleshow-psd82pd)　*Asianet Newsable・2026-09-24*
+- [Eight sailors in Lincoln carrier group attempted suicide on extended deployment, Navy leader says](https://www.bostonglobe.com/2026/09/24/nation/eight-sailors-lincoln-carrier-group-attempted-suicide-extended-deployment-navy-leader-says/)　*The Boston Globe・2026-09-24*
+- [Could Las Vegas set new gas price records in the coming weeks?](https://www.reviewjournal.com/business/energy/could-las-vegas-set-new-gas-price-records-in-the-coming-weeks-3890744/)　*Las-vegas Review Journal・2026-09-24*
+- [Netanyahu at U.N.: Iran’s ‘Murderous Regime Will Be Toppled,’ ‘We’re Going to Win’](https://www.breitbart.com/politics/2026/09/24/netanyahu-at-u-n-irans-murderous-regime-will-be-toppled-were-going-to-win/)　*Brietbart・2026-09-24*
+- [Netanyahu Faces an UNGA Walkout (Again)](https://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-mamdani/)　*Foreign Policy・2026-09-24*
+- [Iran proposed new seven-day plan to reopen Strait of Hormuz to U.S. this week: MS NOW](https://www.cnbc.com/video/2026/09/24/iran-proposed-new-seven-day-plan-to-reopen-strait-of-hormuz-to-u-s-this-week-ms-now.html)　*Cnbc・2026-09-24*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-25 04:58 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-25 18:53 台灣時間，僅供參考，不構成投資建議。*
