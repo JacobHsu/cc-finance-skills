@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-26 23:26 台灣時間　｜　資料更新：2026-09-26 23:26 台灣時間
+> 更新時間：2026-09-27 04:26 台灣時間　｜　資料更新：2026-09-27 04:26 台灣時間
 
 ---
 
@@ -101,12 +101,12 @@
 
 ## 最新新聞
 
-- [Iran proposes Hormuz plan, Trump reportedly rejects; Saudi intercepts Houthi drones near Riyadh](https://gulfnews.com/world/mena/iran-proposes-hormuz-plan-trump-reportedly-rejects-saudi-intercepts-houthi-drones-near-riyadh-1.500688383)　*Gulf News・2026-09-26*
-- [Iran Rules Out Nuclear Concessions Even If US Accepts Strait Of Hormuz Deal: Report](https://www.news18.com/world/iran-rules-out-nuclear-concessions-even-if-us-accepts-strait-of-hormuz-deal-report-ws-klt-10353738.html)　*News 18・2026-09-26*
-- [Trump rejects Iran’s 7-day ceasefire plan, eyes military escalation post- US midterms : Report](https://zeenews.india.com/world/trump-rejects-iran-s-7-day-ceasefire-plan-eyes-military-escalation-post-us-midterms-report-3073318.html)　*Zee News・2026-09-26*
-- [The Weekly Spread: What Shaped US Yields And The Dollar This Week](https://newsable.asianetnews.com/markets/the-weekly-spread-what-shaped-us-yields-and-the-dollar-this-week-articleshow-pk4hsxt)　*Asianet Newsable・2026-09-26*
-- [Trump rejects Iran's 7-day ceasefire plan, prepares for military escalation](https://www.business-standard.com/world-news/trump-rejects-iran-s-7-day-ceasefire-plan-prepares-for-military-escalation-126092600112_1.html)　*Business Standard・2026-09-26*
+- [Trump posts 'Trump Strait' map after Iran offers seven-day Hormuz reopening plan](https://www.moneycontrol.com/world/trump-posts-trump-strait-map-after-iran-offers-seven-day-hormuz-reopening-plan-article-14038781.html)　*Moneycontrol・2026-09-26*
+- [Trump approval rating drops to 37% amid approaching US midterm elections](https://www.business-standard.com/world-news/trump-approval-rating-drops-to-37-amid-approaching-us-midterm-elections-126092600365_1.html)　*Business Standard・2026-09-26*
+- [Trump posts map naming 'Trump Strait' off Iran after rejecting Hormuz deal](https://www.firstpost.com/world/trump-posts-map-naming-trump-strait-off-iran-after-rejecting-hormuz-deal-14048516.html)　*Firstpost・2026-09-26*
+- [Iran awaits US response as Trump said to reject ceasefire proposal, plot new strikes](https://www.timesofisrael.com/iran-awaits-us-response-as-trump-said-to-reject-ceasefire-proposal-plot-new-strikes/)　*The Times Of Israel・2026-09-26*
+- [Rising prices, plunging ratings, lingering war: Trump's plate is full](https://www.usatoday.com/story/news/politics/elections/2026/09/26/trump-focused-on-foreign-affairs-while-voters-check-their-wallets/91928733007/)　*Usa Today・2026-09-26*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-26 23:26 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-27 04:26 台灣時間，僅供參考，不構成投資建議。*
