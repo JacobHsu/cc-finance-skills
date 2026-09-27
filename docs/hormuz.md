@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-28 00:06 台灣時間　｜　資料更新：2026-09-28 00:06 台灣時間
+> 更新時間：2026-09-28 04:39 台灣時間　｜　資料更新：2026-09-28 04:39 台灣時間
 
 ---
 
@@ -101,12 +101,12 @@
 
 ## 最新新聞
 
-- [Only diplomacy can solve conflict, says Iran after Trump rejects peace plan](https://news.sky.com/story/only-diplomacy-can-solve-conflict-says-iran-after-trump-rejects-peace-plan-13592323)　*Skynew・2026-09-27*
-- ['Deploying Everything': NATO Nation's Stark Warning To Iran Over Nukes & Hormuz Blockade | UNGA](https://timesofindia.indiatimes.com/videos/international/deploying-everything-nato-nations-stark-warning-to-iran-over-nukes-hormuz-blockade-unga/videoshow/134514349.cms)　*The Times Of India・2026-09-27*
-- [Trump humiliated after Supreme Court rejects map changes for a third time](https://www.the-express.com/news/politics/216791/trump-humiliated-supreme-court-rejects)　*Daily Express Us・2026-09-27*
-- [Iran Pushes For Diplomatic Solution As Trump Rejects Hormuz Peace Deal](https://www.ndtvprofit.com/world/iran-pushes-for-diplomatic-solution-as-trump-rejects-hormuz-peace-deal-12103687)　*Ndtv・2026-09-27*
-- [Scott Bessent says US pressure on Iran bites as Gulf nations tighten economic screws](https://timesofindia.indiatimes.com/world/us/scott-bessent-says-us-pressure-on-iran-bites-as-gulf-nations-tighten-economic-screws/articleshow/134513644.cms)　*The Times Of India・2026-09-27*
+- [Geopolitical developments, crude oil likely to steer stock market this week](https://www.business-standard.com/markets/news/geopolitical-developments-crude-oil-likely-to-steer-stock-market-this-week-126092700221_1.html)　*Business Standard・2026-09-27*
+- [Iran vows not to back down after US rejects its Hormuz proposal](https://www.timesofisrael.com/iran-vows-not-to-back-down-after-us-rejects-its-hormuz-proposal/)　*The Times Of Israel・2026-09-27*
+- [How Trump could wrest Citgo from Elliott Management and hand it back to Venezuela](https://fortune.com/2026/09/27/trump-citgo-elliott-management-venezuela/)　*Fortune・2026-09-27*
+- ["Only way to a better America is more energy addition," says US Energy Secretary Wright](http://www.chinanationalnews.com/news/279335046/only-way-to-a-better-america-is-more-energy-addition-says-us-energy-secretary-wright)　*China National News・2026-09-27*
+- [IRGC's Shock Hormuz Move, Fajr-5 Rockets Deploy Mines Near US Warships?](https://timesofindia.indiatimes.com/videos/international/irgcs-shock-hormuz-move-fajr-5-rockets-deploy-mines-near-us-warships/videoshow/134516178.cms)　*The Times Of India・2026-09-27*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-28 00:06 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-28 04:39 台灣時間，僅供參考，不構成投資建議。*
