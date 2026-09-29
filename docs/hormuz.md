@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-29 19:52 台灣時間　｜　資料更新：2026-09-29 19:52 台灣時間
+> 更新時間：2026-09-30 01:21 台灣時間　｜　資料更新：2026-09-30 01:21 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic following the 2026 Iran war beginning February 28. Iran has blockaded the strait with warnings forbidding passage, naval attacks, and sea mines. Most recent transits recorded at 1 on September 20 (approximately 1.2% of normal 85/day baseline). A brief temporary reopening occurred from mid-June to early July 2026 under a Memorandum of Understanding, but the strait reclosed thereafter. As of September 27, no major escalation or de-escalation has occurred; status remains effectively closed with diplomatic proposals on table but no agreement reached. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz effectively closed to commercial traffic since Feb 28, 2026. Iran maintains blockade with IRGC naval forces, mines, drones, and fast attack boats. US naval escort operations attempt limited transits but overall transit levels near 1% of normal. Iran has offered 7-day reopening proposal contingent on US meeting conditions including nuclear inspections. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 1 | 60 | <span style="color:#e74c3c">1.2% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **262** | 95 | 120 | 47 | <span style="color:#e74c3c">-160.00</span> |
+| **422** | 180 | 130 | 112 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 125,000 | 10,300,000 | <span style="color:#e74c3c">1.2% ⚠️</span> | 下跌 |
+| 400,000 | 10,300,000 | <span style="color:#e74c3c">3.9% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran proposes seven-day reopening with nuclear inspections; Trump rejects plan
+**頭條：** Iran offers 7-day reopening plan with nuclear inspections; US rejects proposal
 
-**各方：** Iran, United States, United Nations (mediators), Pakistan, Oman
+**各方：** Iran, United States, Israel, IRGC
 
-> Iran's Foreign Minister proposed reopening the strait within seven days contingent on US lifting the naval blockade, releasing frozen assets, and ending strikes on what Tehran calls 'resistance fronts.' The proposal includes allowing nuclear inspections, a new concession. Trump rejected the plan on September 26-27, stating the US has built a 'wall of steel' around Hormuz. Iran maintains only a negotiated solution is viable; no formal US response through official channels reported.
+> Iran's Foreign Minister offered to reopen Strait within 7 days and allow nuclear inspectors as part of a broader framework to restart US-Iran talks. Iran's Security Chief confirmed closure remains until Tehran's full conditions met. Trump administration rejected the proposal, with negotiations deadlocked over nuclear commitments and sanctions relief.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.95B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade normally transits Hormuz. Japan, South Korea, and China face critical LNG supply shortages, with spot LNG prices elevated 40-60% above pre-crisis levels. Alternative suppliers (Australia, Qatar, US) partially mitigating but cannot fill full gap.
+> 25% of global LNG transits blocked. Japan, South Korea, and China face severe shortages with LNG prices elevated 3-4x normal. Spot prices in Asia above $30/mmBtu with long-term contracts stressed.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Primary reroute in use; container lines (Maersk, MSC, Hapag-Lloyd) have moved all or most Asia-Europe services via Cape. Increases transit time by 10-15 days and fuel costs by $500-800k per VLCC. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Shut since September 11, 2026 after drone strikes. Normally carries 5 mbpd; offline reduces alternative capacity significantly. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational but limited capacity at 1.5 mbpd. Some cargo transshipped via Fujairah outside strait and moved overland to Jebel Ali (e.g., Maersk model). |
-| Bab el-Mandeb (Red Sea) | +2 天 | $200 | Facing separate Houthi pressure; operating at ~49% of pre-crisis capacity. Offers marginal alternative but still disrupted. |
+| Cape of Good Hope | +12 天 | $650 | Heavily utilized by rerouted container and general cargo; estimated 30-40% of normal Hormuz traffic now rerouting; adds $500k-800k per VLCC voyage. |
+| East-West Pipeline (Saudi) | +0 天 | $-200 | Limited to 5 mbpd Saudi crude only; pipeline capacity fully utilized but cannot offset Hormuz closure for broader market; operated at full capacity. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | $-100 | Operating at reduced capacity ~1.2 mbpd (design 1.5 mbpd); critical but insufficient to offset strait closure; tanker shuttle STS operations active. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +320% | +3.8% | 70 天 |
+| +850% | +4.2% | 70 天 |
 
 **主要供應鏈事件**
 
-- Global shipping rates have tripled; Cape reroute now standard for Asia-Europe container trade; some carriers charging $1000 premium per container for Hormuz transit risk
-- Brent crude trading $104-106/bbl (mid-Sept 2026), elevated from ~$85 pre-crisis; crude supply volatility remains high despite some demand destruction
-- LNG spot prices in Asia elevated 40-60% above pre-crisis; Japan and South Korea implementing emergency energy conservation; industrial demand curtailed in both nations
-- US SPR remains near 350-385 million barrels with strategic release authority; estimated maximum withdrawal duration ~70 days at 4.4M bbl/day rate before hitting structural heel
+- VLCC rates from AG to Far East reached $800,000/day in September (pre-crisis ~$40,000-60,000); container surcharges $2,000-3,500/TEU on Cape routing.
+- Brent crude at $104.32 as of Sep 26; gasoline/diesel retail prices up 25-35% in affected regions; diesel shortages in India and Southeast Asia.
+- Approximately 6,000 seafarers trapped in Persian Gulf region; IMO evacuation operations paused; crew safety and rotation crises mounting.
+- US SPR releases ~4.4 mbpd sustaining 70 days of maximum withdrawal; India and Japan deploying strategic reserves; refinery crude slates reduced 15-25% due to quality/availability issues.
 
 ## 最新新聞
 
-- [USS George Washington in Arabian Sea after Khamenei’s Hormuz warning? CENTCOM shares video](https://www.moneycontrol.com/world/uss-george-washington-in-arabian-sea-after-khamenei-s-hormuz-warning-centcom-shares-video-article-14040433.html)　*Moneycontrol・2026-09-28*
-- [Trump’s Iran strategy is working — the ayatollah suffers as oil flows again](https://nypost.com/2026/09/28/opinion/trumps-iran-strategy-is-working-the-ayatollah-suffers-as-oil-flows-again/)　*New York Post・2026-09-28*
-- [Cornell University alleged fraternity rape investigation reopened](https://www.nbcnews.com/nightly-news/video/cornell-university-alleged-fraternity-rape-investigation-reopened-270688837633)　*Nbc News・2026-09-28*
-- [‘Hoax’: Trump denies offering Iran sanctions relief as Tehran rules out nuclear concessions](https://www.moneycontrol.com/world/hoax-trump-denies-offering-iran-sanctions-relief-as-tehran-rules-out-nuclear-concessions-article-14040432.html)　*Moneycontrol・2026-09-28*
-- [Mediators Working to Broker US-Iran Deal, but Big Hurdles Remain](https://www.newsmax.com/politics/iran-trump-negotiations-war-strait-nuclear/2026/09/28/id/1270993)　*Newsmax.com・2026-09-28*
+- [Sensex, Nifty tumble: Is West Asia uncertainty hitting Indian markets?](https://english.mathrubhumi.com/news/money/sensex-nifty-fall-crude-oil-prices-west-asia-tensions-i5spmouw)　*Mathrubhumi English・2026-09-29*
+- [Stock markets tumble in early trade dragged by elevated crude oil prices, foreign fund outflows](https://www.deccanherald.com/business/markets/stock-markets-tumble-in-early-trade-dragged-by-elevated-crude-oil-prices-foreign-fund-outflows-4163519)　*Deccan Herald・2026-09-29*
+- [Rupee falls 16 paise to 96.13 against US dollar in early trade](https://www.deccanherald.com/business/markets/rupee-falls-16-paise-to-9613-against-us-dollar-in-early-trade-4163509)　*Deccan Herald・2026-09-29*
+- [India 10-year bond yield stays near 2-year high as crude tops $106, US yields surge](https://www.moneycontrol.com/news/business/banks/india-10-year-bond-yield-stays-near-2-year-high-as-crude-tops-106-us-yields-surge-14040609.html)　*Moneycontrol・2026-09-29*
+- [Antony Blinken Says Trump’s Iran Offer Echoes Obama-Era Nuclear Deal, as Trump Calls Report 'Untrue'](https://www.benzinga.com/news/politics/26/09/62038375/antony-blinken-trump-iran-offer-obama-nuclear-deal-trump-denial)　*Benzinga・2026-09-29*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-29 19:52 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-30 01:21 台灣時間，僅供參考，不構成投資建議。*
