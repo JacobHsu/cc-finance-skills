@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-09-30 05:42 台灣時間　｜　資料更新：2026-09-30 05:42 台灣時間
+> 更新時間：2026-09-30 19:39 台灣時間　｜　資料更新：2026-09-30 19:39 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-04-22T00:00:00Z | The Strait of Hormuz was briefly reopened on April 21, 2026, but closed again on April 22, 2026. Commercial shipping remains suspended. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic following US-Israeli strikes on Iran. Iran maintains closure pending US fulfillment of conditions. Minimal verified transits occurring via US-escorted convoys and dark-flag transits. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 0 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$98.30** | <span style="color:#27ae60">+1.20</span> | <span style="color:#27ae60">+1.24%</span> | 上升 |
+| **$114.89** | <span style="color:#e74c3c">-1.26</span> | <span style="color:#e74c3c">-1.08%</span> | 上升 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
+| **244** | 165 | 45 | 34 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,79 +34,77 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 2.5% | 0.15% | 16.7x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 180,000 | 10,300,000 | <span style="color:#e74c3c">1.7% ⚠️</span> | 下跌 |
+| 517,500 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** No peace talks currently scheduled
+**頭條：** Iran offers 7-day reopening plan with nuclear inspections; US rejects proposal
 
-**各方：** Iran, United States, GCC
+**各方：** Iran, United States, Israel
 
-> Despite international pressure, no formal negotiations have been announced. UN Security Council held emergency session on March 3.
+> Iran's foreign minister proposed reopening the strait within 7 days and allowing nuclear inspectors as part of broader US-Iran talks. The proposal remains an offer only; Iran's security chief stated the strait stays closed until Tehran's conditions are fully met. The US rejected Iran's 7-day framework, pointing its timeline toward November negotiations.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.8B | Japan, South Korea, China |
+| 25% | $0.85B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits the Strait of Hormuz, with Qatar as the dominant exporter. Asian importers face acute shortage risks.
+> Global LNG trade severely disrupted. Top three LNG importers facing acute supply shortages and record price spikes. Spot LNG prices reported at 3-4x normal levels.
 
 **受影響地區**
 
 | 地區 | 嚴重程度 | 石油依賴度 |
 |------|---------|-----------|
-| South Korea | CRITICAL | 70% |
-| Japan | CRITICAL | 62% |
-| India | HIGH | 55% |
-| China | HIGH | 44% |
-| European Union | HIGH | 18% |
-| Southeast Asia | MODERATE | 30% |
-| United States | MODERATE | 8% |
-| Africa | LOW | 5% |
+| Japan | CRITICAL | 90% |
+| South Korea | CRITICAL | 80% |
+| China | HIGH | 40% |
+| India | HIGH | 60% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +14 天 | $800 | Active rerouting — dozens of tankers diverted south around Africa |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating near 5 Mbbl/d capacity — pipeline bypass limited to Saudi crude only |
+| Cape of Good Hope | +12 天 | $650 | Increased adoption; vessels rerouting adds 12-15 days to voyage and $500k-800k per vessel in extra costs |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at partial capacity (~3 mbpd), reducing reliance on Hormuz but insufficient to offset full closure |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Running near capacity (1.5 mbpd); recent attacks have intermittently disrupted flows |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +200% | +1.4% | 70 天 |
+| +850% | +8.5% | 68 天 |
 
 **主要供應鏈事件**
 
-- Tanker spot rates tripled for Gulf-to-Asia routes
-- European gas prices up 40% on LNG supply fears
-- Petrochemical feedstock shortages reported in South Korea and Japan
-- Container shipping delays of 7-10 days for rerouted vessels
+- VLCC rates from Gulf hit $1.2M/day (850% above pre-crisis $100k baseline); shuttle tanker system inefficiency increases required tonnage
+- Global shipping rate spillover effects: West Africa-China VLCC index at all-time high of $509k/day; Suezmax WA-Europe at $238k/day
+- Yanbu export terminal paralyzed since Sep 11; no force majeure announcement; Iraqi imports now via Syria's Baniyas port as alternative
+- Brent crude at $102.94/barrel (Sep 27); consumer CPI inflation estimated at 8.5% from energy costs; insurance premiums have squeezed margins by 40-60%
 
 ## 最新新聞
 
-- [Ethereum is coiling for a breakout amid US-Iran tensions: Where will it go?](https://investinglive.com/cryptocurrency/ethereum-is-coiling-for-a-breakout-amid-us-iran-tensions-where-will-it-go/)　*Forexlive・2026-09-29*
-- [Maximum petrol station purchase limit and reduced opening hours in UK plan](https://www.birminghammail.co.uk/news/midlands-news/maximum-petrol-station-purchase-limit-34687260)　*Birmingham Live・2026-09-29*
-- [No Middle East country will export oil if Iran's crude exports stay blocked, Ghalibaf says](https://economictimes.indiatimes.com/news/international/world-news/no-middle-east-country-will-be-able-to-export-oil-if-irans-crude-exports-stay-blocked-ghalibaf-says/articleshow/134560443.cms)　*The Economic Times・2026-09-29*
-- [Thousands of drivers strike in the Philippines over rising fuel prices](https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices)　*Al Jazeera・2026-09-29*
-- [New UK household tax cut coming into effect this week](https://www.independent.co.uk/news/uk/home-news/vat-tax-cut-energy-bills-october-1-b3058030.html)　*The Independent・2026-09-29*
+- [Oil down, stocks lower as bond yields rise](https://gulfnews.com/business/energy/oil-down-stocks-lower-as-bond-yields-rise-1.500691512)　*Gulf News・2026-09-29*
+- [Democrats eye Iowa as opportunity to flip seats](https://www.nbcnews.com/video/democrats-eye-iowa-as-opportunity-to-flip-seats-270749765748)　*Nbc News・2026-09-29*
+- [Trump is proving that Iran CAN’T control the global oil supply — a win for the world](https://nypost.com/2026/09/29/opinion/trump-is-proving-that-iran-cant-control-the-global-oil-supply/)　*New York Post・2026-09-29*
+- [Oman plans to boost oil storage capacity](https://economictimes.indiatimes.com/news/international/world-news/oman-plans-to-boost-oil-storage-capacity/articleshow/134575052.cms)　*The Economic Times・2026-09-29*
+- [Commentary: Forget another big US-Iran deal. They need to start small](https://www.channelnewsasia.com/commentary/iran-war-us-trump-deal-strait-hormuz-power-6418116)　*Channel Newsasia・2026-09-29*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-30 05:42 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-09-30 19:39 台灣時間，僅供參考，不構成投資建議。*
