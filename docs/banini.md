@@ -1,29 +1,83 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-09-29 19:01 台灣時間
+> 更新時間：2026-09-30 18:51 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：18 篇
+> 本次抓取：16 篇
 
 ---
 
-### 今天 13:33（2026/09/29 13:33）
+### 今天 15:09（2026/09/30 15:09）
+
+> 每次有人酸我只買一股
+我就很想當日交易額發出來
+
+但是想一想
+我何必因為賭氣把自己的底掀出來
+反正haters are gonna hate hate hate hate~
+
+我繼續當我的貧窮小資族🥰
+
+讚 1519 ｜ 回覆 70 ｜ [原文](https://www.threads.com/@banini31/post/Dd5w5iymRor)
+
+---
+
+### 今天 10:52（2026/09/30 10:52）
+
+> 你們看我買很多
+其實我也才回補昨天賣出去的1/3而已_(:_」∠)_ 
+隨便了啦～
+
+讚 662 ｜ 回覆 48 ｜ [原文](https://www.threads.com/@banini31/post/Dd5ThRwmf1n)
+
+---
+
+### 今天 03:07（2026/09/30 03:07）
+
+> 大家好我是今天賣了一堆的焦慮喵喵
+明天開盤全部買回來❤️ 
+
+我一整個在捶自己的大腿_(:_」∠)_ 
+好煩躁⋯ 
+我今天出了600萬唉⋯
+
+讚 2261 ｜ 回覆 123 ｜ [原文](https://www.threads.com/@banini31/post/Dd4eV4RE5ce)
+
+---
+
+### 昨天 22:10（2026/09/29 22:10）
+
+> 明天一開盤我就風暴買入
+
+讚 5642 ｜ 回覆 448 ｜ [原文](https://www.threads.com/@banini31/post/Dd38R1eGaln)
+
+---
+
+### 昨天 21:40（2026/09/29 21:40）
+
+> 大多頭繼續飛！
+
+讚 923 ｜ 回覆 131 ｜ [原文](https://www.threads.com/@banini31/post/Dd348OamXbo)
+
+---
+
+### 昨天 13:33（2026/09/29 13:33）
 
 > 今天再度發生賣按成買的悲劇_(:_」∠)_
 
-讚 939 ｜ 回覆 113 ｜ [原文](https://www.threads.com/@banini31/post/Dd3BK75GQNC)
+讚 1254 ｜ 回覆 132 ｜ [原文](https://www.threads.com/@banini31/post/Dd3BK75GQNC)
 
 ---
 
-### 今天 09:41（2026/09/29 09:41）
+### 昨天 09:41（2026/09/29 09:41）
 
 > 發哥～你別啊啊
 創哥歌東歐沒你慘˙
 
-讚 513 ｜ 回覆 69 ｜ [原文](https://www.threads.com/@banini31/post/Dd2mjlImYsb)
+讚 607 ｜ 回覆 75 ｜ [原文](https://www.threads.com/@banini31/post/Dd2mjlImYsb)
 
 ---
 
-### 今天 00:20（2026/09/29 00:20）
+### 昨天 00:20（2026/09/29 00:20）
 
 > 在家跟生病的時候我幾乎都是戴機嚇可
 其實去年的時候我一度覺得⋯
@@ -38,52 +92,52 @@
 人啊， 果然還是要有1-2個不良嗜好
 生活才會有期待
 
-讚 581 ｜ 回覆 37 ｜ [原文](https://www.threads.com/@banini31/post/Dd1mZt-mVCQ)
+讚 703 ｜ 回覆 46 ｜ [原文](https://www.threads.com/@banini31/post/Dd1mZt-mVCQ)
 
 ---
 
-### 今天 00:08（2026/09/29 00:08）
+### 昨天 00:08（2026/09/29 00:08）
 
 > 大家準備好回去秋意濃的公園了嗎
 我先去佔位了～～
 一開盤，情緒萬種
 
-讚 1541 ｜ 回覆 79 ｜ [原文](https://www.threads.com/@banini31/post/Dd1lFUzgGcb)
+讚 1638 ｜ 回覆 81 ｜ [原文](https://www.threads.com/@banini31/post/Dd1lFUzgGcb)
 
 ---
 
-### 昨天 19:56（2026/09/28 19:56）
+### 09/28 19:56（2026/09/28 19:56）
 
 > 新一代少婦
 
-讚 69 ｜ 回覆 2 ｜ [原文](https://www.threads.com/@banini31/post/Dd1IM5YmRhr)
+讚 70 ｜ 回覆 2 ｜ [原文](https://www.threads.com/@banini31/post/Dd1IM5YmRhr)
 
 ---
 
-### 昨天 18:42（2026/09/28 18:42）
+### 09/28 18:42（2026/09/28 18:42）
 
 > 貴婦🌬️❤️
 但是好熱⋯⋯🫥
 
 他還有鞋子可以配套唉！
 
-讚 578 ｜ 回覆 21 ｜ [原文](https://www.threads.com/@banini31/post/Dd0_uOfAOSh)
+讚 602 ｜ 回覆 21 ｜ [原文](https://www.threads.com/@banini31/post/Dd0_uOfAOSh)
 
 ---
 
-### 昨天 13:11（2026/09/28 13:11）
+### 09/28 13:11（2026/09/28 13:11）
 
 > 只有中年人會看成分表了吧！ 是說成份表也太小了吧！ 根本看不到啊啊
 
-讚 1801 ｜ 回覆 92 ｜ [原文](https://www.threads.com/@banini31/post/Dd0Z2sRgGx0)
+讚 1854 ｜ 回覆 94 ｜ [原文](https://www.threads.com/@banini31/post/Dd0Z2sRgGx0)
 
 ---
 
-### 昨天 10:53（2026/09/28 10:53）
+### 09/28 10:53（2026/09/28 10:53）
 
 > this is not good ▓
 
-讚 325 ｜ 回覆 59 ｜ [原文](https://www.threads.com/@banini31/post/Dd0KD4iGRx_)
+讚 326 ｜ 回覆 59 ｜ [原文](https://www.threads.com/@banini31/post/Dd0KD4iGRx_)
 
 ---
 
@@ -95,7 +149,7 @@
 只是手殘如我每一隻王都要打三次才過_(:_」∠)_
 目前才剛過完第二條城～ 希望週末能打通
 
-讚 479 ｜ 回覆 29 ｜ [原文](https://www.threads.com/@banini31/post/DdwzctugH_f)
+讚 481 ｜ 回覆 29 ｜ [原文](https://www.threads.com/@banini31/post/DdwzctugH_f)
 
 ---
 
@@ -105,7 +159,7 @@
 線型遊戲最棒
 開放世界爛透了
 
-讚 1015 ｜ 回覆 77 ｜ [原文](https://www.threads.com/@banini31/post/DdwxZAYE2Qq)
+讚 1016 ｜ 回覆 77 ｜ [原文](https://www.threads.com/@banini31/post/DdwxZAYE2Qq)
 
 ---
 
@@ -119,71 +173,8 @@
 
 另外希望 @wbcc_2020 可以早點把脖子瘦出來～
 
-讚 474 ｜ 回覆 14 ｜ [原文](https://www.threads.com/@banini31/post/DdvWPQ6GVsc)
+讚 475 ｜ 回覆 14 ｜ [原文](https://www.threads.com/@banini31/post/DdvWPQ6GVsc)
 
 ---
 
-### 09/25 23:04（2026/09/25 23:04）
-
-> 吼猴～～
-看來是時候讓他見識真正的技術了！
-
-是說～一堆人退預購是怎樣啦！
-御守就10/2才會交到我這咩！
-
-讚 765 ｜ 回覆 21 ｜ [原文](https://www.threads.com/@banini31/post/DdtvTM3k-aq)
-
----
-
-### 09/25 18:57（2026/09/25 18:57）
-
-> 我知道你們都愛黑K
-
-讚 365 ｜ 回覆 5 ｜ [原文](https://www.threads.com/@banini31/post/DdtTC_tmW8a)
-
----
-
-### 09/25 18:34（2026/09/25 18:34）
-
-> 報告， 只有黑的
-
-讚 1286 ｜ 回覆 78 ｜ [原文](https://www.threads.com/@banini31/post/DdtQanjGS9N)
-
----
-
-### 09/25 14:28（2026/09/25 14:28）
-
-> 我合約到期要續約_(:_」∠)_  不然想直接官網買就好
-
-讚 113 ｜ 回覆 9 ｜ [原文](https://www.threads.com/@banini31/post/Dds0UXsGdCb)
-
----
-
-### 09/25 14:18（2026/09/25 14:18）
-
-> 通訊行的18 promax都缺貨唉
-哪招
-
-讚 457 ｜ 回覆 98 ｜ [原文](https://www.threads.com/@banini31/post/DdszHe0mYvQ)
-
----
-
-### 09/25 12:17（2026/09/25 12:17）
-
-> 大家月圓人團圓⋯
-烤肉都有肉吃 
-股票都有⋯恩⋯ 別說了
-
-讚 1226 ｜ 回覆 61 ｜ [原文](https://www.threads.com/@banini31/post/DdslTvtIOqh)
-
----
-
-### 09/25 10:30（2026/09/25 10:30）
-
-> 我今天可以一直發廢文嗎？
-
-讚 1606 ｜ 回覆 160 ｜ [原文](https://www.threads.com/@banini31/post/DdsZCBWGcu_)
-
----
-
-*自動產生於 2026-09-29 19:01 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-09-30 18:51 台灣時間。僅供娛樂參考，不構成投資建議。*
