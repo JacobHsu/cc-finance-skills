@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-02 06:10 台灣時間　｜　資料更新：2026-10-02 06:10 台灣時間
+> 更新時間：2026-10-02 19:38 台灣時間　｜　資料更新：2026-10-02 19:38 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic, with only ~3 vessels/day transiting (3% of normal). Physical passage exists but flows are severely degraded, with Iran maintaining control through military threats and permitting regime. Brief reopening under June US-Iran MOU broke down in early July after attacks resumed. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping with only minimal transits. Iran continues military operations targeting merchant vessels. US military presence increased. Physical passage exists but severely constrained by Iranian interference and war risk. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **258** | 156 | 54 | 48 | <span style="color:#27ae60">+2.00</span> |
+| **147** | 85 | 35 | 27 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 6.5% | 0.15% | 43.3x |
+| 5% | 0.15% | 33.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 309,000 | 10,300,000 | <span style="color:#e74c3c">3.0% ⚠️</span> | 上升 |
+| 25,000 | 10,300,000 | <span style="color:#e74c3c">0.2% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Trump rejects Iran's 7-day reopening plan; US-Iran talks continue
+**頭條：** Iran reviewing US response to seven-point ceasefire plan
 
-**各方：** United States, Iran, Israel, Oman
+**各方：** United States, Iran, Israel
 
-> As of late September 2026, Trump administration rejected Iran's proposal for a temporary 7-day strait reopening. US-Iran talks continue but remain at impasse. A June 17 MOU declared temporary safe passage for 60 days with future management to be determined in consultation with Oman and other Gulf states, but the arrangement collapsed in early July after Iranian attacks on vessels resumed.
+> Iran confirmed it received and is reviewing the US response to its seven-point ceasefire plan. President Trump stated the US could resume military operations after midterm elections if negotiations fail. No formal agreement on Strait terms has been reached. Uncertainty remains over exact terms and timeline.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $3.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.65B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> 25% of global LNG supply at risk; top three importers (Japan, South Korea, China) face critical supply constraints and elevated price volatility as Hormuz closure restricts LNG cargoes
+> LNG shipments severely constrained through Strait. Japan, South Korea, and China face supply uncertainty and cost escalation. Limited alternative supply routes available.
 
 **受影響地區**
 
@@ -75,38 +75,36 @@
 | China | HIGH | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
-| Saudi Arabia | HIGH | 85% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used by major container lines (Maersk, MSC, CMA CGM, Hapag-Lloyd); Red Sea route currently at ~49% pre-crisis capacity due to Houthi attacks |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Limited capacity of 5 mbpd; heavily constrained and not viable for surge traffic |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Limited capacity of 1.5 mbpd; insufficient for Gulf-wide flows, UAE-only supply |
-| Syrian Baniyas Port (bypass) | +5 天 | $320 | Iraq now importing petrol via Baniyas; limited capacity, geopolitically sensitive |
+| Cape of Good Hope | +12 天 | $600 | Increased usage by ~100 containerships due to China holiday slowdown. Costs significant but preferred over Hormuz risk. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Recently restarted but has limited 5 mbpd capacity. Disruptions reported. Saudi exports recovering via pipeline. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Limited 1.5 mbpd capacity. Being utilized but insufficient for demand displacement. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +650% | +3.2% | 70 天 |
+| +800% | +2.1% | 71 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates at $1.27M/day (up from ~$150-200k pre-crisis); freight costs now 20% of delivered crude price
-- War-risk insurance premiums at 6-10% of hull value (vs. 0.15% pre-crisis); some vessels facing $3-10M per transit
-- Brent crude at ~$103/bbl (40% premium over pre-war); elevated prices sustained despite partial recovery in flows
-- Container shipping redirected to Cape/Red Sea; global supply chain delays of 2-4 weeks for Asia-Europe routes
+- VLCC charter rates $600k-$1M/day through Hormuz (vs. $100-150k normal); Gulf-to-China routes averaging $449k/day
+- War risk insurance premiums 5% of hull value (vs. 0.15% normal); only 88% of Lloyd's underwriters writing hull war cover
+- Tanker congestion outside Hormuz forcing ship-to-ship transfers farther from region; Gulf port operations normalizing
+- Brent crude at $100-102/barrel; oil prices held in check by shuttle tanker operations and pipeline workarounds offsetting low Hormuz transits
 
 ## 最新新聞
 
-- [UAE’s Mubadala leads as Mena SWFs spend Dh374 billion despite US-Iran war](https://www.khaleejtimes.com/business/uaes-mubadala-leads-as-mena-swfs-spend-dh374-billion-despite-us-iran-war)　*Khaleej Times・2026-10-01*
-- [AI boom keeps Asian factory activity humming despite cost pressures](https://www.hindustantimes.com/world-news/ai-boom-keeps-asian-factory-activity-humming-despite-cost-pressures-101790842423199.html)　*Hindustan Times・2026-10-01*
-- [These charts show how volatile the last quarter was for stocks and bonds](https://www.cnbc.com/2026/10/01/q3-markets-stocks-oil-iran-war.html)　*Cnbc・2026-10-01*
-- [Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why? - The New York Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGlvYzdkVTBnbjdZMk9zbTBMQmUyd2s3R0hQQ2lEcEt6TThtZXZLNjhKT3dpSlZVMWVpUlZ0N1hMNUliX25kdERmRkNHU2JmNF9hVUV3VDQ0M3p6c0ZSUTk1QTh1U0FBTm9uVkI4R1J2MDVKOEJsanB4akpDZkNuT2txa1NiXzF3NDQzeE5DUmd6S1RMMlFHSg?oc=5)　*Google News・2026-10-01*
-- [Harvard Harris Poll: 77 Percent Want All Migrant Criminals Deported](https://www.breitbart.com/immigration/2026/10/01/poll-77-percent-want-all-migrant-criminals-deported/)　*Brietbart・2026-10-01*
+- [Third Aircraft Carrier, Thousands Of Troops Head To Mideast As Trump Weighs New Iran Strikes](https://www.huffpost.com/entry/ap-us-iran-us_n_6abee0ade4b02a789b34e50f)　*Huffpost・2026-10-01*
+- [Pete Hegseth Just Declared Victory in the Wrong War](https://www.newyorker.com/news/letter-from-trumps-washington/pete-hegseth-just-declared-victory-in-the-wrong-war)　*The New Yorker・2026-10-01*
+- [Trump says Iran was weeks away from nuclear weapon, defends US action](https://economictimes.indiatimes.com/news/international/world-news/trump-warns-iran-on-nuclear-threat-weeks-away-from-weapon-development-justifies-us-intervention/articleshow/134631335.cms)　*The Economic Times・2026-10-01*
+- [‘Significant amount’ of diesel stolen from central Alberta gas station](https://www.ctvnews.ca/calgary/article/significant-amount-of-diesel-stolen-from-central-alberta-gas-station/)　*Ctv News・2026-10-01*
+- [US deploys third aircraft carrier towards Middle East as Trump weighs options against Iran](https://www.moneycontrol.com/world/us-deploys-third-aircraft-carrier-towards-middle-east-as-trump-weighs-options-against-iran-article-14043196.html)　*Moneycontrol・2026-10-01*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-02 06:10 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-02 19:38 台灣時間，僅供參考，不構成投資建議。*
