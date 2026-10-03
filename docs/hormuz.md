@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-03 18:52 台灣時間　｜　資料更新：2026-10-03 18:52 台灣時間
+> 更新時間：2026-10-03 23:29 台灣時間　｜　資料更新：2026-10-03 23:29 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to routine commercial shipping following the breakdown of the June US-Iran agreement in early July 2026 due to attacks on vessels. Only 1 vessel transited on September 27, 2026 (1% of normal). Sporadic limited transits continue under US naval escort with some vessels operating with AIS tracking disabled. Fresh attacks reported as recently as October 1-2, 2026. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-04-22T00:00:00Z | The Strait of Hormuz was briefly reopened on April 21, 2026, but closed again on April 22, 2026. Commercial shipping remains suspended. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 2 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
+| 0 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$113.96** | <span style="color:#e74c3c">-6.01</span> | <span style="color:#e74c3c">-5.01%</span> | 上升 |
+| **$98.30** | <span style="color:#27ae60">+1.20</span> | <span style="color:#27ae60">+1.24%</span> | 上升 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **189** | 0 | 0 | 189 | <span style="color:#27ae60">+17.00</span> |
+| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,77 +34,79 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 40% | 0.15% | 266.7x |
+| 2.5% | 0.15% | 16.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 150,000 | 10,300,000 | <span style="color:#e74c3c">1.5% ⚠️</span> | 上升 |
+| 180,000 | 10,300,000 | <span style="color:#e74c3c">1.7% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Iran-Oman negotiating temporary shipping corridor; US-Iran diplomatic window remains open but stalled
+**頭條：** No peace talks currently scheduled
 
-**各方：** Iran, Oman, United States, Pakistan, Qatar
+**各方：** Iran, United States, GCC
 
-> Iran and Oman are negotiating a framework for a temporary new shipping route through the Strait of Hormuz, with reports indicating the talks are in advanced stages. However, the US-Iran MoU negotiation deadline expired in late August with no final agreement. Qatar and Pakistan are mediating renewed diplomatic efforts as of late September 2026.
+> Despite international pressure, no formal negotiations have been announced. UN Security Council held emergency session on March 3.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> 25% of global LNG transits through Hormuz; Japan, South Korea, and China face severe LNG supply shortages and price spikes. Fuel shipments remain significantly constrained despite recent modest improvements in crude export volumes.
+> Approximately 25% of global LNG trade transits the Strait of Hormuz, with Qatar as the dominant exporter. Asian importers face acute shortage risks.
 
 **受影響地區**
 
 | 地區 | 嚴重程度 | 石油依賴度 |
 |------|---------|-----------|
-| Japan | CRITICAL | 90% |
-| South Korea | CRITICAL | 80% |
-| China | HIGH | 40% |
-| India | HIGH | 60% |
-| European Union | MODERATE | 20% |
+| South Korea | CRITICAL | 70% |
+| Japan | CRITICAL | 62% |
+| India | HIGH | 55% |
+| China | HIGH | 44% |
+| European Union | HIGH | 18% |
+| Southeast Asia | MODERATE | 30% |
+| United States | MODERATE | 8% |
+| Africa | LOW | 5% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Primary reroute in use; major carriers (Maersk, MSC, CMA CGM, Hapag-Lloyd) have suspended Hormuz transits and shifted to Cape route |
-| East-West Pipeline (Petroline) | +0 天 | — | Currently shut down; 5 mbpd capacity, Saudi Arabia only |
-| Habshan-Fujairah Pipeline | +0 天 | — | Operational but limited capacity; UAE pipeline at 1.5 mbpd; trans-shipment shuttles operating from UAE ports with smaller feeder vessels |
+| Cape of Good Hope | +14 天 | $800 | Active rerouting — dozens of tankers diverted south around Africa |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating near 5 Mbbl/d capacity — pipeline bypass limited to Saudi crude only |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +150% | +2.1% | 71 天 |
+| +200% | +1.4% | 70 天 |
 
 **主要供應鏈事件**
 
-- Abu Dhabi-backed container shuttles operating with smaller feeder vessels as major international carriers avoid waterway; freight costs surged
-- Over 150 tankers anchored outside strait in early crisis; now 189 vessels holding position away from berth
-- Refined product shortages acute in Asia; crude exports returning toward prewar levels but fuel shipment constraints persist
-- Maersk, MSC, CMA CGM, Hapag-Lloyd all suspended Hormuz transits; rerouting to Cape of Good Hope
+- Tanker spot rates tripled for Gulf-to-Asia routes
+- European gas prices up 40% on LNG supply fears
+- Petrochemical feedstock shortages reported in South Korea and Japan
+- Container shipping delays of 7-10 days for rerouted vessels
 
 ## 最新新聞
 
-- [Trump’s TV Station Suffers Humiliating New Ratings Defeat](https://www.thedailybeast.com/donald-trumps-tv-station-suffers-humiliating-new-ratings-defeat/)　*The Daily Beast・2026-10-02*
-- [Iran slams Trump as ‘worst president’, says ‘reality shaped by Iran’ amid US victory claims](https://www.moneycontrol.com/world/iran-slams-trump-as-worst-president-says-reality-shaped-by-iran-amid-us-victory-claims-article-14043610.html)　*Moneycontrol・2026-10-02*
-- [Saudi Arabia Plans 100,000-Troop Yemen Offensive To Retake Bab el-Mandeb From Houthis](https://www.timesnownews.com/world/middle-east/saudi-arabia-plans-100000-troop-yemen-offensive-to-retake-bab-el-mandeb-from-houthis-article-156265452)　*Times Now News・2026-10-02*
-- [Meet the Press NOW — October 2](https://www.nbcnews.com/meet-the-press/video/meet-the-press-now-october-2-270941765505)　*Nbc News・2026-10-02*
-- [Vance tempers expectations for Republicans in midterm races](https://www.nbcnews.com/meet-the-press/video/vance-tempers-expectations-for-republicans-in-midterm-races-270938181752)　*Nbc News・2026-10-02*
+- [5 Indians Rescued After Kuwait-Flagged Tanker Struck In Strait Of Hormuz](https://www.ndtv.com/world-news/5-indians-rescued-after-kuwait-flagged-tanker-struck-in-strait-of-hormuz-12132291)　*Ndtv・2026-10-03*
+- [Saudi Arabia prepares for offensive against Houthis; Mecca pact allies still missing](https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-readies-100000-yemeni-troops-for-houthi-assault-can-fragmented-yemeni-forces-retake-bab-el-mandeb/articleshow/134650886.cms)　*The Times Of India・2026-10-03*
+- ["Unknown Projectiles" Hit 2 Oil Tankers In Hormuz: UK Maritime Agency](https://www.ndtv.com/world-news/unknown-projectiles-hit-2-oil-tankers-in-hormuz-uk-maritime-agency-12132187)　*Ndtv・2026-10-03*
+- [5 Indians rescued after Kuwait-flagged tanker hit by projectile in Hormuz](https://www.business-standard.com/external-affairs-defence-security/news/5-indians-rescued-after-kuwait-flagged-tanker-hit-by-projectile-in-hormuz-126100300062_1.html)　*Business Standard・2026-10-03*
+- [Fresh attack in Strait of Hormuz: Kuwaiti-flagged tanker struck, 5 Indians safe](https://www.india.com/news/world/fire-breaks-out-again-in-the-strait-of-hormuz-tanker-hit-by-missile-five-indians-aboard-8532280/)　*India・2026-10-03*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-03 18:52 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-03 23:29 台灣時間，僅供參考，不構成投資建議。*
