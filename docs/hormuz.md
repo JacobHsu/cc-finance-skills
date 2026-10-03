@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-03 23:29 台灣時間　｜　資料更新：2026-10-03 23:29 台灣時間
+> 更新時間：2026-10-04 04:24 台灣時間　｜　資料更新：2026-10-04 04:24 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-04-22T00:00:00Z | The Strait of Hormuz was briefly reopened on April 21, 2026, but closed again on April 22, 2026. Commercial shipping remains suspended. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains closed to commercial shipping with active vessel attacks continuing. Fresh attacks reported on multiple vessels in early October 2026. Limited transits occurring under naval escort with most vessels avoiding the corridor due to safety concerns. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 0 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$98.30** | <span style="color:#27ae60">+1.20</span> | <span style="color:#27ae60">+1.24%</span> | 上升 |
+| **$113.96** | <span style="color:#e74c3c">-6.01</span> | <span style="color:#e74c3c">-5.01%</span> | 上升 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
+| **147** | 6 | 136 | 5 | <span style="color:#e74c3c">-8.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 2.5% | 0.15% | 16.7x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 180,000 | 10,300,000 | <span style="color:#e74c3c">1.7% ⚠️</span> | 下跌 |
+| 85,000,000 | 10,300,000 | <span style="color:#e74c3c">0.8% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** No peace talks currently scheduled
+**頭條：** US rejects Iran's Hormuz reopening proposal; mediated negotiations continue in New York
 
-**各方：** Iran, United States, GCC
+**各方：** United States, Iran, Qatar (mediator), Pakistan (mediator)
 
-> Despite international pressure, no formal negotiations have been announced. UN Security Council held emergency session on March 3.
+> Iran has proposed reopening the Strait of Hormuz in exchange for lifting US naval blockade, sanctions relief, and release of $12 billion in frozen assets. Trump rejected the initial offer on September 28. Mediators are working on revised proposals with Iranian Foreign Minister Araghchi meeting mediators in New York. No breakthrough announced as of October 3.
 
 ## 全球貿易影響
 
@@ -64,49 +64,47 @@
 |--------------|-------------|----------------|
 | 25% | $1.8B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits the Strait of Hormuz, with Qatar as the dominant exporter. Asian importers face acute shortage risks.
+> LNG shipments have recovered to 7-month highs but still only at approximately 25% of pre-crisis levels. Winter demand approaching creates additional pressure on global LNG markets.
 
 **受影響地區**
 
 | 地區 | 嚴重程度 | 石油依賴度 |
 |------|---------|-----------|
-| South Korea | CRITICAL | 70% |
-| Japan | CRITICAL | 62% |
-| India | HIGH | 55% |
-| China | HIGH | 44% |
-| European Union | HIGH | 18% |
-| Southeast Asia | MODERATE | 30% |
-| United States | MODERATE | 8% |
-| Africa | LOW | 5% |
+| Japan | CRITICAL | 90% |
+| South Korea | CRITICAL | 80% |
+| China | HIGH | 40% |
+| India | HIGH | 60% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +14 天 | $800 | Active rerouting — dozens of tankers diverted south around Africa |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating near 5 Mbbl/d capacity — pipeline bypass limited to Saudi crude only |
+| Cape of Good Hope | +12 天 | $650 | High utilization with significant congestion building; alternative route currently absorbing 30-40% of diverted traffic. |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at full 5 mbpd capacity but limited to Saudi crude only; no expansion possible. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at maximum 1.5 mbpd capacity; bottleneck for UAE and regional crude exports. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +200% | +1.4% | 70 天 |
+| +850% | +1.8% | 68 天 |
 
 **主要供應鏈事件**
 
-- Tanker spot rates tripled for Gulf-to-Asia routes
-- European gas prices up 40% on LNG supply fears
-- Petrochemical feedstock shortages reported in South Korea and Japan
-- Container shipping delays of 7-10 days for rerouted vessels
+- Container shipping rates Asia-Europe up 320% due to Cape rerouting; backlog at alternative ports growing daily
+- LNG import prices for Japan/Korea up 45-60% vs pre-crisis; winter heating costs rising sharply
+- Refined product exports from Middle East down 55%; diesel and gasoline premiums rising globally
+- Insurance surcharges adding $1.5M-$4.5M per VLCC transit; some owners refusing high-risk transits
 
 ## 最新新聞
 
-- [5 Indians Rescued After Kuwait-Flagged Tanker Struck In Strait Of Hormuz](https://www.ndtv.com/world-news/5-indians-rescued-after-kuwait-flagged-tanker-struck-in-strait-of-hormuz-12132291)　*Ndtv・2026-10-03*
-- [Saudi Arabia prepares for offensive against Houthis; Mecca pact allies still missing](https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-readies-100000-yemeni-troops-for-houthi-assault-can-fragmented-yemeni-forces-retake-bab-el-mandeb/articleshow/134650886.cms)　*The Times Of India・2026-10-03*
-- ["Unknown Projectiles" Hit 2 Oil Tankers In Hormuz: UK Maritime Agency](https://www.ndtv.com/world-news/unknown-projectiles-hit-2-oil-tankers-in-hormuz-uk-maritime-agency-12132187)　*Ndtv・2026-10-03*
-- [5 Indians rescued after Kuwait-flagged tanker hit by projectile in Hormuz](https://www.business-standard.com/external-affairs-defence-security/news/5-indians-rescued-after-kuwait-flagged-tanker-hit-by-projectile-in-hormuz-126100300062_1.html)　*Business Standard・2026-10-03*
-- [Fresh attack in Strait of Hormuz: Kuwaiti-flagged tanker struck, 5 Indians safe](https://www.india.com/news/world/fire-breaks-out-again-in-the-strait-of-hormuz-tanker-hit-by-missile-five-indians-aboard-8532280/)　*India・2026-10-03*
+- [India has maintained high level of growth amid global uncertainty: PK Mishra](https://www.prokerala.com/news/articles/a1819826.html)　*Prokerala・2026-10-03*
+- [Iran under pressure: Inflation nears 90%, Hormuz leverage weakens as US tightens squeeze](https://www.moneycontrol.com/world/iran-under-pressure-inflation-nears-90-hormuz-leverage-weakens-as-us-tightens-squeeze-article-14043746.html)　*Moneycontrol・2026-10-03*
+- [SCI to help India achieve ambition of becoming top shipping nation: Sonowal](https://www.business-standard.com/industry/news/sci-to-help-india-achieve-ambition-of-becoming-top-shipping-nation-sonowal-126100300208_1.html)　*Business Standard・2026-10-03*
+- [Gold rates surged on Oct 03: Check Prices in Delhi, Mumbai, and other cities](https://zeenews.india.com/bullion/gold-rates-surged-on-oct-03-check-prices-in-delhi-mumbai-and-other-cities-3074350.html)　*Zee News・2026-10-03*
+- [Israel elections, West Asia wars & Bibi’s last gambit](https://timesofindia.indiatimes.com/world/middle-east/israel-elections-west-asia-wars-bibis-last-gambit/articleshow/134653041.cms)　*The Times Of India・2026-10-03*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-03 23:29 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-04 04:24 台灣時間，僅供參考，不構成投資建議。*
