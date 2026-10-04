@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-05 00:13 台灣時間　｜　資料更新：2026-10-05 00:13 台灣時間
+> 更新時間：2026-10-05 04:42 台灣時間　｜　資料更新：2026-10-05 04:42 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic with only 1 transit recorded on September 27 vs. 85 normal daily baseline. Continued projectile attacks on merchant vessels throughout the week of October 1-4, 2026, with multiple tankers struck. Iran maintains control and closure policy. US Defense Secretary described American blockade as 'ironclad' on October 4. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping. After a brief reopening (June 17 - June 19) under a US-Iran MOU, the strait reclosed on June 20 when Iran resumed attacks on commercial vessels citing Israeli actions as ceasefire violations. Currently only ~3 ships/day transit (vs 60 normal), representing ~3-5% of normal traffic. War risk insurance has made commercial transits uninsurable for most vessels. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 0 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
+| 3 | 1 | 60 | <span style="color:#e74c3c">3.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **147** | 85 | 35 | 27 | <span style="color:#27ae60">+2.00</span> |
+| **156** | 95 | 35 | 26 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 5% | 0.15% | 33.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 95,000 | 10,300,000 | <span style="color:#e74c3c">0.9% ⚠️</span> | 上升 |
+| 309,000 | 10,300,000 | <span style="color:#e74c3c">3.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** NO_TALKS
 
-**頭條：** US-Iran negotiations underway; Iran reviews US response to seven-point plan
+**頭條：** US-Iran MOU ceasefire collapsed; Iran demands seven conditions before reopening
 
-**各方：** United States, Iran, Qatar
+**各方：** United States, Iran, Israel, Oman
 
-> Iran's parliament deputy speaker confirmed negotiations with the US are underway on October 4, 2026, with Iran reviewing the US response to its seven-point peace proposal. Terms regarding Strait of Hormuz passage remain unclear. US Defense Secretary characterized the blockade as 'ironclad,' indicating continued military positioning despite diplomatic channels remaining open.
+> A June 17, 2026 MOU signed by Trump and Pezeshkian temporarily opened the strait toll-free for 60 days. Iran reopened on June 17 but reclosed on June 20 citing Israeli attacks on Hezbollah as ceasefire violations. As of October 4, Iran insists on fulfillment of seven undisclosed conditions from the prior agreement before reopening. No active peace negotiations are scheduled.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $8.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $2.1B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz. At least 8 LNG vessels have traversed in past two weeks with heavy US military escort. LNG delivery delays causing price volatility in Asian markets.
+> Approximately 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face acute LNG shortages as alternative suppliers are overbooked. Spot LNG prices have spiked 200-300% above pre-crisis baseline.
 
 **受影響地區**
 
@@ -72,40 +72,39 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| China | HIGH | 40% |
 | India | HIGH | 60% |
+| China | HIGH | 40% |
 | European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Active rerouting ongoing; represents 30-40% of diverted traffic; increased port congestion at alternative hubs. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at full 5 mbpd capacity; Saudi-exclusive route; unable to absorb demand from other producers. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; capacity constraints; limited benefits for non-UAE producers. |
-| Ship-to-Ship Transfers (Gulf of Oman) | +3 天 | $200 | Heavily utilized; over 70% of transiting crude now transferred offshore; capacity approaching limits as of late September; delays and demurrage costs escalating. |
+| Cape of Good Hope | +12 天 | $650 | Heavily used by Maersk, MSC, CMA CGM; adds 10-15 days to Far East routes; major rerouting by top container lines since March 2026. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Limited to Saudi crude only (5 mbpd capacity); operating at near-full capacity but closed to international transit. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational at 1.5 mbpd capacity; handling overflow Gulf exports but limited by capacity and UAE sovereignty constraints. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +500% | +2.1% | 70 天 |
+| +850% | +3.2% | 70 天 |
 
 **主要供應鏈事件**
 
-- VLCC charter rates from Arabian Gulf to Asia exceeded $1.27 million per day as of September 25, 2026 (vs. $208k pre-crisis); scarcity premium for willingness to enter Hormuz.
-- Container shipping surcharges: $1,500-$3,500 per TEU; global container rates up 200-300%; port congestion at alternative hubs (Rotterdam, Singapore, Suez).
-- LNG spot prices in Asia up 35-40%; Japan LNG import costs rising 15-20% month-on-month; delayed vessel arrivals causing power generation constraints.
-- Crude oil spreads between Brent and WTI widened to $8-12/barrel; Brent crude at $102.25-102.70 (+42% vs. pre-crisis ~$72); futures volatility at 8-year highs.
+- VLCC spot rates on AG-East route reached $600k-$800k per day in September vs $50 WS pre-crisis (1200%+ increase); current rates ~WS 750 ($450k/day equiv)
+- Maersk and MSC charge $1,000-$1,200 per TEU surcharge for any Hormuz transit; Cape of Good Hope rerouting adds $950/TEU to Asia-Europe container routes
+- 8 CMA CGM vessels stranded in Gulf unable to exit; company activated full Cape rerouting for Asia-Europe services; financial impact $500M+ in capex and operational cost overruns
+- US SPR at ~350-385 million barrels; maximum drawdown capacity of 4.4M bbl/day sustains ~70 days of maximum release before salt cavern structural limits; global oil refinery utilization at record highs
 
 ## 最新新聞
 
-- [Trump weighs next Iran move as Pezeshkian vows economic response](https://gulfnews.com/world/mena/trump-weighs-next-iran-move-as-pezeshkian-vows-economic-response-1.500697574)　*Gulf News・2026-10-04*
-- [LPG, CNG, PNG prices on today (October 4): Check latest rates in Delhi, Mumbai, Kolkata, other cities](https://www.businesstoday.in/india/story/lpg-cng-png-prices-on-today-october-4-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-559360-2026-10-04)　*Business News India・2026-10-04*
-- [Global Economic Uncertainty Here To Stay, India Must Build Resilience: Nirmala Sitharaman](https://www.news18.com/india/global-economic-uncertainty-here-to-stay-india-must-build-resilience-nirmala-sitharaman-ws-kl-10366423.html)　*News 18・2026-10-04*
-- [Two Iranian UN Delegation Members 'Kicked Out' Of US After Ignoring Order To Leave](https://news.abplive.com/news/world/two-iranian-un-delegation-members-kicked-out-of-us-after-ignoring-order-to-leave-1869621)　*Abp News・2026-10-04*
-- [Iraq says it transported 2 million barrels of crude via Strait of Hormuz](https://www.business-standard.com/world-news/iraq-says-it-transported-2-million-barrels-of-crude-via-strait-of-hormuz-126100400045_1.html)　*Business Standard・2026-10-04*
+- [IRGC Fires 150km Range Missile; Iran Claims US Aircraft 'Spying' Strategic Qeshm Island Downed](https://timesofindia.indiatimes.com/videos/international/irgc-fires-150km-range-missile-iran-claims-us-aircraft-spying-strategic-qeshm-island-downed/videoshow/134671549.cms)　*The Times Of India・2026-10-04*
+- [US tells Iranian diplomats to leave, ‘kicks out’ two who overstayed in New York: ‘Secretary Rubio means business’](https://www.hindustantimes.com/india-news/us-tells-iranian-diplomats-to-leave-kicks-out-two-who-overstayed-in-new-york-secretary-rubio-means-business-101791097194755.html)　*Hindustan Times・2026-10-04*
+- [Iran says Strait of Hormuz will not reopen until conditions are met, says reports](https://www.thehindu.com/news/international/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports/article71543176.ece)　*The Hindu・2026-10-04*
+- [Mitsotakis: We will support society through the energy crisis](https://en.protothema.gr/2026/10/04/mitsotakis-we-will-support-society-through-the-energy-crisis/)　*Protothema・2026-10-04*
+- [Iran-US war latest: Houthis claim attack on major Saudi oil refinery as ships attacked in Strait of Hormuz](https://www.independent.co.uk/news/world/middle-east/us-iran-war-live-news-trump-saudi-oil-yemen-b3060981.html)　*The Independent・2026-10-04*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-05 00:13 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-05 04:42 台灣時間，僅供參考，不構成投資建議。*
