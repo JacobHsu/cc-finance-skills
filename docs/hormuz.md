@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-05 04:42 台灣時間　｜　資料更新：2026-10-05 04:42 台灣時間
+> 更新時間：2026-10-05 21:09 台灣時間　｜　資料更新：2026-10-05 21:09 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping. After a brief reopening (June 17 - June 19) under a US-Iran MOU, the strait reclosed on June 20 when Iran resumed attacks on commercial vessels citing Israeli actions as ceasefire violations. Currently only ~3 ships/day transit (vs 60 normal), representing ~3-5% of normal traffic. War risk insurance has made commercial transits uninsurable for most vessels. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic. As of September 27, IMF PortWatch recorded only 1 transit against a pre-crisis baseline of 85 per day. Iran maintains closure restrictions while the US implements a blockade. Recent reports indicate scattered attempts at transit, with some low-capacity movements, but the strait is functionally closed to regular commercial shipping. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 1 | 60 | <span style="color:#e74c3c">3.0% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **156** | 95 | 35 | 26 | <span style="color:#27ae60">0.00</span> |
+| **239** | 85 | 92 | 62 | <span style="color:#27ae60">+21.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 5% | 0.15% | 33.3x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 309,000 | 10,300,000 | <span style="color:#e74c3c">3.0% ⚠️</span> | 下跌 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** US-Iran MOU ceasefire collapsed; Iran demands seven conditions before reopening
+**頭條：** Iran-Oman negotiations in final stages; US signals optimism but conditions harden
 
-**各方：** United States, Iran, Israel, Oman
+**各方：** Iran, Oman, United States, Qatar
 
-> A June 17, 2026 MOU signed by Trump and Pezeshkian temporarily opened the strait toll-free for 60 days. Iran reopened on June 17 but reclosed on June 20 citing Israeli attacks on Hezbollah as ceasefire violations. As of October 4, Iran insists on fulfillment of seven undisclosed conditions from the prior agreement before reopening. No active peace negotiations are scheduled.
+> Iran and Oman are negotiating new maritime routes through the Strait, with talks described as in 'final stages' as of August. However, Iran has set seven conditions including compensation and US force withdrawal, while Iran's foreign minister Ghalibaf maintains the strait remains closed pending compliance. No major breakthrough reported in recent days; negotiations appear stalled amid hardening positions and continued attacks.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $2.1B | Japan, South Korea, China |
+| 25% | $3.2B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face acute LNG shortages as alternative suppliers are overbooked. Spot LNG prices have spiked 200-300% above pre-crisis baseline.
+> LNG trade disrupted with only sporadic transits; Japan, South Korea, China face acute supply constraints and price spikes. Qatar-origin LNG production curtailed; alternative suppliers (Australia, US) stretched.
 
 **受影響地區**
 
@@ -72,39 +72,39 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| India | HIGH | 60% |
 | China | HIGH | 40% |
+| India | HIGH | 60% |
 | European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily used by Maersk, MSC, CMA CGM; adds 10-15 days to Far East routes; major rerouting by top container lines since March 2026. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Limited to Saudi crude only (5 mbpd capacity); operating at near-full capacity but closed to international transit. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational at 1.5 mbpd capacity; handling overflow Gulf exports but limited by capacity and UAE sovereignty constraints. |
+| Cape of Good Hope | +12 天 | $650 | Moderate rerouting; estimated 25-30% of tankers now using Cape route despite cost premium. |
+| Saudi East-West Pipeline | +0 天 | — | Operating at near-maximum 5 mbpd capacity; marginal relief only. |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | At or near 1.5 mbpd capacity limits; minimal additional capacity available. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +850% | +3.2% | 70 天 |
+| +320% | +4.8% | 70 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates on AG-East route reached $600k-$800k per day in September vs $50 WS pre-crisis (1200%+ increase); current rates ~WS 750 ($450k/day equiv)
-- Maersk and MSC charge $1,000-$1,200 per TEU surcharge for any Hormuz transit; Cape of Good Hope rerouting adds $950/TEU to Asia-Europe container routes
-- 8 CMA CGM vessels stranded in Gulf unable to exit; company activated full Cape rerouting for Asia-Europe services; financial impact $500M+ in capex and operational cost overruns
-- US SPR at ~350-385 million barrels; maximum drawdown capacity of 4.4M bbl/day sustains ~70 days of maximum release before salt cavern structural limits; global oil refinery utilization at record highs
+- VLCC charter rates surged to $1.3M/day (vs. $50-80k pre-crisis); 43-fold increase in some routes.
+- US SPR can sustain maximum withdrawal (~4.4M bbl/day) for ~70 days at current 350-385M barrel inventory.
+- Gulf producers achieving near-pre-war export levels through alternative arrangements, but fuel/refinery products remain constrained.
+- Global container shipping rates up 15-25%; air freight premium for critical supplies up 40-60%.
 
 ## 最新新聞
 
-- [IRGC Fires 150km Range Missile; Iran Claims US Aircraft 'Spying' Strategic Qeshm Island Downed](https://timesofindia.indiatimes.com/videos/international/irgc-fires-150km-range-missile-iran-claims-us-aircraft-spying-strategic-qeshm-island-downed/videoshow/134671549.cms)　*The Times Of India・2026-10-04*
-- [US tells Iranian diplomats to leave, ‘kicks out’ two who overstayed in New York: ‘Secretary Rubio means business’](https://www.hindustantimes.com/india-news/us-tells-iranian-diplomats-to-leave-kicks-out-two-who-overstayed-in-new-york-secretary-rubio-means-business-101791097194755.html)　*Hindustan Times・2026-10-04*
-- [Iran says Strait of Hormuz will not reopen until conditions are met, says reports](https://www.thehindu.com/news/international/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met-says-reports/article71543176.ece)　*The Hindu・2026-10-04*
-- [Mitsotakis: We will support society through the energy crisis](https://en.protothema.gr/2026/10/04/mitsotakis-we-will-support-society-through-the-energy-crisis/)　*Protothema・2026-10-04*
-- [Iran-US war latest: Houthis claim attack on major Saudi oil refinery as ships attacked in Strait of Hormuz](https://www.independent.co.uk/news/world/middle-east/us-iran-war-live-news-trump-saudi-oil-yemen-b3060981.html)　*The Independent・2026-10-04*
+- [Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory](https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory)　*The Guardian・2026-10-05*
+- [Morning Digest: Nearly 500 detained in Delhi on Day 3 of protests seeking CEC’s exit; SC Judge Bhuyan criticises process disenfranchising millions, and more](https://www.thehindu.com/news/morning-digest-october-5-2026/article71544693.ece)　*The Hindu・2026-10-05*
+- [200 US Troops In Saudi: Is Trump Quietly Preparing For A New Houthi War?](https://timesofindia.indiatimes.com/videos/international/200-us-troops-in-saudi-is-trump-quietly-preparing-for-a-new-houthi-war/videoshow/134683252.cms)　*The Times Of India・2026-10-05*
+- [US removes bombers from UK air base as security concerns reignite](https://www.washingtonexaminer.com/news/world/4753485/us-removes-bombers-uk-air-base-security-concerns/)　*Washington Examiner・2026-10-05*
+- ['Era of wasting time over': Ghalibaf says Hormuz to remain closed until US meets conditions under June MoU](https://gulfnews.com/world/mena/era-of-wasting-time-over-ghalibaf-says-hormuz-to-remain-closed-until-us-meets-conditions-under-june-mou-1.500698300)　*Gulf News・2026-10-04*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-05 04:42 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-05 21:09 台灣時間，僅供參考，不構成投資建議。*
