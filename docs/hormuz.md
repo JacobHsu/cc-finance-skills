@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-07 06:03 台灣時間　｜　資料更新：2026-10-07 06:03 台灣時間
+> 更新時間：2026-10-07 20:22 台灣時間　｜　資料更新：2026-10-07 20:22 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains under sustained military and diplomatic pressure. Oil flows at ~75-80% of pre-war levels (13.1 mbpd vs 17.1 mbpd pre-crisis). Physically open but highly volatile with continued IRGC-attributed attacks and US naval presence. Commercial traffic effectively closure in terms of insurance-driven paralysis, though Iran-approved and US-escorted convoys continue limited operations. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains physically open but heavily restricted with flows at ~75-80% of pre-war levels (~13.1 mbpd vs 17.1 mbpd pre-crisis). Iran maintains de facto blockade with selective transit approvals. US Navy provides escort operations through contested southern route; merchant ships continue absorbing projectile strikes. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 5 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
+| 1 | 0 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **239** | 85 | 120 | 34 | <span style="color:#27ae60">0.00</span> |
+| **239** | 85 | 70 | 84 | <span style="color:#e74c3c">-5.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 6.5% | 0.15% | 43.3x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,950,000 | 10,300,000 | <span style="color:#e74c3c">18.9% ⚠️</span> | 上升 |
+| 1,550,000 | 10,300,000 | <span style="color:#e74c3c">15.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran reviews US response to seven-point ceasefire plan; Ghalibaf says strait closed until conditions met
+**頭條：** Iran, US exchange conditions via mediators; negotiations stalled as positions harden on denuclearization vs Hormuz control
 
-**各方：** Iran, United States, Iraq, UAE, GCC states
+**各方：** Iran, United States, Pakistan, Qatar, Oman, Israel
 
-> Iran stated it received and is reviewing the US response to its seven-point ceasefire proposal. Iranian Speaker Ghalibaf maintains strait remains closed until Iran's conditions are met. Iraq reportedly arranging tanker transits as US-Iran war continues. A June US-Iran MoU temporarily eased tensions but broke down in early July after renewed attacks; situation remains contested between Iranian claims and US military assertions.
+> Iran maintains closure until US accepts seven-condition plan based on June 2026 Islamabad Memorandum. Trump rejected Iran's proposal in early October, claiming Iran lost leverage. Indirect talks continue through mediators despite impasse; Qatar and Pakistan attempting revival. Iran-Oman negotiating new shipping lanes; any agreement could take 30-60 days.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Japan and South Korea face severe constraints; supply chains increasingly fragile with limited alternative sourcing. Spot LNG prices elevated; long-term contract renegotiations ongoing.
+> LNG trade severely constrained with only selective Iranian-approved carriers transiting. Top importers face spot price increases 300-400% above pre-crisis levels. Global LNG market tightening; diversion to alternative suppliers causing cascading price impacts.
 
 **受影響地區**
 
@@ -74,38 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| Europe | MODERATE | 20% |
-| UAE/GCC | CRITICAL | 100% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used by risk-averse charterers; major container lines (Maersk, MSC, CMA CGM, Hapag-Lloyd) rerouting; increases costs and voyage time significantly. |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating at reduced capacity (5 mbpd max); heavily subscribed; Saudi-only exports; limited availability for third parties. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at near-full 1.5 mbpd capacity; primary UAE bypass; transshipment hub surcharges increasing; Maersk now discharging at Fujairah and moving cargo overland at $1,000/container. |
+| Cape of Good Hope | +12 天 | $650 | Moderate rerouting activity; ~15-20% of regular Hormuz traffic now routing around Cape; higher fuel costs and longer voyage times depressing margins. |
+| Saudi East-West Pipeline (Yanbu-Ras Al-Khafji) | +0 天 | — | Operating at ~80% of 5 mbpd capacity; Saudi Arabia prioritizing internal refining and approved exports; marginal capacity available for global market. |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at full 1.5 mbpd capacity; limited additional throughput; technical upgrades planned but not yet implemented. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +385% | +2.1% | 70 天 |
+| +380% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- Freight rates into Gulf surged to 5-fold normal levels; transshipment operations strained with Fujairah acting as congested alternative hub
-- Container lines suspended bookings to most Gulf ports; overlanding via UAE now standard but expensive ($1,000/40ft container)
-- VLCC spot rates elevated at $175-185K/day (Worldscale 73) vs pre-crisis $40-60 WS; rates hit $600-800K/day peaks in September
-- US SPR drawdown capacity reduced by diplomatic uncertainty; approximately 70 days maximum drawdown remaining before structural heel constraint
+- Freight rates surged up to 5x normal into Persian Gulf region; container shipping +250-400%, tanker +300-500%
+- Oil tanker charter rates for VLCCs peaked at $800k/day (pre-crisis $200k); current spot rates ~$420k/day but highly volatile
+- LNG spot prices in Northeast Asia +350% year-over-year; import delays cascading to power generation and industrial users in Japan, Korea
+- Port congestion at Jebel Ali and alternative Gulf ports critical; vessel turnaround times doubled; pipeline queuing for approved transits causing 30-45 day delays for some cargo
 
 ## 最新新聞
 
-- [Yemen says it reclaimed key port city from Houthis as struggle to remove Iran-backed group from Bab-el-Mandeb continues](https://www.hindustantimes.com/world-news/yemen-houthis-us-iran-war-saudi-arabia-mecca-pact-medina-pakistan-turkey-bab-el-mandeb-strait-mocha-red-sea-101791274103591.html)　*Hindustan Times・2026-10-06*
-- [Iran war impact on US midterms: Can an 'October surprise' change course of the election?](https://www.moneycontrol.com/world/iran-war-impact-on-us-midterms-can-an-october-surprise-change-the-course-of-the-election-article-14045696.html)　*Moneycontrol・2026-10-06*
-- [In Charts: Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most](https://www.faz.net/aktuell/wall-street-journal/oil-is-flowing-from-hormuz-again-201291822.html)　*Frankfurther Allgemeine Zeitung・2026-10-06*
-- [Rising electricity demand deepens Southeast Asia's energy security concerns, IEA reports says](https://www.independent.co.uk/news/southeast-asia-iea-bangkok-fatih-birol-iran-b3062011.html)　*The Independent・2026-10-06*
-- [Here's how much more each kilometre, and a full tank, will cost you after October's fuel price increase](https://www.iol.co.za/business/economy/heres-how-much-more-each-kilometre-and-a-full-tank-will-cost-you-after-octobers-fuel-price-increase-f7d4dfe7-5bf4-40c3-8bb5-ffeaeedd7ae5)　*Iol・2026-10-06*
+- [Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’](https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike)　*Fox News・2026-10-06*
+- ['Not Going To Trade Words For Actions': Vance Says Iran Must Cut Nuclear Enrichment To End War](https://www.news18.com/world/jd-vance-says-iran-must-cut-nuclear-enrichment-to-end-war-ws-l-10370391.html)　*News 18・2026-10-06*
+- [Iran Must Cut Enrichment To End War: JD Vance](https://www.ndtv.com/world-news/iran-must-cut-enrichment-to-end-war-jd-vance-12148654)　*Ndtv・2026-10-06*
+- [What Trump's new executive order on diesel means](https://www.nbcnews.com/meet-the-press/video/what-trump-s-new-executive-order-on-diesel-means-271149637697)　*Nbc News・2026-10-06*
+- [Iran must cut enrichment to end war, US uncertain who makes decisions in Tehran, Vance says](https://www.jpost.com/international/article-910850)　*Jpost・2026-10-06*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-07 06:03 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-07 20:22 台灣時間，僅供參考，不構成投資建議。*
