@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-07 20:22 台灣時間　｜　資料更新：2026-10-07 20:22 台灣時間
+> 更新時間：2026-10-08 06:28 台灣時間　｜　資料更新：2026-10-08 06:28 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains physically open but heavily restricted with flows at ~75-80% of pre-war levels (~13.1 mbpd vs 17.1 mbpd pre-crisis). Iran maintains de facto blockade with selective transit approvals. US Navy provides escort operations through contested southern route; merchant ships continue absorbing projectile strikes. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping with sustained military and projectile attacks on merchant vessels. Only 4 transits recorded on Oct 4 vs. pre-crisis baseline of 85/day (5% of normal). Iran claims strait will remain closed until seven conditions are met; reports indicate limited ships still transiting at extreme risk. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 0 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
+| 4 | 1 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **239** | 85 | 70 | 84 | <span style="color:#e74c3c">-5.00</span> |
+| **242** | 160 | 45 | 37 | <span style="color:#e74c3c">-36.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 7.5% | 0.15% | 50x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,550,000 | 10,300,000 | <span style="color:#e74c3c">15.0% ⚠️</span> | 上升 |
+| 1.31 | 10,300,000 | <span style="color:#e74c3c">12.7% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Iran, US exchange conditions via mediators; negotiations stalled as positions harden on denuclearization vs Hormuz control
+**頭條：** Iran-Oman negotiations ongoing; US-Iran talks through intermediaries only
 
-**各方：** Iran, United States, Pakistan, Qatar, Oman, Israel
+**各方：** Iran, United States, Oman, Qatar, Pakistan
 
-> Iran maintains closure until US accepts seven-condition plan based on June 2026 Islamabad Memorandum. Trump rejected Iran's proposal in early October, claiming Iran lost leverage. Indirect talks continue through mediators despite impasse; Qatar and Pakistan attempting revival. Iran-Oman negotiating new shipping lanes; any agreement could take 30-60 days.
+> Iran says Strait will not reopen until seven conditions are met. Backchannel talks through Qatar and Pakistan continue. Iran negotiating with Oman over new shipping arrangement and 'middle corridor' through the strait. US envoys Steve Witkoff and Jared Kushner held Qatari-mediated talks with Iranian Foreign Minister Abbas Araghchi at UN General Assembly in September, but no breakthrough achieved.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $8.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $2.1B | Japan, South Korea, China |
 
-> LNG trade severely constrained with only selective Iranian-approved carriers transiting. Top importers face spot price increases 300-400% above pre-crisis levels. Global LNG market tightening; diversion to alternative suppliers causing cascading price impacts.
+> LNG shipping volumes recently recovered to highest level since war began but remain volatile. Top three importers face critical supply constraints with prices elevated and demand management measures in place.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Moderate rerouting activity; ~15-20% of regular Hormuz traffic now routing around Cape; higher fuel costs and longer voyage times depressing margins. |
-| Saudi East-West Pipeline (Yanbu-Ras Al-Khafji) | +0 天 | — | Operating at ~80% of 5 mbpd capacity; Saudi Arabia prioritizing internal refining and approved exports; marginal capacity available for global market. |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at full 1.5 mbpd capacity; limited additional throughput; technical upgrades planned but not yet implemented. |
+| Cape of Good Hope | +12 天 | $650 | Active rerouting, with container carriers applying 30-40% Cape surcharges; significant transit bottleneck building |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at or near 5 mbpd capacity limit; insufficient to absorb Hormuz shortfall |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | At 1.5 mbpd capacity maximum; minimal relief provided to overall throughput deficit |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +380% | +2.1% | 68 天 |
+| +2500% | +3.2% | 72 天 |
 
 **主要供應鏈事件**
 
-- Freight rates surged up to 5x normal into Persian Gulf region; container shipping +250-400%, tanker +300-500%
-- Oil tanker charter rates for VLCCs peaked at $800k/day (pre-crisis $200k); current spot rates ~$420k/day but highly volatile
-- LNG spot prices in Northeast Asia +350% year-over-year; import delays cascading to power generation and industrial users in Japan, Korea
-- Port congestion at Jebel Ali and alternative Gulf ports critical; vessel turnaround times doubled; pipeline queuing for approved transits causing 30-45 day delays for some cargo
+- Freight rates for Hormuz tanker transits hit record $1.3M/day; captain risk pay surged to $100K/month + $50K bonus per crossing
+- Global oil inventories at critically low levels per Saudi Aramco CEO; Brent crude at ~$101/bbl; winter heating demand approaching peak
+- 6,000 seafarers stranded in Gulf unable to transit due to security risks and insurance unavailability; crew rotation crisis deepening
+- LNG supply chains strained; alternate suppliers (US, Australia, Qatar) insufficient to offset lost Hormuz volumes; spot LNG prices elevated
 
 ## 最新新聞
 
-- [Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’](https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike)　*Fox News・2026-10-06*
-- ['Not Going To Trade Words For Actions': Vance Says Iran Must Cut Nuclear Enrichment To End War](https://www.news18.com/world/jd-vance-says-iran-must-cut-nuclear-enrichment-to-end-war-ws-l-10370391.html)　*News 18・2026-10-06*
-- [Iran Must Cut Enrichment To End War: JD Vance](https://www.ndtv.com/world-news/iran-must-cut-enrichment-to-end-war-jd-vance-12148654)　*Ndtv・2026-10-06*
-- [What Trump's new executive order on diesel means](https://www.nbcnews.com/meet-the-press/video/what-trump-s-new-executive-order-on-diesel-means-271149637697)　*Nbc News・2026-10-06*
-- [Iran must cut enrichment to end war, US uncertain who makes decisions in Tehran, Vance says](https://www.jpost.com/international/article-910850)　*Jpost・2026-10-06*
+- [Hardline Iranian MPs move to impeach foreign minister over UN General Assembly talks](https://www.euronews.com/2026/10/07/hardline-iranian-mps-move-to-impeach-foreign-minister-over-un-general-assembly-talks)　*Euronews・2026-10-07*
+- [Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate](https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html)　*Cnbc・2026-10-07*
+- [Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate - CNBC](https://news.google.com/rss/articles/CBMibkFVX3lxTFBST3M3OWl1Z3R1OFBQaFRuXzBxeC1DVnczRVNFWm12c2NHQnV5OU9acWZLTllvSWNKcUE4NHBSV1oyQmFObGszUlE0dU9sUE9zZmk4NmpPZEJTNmZMRkZrU3NlWVlVSjF3czJHVVd30gFzQVVfeXFMTl9lOGNDTDRpUHJsdU80NU5NV1NTTVhua25JazF6eHA4TC1aNGNqWm5aaHBXM3hkYjZqZGFGYzR6NFdrcnJZdnRzRTBUYndZZEhIa2gwUHhwNTlvbkNmYk8zNG1DSFBMaDk2LUlidmJyRHZYdw?oc=5)　*Google News・2026-10-07*
+- [Saudi’s economic transformation collides with war and falling FDI](https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/)　*Fortune・2026-10-07*
+- [3 years of Hamas attack: Scarred Israel, devastated Gaza & a Middle East no longer same](https://timesofindia.indiatimes.com/world/middle-east/3-years-after-october-7-hamas-attack-a-scarred-israel-a-devastated-gaza-and-a-middle-east-no-longer-the-same/articleshow/134758697.cms)　*The Times Of India・2026-10-07*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-07 20:22 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-08 06:28 台灣時間，僅供參考，不構成投資建議。*
