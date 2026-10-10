@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-10 06:03 台灣時間　｜　資料更新：2026-10-10 06:03 台灣時間
+> 更新時間：2026-10-10 19:39 台灣時間　｜　資料更新：2026-10-10 19:39 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic. Iran has vowed to block additional unauthorized routes, escalating attack risks. Only ~9-10 vessels transiting daily (12% of normal), though some transits occur with AIS transponders disabled. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | The Strait of Hormuz remains severely restricted and effectively closed to commercial traffic. Only 10.3 vessels per day are transiting on average (12% of normal 84.8/day baseline). The IRGC continues to enforce Iranian-controlled access, with expanded threat zones and attacks on non-compliant vessels. Iran has extended interdiction activities beyond the strait into the wider Gulf. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 9 | 9 | 60 | <span style="color:#e74c3c">15.0% ⚠️</span> |
+| 2 | 8 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **206** | 85 | 92 | 29 | <span style="color:#27ae60">0.00</span> |
+| **155** | 87 | 48 | 20 | <span style="color:#27ae60">+3.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,545,000 | 10,300,000 | <span style="color:#e74c3c">15.0% ⚠️</span> | 上升 |
+| 1,850,000 | 10,300,000 | <span style="color:#e74c3c">18.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** NO_TALKS
 
-**頭條：** Iran vows to block more Hormuz routes as diplomatic stalemate persists
+**頭條：** Iran Parliament Speaker: Strait Will Not Open Until Seven Conditions Met
 
-**各方：** Iran, United States, Oman, Pakistan
+**各方：** Iran, United States, Israel
 
-> Negotiations between Iran and Oman over Strait control have stalled. Iran refuses to reopen routes until seven conditions are met, while the US continues military operations. Attempts to revive a June MoU have failed, with talks deadlocked over whether Iran can charge transit fees and control commercial shipping.
+> Diplomatic engagement remains deadlocked. Iran's parliament speaker stated on October 4 that the strait will not reopen until Iran's seven conditions are met. No active negotiations are underway. Trump administration is reportedly readying new strikes as attacks on shipping escalate, while Iran vows to block additional unauthorized routes.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.1B |
+| 21% | $18.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $4.2B | Japan, South Korea, China |
 
-> LNG shipments severely constrained by war-risk insurance premiums and vessel attacks. Japan faces critical supply shortages with 90%+ dependency on Hormuz route.
+> Approximately 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face extreme supply pressure with minimal LNG reaching markets. Spot LNG prices have tripled, with Japan paying premium rates to secure alternative supplies.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Moderately active rerouting but adds 10-15 additional days to journey and 7-10% to voyage costs. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5 million barrels per day capacity (full utilization). Saudi Aramco managing output from alternative sources. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at ~1.5 million barrels per day capacity. Used for offloading cargo outside disputed zone. |
-| Ship-to-Ship Transfers (Southern Corridor) | +2 天 | $400 | Actively used. ~40% of Middle East crude exports via small shuttle vessels in dark transit. High risk but lower insurance costs. |
+| Cape of Good Hope | +12 天 | $650 | Increasing usage; significantly congested with rerouted traffic; adds 12-15 days and $500-800k per vessel |
+| East-West Pipeline (Saudi-only) | +0 天 | — | Operating at 5 mbpd capacity; Saudi Arabia negotiating to expand Hormuz shuttle arrangements to capture market share displaced by crisis |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at 1.5 mbpd capacity; limited expansion potential due to infrastructure constraints |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +180% | +3.8% | 67 天 |
+| +280% | +8.5% | 72 天 |
 
 **主要供應鏈事件**
 
-- Captain risk pay surged to $100,000/month for Hormuz transits; crew recruitment severely disrupted
-- Maersk suspended bookings to Persian Gulf ports; redirecting cargo through Fujairah with $1,000/container overland surcharge
-- Global inventory levels at 'scarily thin' levels per Saudi Aramco CEO; refinery margins compressed by 40-60%
-- Small-scale shuttle operation replacing traditional tanker transits; reduces transparency and increases accident risk
+- Container shipping rates globally up 150-280% due to fleet diversion and equipment imbalance; Far East-Europe routes severely disrupted
+- US SPR drawdown at maximum 4.4M bbl/day limited by structural constraints; approximately 72 days until 58M barrel minimum operational heel reached
+- Global refinery utilization down 7-8% as crude supply constraints force downtime; profit margins compressed by 60-70% vs. pre-crisis
+- Petrochemical production curtailments in East Asia affecting plastics, fertilizers, and specialty chemicals; prices up 45-65% year-to-date
 
 ## 最新新聞
 
-- [1million easyJet passengers warned to check key date on their booking](https://www.mirror.co.uk/travel/news/1million-easyjet-passengers-warned-check-37752985)　*Mirror・2026-10-09*
-- [The Battle of Hormuz Is Won. Now Comes the Insurgency Phase](https://www.newsweek.com/battle-hormuz-won-now-insurgency-phase-12545451)　*Newsweek・2026-10-09*
-- [The Week's Best Articles: junk food for the mind, served with FROGS](https://www.marketscreener.com/news/the-week-s-best-articles-junk-food-for-the-mind-served-with-frogs-ce785ddfd18af42c)　*Marketscreenerc・2026-10-09*
-- [UAE flights: Emirates, Etihad cancel Riyadh services as Dubai, Abu Dhabi delays hit weekend travel](https://gulfnews.com/business/aviation/uae-flights-emirates-etihad-cancel-riyadh-services-as-dubai-abu-dhabi-delays-hit-weekend-travel-1.500704399)　*Gulf News・2026-10-09*
-- [Russia ready to help Iran resolve conflict with US-Israel: Putin](https://newsable.asianetnews.com/world/russia-ready-to-help-iran-resolve-conflict-with-us-israel-putin-articleshow-o08nm3b)　*Asianet Newsable・2026-10-09*
+- [An untested promise](https://www.business-standard.com/blueprint-defence-magazine/reports/an-untested-promise-126100600443_1.html)　*Business Standard・2026-10-09*
+- [Trump deal for Russian diesel sparks anger in Ukraine, doubts among analysts](https://www.cnn.com/2026/10/09/politics/trump-putin-russian-diesel)　*Cnn・2026-10-09*
+- [Zelensky slams Trump’s ‘weak decision’](https://www.rt.com/news/647018-zelensky-trump-weak-decision/)　*Rt・2026-10-09*
+- [Trump announces Russian diesel deal after Putin call](https://www.prokerala.com/news/articles/a1822611.html)　*Prokerala・2026-10-09*
+- [Lula's government in Brazil lowers fuel prices ahead of runoff vote against Flávio Bolsonaro](https://www.independent.co.uk/news/luiz-inacio-lula-da-silva-brazil-fuel-prices-rio-de-janeiro-jair-bolsonaro-b3064455.html)　*The Independent・2026-10-09*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-10 06:03 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-10 19:39 台灣時間，僅供參考，不構成投資建議。*
