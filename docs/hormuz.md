@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-10 19:39 台灣時間　｜　資料更新：2026-10-10 19:39 台灣時間
+> 更新時間：2026-10-11 00:40 台灣時間　｜　資料更新：2026-10-11 00:40 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | The Strait of Hormuz remains severely restricted and effectively closed to commercial traffic. Only 10.3 vessels per day are transiting on average (12% of normal 84.8/day baseline). The IRGC continues to enforce Iranian-controlled access, with expanded threat zones and attacks on non-compliant vessels. Iran has extended interdiction activities beyond the strait into the wider Gulf. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic (4-11 transits daily vs 85-100 normal). Iran claims full closure; US reports limited authorized transits under military escort. Physical disputes between 206-239 waiting vessels reported Oct 8-9. Iran vows to block additional routes. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 8 | 60 | <span style="color:#e74c3c">13.3% ⚠️</span> |
+| 4 | 8 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **155** | 87 | 48 | 20 | <span style="color:#27ae60">+3.00</span> |
+| **206** | 120 | 50 | 36 | <span style="color:#27ae60">+5.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,850,000 | 10,300,000 | <span style="color:#e74c3c">18.0% ⚠️</span> | 上升 |
+| 1,030,000 | 10,300,000 | <span style="color:#e74c3c">10.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Iran Parliament Speaker: Strait Will Not Open Until Seven Conditions Met
+**頭條：** Iran demands US accept 7-point reopening plan; US sets new conditions on reparations
 
-**各方：** Iran, United States, Israel
+**各方：** Iran, United States, Oman
 
-> Diplomatic engagement remains deadlocked. Iran's parliament speaker stated on October 4 that the strait will not reopen until Iran's seven conditions are met. No active negotiations are underway. Trump administration is reportedly readying new strikes as attacks on shipping escalate, while Iran vows to block additional unauthorized routes.
+> Iran's parliament speaker Qalibaf declared Oct 4 that Hormuz will stay closed until US accepts seven Iranian conditions from June Islamabad Memorandum. US President Trump issued new demands Oct 7 for Iran compensation while reframing the blockade as 'ironclad.' Indirect messaging continues through intermediaries; no scheduled direct negotiations. Iran and Oman reportedly in final stages of discussions on new shipping lane arrangements.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $18.5B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $4.2B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face extreme supply pressure with minimal LNG reaching markets. Spot LNG prices have tripled, with Japan paying premium rates to secure alternative supplies.
+> LNG transits collapsed from normal baseline. Japan and South Korea face acute supply risks; China sources from multiple suppliers but experiencing cost inflation. Spot LNG prices elevated significantly.
 
 **受影響地區**
 
@@ -74,37 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| European Union | MODERATE | 20% |
+| EU | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increasing usage; significantly congested with rerouted traffic; adds 12-15 days and $500-800k per vessel |
-| East-West Pipeline (Saudi-only) | +0 天 | — | Operating at 5 mbpd capacity; Saudi Arabia negotiating to expand Hormuz shuttle arrangements to capture market share displaced by crisis |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at 1.5 mbpd capacity; limited expansion potential due to infrastructure constraints |
+| Cape of Good Hope | +12 天 | $650 | Gradually increasing rerouting activity; subset of very large tankers attempting diversion but still limited due to higher costs and voyage time |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at ~5 mbpd capacity, but limited to Saudi crude only; insufficient to replace Hormuz flows |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Running at 1.5 mbpd capacity maximum; UAE-only oil, bypasses Hormuz but negligible impact on total Gulf throughput |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +280% | +8.5% | 72 天 |
+| +285% | +2.8% | 68 天 |
 
 **主要供應鏈事件**
 
-- Container shipping rates globally up 150-280% due to fleet diversion and equipment imbalance; Far East-Europe routes severely disrupted
-- US SPR drawdown at maximum 4.4M bbl/day limited by structural constraints; approximately 72 days until 58M barrel minimum operational heel reached
-- Global refinery utilization down 7-8% as crude supply constraints force downtime; profit margins compressed by 60-70% vs. pre-crisis
-- Petrochemical production curtailments in East Asia affecting plastics, fertilizers, and specialty chemicals; prices up 45-65% year-to-date
+- Container freight rates up 200-300%; Asia-Europe routes severely disrupted as carriers reroute via Cape
+- Tanker earnings (VLCC spot rates) up 150-200% as capacity diverted to longer alternative routes
+- LNG import delays causing power generation shortages in Japan and South Korea; industrial production slowdowns reported
+- Auto and electronics supply chains facing component shortages from disrupted Middle East-Asia flows; lead times extended 30-60 days
 
 ## 最新新聞
 
-- [An untested promise](https://www.business-standard.com/blueprint-defence-magazine/reports/an-untested-promise-126100600443_1.html)　*Business Standard・2026-10-09*
-- [Trump deal for Russian diesel sparks anger in Ukraine, doubts among analysts](https://www.cnn.com/2026/10/09/politics/trump-putin-russian-diesel)　*Cnn・2026-10-09*
-- [Zelensky slams Trump’s ‘weak decision’](https://www.rt.com/news/647018-zelensky-trump-weak-decision/)　*Rt・2026-10-09*
-- [Trump announces Russian diesel deal after Putin call](https://www.prokerala.com/news/articles/a1822611.html)　*Prokerala・2026-10-09*
-- [Lula's government in Brazil lowers fuel prices ahead of runoff vote against Flávio Bolsonaro](https://www.independent.co.uk/news/luiz-inacio-lula-da-silva-brazil-fuel-prices-rio-de-janeiro-jair-bolsonaro-b3064455.html)　*The Independent・2026-10-09*
+- [Trump hails deal with Russia to release diesel](https://www.bangkokpost.com/world/3334848/trump-hails-deal-with-russia-to-release-diesel)　*Bangkok Post・2026-10-10*
+- [Midterm break](https://www.dawn.com/news/2036062/midterm-break)　*Dawn・2026-10-10*
+- [LPG, CNG, PNG prices today (October 10): Check latest rates in Delhi, Mumbai, Kolkata, other cities](https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-october-10-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-560785-2026-10-10)　*Business News India・2026-10-10*
+- [Trump turns to Putin for diesel after lecturing India on Russian energy](https://timesofindia.indiatimes.com/world/us/trump-turns-to-putin-for-diesel-after-lecturing-india-on-russian-energy/articleshow/134846730.cms)　*The Times Of India・2026-10-10*
+- [Petrol, Diesel Prices Today, October 10: Check Latest Rates in Delhi, Mumbai, Bengaluru and Other Cities](https://newsable.asianetnews.com/india/petrol-diesel-prices-today-october-10-check-latest-rates-in-delhi-mumbai-bengaluru-and-other-cities-articleshow-mhc986i)　*Asianet Newsable・2026-10-10*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-10 19:39 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-11 00:40 台灣時間，僅供參考，不構成投資建議。*
