@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-11 00:40 台灣時間　｜　資料更新：2026-10-11 00:40 台灣時間
+> 更新時間：2026-10-11 04:56 台灣時間　｜　資料更新：2026-10-11 04:56 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic (4-11 transits daily vs 85-100 normal). Iran claims full closure; US reports limited authorized transits under military escort. Physical disputes between 206-239 waiting vessels reported Oct 8-9. Iran vows to block additional routes. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz is effectively closed to commercial shipping with near-daily tanker attacks by IRGC forces. Iran claims the strait remains closed; transits have collapsed to ~5% of normal (4 vessels on Oct 4 vs 85/day baseline). Most recent attacks reported through Oct 9-10. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 8 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
+| 4 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **206** | 120 | 50 | 36 | <span style="color:#27ae60">+5.00</span> |
+| **250** | 160 | 50 | 40 | <span style="color:#27ae60">+5.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,030,000 | 10,300,000 | <span style="color:#e74c3c">10.0% ⚠️</span> | 持平 |
+| 520,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Iran demands US accept 7-point reopening plan; US sets new conditions on reparations
+**頭條：** Trump administration rejects Iran deal; Iran demands US compliance before reopening Strait
 
-**各方：** Iran, United States, Oman
+**各方：** United States, Iran, Israel
 
-> Iran's parliament speaker Qalibaf declared Oct 4 that Hormuz will stay closed until US accepts seven Iranian conditions from June Islamabad Memorandum. US President Trump issued new demands Oct 7 for Iran compensation while reframing the blockade as 'ironclad.' Indirect messaging continues through intermediaries; no scheduled direct negotiations. Iran and Oman reportedly in final stages of discussions on new shipping lane arrangements.
+> President Trump stated on Oct 8 he is no longer interested in reaching a deal with Iran to end the war. Iran's top negotiator said on Oct 4 the Strait will remain closed until the US accepts Tehran's seven-day reopening plan. No active negotiations are currently underway; diplomatic efforts appear stalled.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.8B | Japan, South Korea, China |
+| 25% | $0.85B | Japan, South Korea, China |
 
-> LNG transits collapsed from normal baseline. Japan and South Korea face acute supply risks; China sources from multiple suppliers but experiencing cost inflation. Spot LNG prices elevated significantly.
+> LNG carrier transits have collapsed alongside crude tankers. Japan, South Korea, and China face critical supply disruptions with 25% of global LNG trade at risk. Spot LNG prices have surged 300%+ above pre-crisis levels.
 
 **受影響地區**
 
@@ -74,37 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| EU | MODERATE | 20% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Gradually increasing rerouting activity; subset of very large tankers attempting diversion but still limited due to higher costs and voyage time |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating at ~5 mbpd capacity, but limited to Saudi crude only; insufficient to replace Hormuz flows |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Running at 1.5 mbpd capacity maximum; UAE-only oil, bypasses Hormuz but negligible impact on total Gulf throughput |
+| Cape of Good Hope | +12 天 | $650 | Rerouting active but limited; adds 12-15 days transit time and $500-800k per vessel; many owners avoiding due to cost and additional piracy/security risks off East Africa |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Limited capacity at 5 mbpd; only Saudi crude eligible; saturated and insufficient to replace Hormuz flows |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; operating near maximum; insufficient to offset Hormuz closure; recent attack on Fujairah infrastructure on Oct 8 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +285% | +2.8% | 68 天 |
+| +1350% | +4.2% | 68 天 |
 
 **主要供應鏈事件**
 
-- Container freight rates up 200-300%; Asia-Europe routes severely disrupted as carriers reroute via Cape
-- Tanker earnings (VLCC spot rates) up 150-200% as capacity diverted to longer alternative routes
-- LNG import delays causing power generation shortages in Japan and South Korea; industrial production slowdowns reported
-- Auto and electronics supply chains facing component shortages from disrupted Middle East-Asia flows; lead times extended 30-60 days
+- Global gasoline prices +$0.45-0.65/gallon; diesel premiums elevated due to refinery diversion to crude runs
+- LNG spot prices surge to $45-52/MMBtu vs $10-15 pre-crisis; liquefaction capacity diverted to rerouting
+- Manufacturing PMI declining in Asia (Japan -3.2%, South Korea -2.8% YoY); automotive and chemical sectors stressed
+- Shipping rate for AG-East VLCC at WS1157 (~$1.235M/day); 43× pre-crisis baseline; charter market paralyzed by uncertainty and war risk
 
 ## 最新新聞
 
-- [Trump hails deal with Russia to release diesel](https://www.bangkokpost.com/world/3334848/trump-hails-deal-with-russia-to-release-diesel)　*Bangkok Post・2026-10-10*
-- [Midterm break](https://www.dawn.com/news/2036062/midterm-break)　*Dawn・2026-10-10*
-- [LPG, CNG, PNG prices today (October 10): Check latest rates in Delhi, Mumbai, Kolkata, other cities](https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-october-10-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-560785-2026-10-10)　*Business News India・2026-10-10*
-- [Trump turns to Putin for diesel after lecturing India on Russian energy](https://timesofindia.indiatimes.com/world/us/trump-turns-to-putin-for-diesel-after-lecturing-india-on-russian-energy/articleshow/134846730.cms)　*The Times Of India・2026-10-10*
-- [Petrol, Diesel Prices Today, October 10: Check Latest Rates in Delhi, Mumbai, Bengaluru and Other Cities](https://newsable.asianetnews.com/india/petrol-diesel-prices-today-october-10-check-latest-rates-in-delhi-mumbai-bengaluru-and-other-cities-articleshow-mhc986i)　*Asianet Newsable・2026-10-10*
+- [NNPC announces how much it will sell petrol after FG's price cut](https://www.legit.ng/business-economy/energy/1735359-fg-agrees-nnpc-filling-stations-announce-petrol-landing-cost-price-cuts/)　*Legit Nigeria・2026-10-10*
+- [Los mejores artículos de la semana: comida basura para la mente con un poco de FROGS](https://es.marketscreener.com/noticias/los-mejores-art-culos-de-la-semana-comida-basura-para-la-mente-con-un-poco-de-frogs-ce785ddcdd88f72d)　*Marketscreenerc・2026-10-10*
+- [Jefferies Stays Overweight On India Despite 16% Dollar Slide This Year: Chris Wood's Case](https://www.ndtvprofit.com/markets/jefferies-stays-overweight-on-india-despite-16-dollar-slide-this-year-chris-woods-case-explained-12165157)　*Ndtv・2026-10-10*
+- [Nifty bulls regain momentum, but can bears strike back? 5 factors to decide D-Street’s fate next week](https://economictimes.indiatimes.com/markets/stocks/news/nifty-bulls-regain-momentum-but-can-bears-strike-back-5-factors-to-decide-d-streets-fate-next-week/articleshow/134848721.cms)　*The Economic Times・2026-10-10*
+- [US-Iran war: 6 major developments UAE residents need to know today, October 19, 2026](https://gulfnews.com/uae/us-iran-war-6-major-developments-uae-residents-need-to-know-today-october-19-2026-1.500705416)　*Gulf News・2026-10-10*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-11 00:40 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-11 04:56 台灣時間，僅供參考，不構成投資建議。*
