@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-11 04:56 台灣時間　｜　資料更新：2026-10-11 04:56 台灣時間
+> 更新時間：2026-10-11 19:52 台灣時間　｜　資料更新：2026-10-11 19:52 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz is effectively closed to commercial shipping with near-daily tanker attacks by IRGC forces. Iran claims the strait remains closed; transits have collapsed to ~5% of normal (4 vessels on Oct 4 vs 85/day baseline). Most recent attacks reported through Oct 9-10. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic. 71 crossings in last 7 days (10.1/day average, ~12% of normal 60/day baseline). 0 crossings as of 06:05 UTC today but 6 transited yesterday. Iran enforcing selective blockade, allowing only approved vessels. Tanker attacks continue. 139 AIS-visible vessels stranded as of 00:20 UTC today. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 0 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **250** | 160 | 50 | 40 | <span style="color:#27ae60">+5.00</span> |
+| **139** | 65 | 35 | 39 | <span style="color:#e74c3c">-1.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 1.5% | 0.15% | 10x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 520,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
+| 0 | 10,300,000 | <span style="color:#e74c3c">0.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Trump administration rejects Iran deal; Iran demands US compliance before reopening Strait
+**頭條：** Iran seeks response to 7-day reopening plan; Trump administration sets new conditions
 
-**各方：** United States, Iran, Israel
+**各方：** Iran, United States, Pakistan (mediator), Qatar (mediator), Oman
 
-> President Trump stated on Oct 8 he is no longer interested in reaching a deal with Iran to end the war. Iran's top negotiator said on Oct 4 the Strait will remain closed until the US accepts Tehran's seven-day reopening plan. No active negotiations are currently underway; diplomatic efforts appear stalled.
+> Iran proposed reopening strait after 7-day ceasefire (Sept UNGA) but Trump rejected it. Iran said Oct 8 it would respond within days to US reply to its seven-day plan. Latest: Oct 4 Iranian FM stated 'only negotiations based on justice and fairness' could end conflict. Positions hardening on both sides with disagreement over nuclear program conditions and blockade/sanctions lifting.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $3.5B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.85B | Japan, South Korea, China |
+| 25% | $1.2B | Japan, South Korea, China |
 
-> LNG carrier transits have collapsed alongside crude tankers. Japan, South Korea, and China face critical supply disruptions with 25% of global LNG trade at risk. Spot LNG prices have surged 300%+ above pre-crisis levels.
+> 25% of global LNG trade transits Hormuz. Top importers Japan, South Korea, China face supply shortages and price spikes. One LPG tanker struck Oct 9 with IRGC claiming vessel took illegal route.
 
 **受影響地區**
 
@@ -80,31 +80,32 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Rerouting active but limited; adds 12-15 days transit time and $500-800k per vessel; many owners avoiding due to cost and additional piracy/security risks off East Africa |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Limited capacity at 5 mbpd; only Saudi crude eligible; saturated and insufficient to replace Hormuz flows |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; operating near maximum; insufficient to offset Hormuz closure; recent attack on Fujairah infrastructure on Oct 8 |
+| Cape of Good Hope | +12 天 | $650 | Active rerouting underway. Hapag-Lloyd and other majors have suspended Hormuz transits. Increases voyage time from ~2 weeks to ~4+ weeks. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | 5 mbpd capacity. Saudi-only pipeline from Ras Tanura to Yanbu. Used as alternative but cannot handle all displaced volumes. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity. UAE pipeline from Habshan to Fujairah. Partial alternative but limited throughput. |
+| Saudi Hormuz Shuttle Arrangement | +0 天 | — | Saudi Arabia in talks (as of Oct 8) to formalize oil loadings outside Hormuz via long-term contracts, attempting to capture market share displaced by crisis. Negotiations must conclude by year-end. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1350% | +4.2% | 68 天 |
+| +450% | +2.1% | 70 天 |
 
 **主要供應鏈事件**
 
-- Global gasoline prices +$0.45-0.65/gallon; diesel premiums elevated due to refinery diversion to crude runs
-- LNG spot prices surge to $45-52/MMBtu vs $10-15 pre-crisis; liquefaction capacity diverted to rerouting
-- Manufacturing PMI declining in Asia (Japan -3.2%, South Korea -2.8% YoY); automotive and chemical sectors stressed
-- Shipping rate for AG-East VLCC at WS1157 (~$1.235M/day); 43× pre-crisis baseline; charter market paralyzed by uncertainty and war risk
+- VLCC supertanker war-risk insurance surged from $375k to $1.5M-$4.5M per transit; capacity withdrawal at reinsurance treaty level slowing market recovery
+- Brent crude at $104.72/bbl (up 0.42% on Oct 10-11); shipping delays and premium crew compensation driving end-product costs higher
+- Container reroutes via Cape costing $1.1k/TEU additional surcharge since Mar 30; demurrage costs for 139+ stranded vessels accumulating daily
+- Ship-to-ship transfers rising (9.09M bbl across five crossings Oct 8) as vessels avoid port calls; normal terminal loading patterns disrupted
 
 ## 最新新聞
 
-- [NNPC announces how much it will sell petrol after FG's price cut](https://www.legit.ng/business-economy/energy/1735359-fg-agrees-nnpc-filling-stations-announce-petrol-landing-cost-price-cuts/)　*Legit Nigeria・2026-10-10*
-- [Los mejores artículos de la semana: comida basura para la mente con un poco de FROGS](https://es.marketscreener.com/noticias/los-mejores-art-culos-de-la-semana-comida-basura-para-la-mente-con-un-poco-de-frogs-ce785ddcdd88f72d)　*Marketscreenerc・2026-10-10*
-- [Jefferies Stays Overweight On India Despite 16% Dollar Slide This Year: Chris Wood's Case](https://www.ndtvprofit.com/markets/jefferies-stays-overweight-on-india-despite-16-dollar-slide-this-year-chris-woods-case-explained-12165157)　*Ndtv・2026-10-10*
-- [Nifty bulls regain momentum, but can bears strike back? 5 factors to decide D-Street’s fate next week](https://economictimes.indiatimes.com/markets/stocks/news/nifty-bulls-regain-momentum-but-can-bears-strike-back-5-factors-to-decide-d-streets-fate-next-week/articleshow/134848721.cms)　*The Economic Times・2026-10-10*
-- [US-Iran war: 6 major developments UAE residents need to know today, October 19, 2026](https://gulfnews.com/uae/us-iran-war-6-major-developments-uae-residents-need-to-know-today-october-19-2026-1.500705416)　*Gulf News・2026-10-10*
+- [World News Today Live Updates: 12 killed in attack on Riyadh airport, over 300 injured, Saudi authorities say](https://indianexpress.com/article/world/iran-us-war-live-updates-attack-on-riyadh-airport-houthi-yemen-trump-hormuz-shipping-india-oil-prices-10916122/)　*The Indian Express・2026-10-10*
+- [Missile attack on Riyadh airport kills 12 and injures hundreds more](https://www.express.co.uk/news/world/2256210/missile-attack-riyadh-airport-kills)　*Express・2026-10-10*
+- [Attack on Saudi airport kills 12 people and wounds more than 300—the deadliest strike in any Gulf Arab country since the start of the Iran war](https://fortune.com/2026/10/10/attack-riyadh-airport-saudi-arabia-iran-war-yemen-houthis/)　*Fortune・2026-10-10*
+- [President talks 'Trump Ocean,' trades jokes with Tennessee crowd as Kid Rock kicks off sprawling rally](https://www.foxnews.com/politics/president-talks-trump-ocean-trades-jokes-tennessee-crowd-kid-rock-kicks-sprawling-rally)　*Fox News・2026-10-10*
+- [At least 12 killed, more than 300 hurt in strike on Saudi airport, officials say](https://www.cbsnews.com/news/riyadh-saudi-airport-attack-deaths-injuries/)　*Cbs News・2026-10-10*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-11 04:56 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-11 19:52 台灣時間，僅供參考，不構成投資建議。*
