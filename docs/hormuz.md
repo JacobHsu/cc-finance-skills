@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-12 05:17 台灣時間　｜　資料更新：2026-10-12 05:17 台灣時間
+> 更新時間：2026-10-12 22:00 台灣時間　｜　資料更新：2026-10-12 22:00 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted to commercial traffic with only ~12% of normal transits (9.7 ships/day vs. 85 pre-crisis). Iran maintains control with IRGC enforcement, mines, and expanded threat zones. Limited Iran-approved traffic only; commercial vessels largely excluded. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-09-29 | Strait effectively closed to normal commercial traffic. Iran claims control and requires transit permits; US Navy coordinates southern corridor through Omani waters. AIS-visible traffic at ~10% of pre-crisis levels (8.6 ships/day vs. 84.8 normal). Ongoing attacks on commercial vessels; mine and drone strikes reported. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 3 | 5 | 60 | <span style="color:#e74c3c">8.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **139** | 45 | 35 | 59 | <span style="color:#e74c3c">-67.00</span> |
+| **140** | 52 | 48 | 40 | <span style="color:#27ae60">+1.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,030,000 | 10,300,000 | <span style="color:#e74c3c">10.0% ⚠️</span> | 下跌 |
+| 516,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Iran offers seven-day plan; US response received, Iran to reply within days per Oct 8 statement
+**頭條：** US reply to Iran's seven conditions deemed insufficient; no new movement
 
-**各方：** Iran, United States, Israel, UAE, Saudi Arabia
+**各方：** Iran, United States, Israel
 
-> Iran announced a seven-day plan in early October; US provided written response on October 8. Iran stated it would reply within days. No active negotiations underway, but diplomatic channel remains open. Saudi Arabia exploring shuttle tanker arrangements as alternative.
+> Iran demands seven conditions for reopening, including US blockade lift, sanctions waiver, and frozen funds release. US response rejected as insufficient. No counter-proposal or fresh terms from either side; Iran said on Oct 8 it would respond within days but no response reported as of Oct 12. Diplomatic deadlock continues.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $0.9B | Japan, South Korea, China |
 
-> LNG trade down sharply; only 1 LNG carrier in last 7 days (vs. 3-5 normal daily). Top three importers facing price spikes and rationing pressure.
+> LNG market severely disrupted; Japan, South Korea, and China face critical shortages. LNG tanker rates elevated; import costs surging as alternative routing to Cape of Good Hope adds 10-15 days and significant cost premiums.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increased rerouting; ~15-20 additional ships/week via Cape. Suez also partially disrupted by Houthi/Red Sea threats. |
-| East-West Pipeline (Saudi only) | +0 天 | — | 5 mbpd capacity; limited to Saudi Arabian oil only. Not usable for broader Gulf exports. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; operational but insufficient to offset Hormuz closure. Cannot handle crude from other producers. |
+| Cape of Good Hope | +12 天 | $650 | Active; increasingly used by risk-averse charterers; adds $650k-$800k per voyage |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at reduced capacity (~2-3 mbpd); damaged by drone strikes Sept 10-11, restarted at low rate Sept 22; maximum 5 mbpd capacity |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational; 1.5 mbpd capacity; limited by small diameter and UAE-only sourcing |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +4233% | +4.2% | 68 天 |
+| +2600% | +3.2% | 70 天 |
 
 **主要供應鏈事件**
 
-- VLCC rates $30,000/day (Jan 2026) to $1.3M/day (Oct 2026) — 43x increase
-- Oil prices: $62/bbl (Jan) to $104/bbl (Oct 11) with $1.73/bbl freight premium on ME-FE routes
-- Container shipping freight rates surged globally due to cascade effects and vessel redeployment
-- LNG prices elevated 3-4x seasonal norms; heating fuel shortage pressure in Northern Hemisphere approaching winter
+- VLCC spot rates at record $1.3M/day (WS 1,318 as of Oct 9), up from WS 40-60 pre-crisis (2,000%+ increase)
+- Freight rates for Hormuz transit spiked to record $1.3M/day, up from $20k-$50k; global tanker shortage driving rates 26-fold higher
+- LNG import costs surging; major importers switching to alternative suppliers at premium prices; Japan facing potential energy rationing
+- Regional supply chains paralyzed; Maersk, MSC, CMA CGM, Hapag-Lloyd suspended/minimized Hormuz transits; container rates elevated
 
 ## 最新新聞
 
-- [Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh](https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates)　*The Guardian・2026-10-11*
-- [What the Iran war has done to the world’s energy supply, in charts](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts)　*Al Jazeera・2026-10-11*
-- [See countries with highest diesel prices globally as Nigeria ranks high](https://www.legit.ng/business-economy/energy/1735490-nigeria-records-highest-diesel-price-surge-827-report-shows/)　*Legit Nigeria・2026-10-11*
-- [IRGC issues fiery Hormuz warning after supertanker mine strike](https://www.hindustantimes.com/videos/irgc-issues-fiery-hormuz-warning-after-supertanker-mine-strike-101791706094462.html)　*Hindustan Times・2026-10-11*
-- [Missile attack on airport in Saudi Arabia's capital kills 12 people and injures over 300](https://www.clickondetroit.com/news/world/2026/10/11/missile-attack-on-airport-in-saudi-arabias-capital-kills-12-people-and-injures-over-300/)　*Clickondetroit・2026-10-11*
+- [Insufficient: Iran rejects US response to 7 conditions set for reopening Strait of Hormuz](https://zeenews.india.com/world/insufficient-iran-rejects-us-response-to-7-conditions-set-for-reopening-strait-of-hormuz-3075647.html)　*Zee News・2026-10-12*
+- [Trump announces Russia-Ukraine energy ceasefire, but Kyiv reports fresh strikes](https://english.mathrubhumi.com/news/world/trump-russia-ukraine-energy-ceasefire-zelensky-strikes-enm8ndfi)　*Mathrubhumi English・2026-10-12*
+- [Trump’s Russian Diesel Deal: Contradictions of sanctions and the limits of US credibility](https://www.moneycontrol.com/news/opinion/trump-s-russian-diesel-deal-contradictions-of-sanctions-and-the-limits-of-us-credibility-14049572.html)　*Moneycontrol・2026-10-12*
+- [‘Attacks must cease’: India condemns strikes on commercial ships, seafarers in Strait of Hormuz after 2 Indians missing](https://www.hindustantimes.com/india-news/attacks-must-cease-india-condemns-strikes-on-commercial-ships-seafarers-in-strait-of-hormuz-after-2-indians-missing-101791768281604.html)　*Hindustan Times・2026-10-12*
+- [‘Attacks must cease’: India condemns strikes on commercial ships, seafarers in Strait of Hormuz after 2 Indians missing | India News - Hindustan Times](https://news.google.com/rss/articles/CBMiigJBVV95cUxQZG1XWmZHYU45LXdvQVlmMDJDUnlZclFTMWwzTzROMHltczNLSHdyMWVKVHFNMlJXNkppNkd4WFZPbWl5ZEVWUHZyVEZJbC13U1BCZFJ6T0hKVG9HN2dsOHVEcXdRUzhqcHJnMEthN0dqU285MjhrQlJiQlphZjlONUZPemliUWl4dWJhSDFkOUF0NWNUeFBhM0FrV3JfcVpyb3JxOHBRdEt4Y2tZU2JnZHI2bFdwQk9yQUstM081VGowcndSUjRFeFF0NUVGLVdMVHl6MDkydnBUeVdxMVlQVUFBcXgyMmRUNGtEYjhEVnlPbzI5blNMR3p5STZwTTRwZjNZV2FINVZPd9IBjwJBVV95cUxQbTlRZUE5Z3hJNUJQQkVWREtHT2VYMDE4cC1QTWUzQUs3ZldUck04WHZDZVo5a0VsYWoxWTBvUENNcE43QUhQeUZrSmVoODV4RHdLQkxiZWlPUmluNGk0OElyUUkyWG5Hb2c2YWN3bkdSbVROd1Q1RUtZLUMtQUd1RHE2VG9wSWNCT0R2TzM3ZXQ2RXRrSkJROEh5WjhYdC1jb2lmWi1teGVQV0R6ekhJR0I0RkZxNGZHekRIRk5XSjF3U05PN2MxaWlJY1pyZTI2bWxGQkl1REtuSU10czdiQkRoODlLTGlVLTZGYjRXc2hXMi1oVFoyNHZHZ3FaYl9wYkhHZ0NvTWt0SENIZUdZ?oc=5)　*Google News・2026-10-12*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-12 05:17 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-12 22:00 台灣時間，僅供參考，不構成投資建議。*
