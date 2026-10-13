@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-13 21:15 台灣時間　｜　資料更新：2026-10-13 21:15 台灣時間
+> 更新時間：2026-10-14 06:07 台灣時間　｜　資料更新：2026-10-14 06:07 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Severely restricted. Iran declared closure on February 28, 2026, with formal confirmation March 2. Currently 8.9 ships per day transiting (10% of normal), with Iran requiring permits and tolls through Persian Gulf Strait Authority. Latest reports (Oct 13) show escalating attacks: 12+ tankers struck in past week, 6 vessels hit on October 11 alone, and ongoing military tensions. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic as of October 13, 2026. While Iran claims full control and closure, the US reports near 90% recovery of pre-war oil flows through mixed official and independent transit channels. However, recent escalation has driven transits down dramatically to approximately 4% of normal levels as of early October, with daily attacks on merchant vessels. Approximately 99 vessels are anchored in the zone, with 34 underway. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 5 | 5 | 60 | <span style="color:#e74c3c">8.3% ⚠️</span> |
+| 4 | 4 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **200** | 85 | 65 | 50 | <span style="color:#27ae60">+2.00</span> |
+| **99** | 65 | 20 | 14 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 1.5% | 0.15% | 10x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 下跌 |
+| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Iran rejects US response to seven-condition Hormuz reopening proposal as inadequate
+**頭條：** Iran reviewing US negotiation proposals as Hormuz reopening talks stall
 
-**各方：** Iran, United States, Qatar (intermediary)
+**各方：** Iran, United States
 
-> Iran proposed reopening the Strait within 7 days contingent on seven conditions from June MOU (including lifting sanctions, unfreezing assets, ending blockade). US rejected Iran's September UN proposal. As of Oct 12, Iran says US response remains inadequate. Qatar acting as intermediary, but fundamental gaps remain on nuclear program negotiations, sanctions relief, and military commitments.
+> Iran has indicated it will keep the Strait closed until the US meets Tehran's seven-day plan for reopening. The US continues to focus on nuclear talks while Iran prioritizes strait reopening. MarineLink reports Iran is weighing the US response as negotiations remain deadlocked, with no indication of breakthrough or scheduled formal talks.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.9B | Japan, South Korea, China |
+| 25% | $0.6B | Japan, South Korea, China |
 
-> 25% of global LNG transits Hormuz. October escalation dramatically restricting LNG shipments; top importers facing extended delays and energy costs. Market shifting toward premium supply from Australia/Qatar to alternative routes.
+> Approximately 25% of global LNG trade transits Hormuz. Japan, South Korea, and China face severe LNG supply disruptions. Premium rerouting via alternative routes adding $500-800k per vessel and 10-15 transit days, significantly impacting energy costs and industrial competitiveness.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used by rerouted container ships and some tankers; adds 10-15 days transit and $500-800k cost per vessel. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at full 5 mbpd capacity; cannot expand; Saudi-controlled, limited third-party access. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Ramped to near full 1.5 mbpd capacity; primary alternative for UAE-origin crude. |
+| Cape of Good Hope | +12 天 | $650 | Widely adopted with 9+ container carriers applying $1500-3500/TEU surcharges for rerouted shipments; becoming primary route for major carriers avoiding Hormuz. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at reduced capacity (~3-5 mbpd vs 5 mbpd nominal); Saudi shuttle arrangements being formalized to supplement tanker transits. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating near capacity at 1.5 mbpd; limited incremental supply capability; UAE ports experiencing congestion from diverted traffic. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +280% | +3.2% | 70 天 |
+| +420% | +3.2% | 68 天 |
 
 **主要供應鏈事件**
 
-- Container shipping rates to Asia increased 280% since Feb 28; major carriers suspended Hormuz routes
-- Global oil prices (Brent) at $105.94 (+2.52% in 24h); cumulative increase ~$35/bbl vs pre-crisis baseline
-- LNG spot prices for Asian delivery surged 120% in Q3; long-term contracts being renegotiated
-- Automotive and consumer electronics supply chains experiencing 2-4 week delays; semiconductor shortages in Japan and South Korea expected Q4
+- VLCC rates surged from WS40-60 pre-crisis to $862K per day (Gulf-China route) as of early October; shortage of available tonnage forcing alternative sourcing strategies.
+- War risk insurance premiums at 1.5% of hull value (~$2.3M per transit on $150M VLCC) vs 0.15% pre-crisis; coverage increasingly difficult to obtain.
+- Freight cost for crude oil US-Gulf to China reached $37.50/barrel equivalent vs $18.91/MT five-year average; 4x historical norms.
+- Container carriers imposing $1500-3500/TEU Cape surcharges; 9+ major operators rerouting via Cape of Good Hope; supply chain delays of 10-15 days for Asia-bound cargo.
 
 ## 最新新聞
 
-- [2026 Economics Nobel: How to keep an economy stable using policy tools](https://indianexpress.com/article/explained/explained-economics/economics-nobel-2026-robert-hall-michael-woodford-10918561/)　*The Indian Express・2026-10-13*
-- [Oil falls as Russian diesel supply prospects counter Gulf supply risks](https://www.channelnewsasia.com/business/oil-falls-russian-diesel-supply-prospects-counter-gulf-supply-risks-6454521)　*Channel Newsasia・2026-10-13*
-- [Oil retreats as Russian diesel supply prospects counter Gulf supply risks](https://www.channelnewsasia.com/business/oil-retreats-russian-diesel-supply-prospects-counter-gulf-supply-risks-6454521)　*Channel Newsasia・2026-10-13*
-- [Oil falls as Russia diesel supply prospects counter Gulf supply risks](https://www.channelnewsasia.com/business/oil-falls-russia-diesel-supply-prospects-counter-gulf-supply-risks-6454521)　*Channel Newsasia・2026-10-13*
-- [Miliband urges need to stand with Ukraine as Trump has fresh dig at Zelensky](https://www.standard.co.uk/news/politics/donald-trump-volodymyr-zelensky-ed-miliband-vladimir-putin-ukraine-b1300549.html)　*Evening Standard・2026-10-12*
+- [Oil prices retreat despite persistent Middle East tensions and stalled US-Iran negotiations. What's next?](https://investinglive.com/commodities/oil-prices-retreat-despite-persistent-middle-east-tensions-and-stalled-us-iran-negotiations-what-s-next/)　*Forexlive・2026-10-13*
+- [Oil Prices Diverge As Traders Weigh Russian Diesel Relief Against Saudi Supply Risks: USO, UCO, In Focus](https://newsable.asianetnews.com/markets/oil-prices-diverge-as-traders-weigh-russian-diesel-relief-against-saudi-supply-risks-uso-uco-in-focus-articleshow-lpihzfx)　*Asianet Newsable・2026-10-13*
+- [GOP senator said gas prices would decide the midterms. Now they’re threatening his reelection](https://www.cnn.com/2026/10/13/politics/kfile-kansas-roger-marshall-gas-prices-iran)　*Cnn・2026-10-13*
+- [Bunkers and handpicked guards: How Saudi Arabia is shielding MBS amid Houthi attacks](https://www.firstpost.com/explainers/houthis-attack-saudi-arabia-crown-prince-mohammed-bin-salman-protection-bunkers-guards-14052443.html)　*Firstpost・2026-10-13*
+- [Trump’s oil diplomacy loses impact as Brent nears $107 amid refining shortages](https://www.domain-b.com/economy/world-economy/trump-oil-diplomacy-brent-prices-refining-shortages-2026)　*Domain-b・2026-10-13*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-13 21:15 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-14 06:07 台灣時間，僅供參考，不構成投資建議。*
