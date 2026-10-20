@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-20 02:01 台灣時間　｜　資料更新：2026-10-20 02:01 台灣時間
+> 更新時間：2026-10-20 18:43 台灣時間　｜　資料更新：2026-10-20 18:43 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to normal commercial traffic following Iranian blockade and attacks since February 28, 2026. Only 2 transits recorded on October 11 (latest IMF PortWatch data) versus 85-90 pre-crisis baseline. Intensifying maritime violence with mine strikes and vessel attacks ongoing. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial traffic with only 2-4 transits per day (2-5% of normal). Continuous Iranian attacks on merchant vessels, US naval blockade of Iran, mine-laying operations, and war-risk insurance at extreme levels (6-10% of hull value) prevent normal shipping operations. Latest diplomatic proposal from Iran remains on negotiating table but status unchanged from closure date. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 8 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
+| 4 | 4 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **124** | 45 | 35 | 44 | <span style="color:#27ae60">0.00</span> |
+| **238** | 95 | 85 | 58 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 9% | 0.15% | 60x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 下跌 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran proposes seven-day Hormuz reopening framework; US response under review
+**頭條：** Iran proposes seven-day Hormuz reopening plan; US response awaited
 
 **各方：** Iran, United States, International Maritime Organization
 
-> Reuters reports Iran is urging the US to accept its seven-day Hormuz reopening proposal as of October 19. Iran's security chief called Washington's earlier reply insufficient on October 11, and Iran's foreign ministry was still reviewing the US response. IMO is separately pursuing negotiations to resume navigation in the strait.
+> Iran's foreign minister stated on October 19 that Tehran's seven-day plan to reopen the Strait of Hormuz remains on the table, conditional on the United States meeting Iran's terms. This follows earlier October 11 Iranian statements that Washington's reply was insufficient. The International Maritime Organization is reported to be pursuing negotiations to resume navigation, though details remain scarce.
 
 ## 全球貿易影響
 
@@ -64,7 +64,7 @@
 |--------------|-------------|----------------|
 | 25% | $3.2B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Top three LNG importers—Japan, South Korea, and China—face acute supply shortages and price escalation. LNG flows have contracted sharply alongside crude disruptions.
+> LNG tanker transits have collapsed to near-zero levels. Japan, South Korea, and China—accounting for bulk of global LNG imports—face extended supply disruptions as alternative routes add 15-20 days to transit times. Spot LNG prices have risen 40-60% above pre-crisis levels.
 
 **受影響地區**
 
@@ -72,7 +72,7 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| China | HIGH | 40% |
+| China | CRITICAL | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increasing use; extends voyage by 10-15 days. Cost-prohibitive for many operators but becoming necessary for non-Iran-approved cargoes. |
-| East-West Pipeline (Saudi) | +0 天 | — | Limited; 5 mbpd capacity but Saudi-only access and full utilization. Provides minimal relief to global market. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at reduced capacity; 1.5 mbpd maximum. Insufficient to offset Hormuz disruption. |
+| Cape of Good Hope | +12 天 | $650 | Moderate rerouting activity observed; limited by geographic constraints for some regions |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at rated capacity (~5 mbpd); insufficient to offset Hormuz closure |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at capacity (~1.5 mbpd); ship-to-ship transfer hub forming at Fujairah with ~180 vessels anchored |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +2150% | +8.5% | 68 天 |
+| +520% | +8.5% | 70 天 |
 
 **主要供應鏈事件**
 
-- Brent crude elevated to ~$108/barrel, up from pre-crisis $60-70 levels; energy inflation spreading to consumer goods
-- VLCC charter rates peaked at $1.41 million/day (second week October), versus $50k pre-crisis; shipping costs dominate cargo economics
-- Approximately 8.5 million barrels/day crude flow through Hormuz (40% of pre-war levels); global petroleum deficit aggravating supply chain pressures
-- War-risk insurance premiums at 6-9% of hull value; some routes experiencing 1% insurance cost per week of transit plus charter rate
+- VLCC spot rates surged to $1.3-1.4 million per day from pre-crisis $30k, forcing many exporters to halt or delay shipments
+- 6,000+ seafarers stranded in region for up to 8 months; crew rotation crisis spreading globally
+- Oil exports through Hormuz at 8.5 mbpd (40% below pre-war 21.5 mbpd), pushing global crude prices up 15-20% and triggering demand destruction
+- Insurance capacity severely constrained; 30-60% of shipowners reporting inability to obtain coverage at any price for Hormuz transits
 
 ## 最新新聞
 
-- [From Atlantic to Pacific: Indian warships making their presence felt across three continents](https://timesofindia.indiatimes.com/defence/news/from-atlantic-to-pacific-indian-navy-warships-are-making-their-presence-felt-across-three-continents/articleshow/135039968.cms)　*The Times Of India・2026-10-19*
-- [France shaken after hellish night: Town halls torched, rioters and looters in several cities, as Macron faces political fire](https://en.protothema.gr/2026/10/19/france-shaken-after-hellish-night-town-halls-torched-rioters-and-looters-in-several-cities-as-macron-faces-political-fire/)　*Protothema・2026-10-19*
-- [Iran warns US against renewing attacks after midterms, says 'we have unfinished jobs too'](https://www.firstpost.com/world/iran-warns-us-against-renewing-attacks-after-midterms-says-we-have-unfinished-jobs-too-14053752.html)　*Firstpost・2026-10-19*
-- [Rupee rises to 94.80 against US dollar, but crude oil threatens recovery](https://timesofindia.indiatimes.com/business/india-business/rupee-rises-to-94-80-against-us-dollar-but-crude-oil-threatens-recovery/articleshow/135040171.cms)　*The Times Of India・2026-10-19*
-- [Rupee rises 9 paise to 94.80 against U.S. dollar in early trade](https://www.thehindu.com/business/markets/rupee-rises-9-paise-to-9480-against-us-dollar-in-early-trade/article71602081.ece)　*The Hindu・2026-10-19*
+- [How the Iran war is ruining Saudi Arabia’s plans](https://www.vox.com/podcasts/506853/saudi-arabia-airport-houthis-yemen-iran-war)　*Vox・2026-10-19*
+- [Trump calls on New Mexico to change its name to ‘New America’](https://www.cnn.com/2026/10/19/politics/trump-new-mexico-name-change)　*Cnn・2026-10-19*
+- [US Attacks Iran Again! American Strike Hits Konarak Naval Base, Wounds 2 Iranian Soldiers](https://timesofindia.indiatimes.com/defence/international/us-attacks-iran-again-american-strike-hits-konarak-naval-base-wounds-2-iranian-soldiers/videoshow/135056350.cms)　*The Times Of India・2026-10-19*
+- [Trump Flips Out at Reporter Before Realizing They’re on His Side](https://newrepublic.com/post/216815/donald-trump-flips-out-reporter-realizing-who-work-for)　*The New Republic・2026-10-19*
+- [US, Israel weigh renewed strikes on Iran as experts warn renewed conflict may be inevitable](https://www.jpost.com/middle-east/article-912207)　*Jpost・2026-10-19*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-20 02:01 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-20 18:43 台灣時間，僅供參考，不構成投資建議。*
