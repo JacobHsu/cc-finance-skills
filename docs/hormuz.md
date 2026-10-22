@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-22 05:03 台灣時間　｜　資料更新：2026-10-22 05:03 台灣時間
+> 更新時間：2026-10-22 18:54 台灣時間　｜　資料更新：2026-10-22 18:54 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz is effectively closed to normal commercial traffic. Iran declared it closed on October 17, 2026, prohibiting passage of all foreign commercial shipping. The IRGC has laid sea mines and requires coordination with Iranian naval authorities for any transits. Recent attacks on vessels continue, with only 4-19 commercial ships transiting daily (approximately 5% of pre-crisis levels of 85 ships/day). |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz effectively closed to commercial traffic since Feb 28, 2026 after US-Israel airstrikes on Iran. IRGC mines laid, merchant ships attacked, only Iran-approved vessels permitted. As of Oct 21, transits near 4/day vs 85 pre-crisis baseline. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 11 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
+| 4 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **90** | 60 | 20 | 10 | <span style="color:#27ae60">0.00</span> |
+| **150** | 85 | 40 | 25 | <span style="color:#e74c3c">-2.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 154,000,000 | 10,300,000 | <span style="color:#e74c3c">1.5% ⚠️</span> | 上升 |
+| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran demands US accept seven-day Hormuz reopening proposal; rejected US-backed talks in Pakistan
+**頭條：** Iran demands US acceptance of seven-day reopening plan; indirect talks via Pakistan and Qatar ongoing
 
-**各方：** Iran, United States, Israel
+**各方：** Iran, United States, Pakistan, Qatar, Israel
 
-> Iran's Foreign Minister stated overnight that the Strait of Hormuz remains closed until the US accepts Iran's seven-day deal and rejected US-backed negotiations in Pakistan, setting seven conditions for reopening. The US has not formally accepted the proposal. Previous ceasefire (Islamabad Memorandum of June 17, 2026) collapsed on July 8, 2026.
+> Iran maintains Strait closure until US accepts its seven-day ceasefire proposal (lifting blockade, reopening strait day 6, nuclear talks day 7). Indirect negotiations continue through mediators Pakistan and Qatar. Trump denies direct talks but predicts conflict outcome 'fairly soon.' No breakthrough evident; Iran's foreign minister says US response insufficient.
 
 ## 全球貿易影響
 
@@ -64,7 +64,7 @@
 |--------------|-------------|----------------|
 | 25% | $1.2B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz. Top three LNG importers face extreme supply constraints. LNG prices have surged; spot rates in the $35-50/MMBTU range compared to pre-crisis $8-12/MMBTU.
+> 25% of global LNG trade blocked. Japan, South Korea, China facing acute shortages; LNG prices (JKM) averaged $18-22/MMBtu in Oct 2026 vs $11/MMBtu pre-crisis. Liquefaction plants globally running extended outages.
 
 **受影響地區**
 
@@ -74,37 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| EU | MODERATE | 20% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily used rerouting option; adds 10-15 days and $500-800k per vessel but avoids Hormuz risk entirely |
-| East-West Pipeline | +0 天 | — | Limited to 5 mbpd capacity, Saudi Arabia only; insufficient for global demand |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Limited to 1.5 mbpd capacity; underutilized but insufficient for rerouting global volumes |
+| Cape of Good Hope | +14 天 | $650K | Active rerouting; 25-30% of crude diverted via Cape; major backlog in Singapore and Rotterdam anchorages |
+| East-West Pipeline (Saudi) | +0 天 | — | Capacity near max at 5 mbpd; operational but insufficient to offset Hormuz closure; pipeline tariffs increased 40% |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; full utilization; minimal spare capacity |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1200% | +8.5% | 68 天 |
+| +285% | +3.2% | 71 天 |
 
 **主要供應鏈事件**
 
-- VLCC rates surged to $1.2-1.4 million/day (from pre-crisis $50-60k/day); only highest-value cargoes profitable
-- War risk insurance premiums at 5% of hull value (from 0.15% pre-crisis); $100M tanker now costs $5M for single transit vs $150k prior
-- Global crude flows through Hormuz collapsed 86% from 20.8 mbpd to 2.9 mbpd within 3 days of mine blockade
-- Brent crude trading at $110.46/bbl (October 21, 2026); refined product shortages driving consumer fuel prices +15-20%
+- Container shipping to Gulf ports halted; Maersk, MSC, CMA CGM suspended Hormuz transits; alternative routing adds 21 days and $2-3M per vessel
+- Petrochemical feedstock shortages driving 15-20% price increases in polymers, fertilizers; Asian plants operating at 55-60% capacity
+- Automotive industry OEM supply chain disrupted; semiconductor cooling fluid shortages affecting chip plants in Taiwan, South Korea
+- US SPR can sustain emergency maximum withdrawal (4.4M bbl/day) for 71 days before hitting 58M bbl structural floor; drawdown accelerated mid-Oct
 
 ## 最新新聞
 
-- [What is happening to UK prices?](https://www.bbc.co.uk/news/articles/c17rgd8e9gjo)　*The Bbc・2026-10-21*
-- [Gold may test 4,000-mark if oil extends rally; US Fed moves eyed: Kotak Neo](https://www.business-standard.com/markets/news/gold-may-test-4-000-mark-if-oil-extends-rally-us-fed-moves-eyed-kotak-neo-126102100567_1.html)　*Business Standard・2026-10-21*
-- [Nasdaq 100 Rises as SpaceX and Super Micro Earnings Revive AI Optimism](https://au.investing.com/analysis/nasdaq-100-rises-as-spacex-and-super-micro-earnings-revive-ai-optimism-200617764)　*Investing Australia・2026-10-21*
-- [Iran’s Hormuz internet cable threat: Trump's Arab ally warns Middle East would suffer](https://www.hindustantimes.com/videos/irans-hormuz-internet-cable-threat-trumps-arab-ally-warns-middle-east-would-suffer-101792570984287.html)　*Hindustan Times・2026-10-21*
-- [What King Charles told the Sultan of Oman at their lavish state banquet](https://www.independent.co.uk/bulletin/news/king-charles-sultan-of-oman-banquet-b3070497.html)　*The Independent・2026-10-21*
+- [Qatar, France denounce Iranian strikes, urge unrestricted passage through Hormuz](https://gulfnews.com/world/gulf/qatar/qatar-france-denounce-iranian-strikes-urge-unrestricted-passage-through-hormuz-1.500719112)　*Gulf News・2026-10-21*
+- [US interacting with Russia, China on resolving conflict with Iran — Trump](https://tass.com/world/2205883)　*Тасс・2026-10-21*
+- [Oil Flows Return to Pre-War Levels Despite Iran’s Resurgent Hormuz Terrorism](https://www.breitbart.com/economy/2026/10/21/oil-flows-return-to-pre-war-levels-despite-irans-resurgent-hormuz-terrorism/)　*Brietbart・2026-10-21*
+- [US 'reducing presence in Middle East' as families 'told to evacuate' over rebel concerns](https://www.express.co.uk/news/world/2259349/us-diplomats-leave-saudi-houthis)　*Express・2026-10-21*
+- [AEVEX addresses Navy maritime program status amid reports](https://uk.investing.com/news/stock-market-news/aevex-addresses-navy-maritime-program-status-amid-reports-93CH-4923876)　*Investing Uk・2026-10-21*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-22 05:03 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-22 18:54 台灣時間，僅供參考，不構成投資建議。*
