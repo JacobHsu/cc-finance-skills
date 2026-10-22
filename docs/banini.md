@@ -1,8 +1,32 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-10-21 17:47 台灣時間
+> 更新時間：2026-10-22 17:47 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：4 篇
+> 本次抓取：5 篇
+
+---
+
+### 今天 14:07（2026/10/22 14:07）
+
+> 995.....
+
+讚 543 ｜ 回覆 108 ｜ [原文](https://www.threads.com/@banini31/post/DeyTWKlGU-J)
+
+---
+
+### 今天 12:29（2026/10/22 12:29）
+
+> 剛剛短暫又被banned
+
+讚 580 ｜ 回覆 10 ｜ [原文](https://www.threads.com/@banini31/post/DeyIF2EGedA)
+
+---
+
+### 今天 12:17（2026/10/22 12:17）
+
+> 復活！
+
+讚 4684 ｜ 回覆 412 ｜ [原文](https://www.threads.com/@banini31/post/DeyGx-nmXtm)
 
 ---
 
@@ -17,7 +41,7 @@
 
 不是一句， 反正長期看好就好了耶
 
-讚 1988 ｜ 回覆 208 ｜ [原文](https://www.threads.com/@banini31/post/DePYMkgAEQZ)
+讚 2027 ｜ 回覆 214 ｜ [原文](https://www.threads.com/@banini31/post/DePYMkgAEQZ)
 
 ---
 
@@ -29,31 +53,8 @@
 
 怪物放到沈默之丘或是last of us 都比較合理
 
-讚 582 ｜ 回覆 67 ｜ [原文](https://www.threads.com/@banini31/post/DePQxzFGUos)
+讚 591 ｜ 回覆 68 ｜ [原文](https://www.threads.com/@banini31/post/DePQxzFGUos)
 
 ---
 
-### 10/08 15:15（2026/10/08 15:15）
-
-> 今天持續出清約200萬個股還有正二
-轉了不少進去0050(⊙ω⊙)
-
-一堆人說不懂這個這個操作
-簡單說就是降低槓桿跟風險
-
-我覺得應該是近期高點，但是又怕自己看錯
-所以選了 如果真的崩了20%，那有一堆人可以跟我一起痛苦的選項
-
-讚 5869 ｜ 回覆 526 ｜ [原文](https://www.threads.com/@banini31/post/DeOYCnemZXr)
-
----
-
-### 10/08 11:16（2026/10/08 11:16）
-
-> 我想賣國巨了， 整天在那邊洗 好累
-
-讚 12827 ｜ 回覆 1014 ｜ [原文](https://www.threads.com/@banini31/post/DeN8rT4GRjR)
-
----
-
-*自動產生於 2026-10-21 17:47 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-10-22 17:47 台灣時間。僅供娛樂參考，不構成投資建議。*
