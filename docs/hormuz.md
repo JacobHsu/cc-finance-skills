@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-24 00:10 台灣時間　｜　資料更新：2026-10-24 00:10 台灣時間
+> 更新時間：2026-10-24 04:49 台灣時間　｜　資料更新：2026-10-24 04:49 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic under IRGC control. Iran has mined the strait, reduced tanker transits from 85/day baseline to 4/day, and declared closure until seven conditions are met. Sporadic attacks on vessels continue; 27 ship attacks reported in October 2026 alone (highest monthly total since war began). |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping. IMF PortWatch recorded 4 transits on October 18 vs 85/day baseline. IRGC maintains closure declaration; only limited Iran-approved vessels transit. Highest monthly attack count since war began (27 attacks in October). Dual US-IRGC blockade in effect. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 8 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 4 | 4 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **147** | 78 | 35 | 34 | <span style="color:#27ae60">+2.00</span> |
+| **163** | 52 | 45 | 66 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 10% | 0.15% | 66.7x |
+| 1.5% | 0.15% | 10x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 上升 |
+| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran sets 7 conditions for strait reopening; indirect US-Iran talks stalled ahead of US midterms
+**頭條：** Iran sets seven conditions for strait reopening; Britain-Oman coordination on reopening; US rejection of Iran's terms continues
 
-**各方：** Iran, United States, Pakistan, Qatar
+**各方：** Iran, United States, United Kingdom, Oman, Israel
 
-> Iranian Foreign Minister Abbas Araghchi reaffirmed on October 21-23 that the strait will remain closed until the US accepts Iran's seven conditions. Indirect negotiations continue through Pakistani and Qatari mediators, but Iranian officials see little diplomatic breakthrough prospect. The US has reportedly sent a third aircraft carrier to the region as military posturing continues; Israeli plans for major offensive were shelved after Trump opposition ahead of November elections.
+> Iran has set seven conditions for reopening the strait and resuming negotiations, consistent with parliament speaker's October 4 position. Britain and Oman have agreed on the need to open the strait; UK Foreign Secretary Miliband set for talks in Turkey. US Secretary of State Rubio says economic pressure will continue until Iran stops targeting ships. No confirmed mutual agreement on reopening terms.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.1B | Japan, South Korea, China |
+| 25% | $0.95B | Japan, South Korea, China |
 
-> 25% of global LNG trade blocked; Japan, South Korea, and China face acute shortages; LNG prices at multi-year highs; spot market premiums up 300-400% versus baseline; alternative Australian and US suppliers insufficient to offset 2.9 mbpd crude throughput decline.
+> 25% of global LNG trade at risk. Japan, South Korea severely constrained. LNG spot prices elevated. Rerouting around Cape adds 10-15 days and $800k-$1.2M per vessel. Alternative pipeline capacity (East-West: 5 mbpd Saudi-only, Habshan-Fujairah: 1.5 mbpd) insufficient.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Significant rerouting active; ~30-40% of blocked Hormuz traffic estimated to use this route; adds 10-15 day transit time |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at reduced capacity; max 5 mbpd capacity; Saudi exports severely constrained; limited relief from Hormuz blockade |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating; max 1.5 mbpd capacity; provides marginal UAE export relief; insufficient to offset 17.9 mbpd throughput loss at Hormuz |
+| Cape of Good Hope | +12 天 | $750 | Heavy utilization; major crude carriers and LNG rerouting. Added 12-15 days transit time and $750k-$1.2M per VLCC. Traffic backlog forming at rounding points. |
+| East-West Pipeline (Saudi crude to Red Sea) | +0 天 | — | Operating at 5 mbpd capacity (Saudi-only crude). No spare capacity for incremental flows. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity. Limited spare capacity. Port congestion at Fujairah worsening. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1400% | +6.2% | 72 天 |
+| +65% | +2.1% | 70 天 |
 
 **主要供應鏈事件**
 
-- VLCC Gulf-to-China route hit $1.2M/day in early October vs $80k/day pre-crisis; freight premiums exceed voyage revenue
-- Global consumer price inflation driven by energy cost escalation; crude Brent at $104+ vs $70 pre-crisis; oil price volatility at 8-year high
-- 6,000+ seafarers trapped in Persian Gulf; IMO evacuation efforts ongoing; crew rotations impossible; psychological/retention crisis in shipping labor market
-- US SPR maximum drawdown capacity sufficient for ~72 days at 4.4 Mbbl/day maximum release rate before structural cavern heel constraints
+- War risk insurance multiplied 10x (0.15% to 1.5% of hull value). VLCC Hormuz transit now $2.3M-$3.5M insurance cost vs. $150-250k pre-crisis.
+- Tanker spot rates elevated 45-65% above pre-crisis WS 40-60 baseline. Voyage delays and inefficient positioning adding $1-2M per vessel week.
+- Container shipping suspended by Maersk, MSC, CMA CGM; alternative routing via Suez complex and Cape routes saturated. Blank sailings reducing scheduled slots.
+- Global refined product shortage emerging; Asian refiners unable to import heavy crude efficiently. Petrol/diesel price inflation cascading to consumer goods and transportation.
 
 ## 最新新聞
 
-- [Trump hints at renewed action against Iran 'fairly soon', Iran warns of wider retaliation](https://gulfnews.com/world/mena/trump-hints-at-renewed-action-against-iran-fairly-soon-iran-warns-of-wider-retaliation-1.500720562)　*Gulf News・2026-10-23*
-- [Middle East war: Trump warns US may hit Iran ‘a little bit further’ as IRGC threatens US bases, Netanyahu calls for regime change in Tehran](https://gulfnews.com/world/mena/middle-east-war-trump-warns-us-may-hit-iran-a-little-bit-further-as-irgc-threatens-us-bases-netanyahu-calls-for-regime-change-in-tehran-1.500720580)　*Gulf News・2026-10-23*
-- [Trump signals possible further action on Iran](https://www.prokerala.com/news/articles/a1827702.html)　*Prokerala・2026-10-23*
-- [Petrol, Diesel Prices On October 23: Fuel Rates Unchanged; Check In Delhi, Mumbai, Chennai, Kolkata](https://newsable.asianetnews.com/business/petrol-diesel-prices-on-october-23-fuel-rates-in-delhi-mumbai-chennai-kolkata-articleshow-602m7vs)　*Asianet Newsable・2026-10-23*
-- [Houthi attacks on Saudi sites claim four more lives](https://www.dawn.com/news/2039176/houthi-attacks-on-saudi-sites-claim-four-more-lives)　*Dawn・2026-10-23*
+- [HPCL expects LPG under-recovery to rise to Rs 327 a cylinder in November](https://www.moneycontrol.com/news/business/earnings/hpcl-expects-lpg-under-recovery-to-rise-to-rs-327-a-cylinder-in-november-14058505.html)　*Moneycontrol・2026-10-23*
+- [DPM Dar arrives in Istanbul ahead of R-4 bloc, European diplomats’ meetings](https://www.dawn.com/news/2039222/dpm-dar-arrives-in-istanbul-ahead-of-r-4-bloc-european-diplomats-meetings)　*Dawn・2026-10-23*
+- [From satellites to robot 'dolphins' to AI: Inside the race to stop oil spills](https://gulfnews.com/world/from-satellites-to-robot-dolphins-and-ai-inside-the-race-to-stop-oil-spills-1.500720837)　*Gulf News・2026-10-23*
+- [ICRIER backs direct cash transfer as fertiliser subsidy bill surges](https://www.business-standard.com/industry/agriculture/fertiliser-subsidy-direct-cash-transfer-icrier-agristack-fy27-126102300585_1.html)　*Business Standard・2026-10-23*
+- [Are global oil reserves sufficient to withstand renewed US-Iran war?](https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war)　*Al Jazeera・2026-10-23*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-24 00:10 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-24 04:49 台灣時間，僅供參考，不構成投資建議。*
