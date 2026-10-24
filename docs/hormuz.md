@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-24 18:02 台灣時間　｜　資料更新：2026-10-24 18:02 台灣時間
+> 更新時間：2026-10-24 23:07 台灣時間　｜　資料更新：2026-10-24 23:07 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic with only 4-14 vessels transiting daily versus 85 pre-crisis baseline. Iran maintains closure until US accepts seven-point conditions. Ship attacks reached record high in October. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic. Iran controls the strait through IRGC threats and mine-laying; US military escort operations support limited transits; actual commercial vessel crossings are ~1-2% of normal (~4-8 ships/day vs. 85-94 pre-crisis baseline). |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 4 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
+| 8 | 8 | 60 | <span style="color:#e74c3c">9.4% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **115** | 45 | 35 | 35 | <span style="color:#27ae60">0.00</span> |
+| **484** | 120 | 180 | 184 | <span style="color:#e74c3c">-5.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 658,000 | 10,300,000 | <span style="color:#e74c3c">6.4% ⚠️</span> | 上升 |
+| 1,288,000 | 10,300,000 | <span style="color:#e74c3c">12.5% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** NO_TALKS
 
-**頭條：** Iran proposes 7-day plan to reopen Strait; indirect US talks via Pakistan and Qatar mediators
+**頭條：** Iran demands seven conditions for strait reopening; US denies closure; stalled diplomatic efforts
 
-**各方：** Iran, United States, Pakistan, Qatar
+**各方：** Iran (IRGC/Revolutionary Guard), United States, Israel, Gulf states (Saudi Arabia, UAE), shipping industry
 
-> Iranian Foreign Minister Araghchi proposed a seven-day plan to end the war and reopen the Strait of Hormuz, with the waterway reopening on day six and final peace talks on day seven. Indirect negotiations continue through mediators Pakistan and Qatar, though Iranian officials see little prospect of breakthrough. US continues to insist negotiations address Iran's nuclear program.
+> Iran maintains that the strait will remain closed until seven unspecified conditions are met; US Central Command asserts the strait is open and controlled by US/regional forces. No active peace talks or negotiations are underway. Iranian officials have explicitly rejected agreements without guarantees. Diplomatic impasse continues.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.1B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Japan and South Korea face acute LNG supply shocks with winter approaching. Chinese LNG demand remains strong despite rerouting.
+> Approximately 25% of global LNG trade transits Hormuz. Japan and South Korea face critical shortages; LNG prices in Japan and Korea have surged 300-400% above pre-crisis levels; spot cargo scarcity driving emergency imports.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Major carriers (Maersk, MSC, CMA CGM) have activated full rerouting for Asia-Europe services |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Limited to 5 mbpd Saudi crude only; insufficient for crisis demand |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; partially relieves UAE exports |
+| Cape of Good Hope | +12 天 | $650 | Increasing use; ~30% of diverted tankers now routing around Cape; higher fuel consumption and crew rotation costs |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at 5 million bpd capacity (near-full); limited spare capacity; Saudi-only access |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Carrying ~1.5 million bpd; at capacity; shuttle tankers operating from Fujairah anchorage under US protection |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +145% | +3.2% | 71 天 |
+| +1350% | +3.2% | 70 天 |
 
 **主要供應鏈事件**
 
-- LNG prices (JKM) spiked to $18+ per MMBtu versus $8-12 pre-crisis; heating fuel shortage in Northeast Asia
-- Container shipping rates on Asia-Europe routes increased 140-150%; 8+ container ships trapped in Persian Gulf unable to exit
-- Brent crude at $102+/bbl; premium +40-50% above pre-crisis due to Hormuz risk and 25% supply at risk
-- 6,000-11,000 seafarers stranded aboard vessels in Persian Gulf; IMO coordinating evacuation operations; crew morale and safety critical
+- VLCC AG-China rates spike to $862k-$1.4M/day (vs. $30k pre-war); freight now 27% of delivered crude cost
+- LNG spot prices in Japan/Korea surge 300-400%; emergency LNG imports via alternative routes straining logistics
+- 15% of global VLCC fleet anchored off Oman for ship-to-ship transfers; fleet utilization crisis
+- Ship-to-ship (STS) transfer operations in Gulf of Oman averaging 11-13M bpd; tanker congestion worsening daily
 
 ## 最新新聞
 
-- [China Uses Djibouti Outpost to Assert Itself on Houthi Attacks](https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/)　*Brietbart・2026-10-23*
-- [Trump says US may renew strikes against Iran, 'do another little Epic Fury'](https://www.jpost.com/international/article-912674)　*Jpost・2026-10-23*
-- [Two oil supertankers strike mines in Strait of Hormuz — IRGC](https://tass.com/world/2207183)　*Тасс・2026-10-23*
-- [Iran-US War: Ahead of US midterm polls, Israel elections day, Donald Trump threatens another likely military operation 'little epic fury' against Tehran](https://economictimes.indiatimes.com/news/international/us/iran-us-war-ahead-of-us-midterm-polls-israel-elections-day-donald-trump-threatens-another-likely-military-operation-little-epic-fury-against-tehran/articleshow/135155453.cms)　*The Economic Times・2026-10-23*
-- [Oil prices reach six-month high as tensions with Iran escalate](https://www.upi.com/Top_News/US/2026/10/23/oil-prices-rise-middle-east/8221792785271/)　*Upi・2026-10-23*
+- [Iran’s Death Trap In Hormuz: Two Supertankers Blown Up On US-Approved Route; Crews Flee Ships](https://timesofindia.indiatimes.com/videos/international/irans-death-trap-in-hormuz-two-supertankers-blown-up-on-us-approved-route-crews-flee-ships/videoshow/135160177.cms)　*The Times Of India・2026-10-24*
+- ['We may do another little Epic Fury': Trump warns Iran as Tehran plans to target Gulf internet cables](https://www.businesstoday.in/world/story/we-may-do-another-little-epic-fury-trump-warns-iran-as-tehran-plans-to-target-gulf-internet-cables-563427-2026-10-24)　*Business News India・2026-10-24*
+- [‘No more red lines’: Iran threatens Gulf internet cables as Trump hints at fresh ‘Epic Fury’ strikes](https://english.mathrubhumi.com/news/world/iran-threatens-gulf-internet-cables-trump-epic-fury-strikes-xaxvmraj)　*Mathrubhumi English・2026-10-24*
+- ["Don't Play With Fire": Iran Warns Of Undersea Cable Attacks If War Resumes](https://www.ndtv.com/world-news/iran-warns-of-undersea-cable-attacks-if-war-resumes-12228134)　*Ndtv・2026-10-24*
+- [Russia sends three diesel tankers toward US](https://rt-english.com/business/647596-russia-sends-diesel-tankers-us/)　*Rt・2026-10-24*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-24 18:02 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-24 23:07 台灣時間，僅供參考，不構成投資建議。*
