@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-25 04:00 台灣時間　｜　資料更新：2026-10-25 04:00 台灣時間
+> 更新時間：2026-10-25 18:27 台灣時間　｜　資料更新：2026-10-25 18:27 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz has been effectively closed to commercial shipping since February 28, 2026, when US and Israel launched airstrikes on Iran. Iran closed the strait and has deployed IRGC forces, mines, and attacks against merchant vessels attempting transit. Currently experiencing intense escalation with Iranian attacks on tankers reaching record levels in October 2026. Only 4 vessels transited on October 18, 2026 compared to a pre-crisis baseline of 85/day. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed since Feb 28, 2026 when US-Israeli strikes triggered Iranian closure. Currently under sustained military and diplomatic standoff with minimal commercial transits permitted. Iran maintains blockade pending US acceptance of seven-point conditions. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 4 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
+| 4 | 8 | 60 | <span style="color:#e74c3c">6.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **242** | 138 | 52 | 52 | <span style="color:#27ae60">0.00</span> |
+| **128** | 53 | 40 | 35 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Iran-Oman negotiations on Strait transit framework ongoing; US signals optimism but no breakthrough as of late August
+**頭條：** Iran submits peace plan via Pakistan mediator; US rejects; negotiations stalled over sanctions lift and blockade
 
-**各方：** Iran, Oman, United States
+**各方：** Iran, United States, Pakistan (mediator), Qatar (mediator)
 
-> Iran and Oman have been negotiating for weeks to establish new shipping corridors and management frameworks for the Strait of Hormuz. In early August 2026, both sides reported being in 'final stages' with proposed inbound/outbound routes agreed. However, no binding reopening agreement has been reached, and Iran has denied direct US-Iran negotiations, claiming talks are solely with Oman as mediator. Broader US-Iran memorandum of understanding from June 2026 remains stalled.
+> Iran conveyed willingness through Pakistan to reopen Strait if US lifts naval blockade; Iranian President Pezeshkian submitted seven-point peace plan on October 22 demanding end to sanctions and threats. US has rejected proposals, insisting blockade remains and asserting oil flows at normal levels. White House states no attacks before midterm elections.
 
 ## 全球貿易影響
 
@@ -64,7 +64,7 @@
 |--------------|-------------|----------------|
 | 25% | $0.8B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Top importers Japan, South Korea, and China face severe supply constraints. Alternative LNG sourcing from Australia, US, and Qatar adds freight costs and delays; spot LNG prices have spiked and remain volatile.
+> 25% of global LNG trade blocked; top three importers facing supply shortages. Japan and South Korea particularly vulnerable; spot LNG prices elevated 4x historical averages.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Active rerouting in place; ~25% of pre-crisis VLCC traffic redirected around Cape; transit times add significant delay and cost; becoming primary relief valve |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at full 5 mbpd capacity as of March 2026; limited by Saudi-only access; unable to absorb full Hormuz shortage |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; UAE-only route; combined with Saudi pipeline covers only ~15% of diverted flows; insufficient for full crisis mitigation |
-| Overland/Port Bypass (Maersk model) | +0 天 | $1K | Container operators discharging at Fujairah/Khor Fakkan outside strait, moving cargo overland to Jebel Ali; adds USD 1,000/container cost; used for non-tanker cargo only |
+| Cape of Good Hope | +12 天 | $650 | Actively used for Asia-Europe routes; Maersk activated for all services; increases voyage time 10-15 days and fuel costs significantly |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at near-capacity; 5 mbpd capacity insufficient to replace Hormuz flows; Saudi shipments currently at 6 mbpd vs 10.5 mbpd production target |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational; 1.5 mbpd capacity; used for non-Hormuz outlets but minimal impact on overall flows |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1500% | +2.8% | 70 天 |
+| +1350% | +2.8% | 72 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates (TD3C) soared from ~WS 40-60 to WS 1,200+ (Oct 2026), equivalent to $1.2-1.4M/day vs $50k pre-crisis; round-trip voyage costs now $50-54M per supertanker
-- Brent crude oil volatility: peaked at $140/bbl in March, trading $107-117/bbl in October; global economy facing inflationary pressure estimated at 2.8% CPI impact by IEA modeling
-- Container shipping disrupted: Maersk suspended bookings to Gulf ports; shifting to Fujairah offload + overland reroute adds $1,000/container; port congestion in alternative hubs (Singapore, Rotterdam) rising
-- Manufacturing supply chain collapse in Middle East: Crude-dependent refineries forced into production cuts; petrochemical exports halted; ancillary industries (fertilizers, plastics) facing 20-30% production reductions
+- VLCC rates surged to $862k-1.4M/day vs $25-50k pre-crisis (1,200-2,800% increase); freight now 23.8% of delivered crude cost vs 16.5% pre-crisis
+- Container shipping diverted to Cape of Good Hope adding 10-15 days; Maersk and other carriers routing all Asia-Europe services around Africa at additional cost of $1,000/container
+- Iranian crude exports stranded at 53 laden tankers; Saudi crude shipments at 6 mbpd vs 10.5 mbpd OPEC+ target due to pipeline limitations
+- Global supply chain delays of 2-4 weeks for Asia-Europe trade; petrochemical and manufacturing sectors face input shortages; auto and electronics production constrained
 
 ## 最新新聞
 
-- [UPI, WhatsApp… everything would come to a halt in India if Iran cut its internet cable at sea | Details](https://www.india.com/technology/upi-whatsapp-everything-would-come-to-a-halt-if-iran-cut-its-internet-cable-at-sea-details-8538813/)　*India・2026-10-24*
-- [Iran trying harder to target US personnel in Middle East, intelligence chief warns](https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o)　*The Bbc・2026-10-24*
-- [Beaches forced to shut after attack on tanker near Strait of Hormuz sparks massive oil spill off UAE holiday resort](https://www.thesun.co.uk/news/40793306/oil-spill-uae-resort-tanker-strike/)　*The Sun・2026-10-24*
-- [Trump's foreign policy threatens Republicans in midterms as war, tariffs push costs up - analysis](https://www.jpost.com/american-politics/article-912688)　*Jpost・2026-10-24*
-- [The federal government is now considering an 80 km/h speed limit on Swiss highways](https://www.bluewin.ch/en/news/switzerland/the-federal-government-is-now-considering-an-80-km-h-speed-limit-on-swiss-highways-li.3647085)　*Bluewin・2026-10-24*
+- [Obama plays offense and defense in Cleveland: Attacking Trump while guarding his legacy](https://www.washingtonexaminer.com/news/4778603/obama-attacks-trump-while-guarding-his-legacy/)　*Washington Examiner・2026-10-24*
+- [Israelis hold final rally against Netanyahu before Tuesday's election](https://www.post-gazette.com/news/world/2026/10/24/israel-netanyahu-election-mideast-iran-jordan/stories/202610240064)　*Pittsburgh Post-gazette・2026-10-24*
+- [Obama Tears Into Trump, Hegseth Over Iran War: ‘Not Serious People’](https://www.newsweek.com/barack-obama-trump-hegseth-iran-war-12614985)　*Newsweek・2026-10-24*
+- [Iran proposes reopening Hormuz in exchange for US lifting its blockade — TV](https://tass.com/world/2207343)　*Тасс・2026-10-24*
+- [Web of permits delaying new PNG lines in Noida & Ghaziabad](https://timesofindia.indiatimes.com/city/noida/web-of-permits-delaying-new-png-lines-in-noida-ghaziabad/articleshow/135177378.cms)　*The Times Of India・2026-10-24*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-25 04:00 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-25 18:27 台灣時間，僅供參考，不構成投資建議。*
