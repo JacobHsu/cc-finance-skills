@@ -1,50 +1,87 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-10-23 17:42 台灣時間
+> 更新時間：2026-10-26 18:42 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
 > 本次抓取：16 篇
 
 ---
 
-### 今天 09:58（2026/10/23 09:58）
+### 今天 12:44（2026/10/26 12:44）
 
-> 好刺激喔(⊙ω⊙)
+> 看了一下韓股
+明天看來只是小跌而已吧
 
-讚 400 ｜ 回覆 42 ｜ [原文](https://www.threads.com/@banini31/post/De0bluqGaUo)
+讚 575 ｜ 回覆 170 ｜ [原文](https://www.threads.com/@banini31/post/De8c_DqmcV2)
 
 ---
 
-### 昨天 20:08（2026/10/22 20:08）
+### 昨天 23:52（2026/10/25 23:52）
+
+> 辛苦～
+
+讚 677 ｜ 回覆 44 ｜ [原文](https://www.threads.com/@banini31/post/De7Ep35meSS)
+
+---
+
+### 昨天 00:15（2026/10/25 00:15）
+
+> 萬聖節……我發現扮我自己就符合主題了
+地獄倒楣鬼 AKA 股市濕婆
+
+讚 1265 ｜ 回覆 51 ｜ [原文](https://www.threads.com/@banini31/post/De4ieILGd4x)
+
+---
+
+### 10/24 09:17（2026/10/24 09:17）
+
+> 老廢也曾經是有抱負努力的年輕人
+靠著曾經的努力爬到了既得利益者的位置
+
+屠龍者終將成為惡龍
+
+讚 1493 ｜ 回覆 62 ｜ [原文](https://www.threads.com/@banini31/post/De27tbtmRp8)
+
+---
+
+### 10/23 09:58（2026/10/23 09:58）
+
+> 好刺激喔(⊙ω⊙)
+
+讚 617 ｜ 回覆 46 ｜ [原文](https://www.threads.com/@banini31/post/De0bluqGaUo)
+
+---
+
+### 10/22 20:08（2026/10/22 20:08）
 
 > 好消息大家
 明天不會跌了！！！
 後天也不會了～～
 
-讚 2322 ｜ 回覆 176 ｜ [原文](https://www.threads.com/@banini31/post/Dey8rRsgCzL)
+讚 2563 ｜ 回覆 178 ｜ [原文](https://www.threads.com/@banini31/post/Dey8rRsgCzL)
 
 ---
 
-### 昨天 14:07（2026/10/22 14:07）
+### 10/22 14:07（2026/10/22 14:07）
 
 > 995.....
 
-讚 826 ｜ 回覆 133 ｜ [原文](https://www.threads.com/@banini31/post/DeyTWKlGU-J)
+讚 850 ｜ 回覆 134 ｜ [原文](https://www.threads.com/@banini31/post/DeyTWKlGU-J)
 
 ---
 
-### 昨天 12:29（2026/10/22 12:29）
+### 10/22 12:29（2026/10/22 12:29）
 
 > 剛剛短暫又被banned
 
-讚 688 ｜ 回覆 10 ｜ [原文](https://www.threads.com/@banini31/post/DeyIF2EGedA)
+讚 697 ｜ 回覆 9 ｜ [原文](https://www.threads.com/@banini31/post/DeyIF2EGedA)
 
 ---
 
-### 昨天 12:17（2026/10/22 12:17）
+### 10/22 12:17（2026/10/22 12:17）
 
 > 復活！
 
-讚 6849 ｜ 回覆 464 ｜ [原文](https://www.threads.com/@banini31/post/DeyGx-nmXtm)
+讚 7081 ｜ 回覆 465 ｜ [原文](https://www.threads.com/@banini31/post/DeyGx-nmXtm)
 
 ---
 
@@ -59,7 +96,7 @@
 
 不是一句， 反正長期看好就好了耶
 
-讚 2069 ｜ 回覆 216 ｜ [原文](https://www.threads.com/@banini31/post/DePYMkgAEQZ)
+讚 2089 ｜ 回覆 218 ｜ [原文](https://www.threads.com/@banini31/post/DePYMkgAEQZ)
 
 ---
 
@@ -71,7 +108,7 @@
 
 怪物放到沈默之丘或是last of us 都比較合理
 
-讚 600 ｜ 回覆 68 ｜ [原文](https://www.threads.com/@banini31/post/DePQxzFGUos)
+讚 602 ｜ 回覆 68 ｜ [原文](https://www.threads.com/@banini31/post/DePQxzFGUos)
 
 ---
 
@@ -86,7 +123,7 @@
 我覺得應該是近期高點，但是又怕自己看錯
 所以選了 如果真的崩了20%，那有一堆人可以跟我一起痛苦的選項
 
-讚 5885 ｜ 回覆 527 ｜ [原文](https://www.threads.com/@banini31/post/DeOYCnemZXr)
+讚 5889 ｜ 回覆 543 ｜ [原文](https://www.threads.com/@banini31/post/DeOYCnemZXr)
 
 ---
 
@@ -94,7 +131,7 @@
 
 > 我想賣國巨了， 整天在那邊洗 好累
 
-讚 12843 ｜ 回覆 1017 ｜ [原文](https://www.threads.com/@banini31/post/DeN8rT4GRjR)
+讚 12846 ｜ 回覆 1018 ｜ [原文](https://www.threads.com/@banini31/post/DeN8rT4GRjR)
 
 ---
 
@@ -102,7 +139,7 @@
 
 > 你才是挑戰者_(:_」∠)_
 
-讚 2984 ｜ 回覆 323 ｜ [原文](https://www.threads.com/@banini31/post/DeNx7whmWMe)
+讚 2986 ｜ 回覆 323 ｜ [原文](https://www.threads.com/@banini31/post/DeNx7whmWMe)
 
 ---
 
@@ -111,7 +148,7 @@
 > 什麼叫做有賺就趕快入袋？
 沒賺個20%叫賺嗎！？
 
-讚 881 ｜ 回覆 45 ｜ [原文](https://www.threads.com/@banini31/post/DeMzJWvAI-H)
+讚 884 ｜ 回覆 45 ｜ [原文](https://www.threads.com/@banini31/post/DeMzJWvAI-H)
 
 ---
 
@@ -123,42 +160,4 @@
 
 ---
 
-### 10/07 15:06（2026/10/07 15:06）
-
-> 會討論買房還是丟股票的人
-基本上就是心態上本來就不想買房，
-
-就跟車子一樣， 大家都知道是負資產，
-移動可以用uber或大眾，但是會買的就會買
-
-讚 2468 ｜ 回覆 180 ｜ [原文](https://www.threads.com/@banini31/post/DeLyIAVGYkL)
-
----
-
-### 10/07 12:40（2026/10/07 12:40）
-
-> 我開始賺錢了
-股市果然是好東西
-
-讚 8006 ｜ 回覆 502 ｜ [原文](https://www.threads.com/@banini31/post/DeLhb9SGY3v)
-
----
-
-### 10/07 09:57（2026/10/07 09:57）
-
-> 阿你是要起來沒
-
-讚 2114 ｜ 回覆 415 ｜ [原文](https://www.threads.com/@banini31/post/DeLO1Jdmex5)
-
----
-
-### 10/06 20:26（2026/10/06 20:26）
-
-> 預言
-台股一路漲到52000
-
-讚 12552 ｜ 回覆 1950 ｜ [原文](https://www.threads.com/@banini31/post/DeJx9NfmdRx)
-
----
-
-*自動產生於 2026-10-23 17:42 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-10-26 18:42 台灣時間。僅供娛樂參考，不構成投資建議。*
