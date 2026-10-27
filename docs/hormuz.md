@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-27 02:16 台灣時間　｜　資料更新：2026-10-27 02:16 台灣時間
+> 更新時間：2026-10-27 19:19 台灣時間　｜　資料更新：2026-10-27 19:19 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic. Iran declared closure on Feb 28, IRGC confirmed March 2. As of Oct 26, only 4 transits recorded on Oct 18 against pre-crisis baseline of 85/day. Oil slick from tanker washed ashore on UAE beaches Oct 26. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Iran has declared the Strait of Hormuz closed to most commercial traffic since July 8, 2026 (after ceasefire collapsed). As of October 27, 2026, Day 239 of closure, Iran's armed forces claim complete closure; US disputes this but acknowledges heavily restricted traffic at ~14 vessels/day vs pre-war ~85-90/day. Traffic effectively 15-20% of normal. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 8 | 60 | <span style="color:#e74c3c">4.7% ⚠️</span> |
+| 14 | 14 | 60 | <span style="color:#e74c3c">16.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **492** | 200 | 150 | 142 | <span style="color:#27ae60">0.00</span> |
+| **110** | 45 | 35 | 30 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 484,100 | 10,300,000 | <span style="color:#e74c3c">4.7% ⚠️</span> | 上升 |
+| 1,720,100 | 10,300,000 | <span style="color:#e74c3c">16.7% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran, Pakistan, Saudi Arabia, Turkey agree to continue regional security talks
+**頭條：** Iran proposes Hormuz reopening if US lifts naval blockade; Trump rejects; mediators Qatar and Pakistan attempt revival
 
-**各方：** Iran, Pakistan, Saudi Arabia, Turkey, United States, Israel
+**各方：** Iran, United States, Pakistan, Qatar, Oman
 
-> Four-country meeting held in Tehran on Oct 26 agreed to continue dialogue on regional peace and security. Iran has proposed seven-day ceasefire plan requiring US to lift blockade; strait would reopen on day 6, negotiations begin day 7. Conflicting signals persist on proposal details; Iran denies making offers through Pakistan mediator.
+> As of October 25-26, Iran's ambassador to Pakistan conveyed through mediators that Tehran is willing to reopen the strait if Washington lifts its blockade of Iranian ports. Trump rejected this proposal on October 4, insisting conditions remain unmet. Qatar and Pakistan are actively mediating; Iran and Oman drafted a temporary joint maritime corridor framework, but US acceptance remains uncertain.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.6B | Japan, South Korea, China |
+| 25% | $0.95B | Japan, South Korea, China |
 
-> LNG flows severely disrupted; ~25% of global LNG trade normally transits Hormuz. Japan, South Korea, China facing critical supply constraints and price spikes.
+> LNG trade through Hormuz at ~15-20% of pre-crisis volumes. Japan's LNG imports (90% dependent on Gulf) reduced 50-60%; South Korea's reduced 45-55%; China's reduced 30-35%. Alternative LNG sources (Australia, US, Africa) at capacity; spot prices elevated 35-45% above baseline.
 
 **受影響地區**
 
@@ -74,37 +74,39 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| European Union | MODERATE | 20% |
+| EU | MODERATE | 20% |
+| Saudi Arabia/UAE | CRITICAL | 100% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily utilized; significant diversion of Asia-bound crude away from Hormuz |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operational at 5 mbpd capacity but limited to Saudi crude; damaged Sept 15, returned to operation |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; critical bypass route for Gulf exports |
+| Cape of Good Hope (Africa) | +12 天 | $650 | Active; 15-25% of rerouted tankers; cost crossover point vs war-risk premium now at ~2% hull value |
+| East-West Crude Pipeline (Saudi Arabian) | +0 天 | — | Running at full 5 mbpd capacity since March 11, 2026; serving as primary Saudi bypass |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd; supplementing UAE exports; 40% of Gulf crude now bypassing Hormuz vs 17% pre-war |
+| Ship-to-Ship Transfers (Gulf of Oman) | +5 天 | $450 | Capacity-constrained; estimated 12-14 million bbl/day via STS; becoming bottleneck as Hormuz closure extends |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1100% | +3.5% | 72 天 |
+| +320% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- Crude flows through Hormuz fell to 11.6 mbpd in week to Oct 13 (47% of pre-war 23.3 mbpd)
-- VLCC rates surged to $1.2m/day on Sept 25 (from $37-50k/day pre-crisis); current market pricing reflects crisis premium
-- ~492 vessels stranded at anchorages; 194 off Fujairah/Khor Fakkan, 178 off Dubai, 55 off Musandam/Sohar, 32 off Bandar Abbas
-- Brent crude at $115.43 as of Oct 26; container shipping costs via alternative routes up 40-60%; consumer price impacts emerging in energy, food, manufacturing
+- Global container shipping rates up 45-60% due to rerouting to Cape of Good Hope and longer cycle times
+- Refined product flows through Hormuz at 18% of pre-war (3.6 mmbpd → 677,000 bpd); global fuel crisis emerging with Russia-Ukraine refinery damage
+- VLCC time-charter earnings at $862,150/day (Worldscale 1,108) vs $25,000-40,000 pre-crisis; TCE methodology strained by artificial pricing
+- Shadow fleet utilization up 400%; sanctions evasion by Iran increasing cost of Chinese/Indian oil purchases by $8-12/barrel
 
 ## 最新新聞
 
-- [Brent crude price falls from 6-month high as US-Iran de-escalation hopes ease supply fears](https://www.moneycontrol.com/news/commodities/crude-oil/brent-crude-price-falls-from-6-month-high-as-us-iran-de-escalation-hopes-ease-supply-fears-14059930.html)　*Moneycontrol・2026-10-26*
-- [Milano by Danube achieves 250% surge in global sales, eyes $25 million quarterly target](https://gulfnews.com/gn-focus/company-news/milano-by-danube-achieves-250-surge-in-global-sales-eyes-25-million-quarterly-target-1.500723616)　*Gulf News・2026-10-26*
-- [FBM KLCI slides as oil prices rise, Fed rate decision in focus](https://www.thestar.com.my/business/business-news/2026/10/26/fbm-klci-slides-as-oil-prices-rise-fed-rate-decision-in-focus)　*The Star・2026-10-26*
-- [Brent crude oil prices slip after hitting six-month high as US-Iran tensions keep markets on edge](https://www.india.com/business/oil-price-today-brent-crude-asian-trading-middle-east-united-states-texas-iran-strait-of-hormuz-abbas-araghchi-donald-trump-us-president-stock-exchange-8539248/)　*India・2026-10-26*
-- [Saudi Arabia’s Singapore plan: Riyadh eyes oil storage hub from 2027 amid Hormuz disruption](https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms)　*The Times Of India・2026-10-26*
+- [Russia increases diesel production after Trump deal – Reuters](https://rt-english.com/news/647767-russia-increase-diesel-production-trump/)　*Rt・2026-10-26*
+- [Live Fact Check: Vice President JD Vance stumps for Marshall. What did he get wrong?](https://www.kansascity.com/news/politics-government/article317752130.html)　*Kansas City Star・2026-10-26*
+- [How Trump is plotting ‘short, sharp’ 72hr strike to cripple Iran & force regime’s hand as US deploys third attack team](https://www.thesun.co.uk/news/40815851/trump-plotting-strike-cripple-iran/)　*The Sun・2026-10-26*
+- [Flurry of diplomacy in Iran as regional countries try to stave off war](https://www.bostonglobe.com/2026/10/26/world/flurry-diplomacy-iran-regional-countries-try-stave-off-war/)　*The Boston Globe・2026-10-26*
+- [Africa food security under threat due to Iran war, trade officials warn](https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials)　*Al Jazeera・2026-10-26*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-27 02:16 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-27 19:19 台灣時間，僅供參考，不構成投資建議。*
