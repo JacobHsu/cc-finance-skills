@@ -1,101 +1,92 @@
 # 美股當日跌幅榜
 
-> 更新時間：2026-10-27 15:46 ET（19:46 UTC）
+> 更新時間：2026-10-28 16:00 ET（20:00 UTC）
 
 ## S&P 500 Top Losers
 
 | # | 代碼 | 公司名稱 | 產業 | 現價 | 跌幅 | 成交量 |
 |---|------|----------|------|------|------|--------|
-| 1 | [**XYL**](https://www.moneydj.com/us/basic/basic0001/XYL) | Xylem Inc. | Industrials | **$94.43** | <span style="color:#e74c3c;white-space:nowrap">▼ 12.76%</span> | 8.2M |
-| 2 | [**BA**](https://www.moneydj.com/us/basic/basic0001/BA) | Boeing Company (The) | Industrials | **$167.72** | <span style="color:#e74c3c;white-space:nowrap">▼ 10.93%</span> | 41.5M |
-| 3 | [**VLO**](https://www.moneydj.com/us/basic/basic0001/VLO) | Valero Energy Corporation | Energy | **$389.27** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.78%</span> | 4.0M |
-| 4 | [**MPC**](https://www.moneydj.com/us/basic/basic0001/MPC) | Marathon Petroleum Corporation | Energy | **$436.56** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.24%</span> | 2.3M |
-| 5 | [**PSX**](https://www.moneydj.com/us/basic/basic0001/PSX) | Phillips 66 | Energy | **$268.82** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.93%</span> | 2.3M |
-| 6 | [**WELL**](https://www.moneydj.com/us/basic/basic0001/WELL) | Welltower Inc. | Real Estate | **$226.08** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.04%</span> | 4.3M |
-| 7 | [**PAYX**](https://www.moneydj.com/us/basic/basic0001/PAYX) | Paychex, Inc. | Industrials | **$109.35** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.49%</span> | 2.6M |
-| 8 | [**UHS**](https://www.moneydj.com/us/basic/basic0001/UHS) | Universal Health Services, Inc. | Health Care | **$176.04** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.21%</span> | 839.4K |
-| 9 | [**CSGP**](https://www.moneydj.com/us/basic/basic0001/CSGP) | CoStar Group, Inc. | Real Estate | **$31.91** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.31%</span> | 4.5M |
-| 10 | [**HUBB**](https://www.moneydj.com/us/basic/basic0001/HUBB) | Hubbell Inc | Industrials | **$435.88** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.12%</span> | 1.4M |
-| 11 | [**CTAS**](https://www.moneydj.com/us/basic/basic0001/CTAS) | Cintas Corporation | Industrials | **$214.31** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.15%</span> | 4.4M |
-| 12 | [**FDS**](https://www.moneydj.com/us/basic/basic0001/FDS) | FactSet Research Systems Inc. | Financials | **$307.39** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.95%</span> | 424.9K |
-| 13 | [**VRSK**](https://www.moneydj.com/us/basic/basic0001/VRSK) | Verisk Analytics, Inc. | Industrials | **$186.53** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.92%</span> | 661.1K |
-| 14 | [**ACN**](https://www.moneydj.com/us/basic/basic0001/ACN) | Accenture plc | Information Technology | **$235.13** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.89%</span> | 4.7M |
-| 15 | [**CTSH**](https://www.moneydj.com/us/basic/basic0001/CTSH) | Cognizant Technology Solutions  | Information Technology | **$66.00** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.82%</span> | 4.1M |
-| 16 | [**IT**](https://www.moneydj.com/us/basic/basic0001/IT) | Gartner, Inc. | Information Technology | **$220.08** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.74%</span> | 619.0K |
-| 17 | [**CME**](https://www.moneydj.com/us/basic/basic0001/CME) | CME Group Inc. | Financials | **$293.74** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.65%</span> | 1.2M |
-| 18 | [**ARE**](https://www.moneydj.com/us/basic/basic0001/ARE) | Alexandria Real Estate Equities | Real Estate | **$41.38** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.65%</span> | 2.8M |
-| 19 | [**BRO**](https://www.moneydj.com/us/basic/basic0001/BRO) | Brown & Brown, Inc. | Financials | **$67.82** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.59%</span> | 4.2M |
-| 20 | [**VTR**](https://www.moneydj.com/us/basic/basic0001/VTR) | Ventas, Inc. | Real Estate | **$83.46** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.53%</span> | 3.4M |
-| 21 | [**ADBE**](https://www.moneydj.com/us/basic/basic0001/ADBE) | Adobe Inc. | Information Technology | **$248.13** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.06%</span> | 3.5M |
-| 22 | [**FIS**](https://www.moneydj.com/us/basic/basic0001/FIS) | Fidelity National Information S | Financials | **$35.48** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.77%</span> | 2.7M |
-| 23 | [**INTU**](https://www.moneydj.com/us/basic/basic0001/INTU) | Intuit Inc. | Information Technology | **$327.41** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.67%</span> | 1.5M |
-| 24 | [**GDDY**](https://www.moneydj.com/us/basic/basic0001/GDDY) | GoDaddy Inc. | Information Technology | **$105.92** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.56%</span> | 797.6K |
-| 25 | [**ZTS**](https://www.moneydj.com/us/basic/basic0001/ZTS) | Zoetis Inc. | Health Care | **$78.13** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.51%</span> | 1.8M |
-| 26 | [**HCA**](https://www.moneydj.com/us/basic/basic0001/HCA) | HCA Healthcare, Inc. | Health Care | **$450.06** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.27%</span> | 2.3M |
-| 27 | [**STZ**](https://www.moneydj.com/us/basic/basic0001/STZ) | Constellation Brands, Inc. | Consumer Staples | **$131.13** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.31%</span> | 1.3M |
-| 28 | [**CBOE**](https://www.moneydj.com/us/basic/basic0001/CBOE) | Cboe Global Markets, Inc. | Financials | **$324.80** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.12%</span> | 602.8K |
+| 1 | [**FFIV**](https://www.moneydj.com/us/basic/basic0001/FFIV) | F5, Inc. | Information Technology | **$365.59** | <span style="color:#e74c3c;white-space:nowrap">▼ 20.41%</span> | 3.3M |
+| 2 | [**CSGP**](https://www.moneydj.com/us/basic/basic0001/CSGP) | CoStar Group, Inc. | Real Estate | **$27.56** | <span style="color:#e74c3c;white-space:nowrap">▼ 13.90%</span> | 16.7M |
+| 3 | [**CHRW**](https://www.moneydj.com/us/basic/basic0001/CHRW) | C.H. Robinson Worldwide, Inc. | Industrials | **$127.50** | <span style="color:#e74c3c;white-space:nowrap">▼ 11.21%</span> | 4.4M |
+| 4 | [**LII**](https://www.moneydj.com/us/basic/basic0001/LII) | Lennox International, Inc. | Industrials | **$332.20** | <span style="color:#e74c3c;white-space:nowrap">▼ 10.71%</span> | 2.2M |
+| 5 | [**ODFL**](https://www.moneydj.com/us/basic/basic0001/ODFL) | Old Dominion Freight Line, Inc. | Industrials | **$173.15** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.42%</span> | 4.3M |
+| 6 | [**BKR**](https://www.moneydj.com/us/basic/basic0001/BKR) | Baker Hughes Company | Energy | **$54.65** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.37%</span> | 15.2M |
+| 7 | [**BSX**](https://www.moneydj.com/us/basic/basic0001/BSX) | Boston Scientific Corporation | Health Care | **$42.33** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.06%</span> | 66.4M |
+| 8 | [**FTNT**](https://www.moneydj.com/us/basic/basic0001/FTNT) | Fortinet, Inc. | Information Technology | **$174.71** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.56%</span> | 6.6M |
+| 9 | [**GRMN**](https://www.moneydj.com/us/basic/basic0001/GRMN) | Garmin Ltd. | Consumer Discretionary | **$272.47** | <span style="color:#e74c3c;white-space:nowrap">▼ 5.83%</span> | 1.7M |
+| 10 | [**SW**](https://www.moneydj.com/us/basic/basic0001/SW) | Smurfit WestRock plc | Materials | **$40.46** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.89%</span> | 9.8M |
+| 11 | [**XYL**](https://www.moneydj.com/us/basic/basic0001/XYL) | Xylem Inc. | Industrials | **$88.36** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.85%</span> | 10.1M |
+| 12 | [**ESS**](https://www.moneydj.com/us/basic/basic0001/ESS) | Essex Property Trust, Inc. | Real Estate | **$261.53** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.85%</span> | 1.1M |
+| 13 | [**WM**](https://www.moneydj.com/us/basic/basic0001/WM) | Waste Management, Inc. | Industrials | **$225.45** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.39%</span> | 3.1M |
+| 14 | [**TYL**](https://www.moneydj.com/us/basic/basic0001/TYL) | Tyler Technologies, Inc. | Information Technology | **$360.69** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.73%</span> | 1.1M |
+| 15 | [**CASY**](https://www.moneydj.com/us/basic/basic0001/CASY) | Caseys General Stores, Inc. | Consumer Staples | **$669.24** | <span style="color:#e74c3c;white-space:nowrap">▼ 4.06%</span> | 612.6K |
+| 16 | [**ON**](https://www.moneydj.com/us/basic/basic0001/ON) | ON Semiconductor Corporation | Information Technology | **$75.61** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.88%</span> | 8.9M |
+| 17 | [**JBHT**](https://www.moneydj.com/us/basic/basic0001/JBHT) | J.B. Hunt Transport Services, I | Industrials | **$223.26** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.75%</span> | 901.7K |
+| 18 | [**BIIB**](https://www.moneydj.com/us/basic/basic0001/BIIB) | Biogen Inc. | Health Care | **$243.86** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.51%</span> | 1.9M |
+| 19 | [**HOOD**](https://www.moneydj.com/us/basic/basic0001/HOOD) | Robinhood Markets, Inc. | Financials | **$91.44** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.30%</span> | 36.4M |
+| 20 | [**HPQ**](https://www.moneydj.com/us/basic/basic0001/HPQ) | HP Inc. | Information Technology | **$32.45** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.37%</span> | 9.0M |
+| 21 | [**NOW**](https://www.moneydj.com/us/basic/basic0001/NOW) | ServiceNow, Inc. | Information Technology | **$150.10** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.02%</span> | 19.8M |
+| 22 | [**EXE**](https://www.moneydj.com/us/basic/basic0001/EXE) | Expand Energy Corporation | Energy | **$91.57** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.22%</span> | 4.3M |
+| 23 | [**TER**](https://www.moneydj.com/us/basic/basic0001/TER) | Teradyne, Inc. | Information Technology | **$313.56** | <span style="color:#e74c3c;white-space:nowrap">▼ 3.13%</span> | 4.4M |
 
-### XYL 下跌時的同步股分析
+### FFIV 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.51) | 22.4 | $22.1B | <span style="color:#e74c3c;white-space:nowrap">-8.55%</span> | <span style="color:#e74c3c;white-space:nowrap">-8.19%</span> | <span style="color:#e74c3c;white-space:nowrap">-23.27%</span> | <span style="color:#e74c3c;white-space:nowrap">-30.69%</span> |
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.58) | 29.2 | $20.7B | <span style="color:#e74c3c;white-space:nowrap">-20.58%</span> | <span style="color:#e74c3c;white-space:nowrap">-17.20%</span> | <span style="color:#e74c3c;white-space:nowrap">-6.53%</span> | <span style="color:#27ae60;white-space:nowrap">+42.72%</span> |
 
-**最新新聞**
-
-- 📰 Xylem Stock Plunges to 52-Week Low After Slashing 2026 Profit Outlook
-
-> 以過去 6 個月中 **XYL** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Industrials）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **FFIV** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**AXON**](https://www.moneydj.com/us/basic/basic0001/AXON) | Axon Enterprise | Industrials | <span style="color:#e74c3c;white-space:nowrap">-2.14%</span> | 0.248 |
-| [**LII**](https://www.moneydj.com/us/basic/basic0001/LII) | Lennox International | Industrials | <span style="color:#e74c3c;white-space:nowrap">-2.11%</span> | 0.335 |
-| [**HONA**](https://www.moneydj.com/us/basic/basic0001/HONA) | Honeywell Aerospace | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.99%</span> | 0.133 |
-| [**BA**](https://www.moneydj.com/us/basic/basic0001/BA) | Boeing | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.51%</span> | 0.496 |
-| [**EFX**](https://www.moneydj.com/us/basic/basic0001/EFX) | Equifax | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.46%</span> | 0.364 |
-| [**AOS**](https://www.moneydj.com/us/basic/basic0001/AOS) | A. O. Smith | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.38%</span> | 0.422 |
-| [**HUBB**](https://www.moneydj.com/us/basic/basic0001/HUBB) | Hubbell Incorporated | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.36%</span> | 0.344 |
-| [**FTV**](https://www.moneydj.com/us/basic/basic0001/FTV) | Fortive | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.25%</span> | 0.421 |
+| [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.44%</span> | 0.214 |
+| [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.43%</span> | 0.217 |
+| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.42%</span> | 0.247 |
+| [**AKAM**](https://www.moneydj.com/us/basic/basic0001/AKAM) | Akamai Technologies | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.34%</span> | 0.377 |
+| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.32%</span> | 0.193 |
+| [**ON**](https://www.moneydj.com/us/basic/basic0001/ON) | ON Semiconductor | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.26%</span> | 0.293 |
+| [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.20%</span> | 0.238 |
+| [**FLEX**](https://www.moneydj.com/us/basic/basic0001/FLEX) | Flex Ltd. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.15%</span> | 0.115 |
 
-### BA 下跌時的同步股分析
+### CSGP 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.65) | 76.3 | $132.5B | <span style="color:#e74c3c;white-space:nowrap">-12.04%</span> | <span style="color:#e74c3c;white-space:nowrap">-15.25%</span> | <span style="color:#e74c3c;white-space:nowrap">-23.29%</span> | <span style="color:#e74c3c;white-space:nowrap">-23.17%</span> |
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.56) | 61.7 | $11.0B | <span style="color:#e74c3c;white-space:nowrap">-17.66%</span> | <span style="color:#e74c3c;white-space:nowrap">-1.97%</span> | <span style="color:#e74c3c;white-space:nowrap">-4.02%</span> | <span style="color:#e74c3c;white-space:nowrap">-59.57%</span> |
 
-> 以過去 6 個月中 **BA** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Industrials）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **CSGP** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Real Estate）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**HONA**](https://www.moneydj.com/us/basic/basic0001/HONA) | Honeywell Aerospace | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.36%</span> | 0.245 |
-| [**LII**](https://www.moneydj.com/us/basic/basic0001/LII) | Lennox International | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.19%</span> | 0.257 |
-| [**AXON**](https://www.moneydj.com/us/basic/basic0001/AXON) | Axon Enterprise | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.17%</span> | 0.268 |
-| [**HWM**](https://www.moneydj.com/us/basic/basic0001/HWM) | Howmet Aerospace | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.03%</span> | 0.276 |
-| [**MAS**](https://www.moneydj.com/us/basic/basic0001/MAS) | Masco | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.91%</span> | 0.355 |
-| [**CPRT**](https://www.moneydj.com/us/basic/basic0001/CPRT) | Copart | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.84%</span> | 0.159 |
-| [**HUBB**](https://www.moneydj.com/us/basic/basic0001/HUBB) | Hubbell Incorporated | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.73%</span> | 0.355 |
-| [**FDXF**](https://www.moneydj.com/us/basic/basic0001/FDXF) | FedEx Freight | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.70%</span> | 0.061 |
+| [**CBRE**](https://www.moneydj.com/us/basic/basic0001/CBRE) | CBRE Group | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.80%</span> | 0.442 |
+| [**VICI**](https://www.moneydj.com/us/basic/basic0001/VICI) | Vici Properties | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.67%</span> | 0.466 |
+| [**AMT**](https://www.moneydj.com/us/basic/basic0001/AMT) | American Tower | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.66%</span> | 0.316 |
+| [**SBAC**](https://www.moneydj.com/us/basic/basic0001/SBAC) | SBA Communications | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.63%</span> | 0.218 |
+| [**CCI**](https://www.moneydj.com/us/basic/basic0001/CCI) | Crown Castle | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.63%</span> | 0.175 |
+| [**VMRK**](https://www.moneydj.com/us/basic/basic0001/VMRK) | Vivmark Residential | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.57%</span> | 0.464 |
+| [**MAA**](https://www.moneydj.com/us/basic/basic0001/MAA) | Mid-America Apartment Communities | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.54%</span> | 0.506 |
+| [**INVH**](https://www.moneydj.com/us/basic/basic0001/INVH) | Invitation Homes | Real Estate | <span style="color:#e74c3c;white-space:nowrap">-0.51%</span> | 0.487 |
 
-### VLO 下跌時的同步股分析
+### CHRW 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Sell</span> (-0.25) | 8.7 | $112.0B | <span style="color:#e74c3c;white-space:nowrap">-10.31%</span> | <span style="color:#27ae60;white-space:nowrap">+2.88%</span> | <span style="color:#27ae60;white-space:nowrap">+26.95%</span> | <span style="color:#27ae60;white-space:nowrap">+138.21%</span> |
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | 24.3 | $14.7B | <span style="color:#e74c3c;white-space:nowrap">-9.42%</span> | <span style="color:#e74c3c;white-space:nowrap">-12.99%</span> | <span style="color:#e74c3c;white-space:nowrap">-21.41%</span> | <span style="color:#e74c3c;white-space:nowrap">-21.16%</span> |
 
-> 以過去 6 個月中 **VLO** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Energy）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **CHRW** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Industrials）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**MPC**](https://www.moneydj.com/us/basic/basic0001/MPC) | Marathon Petroleum | Energy | <span style="color:#e74c3c;white-space:nowrap">-1.74%</span> | 0.910 |
-| [**PSX**](https://www.moneydj.com/us/basic/basic0001/PSX) | Phillips 66 | Energy | <span style="color:#e74c3c;white-space:nowrap">-1.57%</span> | 0.905 |
-| [**HAL**](https://www.moneydj.com/us/basic/basic0001/HAL) | Halliburton | Energy | <span style="color:#e74c3c;white-space:nowrap">-1.12%</span> | 0.390 |
-| [**DVN**](https://www.moneydj.com/us/basic/basic0001/DVN) | Devon Energy | Energy | <span style="color:#e74c3c;white-space:nowrap">-1.09%</span> | 0.473 |
-| [**FANG**](https://www.moneydj.com/us/basic/basic0001/FANG) | Diamondback Energy | Energy | <span style="color:#e74c3c;white-space:nowrap">-1.06%</span> | 0.463 |
-| [**OXY**](https://www.moneydj.com/us/basic/basic0001/OXY) | Occidental Petroleum | Energy | <span style="color:#e74c3c;white-space:nowrap">-1.05%</span> | 0.496 |
-| [**APA**](https://www.moneydj.com/us/basic/basic0001/APA) | APA Corporation | Energy | <span style="color:#e74c3c;white-space:nowrap">-1.03%</span> | 0.483 |
-| [**TPL**](https://www.moneydj.com/us/basic/basic0001/TPL) | Texas Pacific Land Corporation | Energy | <span style="color:#e74c3c;white-space:nowrap">-0.90%</span> | 0.262 |
+| [**BE**](https://www.moneydj.com/us/basic/basic0001/BE) | Bloom Energy | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.55%</span> | -0.086 |
+| [**JBHT**](https://www.moneydj.com/us/basic/basic0001/JBHT) | J.B. Hunt | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.46%</span> | 0.468 |
+| [**FDXF**](https://www.moneydj.com/us/basic/basic0001/FDXF) | FedEx Freight | Industrials | <span style="color:#e74c3c;white-space:nowrap">-1.14%</span> | 0.248 |
+| [**LII**](https://www.moneydj.com/us/basic/basic0001/LII) | Lennox International | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.84%</span> | 0.176 |
+| [**FDX**](https://www.moneydj.com/us/basic/basic0001/FDX) | FedEx | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.81%</span> | 0.290 |
+| [**HONA**](https://www.moneydj.com/us/basic/basic0001/HONA) | Honeywell Aerospace | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.81%</span> | 0.015 |
+| [**GNRC**](https://www.moneydj.com/us/basic/basic0001/GNRC) | Generac | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.77%</span> | 0.117 |
+| [**EXPD**](https://www.moneydj.com/us/basic/basic0001/EXPD) | Expeditors International | Industrials | <span style="color:#e74c3c;white-space:nowrap">-0.76%</span> | 0.515 |
 
 ---
 
-*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-10-27 15:46 ET，僅供參考，不構成投資建議。*
+*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-10-28 16:00 ET，僅供參考，不構成投資建議。*
