@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-28 19:53 台灣時間　｜　資料更新：2026-10-28 19:53 台灣時間
+> 更新時間：2026-10-29 01:42 台灣時間　｜　資料更新：2026-10-29 01:42 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic. As of October 18, IMF PortWatch recorded 4 transits (5% of pre-crisis baseline of 85/day). Iran declared the strait 'completely closed' on October 27, with 116 AIS-visible vessels holding offshore. Despite contested claims about oil flows via shuttle operations and Iranian-approved vessels, regular commercial transit is blocked. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial traffic. Iran declared closure on March 2, 2026, with only 2-4 vessels transiting daily versus 85 pre-war normal. US-facilitated southern route carries limited traffic. Status contested: Iran declares closed; some ships still transiting under US coordination. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 4 | 0 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 2 | 4 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **116** | 62 | 28 | 26 | <span style="color:#27ae60">0.00</span> |
+| **161** | 45 | 32 | 84 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8% | 0.2% | 40x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 持平 |
+| 1,524,400 | 10,300,000 | <span style="color:#e74c3c">14.8% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran reiterates 7-day ceasefire conditions; Gulf talks end without agreement as November 3 deadline approaches
+**頭條：** Iran reiterates seven-day ceasefire conditions as Tehran multilateral talks fail
 
-**各方：** Iran, United States, Qatar, Saudi Arabia, Pakistan
+**各方：** Iran, United States, Saudi Arabia, Turkey, Pakistan, Qatar
 
-> Iran on October 28 reiterated its seven-point ceasefire proposal, stating the Strait could reopen within 4-5 days if the US lifts its naval blockade, unfreezes $24 billion in assets, and meets Tehran's demands. Saudi-brokered talks in Tehran on October 26 ended without agreement or joint communiqué. Negotiations remain stalled with no formal talks scheduled, though mediators continue shuttle diplomacy ahead of the November 3 US midterm election.
+> Iran on October 28 reiterated conditions for reopening Hormuz: US must lift naval blockade and agree to Iran's seven-day ceasefire plan. Strait would reopen on day 6, negotiations on day 7. Tehran four-nation talks (Oct 26) failed to yield ceasefire agreement, but four-nation communiqué pledged continued dialogue. Qatar urging Iran to show goodwill by reopening strait.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.2B |
+| 21% | $3.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $0.95B | Japan, South Korea, China |
 
-> LNG shipments through Hormuz collapsed; Japan (90%+ LNG dependency), South Korea, and China facing acute shortages. Prices spiked as alternative suppliers and re-routing unavailable. Limited LNG can reach Asia via Suez or other routes; total global LNG trade impact approximately 25% at risk.
+> LNG transits through Hormuz reduced to minimal levels. Top importers Japan, South Korea, and China face 25% supply disruption risk. LNG spot prices elevated 80-120% above pre-crisis baseline. Demand destruction in price-sensitive sectors.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | 50-60% of diverted crude now routing Cape route; 10-15 day transit increase; significant cost escalation (~$500-800k per VLCC) |
-| Saudi East-West Pipeline (Petroline) | +0 天 | — | Running at reduced capacity (~5 mbpd capacity); damaged in June drone strike, resumed operations but significantly constrained; vulnerable to further attacks |
-| UAE Habshan-Fujairah Pipeline (ADCOP) | +0 天 | — | Limited capacity (~1.5 mbpd); overland cargo transshipment ($1,000/container surcharge via Maersk); cannot absorb diverted volumes |
+| Cape of Good Hope | +12 天 | $650 | Heavily utilized by rerouted tankers; adds 12 extra days and $650k per VLCC voyage; accounts for significant volume displacement from Hormuz. |
+| East-West Pipeline (Saudi) | +0 天 | — | Operated at full 5 mbpd capacity but Saudi-crude only; limited geographic reach; cannot serve Iran or Iraq routes. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; UAE crude bypass; limited impact on overall regional supply given 21% Hormuz dependency. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1400% | +2.1% | 71 天 |
+| +650% | +2.1% | 70 天 |
 
 **主要供應鏈事件**
 
-- Refined product shipments collapsed; diesel prices at or near record highs; global fuel crisis emerging
-- VLCC AG-East freight rose from $30-50k/day pre-war to $600k-$1.3M/day; 43-fold increase; freight now 27% of delivered crude cost
-- Petrochemical production cuts due to LPG/naphtha supply constraints; polymer and plastics shortages; knock-on effects across consumer goods
-- 15% of global VLCC fleet stranded outside Hormuz awaiting ship-to-ship transfers; voyage times extended 10-15 days; effective fleet capacity shrunk despite stable vessel count
+- VLCC rates at $450k-$650k/day (12-13x pre-crisis) for AG-East routes; freight adds $25-35/bbl to delivered crude cost
+- Global container shipping rates up 180-220% on Asia-Europe routes due to fleet repositioning and congestion
+- Manufacturing delays in semiconductors, automotive, and chemicals due to component shortages from Asian suppliers
+- Chemical/fertilizer production curtailed in India and Europe due to energy cost pass-through; agricultural sector facing input cost shocks
 
 ## 最新新聞
 
-- [Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state](https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela)　*The Guardian・2026-10-27*
-- [Oil slides as Mideast talks ease supply fears](https://www.thestar.com.my/business/2026/10/28/oil-slides-as-mideast-talks-ease-supply-fears)　*The Star・2026-10-27*
-- [Why Moscow shouldn’t fear a Democratic victory in the US midterms](https://rt-english.com/news/647858-us-midterms-russia-ukraine/)　*Rt・2026-10-27*
-- [Trump Floats Renaming Strait Of Hormuz After Himself, Claims US Is Winning War Against Iran](https://timesofindia.indiatimes.com/videos/international/trump-floats-renaming-strait-of-hormuz-after-himself-claims-us-is-winning-war-against-iran/videoshow/135245877.cms)　*The Times Of India・2026-10-27*
-- [UBS sees Brent near $110 by year-end, lifts 2027 forecasts on freight and supply risks](https://investinglive.com/commodities/ubs-sees-brent-near-110-by-year-end-lifts-2027-forecasts-on-freight-and-supply-risks/)　*Forexlive・2026-10-27*
+- [US warns Gulf states of possible military action after November 3 — WSJ](https://tass.com/world/2209199)　*Тасс・2026-10-28*
+- [US deploying additional Patriot air defense system to Israel — WSJ](https://tass.com/world/2209197)　*Тасс・2026-10-28*
+- [From Tank Buster To Drone Killer, Apache Attack Choppers Enter New Territory: Report](https://www.ndtv.com/world-news/from-tank-buster-to-drone-killer-apache-attack-choppers-enter-new-territory-says-report-12246436)　*Ndtv・2026-10-28*
+- [The Tehran opening](https://www.dawn.com/news/2040390/the-tehran-opening)　*Dawn・2026-10-28*
+- [Kaitlan Collins Exposes Trump With Supercut of Upset Voters](https://www.thedailybeast.com/kaitlan-collins-exposes-trump-with-supercut-of-upset-voters)　*The Daily Beast・2026-10-28*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-28 19:53 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-29 01:42 台灣時間，僅供參考，不構成投資建議。*
