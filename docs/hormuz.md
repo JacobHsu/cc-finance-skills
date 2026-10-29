@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-29 06:02 台灣時間　｜　資料更新：2026-10-29 06:02 台灣時間
+> 更新時間：2026-10-29 20:00 台灣時間　｜　資料更新：2026-10-29 20:00 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Iran maintains closure of Strait of Hormuz to commercial traffic; selective Iran-approved transits continue. US-facilitated southern corridor operating with ~30-34 vessels/day. Iran insists closure remains until seven conditions met based on Islamabad Memorandum. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Iran maintains effective closure to commercial traffic. IMF PortWatch recorded only 2 transits on October 25 vs. 85 pre-crisis daily baseline. Iran claims reopening only after US meets seven conditions including lifting blockade. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 30 | 2 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 2 | 2 | 60 | <span style="color:#e74c3c">2.4% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$115.22** | <span style="color:#e74c3c">-3.60</span> | <span style="color:#e74c3c">-3.03%</span> | 下跌 |
+| **$123.10** | <span style="color:#e74c3c">-5.02</span> | <span style="color:#e74c3c">-3.92%</span> | 上升 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **480** | 54 | 150 | 276 | <span style="color:#27ae60">0.00</span> |
+| **161** | 52 | 48 | 61 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 上升 |
+| 247,200 | 10,300,000 | <span style="color:#e74c3c">2.4% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** US VP Vance seeks to revive talks with Iran; Qatar mediating new proposal; Erdogan discusses Hormuz with Trump
+**頭條：** Iran presses seven-day Hormuz reopening plan; Trump denies peace talks underway
 
-**各方：** United States, Iran, Qatar, Turkey, Pakistan, Saudi Arabia
+**各方：** Iran, United States, Qatar, Saudi Arabia, Pakistan, Turkey, Oman
 
-> Vice President JD Vance sent letter to Iran's security chief seeking to revive peace talks. Iran Foreign Minister Araghchi confirmed Iran remains in contact with mediators on seven-day plan to reopen Strait. Qatar has introduced new proposal involving UN nuclear inspectors and sanctions relief. Pakistan presented balanced proposal with Mecca pact states as potential guarantors.
+> Iran's Foreign Minister Abbas Araghchi says Tehran remains in close contact with mediators on implementing a seven-day plan to reopen Hormuz, requiring US blockade lift and sanctions relief. Trump denies directed peace talks, though Qatar and other regional powers continue diplomatic efforts. US-Iran positions remain far apart on nuclear program concessions.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.8B | Japan, South Korea, China |
+| 25% | $0.8B | Japan, South Korea, China |
 
-> LNG trade severely disrupted; top importers face supply shortages and extreme spot premiums. Petrochemical supply chains fractured as feedstock (ethane, propane, LPG) diverted or depleted.
+> LNG flows severely constrained; September saw only 25 cargoes (19 Qatar, 6 UAE). Japan and South Korea face winter heating shortages. China's LNG imports down despite diversification.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Active; ~15-20% of oil traffic rerouted; container carriers largely suspending Hormuz transits entirely. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at near capacity; 5 mbpd relief; Saudi Arabia sole operator limits expansion. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating; 1.5 mbpd relief; critical for UAE exports; combined pipeline capacity only ~6.5 mbpd against 20+ mbpd Hormuz normal. |
-| Inland waterway and rail (CIS/China trade) | +5 天 | $150 | Minimal use; not viable for Gulf crude; relevant only for Russia-China energy corridor. |
+| Cape of Good Hope | +12 天 | $650 | Heavily utilized but insufficient to replace Hormuz volumes; adds 2.5 weeks transit time. |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating near full 7 mbpd capacity as of late October; damaged by drone strike in September, recently restored. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; provides limited bypass around Hormuz closure. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +312% | +2.8% | 70 天 |
+| +1200% | +3.5% | 70 天 |
 
 **主要供應鏈事件**
 
-- Petrochemical raw materials (ethane, propane, LPG) shortages driving 50%+ cost increases in packaging and synthetic fibers
-- Fertilizer (urea) exports from Gulf backlogged at 919,000 tonnes; prices collapsed from $780/t (April) to below $300/t (October)
-- Container shipping rates on Far East routes 344% above pre-war; supply chain lead times extended 30-40 days on Asia-Europe lanes
-- Brent crude at $114-115/bbl; Far East refining margin compression reducing processing volumes and triggering maintenance delays
+- Container shipping rates jumped globally; Maersk and others imposed emergency surcharges. Red Sea port congestion worsening with vessel delays and cargo shift to Saudi highways.
+- Diesel crisis—refined product shipments remain constrained as refined Middle East exports struggle to escape via Hormuz or pipelines. Diesel prices at/near records globally.
+- Fertilizer and agricultural input shortages rippling through food-importing regions, pushing food prices up 5-8% in vulnerable markets (Middle East, Africa, South Asia).
+- VLCC spot rates reached $1.2M+ per day on TD3C, up from $117K pre-war. War insurance alone adds $10-15M per supertanker voyage, making many routes uneconomical.
 
 ## 最新新聞
 
-- [Saudi Arabia's ally or Houthis' secret helper? Report claims UAE secretly sharing intel with Iran-backed rebels](https://www.moneycontrol.com/world/saudi-arabia-s-ally-or-houthis-secret-helper-report-claims-uae-secretly-sharing-intel-with-iran-backed-rebels-article-14062494.html)　*Moneycontrol・2026-10-28*
-- [The Commodities Feed: European Gas and Asian LNG Surge After Qatar Halts Operation](https://au.investing.com/analysis/the-commodities-feed-european-gas-and-asian-lng-surge-after-qatar-halts-operation-200612113)　*Investing Australia・2026-10-28*
-- [Diwali 2026: Sensex plunged 10,000 points, Nifty dropped 12% since last Diwali. Will Samvat 2083 bring some relief?](https://economictimes.indiatimes.com/markets/stocks/news/diwali-2026-sensex-plunged-10000-points-nifty-dropped-12-since-last-diwali-will-samvat-2083-bring-some-relief/articleshow/135259845.cms)　*The Economic Times・2026-10-28*
-- [American Century Emerging Markets Fund Q3 2026 Commentary](https://seekingalpha.com/article/4958381-american-century-emerging-markets-fund-q3-2026-commentary)　*Seeking Alpha・2026-10-28*
-- [US cruise ship suspends global voyage in Asia due to fuel costs, passengers stranded](https://www.kcra.com/article/us-cruise-asia-suspended-fuel-costs-passengers-stranded/74268634)　*Kcra・2026-10-28*
+- [An ‘endless cruise’ goes broke, stranding passengers](https://www.bostonglobe.com/2026/10/28/lifestyle/endless-cruise-goes-broke/)　*The Boston Globe・2026-10-28*
+- [US military rejects Iranian mine-strike claims, says Hormuz transit lanes remain 'clear'](https://gulfnews.com/world/mena/us-military-rejects-iranian-mine-strike-claims-says-hormuz-transit-lanes-remain-clear-1.500727648)　*Gulf News・2026-10-28*
+- [The Islamic Republic only survives on war — don’t give Tehran what it craves](https://nypost.com/2026/10/28/opinion/the-islamic-republic-only-survives-on-war-dont-give-tehran-what-it-craves/)　*New York Post・2026-10-28*
+- [Vance Turns to Iran Hardliner in Bid to Revive Talks as Trump Threatens Strikes](https://www.timesnownews.com/world/middle-east/us-iran-war-latest-updates-jd-vance-letter-mohsen-rezaei-trump-strikes-warning-article-156424913)　*Times Now News・2026-10-28*
+- [5 Indicators James Talarico Has a Better Shot Than Beto O'Rourke in Texas](https://www.newsweek.com/james-talarico-ken-paxton-beto-orourke-texas-senate-12632947)　*Newsweek・2026-10-28*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-29 06:02 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-29 20:00 台灣時間，僅供參考，不構成投資建議。*
