@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-31 01:30 台灣時間　｜　資料更新：2026-10-31 01:30 台灣時間
+> 更新時間：2026-10-31 05:49 台灣時間　｜　資料更新：2026-10-31 05:49 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial traffic with only 2-4 transits per day vs 85 pre-crisis baseline. Iran actively restricting navigation, mining routes, attacking tankers. Multiple vessels hit by mines/attacks on Oct 30, 2026. Qatari mediators engaged in renewed talks as military tensions intensify. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping as of October 30, 2026. Only 2 vessels transited on October 25 versus pre-crisis baseline of ~85 per day. Recent attacks on tankers continue; Iran claims four tankers hit mines on October 29, disputed by US. Negotiations ongoing but no breakthrough. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 2 | 60 | <span style="color:#e74c3c">2.4% ⚠️</span> |
+| 2 | 2 | 60 | <span style="color:#e74c3c">2.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **61** | 18 | 265 | 0 | <span style="color:#e74c3c">-100.00</span> |
+| **492** | 120 | 265 | 107 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 247,200 | 10,300,000 | <span style="color:#e74c3c">2.4% ⚠️</span> | 上升 |
+| 8,240,000 | 10,300,000 | <span style="color:#f39c12">80.0%</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Qatar mediators return to Tehran for new round of talks amid escalating military tensions
+**頭條：** Iran proposes seven-day plan to reopen Hormuz; Qatar mediating as US-Iran talks remain stalled
 
-**各方：** Iran, United States, Qatar, Oman, Pakistan
+**各方：** Iran, United States, Qatar, Pakistan, Saudi Arabia
 
-> Qatari mediators are in Tehran on October 30 for another round of talks aimed at ending the US-Iran war, following recent intensification of attacks on tankers in the strait. Iran continues to deny direct negotiations with the US, instead claiming talks with Oman over strait management. Previous ceasefire (April 8 - July 8, 2026) and June 17 interim agreement both broke down; current diplomatic efforts remain stalled on core issues including Iranian control, fees, and long-term arrangements.
+> Iran's Foreign Minister Abbas Araghchi outlined a seven-day framework on October 28, 2026, whereby Hormuz would reopen by day six if the US lifts its blockade on Iranian ports and halts attacks. Qatar is leading mediation efforts. US Vice President JD Vance recently attempted to restart negotiations. Talks remain stalled over competing demands, with limited progress expected before November 3 US elections.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $12.5B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $3.2B | Japan, South Korea, China |
+| 25% | $0.95B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade normally transits Hormuz. Japan, South Korea, and China face acute supply disruptions with LNG prices elevated and availability constrained. Alternative LNG sourcing limited and more expensive.
+> 25% of global LNG transits Hormuz. Japan, South Korea, and China collectively account for majority of affected LNG flows. Supply tightening has elevated LNG prices and forced buyers to seek alternative suppliers and extended contracts.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increasingly used; requires 10-15 additional days transit time and $500-800k additional cost per VLCC voyage. |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating at 5 mbpd capacity; Saudi-controlled, limited spare capacity. |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at 1.5 mbpd capacity; increasingly congested with 28% of idle bulk vessels anchored at Fujairah. |
+| Cape of Good Hope (Africa route) | +12 天 | $650 | Heavily utilized by rerouted tankers; traffic at alternate ports (Fujairah, Yanbu) elevated; 75% of normal exports via Cape route as of late October. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at partial capacity; 5 mbpd capacity insufficient to offset Hormuz closure. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Fujairah terminal holding 28% of 265 waiting dry bulk vessels as of October 28; providing alternative export route but limited capacity (1.5 mbpd). |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1450% | +8.5% | 68 天 |
+| +850% | +4.2% | 71 天 |
 
 **主要供應鏈事件**
 
-- VLCC freight rates Middle East-China route reached WS776-1,318 (vs WS50 pre-war); single tanker earnings $862k-$1.37M/day causing oil equivalent of $30-37/bbl freight cost
-- Container shipping rates Transpacific elevated 60% above June 2026 levels; Asia-Europe under downward pressure but Middle East routes up 5.4%
-- Global shipping demand stable but spot rates volatile; Middle East exception with rates rising due to ongoing disruptions; war-risk insurance 40x peacetime levels blocking most commercial transit
-- US Strategic Petroleum Reserve at approximately 350-385 million barrels; can sustain maximum 4.4M bbl/day withdrawal for ~68 days before hitting structural heel of 58M barrels
+- VLCC spot rates at record $1.33m/day (Oct 2026) versus pre-crisis $50-60 WS; freight now represents 27% of delivered crude cost versus 3% pre-crisis
+- War-risk insurance premiums 6-10% of hull value per transit (~40x pre-war levels); six major P&I clubs have withdrawn cover
+- 6,000-11,000 seafarers stranded in Gulf region; IMO coordinating evacuation; major shipping carriers suspended Hormuz transits
+- Global crude prices elevated; Brent at $115+ per barrel; refined product shortages in Asia forcing demand destruction and price inflation
 
 ## 最新新聞
 
-- [Gold Rate Today, October 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities](https://indianexpress.com/article/india/gold-rate-today-october-30-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10942947/)　*The Indian Express・2026-10-30*
-- [Tanker Attacked With Explosive Devices In Strait Of Hormuz, Crew Safe](https://www.ndtv.com/world-news/iran-us-tensions-tanker-attacked-with-explosive-devices-in-strait-of-hormuz-crew-safe-12257107)　*Ndtv・2026-10-30*
-- [India Pins UN Security Council Seat Hope On AI-led Maritime Security Pitch](https://www.ndtv.com/world-news/india-pins-un-security-council-seat-hope-on-ai-led-maritime-security-pitch-12257102)　*Ndtv・2026-10-30*
-- [Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus](https://newsable.asianetnews.com/markets/dow-s-p-500-nasdaq-futures-fall-as-weak-tech-earnings-trigger-selloff-intc-iova-sls-amzn-stocks-in-focus-articleshow-ovlm8wm)　*Asianet Newsable・2026-10-30*
-- [U.S. carrier jets fly near-daily missions to protect ships in the Strait of Hormuz](https://digg.com/world-business/re0jpa85)　*Digg・2026-10-30*
+- [Iran's secret network of 5,000 agencies helped import $2 billion in military supplies despite US blockade: Report](https://www.hindustantimes.com/world-news/iran-used-secret-web-of-5000-agencies-to-import-2-billion-worth-military-hardware-bypass-us-blockade-report-101793348029499.html)　*Hindustan Times・2026-10-30*
+- [Putin is 'ready for war' with the West as he hints at world-ending nuclear strikes](https://www.dailystar.co.uk/news/world-news/putin-ready-war-west-hints-37825306)　*Dailystar Co Uk・2026-10-30*
+- [Israel Vote Results Leave Netanyahu, Eisenkot Blocs Short of Majority as Iran Threat Rises](https://www1.cbn.com/cbnnews/israel/2026/october/israel-vote-results-leave-netanyahu-eisenkot-blocs-short-of-majority-as-iran-threat-rises)　*Cbn News ,the Christian Perspective・2026-10-30*
+- [Pentagon warns European leaders to stop 'poking' Russia - as Putin warns he is 'prepared for war'](https://www.dailymail.com/news/article-16251761/Pentagon-European-leaders-stop-poking-Russia.html)　*Mail Online・2026-10-30*
+- [The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard](https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/)　*Wired・2026-10-30*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-31 01:30 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-31 05:49 台灣時間，僅供參考，不構成投資建議。*
