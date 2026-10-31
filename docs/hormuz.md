@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-10-31 05:49 台灣時間　｜　資料更新：2026-10-31 05:49 台灣時間
+> 更新時間：2026-10-31 19:28 台灣時間　｜　資料更新：2026-10-31 19:28 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial shipping as of October 30, 2026. Only 2 vessels transited on October 25 versus pre-crisis baseline of ~85 per day. Recent attacks on tankers continue; Iran claims four tankers hit mines on October 29, disputed by US. Negotiations ongoing but no breakthrough. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial shipping. Iran maintains blockade with ongoing attacks on transiting vessels, disputed mine clearance, and conditional reopening proposal. US counter-blockade of Iranian ports in effect. Latest: Four tankers claimed hit by Iran on Oct 29-30, Oman rescued 25 sailors from burning tanker Oct 30. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 2 | 60 | <span style="color:#e74c3c">2.3% ⚠️</span> |
+| 2 | 2 | 60 | <span style="color:#e74c3c">2.4% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **492** | 120 | 265 | 107 | <span style="color:#27ae60">0.00</span> |
+| **350** | 140 | 265 | 0 | <span style="color:#27ae60">+4.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 8,240,000 | 10,300,000 | <span style="color:#f39c12">80.0%</span> | 上升 |
+| 206,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran proposes seven-day plan to reopen Hormuz; Qatar mediating as US-Iran talks remain stalled
+**頭條：** Trump: Iran wants to negotiate; Qatar pushing diplomatic deal before Nov 3 midterm elections
 
-**各方：** Iran, United States, Qatar, Pakistan, Saudi Arabia
+**各方：** Iran, United States, Qatar, Saudi Arabia, Pakistan, Turkey, Oman
 
-> Iran's Foreign Minister Abbas Araghchi outlined a seven-day framework on October 28, 2026, whereby Hormuz would reopen by day six if the US lifts its blockade on Iranian ports and halts attacks. Qatar is leading mediation efforts. US Vice President JD Vance recently attempted to restart negotiations. Talks remain stalled over competing demands, with limited progress expected before November 3 US elections.
+> Trump says Iran wants to talk as Oct 31 deadline approaches and strike moratorium expires Nov 3. Qatar mediators pushing for diplomatic framework; Iran Foreign Minister outlined seven-day ceasefire plan (lift blockade, reopen strait by day 6, talks by day 7). Regional actors (Saudi Arabia, Pakistan, Turkey) agreed Oct 26 to continue peace discussions. No formal US-Iran negotiations scheduled yet; competing hardline positions persist.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.95B | Japan, South Korea, China |
+| 25% | $0.6B | Japan, South Korea, China |
 
-> 25% of global LNG transits Hormuz. Japan, South Korea, and China collectively account for majority of affected LNG flows. Supply tightening has elevated LNG prices and forced buyers to seek alternative suppliers and extended contracts.
+> 25% of global LNG transits Hormuz. Top importers Japan, South Korea, China facing supply constraints and elevated pricing. LNG rate volatility reflects both transit risk and alternative route premiums.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope (Africa route) | +12 天 | $650 | Heavily utilized by rerouted tankers; traffic at alternate ports (Fujairah, Yanbu) elevated; 75% of normal exports via Cape route as of late October. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at partial capacity; 5 mbpd capacity insufficient to offset Hormuz closure. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Fujairah terminal holding 28% of 265 waiting dry bulk vessels as of October 28; providing alternative export route but limited capacity (1.5 mbpd). |
+| Cape of Good Hope | +12 天 | $650 | Heavy rerouting in effect; 10-15 day delays; vessels queuing at Suez and around Africa |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at reduced capacity ~3 mbpd (down from 5 mbpd); damaged in Apr/Sep 2026; partial alternative to Hormuz |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; critical pressure point; 265 dry bulk vessels anchored waiting in Gulf of Oman as of Oct 28 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +850% | +4.2% | 71 天 |
+| +1200% | +0.8% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates at record $1.33m/day (Oct 2026) versus pre-crisis $50-60 WS; freight now represents 27% of delivered crude cost versus 3% pre-crisis
-- War-risk insurance premiums 6-10% of hull value per transit (~40x pre-war levels); six major P&I clubs have withdrawn cover
-- 6,000-11,000 seafarers stranded in Gulf region; IMO coordinating evacuation; major shipping carriers suspended Hormuz transits
-- Global crude prices elevated; Brent at $115+ per barrel; refined product shortages in Asia forcing demand destruction and price inflation
+- Container shipping rates increased $850/TEU to $3400/TEU on Asia-Europe routes; 90%+ decline in container transits
+- Tanker freight rates peaked at $451k/day (WS 1,318) in Sept; Oct mid-month at WS 776 Gulf-Oman-China; extreme volatility continues
+- LNG spot rates elevated; Japan importing at 300%+ above pre-war; long-term contracts stabilize some buyer costs
+- Global food/fertilizer prices rising: urea +15%, phosphate +12%; Red Sea disruptions compounding Hormuz impact
 
 ## 最新新聞
 
-- [Iran's secret network of 5,000 agencies helped import $2 billion in military supplies despite US blockade: Report](https://www.hindustantimes.com/world-news/iran-used-secret-web-of-5000-agencies-to-import-2-billion-worth-military-hardware-bypass-us-blockade-report-101793348029499.html)　*Hindustan Times・2026-10-30*
-- [Putin is 'ready for war' with the West as he hints at world-ending nuclear strikes](https://www.dailystar.co.uk/news/world-news/putin-ready-war-west-hints-37825306)　*Dailystar Co Uk・2026-10-30*
-- [Israel Vote Results Leave Netanyahu, Eisenkot Blocs Short of Majority as Iran Threat Rises](https://www1.cbn.com/cbnnews/israel/2026/october/israel-vote-results-leave-netanyahu-eisenkot-blocs-short-of-majority-as-iran-threat-rises)　*Cbn News ,the Christian Perspective・2026-10-30*
-- [Pentagon warns European leaders to stop 'poking' Russia - as Putin warns he is 'prepared for war'](https://www.dailymail.com/news/article-16251761/Pentagon-European-leaders-stop-poking-Russia.html)　*Mail Online・2026-10-30*
-- [The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard](https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/)　*Wired・2026-10-30*
+- [MOU talks with governments could run past deadline, Imperial Oil CEO says](https://www.theglobeandmail.com/business/article-mou-talks-could-run-past-deadline-imperial-oil-ceo/)　*Theglobeandmail・2026-10-30*
+- [Power, fertiliser fuel LNG import surge](https://timesofindia.indiatimes.com/business/india-business/power-fertiliser-fuel-lng-import-surge/articleshow/135379662.cms)　*The Times Of India・2026-10-30*
+- [Saudi oil keeps flowing despite attacks, say trackers: Why counting barrels is not easy](https://gulfnews.com/business/energy/saudi-oil-keeps-flowing-despite-attacks-say-trackers-why-counting-barrels-is-not-easy-1.500730059)　*Gulf News・2026-10-30*
+- [Iran says multiple oil tankers strike mines, catch fire in Strait of Hormuz](https://www.hindustantimes.com/world-news/iran-says-multiple-oil-tankers-strike-mines-catch-fire-in-strait-of-hormuz-101793395035292.html)　*Hindustan Times・2026-10-30*
+- [As war-driven fuel prices drive up cost of travel, will it matter during the holidays?](https://www.bostonherald.com/2026/10/30/as-war-driven-fuel-prices-drive-up-cost-of-travel-will-it-matter-during-the-holidays/)　*Boston Herald・2026-10-30*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-31 05:49 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-10-31 19:28 台灣時間，僅供參考，不構成投資建議。*
