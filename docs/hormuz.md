@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-01 04:49 台灣時間　｜　資料更新：2026-11-01 04:49 台灣時間
+> 更新時間：2026-11-01 20:24 台灣時間　｜　資料更新：2026-11-01 20:24 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to normal commercial traffic since the US-Israel attacks on Iran began on February 28, 2026. As of late October 2026, only 2-8 vessels are transiting daily (2-8% of the 85-day pre-crisis baseline), compared to the normal 60+ ships. About 492 vessels are waiting outside the strait as of October 25, and Iran continues to insist it will remain closed until the US meets seven conditions outlined in the Islamabad Memorandum. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait effectively closed to commercial traffic. IMF PortWatch recorded 2 transits on Oct 25 vs ~85/day normal. Crisis ongoing with occasional vessel attacks, mines, and insurance blocking transit despite sporadic escorted convoys. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 6 | 60 | <span style="color:#e74c3c">7.0% ⚠️</span> |
+| 9 | 10 | 60 | <span style="color:#e74c3c">2.4% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **492** | 120 | 180 | 192 | <span style="color:#27ae60">0.00</span> |
+| **129** | 45 | 35 | 49 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 72,100 | 10,300,000 | <span style="color:#e74c3c">0.7% ⚠️</span> | 上升 |
+| 247,200 | 10,300,000 | <span style="color:#e74c3c">2.4% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran pushes seven-day Hormuz reopening plan; US rejects direct peace talks but mediators continue efforts
+**頭條：** Qatar and Pakistan mediate as Iran proposes reopening strait within days if conditions met
 
-**各方：** Iran, United States, Qatar (mediator), Pakistan (mediator), Oman
+**各方：** Iran, United States, Qatar, Pakistan, Oman
 
-> Iran's Foreign Minister Abbas Araghchi stated on October 28 that Tehran is discussing a seven-day plan to reopen Hormuz with mediators, including a Qatari delegation that visited Tehran on October 27. The plan calls for ceasefire and lifting of US blockade on Iranian ports, with Hormuz reopening on day 6 and negotiations starting on day 7. US President Trump rejected reports of renewed peace talks on October 31, though mediators including Qatar, Pakistan, and Oman continue diplomatic efforts to prevent renewed conflict after US midterm elections on November 3.
+> Sources close to mediation efforts report Iran and US have agreed on preliminary measures concerning nuclear program, Strait of Hormuz navigation, and financial incentives. Iran proposes reopening within 2 days if US sanctions lifted. Talks ongoing despite Trump's threat of new strikes post-election; peace remains elusive as conditions compete.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.5B |
+| 21% | $3.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $0.8B | Japan, South Korea, China |
 
-> ~25% of global LNG trade (primarily from Qatar and UAE) normally transits Hormuz. With 0.7% of normal throughput, LNG prices have surged; Japan faces acute supply constraints for winter heating needs. Spot LNG premiums elevated 300%+ above pre-crisis levels.
+> 25% of global LNG passes through Strait. Japan, South Korea, and China face supply rationing and price spikes. LNG prices elevated as carriers avoid Hormuz transit routes.
 
 **受影響地區**
 
@@ -75,38 +75,36 @@
 | China | HIGH | 40% |
 | India | HIGH | 60% |
 | European Union | MODERATE | 20% |
-| Saudi Arabia | CRITICAL | 100% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used by rerouting tankers; ballast tankers avoiding Hormuz entirely. Increased traffic at Cape adding delays of 2-5 days. |
-| Saudi East-West Pipeline (Petroline) | +0 天 | — | Operating at ~60% capacity (5 mbpd of 10 mbpd nameplate); Saudi-only; limited expansion potential. Refinery bottlenecks in Red Sea ports limit throughput. |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at full 1.5 mbpd capacity; UAE-only crude; insufficient to relieve Gulf exports. |
-| Iranian Goreh-Jask Pipeline | +0 天 | — | Closed or minimal use; Iran unable to fully utilize due to conflict and US naval presence in northern Indian Ocean. |
+| Cape of Good Hope | +12 天 | $650 | Major rerouting occurring. Shipping rates on West Africa-China VLCC routes elevated at $400k-500k/day due to spillover from Hormuz congestion. |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at full 5 mbpd capacity since March 2026. Partially offset by drone attack reducing capacity 700 kbpd in April. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity. Ship-to-ship transfers in Gulf of Oman now primary mechanism; ~80 VLCCs tied up in shuttle work at elevated rates. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +2100% | +3.5% | 70 天 |
+| +2000% | +12.5% | 57 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates surged from pre-crisis $50-60 WS to 1,208+ WS (TD3C MEG-China); a single voyage now costs $1.4M+ vs $200k pre-war. Tanker owner profits at all-time highs but shipping costs devastating for refiners and end consumers.
-- Global crude barrel equivalent shipping premium now $8-15/bbl due to combined Hormuz war-risk + alternative-route costs; translates to $0.30-0.50/gallon gasoline price impact in US and EU.
-- US SPR can sustain maximum 4.4 mbpd withdrawal rate for ~70 days before hitting structural heel; currently at ~350-385M barrels. Strategic reserve provides cushion through late December 2026 but cannot sustainably bridge multi-month Hormuz closure.
-- Chinese shadow-fleet vessels now account for ~80% of Hormuz transits but lack insurance; loss of a single $200M vessel uninsured = cascading port-call defaults, amplifying credit spreads across shipping-finance markets.
+- Tanker freight rates surge to $1M+/day for Hormuz-Asia routes; freight now 27% of delivered crude value vs 3% pre-war
+- Global crude and product shortages force strategic reserve drawdowns; US SPR at 283M barrels (40-year low), 57 days of max release remaining
+- Container shipping diverted; major carriers impose $300-1000/TEU Hormuz surcharges; Asia-Europe transit times extended 14+ days via Cape
+- Downstream refining margins compress as crude prices surge to $92-117/bbl range; consumer fuel prices elevated 15-25% depending on region
 
 ## 最新新聞
 
-- [Egyptian foreign minister 'extremely worried' US-Iran escalation will have major impact on Mideast](https://www.jpost.com/middle-east/iran-news/article-913384)　*Jpost・2026-10-31*
-- [G20 Meeting In US Begins On Rocky Note As European Ministers Refuse 'Family Photo' With Russia's Lavrov](https://news.abplive.com/news/world/g20-meeting-in-us-begins-on-rocky-note-as-european-ministers-refuse-family-photo-with-russia-s-lavrov-1874112)　*Abp News・2026-10-31*
-- [Iran's Sea Mine Threat Raises Alarm In Hormuz As 8 Vessels Reportedly Hit | Shipping At Risk](https://timesofindia.indiatimes.com/videos/international/irans-sea-mine-threat-raises-alarm-in-hormuz-as-8-vessels-reportedly-hit-shipping-at-risk/videoshow/135394698.cms)　*The Times Of India・2026-10-31*
-- [US and Iran to Join Direct Talks in Doha Following New Breakthrough](https://newsable.asianetnews.com/world/us-and-iran-to-join-direct-talks-in-doha-following-new-breakthrough-articleshow-2mgpbcq)　*Asianet Newsable・2026-10-31*
-- [Uranium transfer, Strait of Hormuz reopening: Key takeaways from Iran-US draft proposal](https://www.hindustantimes.com/world-news/uranium-transfer-strait-of-hormuz-reopening-key-takeaways-from-iran-us-draft-proposal-101793429781633.html)　*Hindustan Times・2026-10-31*
+- [Iran’s Supreme Leader prepares commanders for massive attack after midterms](https://www.the-express.com/news/world-news/218907/irans-supreme-leader-midterms-attack)　*Daily Express Us・2026-10-31*
+- [Iran-US war to erupt again? Iranian Supreme Leader Warns US, Israel but Tehran offers Strait of Hormuz deal](https://economictimes.indiatimes.com/news/international/us/iran-us-war-to-erupt-again-iranian-supreme-leader-warns-us-israel-but-tehran-offers-strait-of-hormuz-deal/articleshow/135414002.cms)　*The Economic Times・2026-10-31*
+- [Why tensions between Iran, Israel and the United States are rising again](https://www.sbs.com.au/news/article/why-tensions-between-iran-israel-united-states-rising-again/jhd73lf3n)　*Sbs News・2026-10-31*
+- [China sees the yuan vs. dollar rivalry like Pepsi vs. Coke, expert says — ‘never the market leader, but serviceable in a pinch’](https://fortune.com/2026/10/31/china-us-currency-wars-yuan-vs-dollar-pepsi-coke-pretodollar-dedollarization/)　*Fortune・2026-10-31*
+- [Australia and Indonesia are neighbours, but can they become good friends?](https://www.abc.net.au/news/2026-11-01/boyer-lectures-australia-indonesia-neighbours-by-choice/107315382)　*Abc・2026-10-31*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-01 04:49 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-01 20:24 台灣時間，僅供參考，不構成投資建議。*
