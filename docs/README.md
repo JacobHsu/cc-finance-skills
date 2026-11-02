@@ -1,99 +1,93 @@
 # 美股當日跌幅榜
 
-> 更新時間：2026-10-30 15:48 ET（19:48 UTC）
+> 更新時間：2026-11-02 17:57 ET（22:57 UTC）
 
 ## S&P 500 Top Losers
 
 | # | 代碼 | 公司名稱 | 產業 | 現價 | 跌幅 | 成交量 |
 |---|------|----------|------|------|------|--------|
-| 1 | [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel Corporation | Information Technology | **$64.45** | <span style="color:#e74c3c;white-space:nowrap">▼ 30.00%</span> | 379.1M |
-| 2 | [**RDDT**](https://www.moneydj.com/us/basic/basic0001/RDDT) | Reddit, Inc. | Communication Services | **$91.86** | <span style="color:#e74c3c;white-space:nowrap">▼ 29.12%</span> | 29.5M |
-| 3 | [**ILMN**](https://www.moneydj.com/us/basic/basic0001/ILMN) | Illumina, Inc. | Health Care | **$237.51** | <span style="color:#e74c3c;white-space:nowrap">▼ 18.12%</span> | 4.3M |
-| 4 | [**TWLO**](https://www.moneydj.com/us/basic/basic0001/TWLO) | Twilio Inc. | Information Technology | **$205.75** | <span style="color:#e74c3c;white-space:nowrap">▼ 14.94%</span> | 5.8M |
-| 5 | [**SNDK**](https://www.moneydj.com/us/basic/basic0001/SNDK) | Sandisk Corporation | Information Technology | **$1,143.36** | <span style="color:#e74c3c;white-space:nowrap">▼ 14.04%</span> | 15.0M |
-| 6 | [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | **$207.87** | <span style="color:#e74c3c;white-space:nowrap">▼ 12.37%</span> | 10.1M |
-| 7 | [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices, Inc. | Information Technology | **$499.70** | <span style="color:#e74c3c;white-space:nowrap">▼ 11.78%</span> | 29.8M |
-| 8 | [**COIN**](https://www.moneydj.com/us/basic/basic0001/COIN) | Coinbase Global, Inc. | Financials | **$141.11** | <span style="color:#e74c3c;white-space:nowrap">▼ 12.13%</span> | 17.1M |
-| 9 | [**DELL**](https://www.moneydj.com/us/basic/basic0001/DELL) | Dell Technologies Inc. | Information Technology | **$420.69** | <span style="color:#e74c3c;white-space:nowrap">▼ 11.53%</span> | 8.1M |
-| 10 | [**QCOM**](https://www.moneydj.com/us/basic/basic0001/QCOM) | QUALCOMM Incorporated | Information Technology | **$164.13** | <span style="color:#e74c3c;white-space:nowrap">▼ 11.48%</span> | 15.6M |
-| 11 | [**MRVL**](https://www.moneydj.com/us/basic/basic0001/MRVL) | Marvell Technology, Inc. | Information Technology | **$194.91** | <span style="color:#e74c3c;white-space:nowrap">▼ 10.73%</span> | 32.4M |
-| 12 | [**DDOG**](https://www.moneydj.com/us/basic/basic0001/DDOG) | Datadog, Inc. | Information Technology | **$236.92** | <span style="color:#e74c3c;white-space:nowrap">▼ 10.88%</span> | 4.6M |
-| 13 | [**APP**](https://www.moneydj.com/us/basic/basic0001/APP) | Applovin Corporation | Communication Services | **$229.97** | <span style="color:#e74c3c;white-space:nowrap">▼ 9.78%</span> | 7.5M |
-| 14 | [**HPQ**](https://www.moneydj.com/us/basic/basic0001/HPQ) | HP Inc. | Information Technology | **$28.77** | <span style="color:#e74c3c;white-space:nowrap">▼ 9.60%</span> | 21.1M |
-| 15 | [**NTAP**](https://www.moneydj.com/us/basic/basic0001/NTAP) | NetApp, Inc. | Information Technology | **$197.81** | <span style="color:#e74c3c;white-space:nowrap">▼ 9.44%</span> | 1.6M |
-| 16 | [**STX**](https://www.moneydj.com/us/basic/basic0001/STX) | Seagate Technology Holdings PLC | Information Technology | **$635.79** | <span style="color:#e74c3c;white-space:nowrap">▼ 9.23%</span> | 4.5M |
-| 17 | [**BE**](https://www.moneydj.com/us/basic/basic0001/BE) | Bloom Energy Corporation | Industrials | **$202.16** | <span style="color:#e74c3c;white-space:nowrap">▼ 9.06%</span> | 14.0M |
-| 18 | [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena Corporation | Information Technology | **$318.21** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.94%</span> | 2.2M |
-| 19 | [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum Holdings Inc. | Information Technology | **$840.51** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.59%</span> | 6.7M |
-| 20 | [**ANET**](https://www.moneydj.com/us/basic/basic0001/ANET) | Arista Networks, Inc. | Information Technology | **$168.26** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.66%</span> | 5.6M |
-| 21 | [**HOOD**](https://www.moneydj.com/us/basic/basic0001/HOOD) | Robinhood Markets, Inc. | Financials | **$83.83** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.47%</span> | 22.4M |
-| 22 | [**TER**](https://www.moneydj.com/us/basic/basic0001/TER) | Teradyne, Inc. | Information Technology | **$271.89** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.22%</span> | 4.1M |
+| 1 | [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum Holdings Inc. | Information Technology | **$684.40** | <span style="color:#e74c3c;white-space:nowrap">▼ 18.59%</span> | 15.1M |
+| 2 | [**MRVL**](https://www.moneydj.com/us/basic/basic0001/MRVL) | Marvell Technology, Inc. | Information Technology | **$171.41** | <span style="color:#e74c3c;white-space:nowrap">▼ 12.72%</span> | 61.1M |
+| 3 | [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena Corporation | Information Technology | **$284.34** | <span style="color:#e74c3c;white-space:nowrap">▼ 11.34%</span> | 4.4M |
+| 4 | [**P**](https://www.moneydj.com/us/basic/basic0001/P) | Everpure, Inc. | Information Technology | **$113.78** | <span style="color:#e74c3c;white-space:nowrap">▼ 10.40%</span> | 3.9M |
+| 5 | [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel Corporation | Information Technology | **$59.97** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.80%</span> | 227.5M |
+| 6 | [**ORCL**](https://www.moneydj.com/us/basic/basic0001/ORCL) | Oracle Corporation | Information Technology | **$119.22** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.76%</span> | 58.2M |
+| 7 | [**DDOG**](https://www.moneydj.com/us/basic/basic0001/DDOG) | Datadog, Inc. | Information Technology | **$216.10** | <span style="color:#e74c3c;white-space:nowrap">▼ 8.15%</span> | 4.6M |
+| 8 | [**STX**](https://www.moneydj.com/us/basic/basic0001/STX) | Seagate Technology Holdings PLC | Information Technology | **$593.76** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.88%</span> | 5.4M |
+| 9 | [**SMCI**](https://www.moneydj.com/us/basic/basic0001/SMCI) | Super Micro Computer, Inc. | Information Technology | **$30.44** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.62%</span> | 40.6M |
+| 10 | [**APA**](https://www.moneydj.com/us/basic/basic0001/APA) | APA Corporation | Energy | **$48.82** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.57%</span> | 7.0M |
+| 11 | [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices, Inc. | Information Technology | **$466.84** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.52%</span> | 31.8M |
+| 12 | [**WDC**](https://www.moneydj.com/us/basic/basic0001/WDC) | Western Digital Corporation | Information Technology | **$338.59** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.52%</span> | 7.2M |
+| 13 | [**DELL**](https://www.moneydj.com/us/basic/basic0001/DELL) | Dell Technologies Inc. | Information Technology | **$392.78** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.43%</span> | 6.5M |
+| 14 | [**FTNT**](https://www.moneydj.com/us/basic/basic0001/FTNT) | Fortinet, Inc. | Information Technology | **$126.21** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.25%</span> | 11.9M |
+| 15 | [**HPE**](https://www.moneydj.com/us/basic/basic0001/HPE) | Hewlett Packard Enterprise Comp | Information Technology | **$51.19** | <span style="color:#e74c3c;white-space:nowrap">▼ 7.08%</span> | 16.4M |
+| 16 | [**NTAP**](https://www.moneydj.com/us/basic/basic0001/NTAP) | NetApp, Inc. | Information Technology | **$185.26** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.99%</span> | 2.5M |
+| 17 | [**DVN**](https://www.moneydj.com/us/basic/basic0001/DVN) | Devon Energy Corporation | Energy | **$48.63** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.75%</span> | 11.3M |
+| 18 | [**SNDK**](https://www.moneydj.com/us/basic/basic0001/SNDK) | Sandisk Corporation | Information Technology | **$1,075.08** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.59%</span> | 10.3M |
+| 19 | [**AKAM**](https://www.moneydj.com/us/basic/basic0001/AKAM) | Akamai Technologies, Inc. | Information Technology | **$86.69** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.50%</span> | 4.2M |
+| 20 | [**TRGP**](https://www.moneydj.com/us/basic/basic0001/TRGP) | Targa Resources, Inc. | Energy | **$294.73** | <span style="color:#e74c3c;white-space:nowrap">▼ 6.43%</span> | 1.8M |
 
-### INTC 下跌時的同步股分析
+### LITE 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.69) | — | $337.0B | <span style="color:#e74c3c;white-space:nowrap">-25.80%</span> | <span style="color:#e74c3c;white-space:nowrap">-45.15%</span> | <span style="color:#e74c3c;white-space:nowrap">-34.09%</span> | <span style="color:#27ae60;white-space:nowrap">+68.77%</span> |
-
-> 以過去 6 個月中 **INTC** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
-
-| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
-|------|----------|------|----------------|----------|
-| [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.01%</span> | 0.633 |
-| [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.37%</span> | 0.604 |
-| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.28%</span> | 0.537 |
-| [**MU**](https://www.moneydj.com/us/basic/basic0001/MU) | Micron Technology | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.20%</span> | 0.686 |
-| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.14%</span> | 0.531 |
-| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.04%</span> | 0.722 |
-| [**MRVL**](https://www.moneydj.com/us/basic/basic0001/MRVL) | Marvell Technology | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.00%</span> | 0.623 |
-| [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.74%</span> | 0.795 |
-
-### RDDT 下跌時的同步股分析
-
-| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
-|----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | 18.6 | $17.5B | <span style="color:#e74c3c;white-space:nowrap">-38.45%</span> | <span style="color:#e74c3c;white-space:nowrap">-38.23%</span> | <span style="color:#e74c3c;white-space:nowrap">-38.32%</span> | <span style="color:#e74c3c;white-space:nowrap">-60.76%</span> |
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | — | $62.0B | <span style="color:#e74c3c;white-space:nowrap">-10.69%</span> | <span style="color:#e74c3c;white-space:nowrap">-35.02%</span> | <span style="color:#e74c3c;white-space:nowrap">-19.70%</span> | <span style="color:#27ae60;white-space:nowrap">+80.40%</span> |
 
 **最新新聞**
 
-- 📰 Reddit, Inc. Stock 12‑Month Price Target Cut to $171.78, Implies 33% Upside
+- 📰 Lumentum Holdings Inc. Stock 12‑Month Price Target Cut to $1151.77, Implies 37% Upside
 
-> 以過去 6 個月中 **RDDT** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Communication Services）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **LITE** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**APP**](https://www.moneydj.com/us/basic/basic0001/APP) | AppLovin | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-1.91%</span> | 0.471 |
-| [**GOOGL**](https://www.moneydj.com/us/basic/basic0001/GOOGL) | Alphabet Inc. (Class A) | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-0.90%</span> | 0.201 |
-| [**NFLX**](https://www.moneydj.com/us/basic/basic0001/NFLX) | Netflix | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-0.90%</span> | 0.265 |
-| [**GOOG**](https://www.moneydj.com/us/basic/basic0001/GOOG) | Alphabet Inc. (Class C) | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-0.89%</span> | 0.202 |
-| [**TTWO**](https://www.moneydj.com/us/basic/basic0001/TTWO) | Take-Two Interactive | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-0.73%</span> | 0.347 |
-| [**CHTR**](https://www.moneydj.com/us/basic/basic0001/CHTR) | Charter Communications | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-0.69%</span> | 0.109 |
-| [**META**](https://www.moneydj.com/us/basic/basic0001/META) | Meta Platforms | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-0.68%</span> | 0.306 |
-| [**FOXA**](https://www.moneydj.com/us/basic/basic0001/FOXA) | Fox Corporation (Class A) | Communication Services | <span style="color:#e74c3c;white-space:nowrap">-0.62%</span> | 0.186 |
+| [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.77%</span> | 0.863 |
+| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.44%</span> | 0.761 |
+| [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.31%</span> | 0.717 |
+| [**MRVL**](https://www.moneydj.com/us/basic/basic0001/MRVL) | Marvell Technology | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.10%</span> | 0.663 |
+| [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.87%</span> | 0.546 |
+| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.62%</span> | 0.655 |
+| [**AMAT**](https://www.moneydj.com/us/basic/basic0001/AMAT) | Applied Materials | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.55%</span> | 0.643 |
+| [**KLAC**](https://www.moneydj.com/us/basic/basic0001/KLAC) | KLA Corporation | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.32%</span> | 0.560 |
 
-### ILMN 下跌時的同步股分析
+### MRVL 下跌時的同步股分析
 
 | 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
 |----------|-----------|------|-----|-----|-----|-----|
-| <span style="color:#e74c3c;font-weight:bold">Sell</span> (-0.29) | 40.8 | $35.9B | <span style="color:#e74c3c;white-space:nowrap">-10.15%</span> | <span style="color:#e74c3c;white-space:nowrap">-12.88%</span> | <span style="color:#27ae60;white-space:nowrap">+16.88%</span> | <span style="color:#27ae60;white-space:nowrap">+80.91%</span> |
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | 56.4 | $150.3B | <span style="color:#e74c3c;white-space:nowrap">-25.16%</span> | <span style="color:#e74c3c;white-space:nowrap">-38.34%</span> | <span style="color:#e74c3c;white-space:nowrap">-18.38%</span> | <span style="color:#27ae60;white-space:nowrap">+97.61%</span> |
 
-**最新新聞**
-
-- 📰 Illumina, Inc. Stock 12‑Month Price Target Raised to $261.58, Implies 10% Downside
-
-> 以過去 6 個月中 **ILMN** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Health Care）各股的平均報酬與相關係數。
+> 以過去 6 個月中 **MRVL** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
 
 | 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
 |------|----------|------|----------------|----------|
-| [**RVTY**](https://www.moneydj.com/us/basic/basic0001/RVTY) | Revvity | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.76%</span> | 0.548 |
-| [**MRNA**](https://www.moneydj.com/us/basic/basic0001/MRNA) | Moderna | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.74%</span> | 0.292 |
-| [**CRL**](https://www.moneydj.com/us/basic/basic0001/CRL) | Charles River Laboratories | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.74%</span> | 0.500 |
-| [**A**](https://www.moneydj.com/us/basic/basic0001/A) | Agilent Technologies | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.59%</span> | 0.449 |
-| [**TMO**](https://www.moneydj.com/us/basic/basic0001/TMO) | Thermo Fisher Scientific | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.51%</span> | 0.475 |
-| [**IQV**](https://www.moneydj.com/us/basic/basic0001/IQV) | IQVIA | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.43%</span> | 0.370 |
-| [**MTD**](https://www.moneydj.com/us/basic/basic0001/MTD) | Mettler Toledo | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.38%</span> | 0.314 |
-| [**ALGN**](https://www.moneydj.com/us/basic/basic0001/ALGN) | Align Technology | Health Care | <span style="color:#e74c3c;white-space:nowrap">-0.36%</span> | 0.135 |
+| [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-5.26%</span> | 0.734 |
+| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.89%</span> | 0.663 |
+| [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.16%</span> | 0.634 |
+| [**CIEN**](https://www.moneydj.com/us/basic/basic0001/CIEN) | Ciena | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.12%</span> | 0.642 |
+| [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.10%</span> | 0.683 |
+| [**MU**](https://www.moneydj.com/us/basic/basic0001/MU) | Micron Technology | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.63%</span> | 0.671 |
+| [**AMD**](https://www.moneydj.com/us/basic/basic0001/AMD) | Advanced Micro Devices | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.57%</span> | 0.681 |
+| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.55%</span> | 0.701 |
+
+### CIEN 下跌時的同步股分析
+
+| 技術建議 | 本益比(PE) | 市值 | 1W | 1M | 3M | YTD |
+|----------|-----------|------|-----|-----|-----|-----|
+| <span style="color:#e74c3c;font-weight:bold">Strong Sell</span> (-0.60) | 63.4 | $40.3B | <span style="color:#e74c3c;white-space:nowrap">-12.26%</span> | <span style="color:#e74c3c;white-space:nowrap">-26.15%</span> | <span style="color:#e74c3c;white-space:nowrap">-32.15%</span> | <span style="color:#27ae60;white-space:nowrap">+17.98%</span> |
+
+> 以過去 6 個月中 **CIEN** 單日跌幅逾 0.5% 的交易日為基準，統計同產業（Information Technology）各股的平均報酬與相關係數。
+
+| 代碼 | 公司名稱 | 產業 | 下跌日平均報酬 | 相關係數 |
+|------|----------|------|----------------|----------|
+| [**COHR**](https://www.moneydj.com/us/basic/basic0001/COHR) | Coherent Corp. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.30%</span> | 0.750 |
+| [**LITE**](https://www.moneydj.com/us/basic/basic0001/LITE) | Lumentum | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-4.08%</span> | 0.761 |
+| [**GLW**](https://www.moneydj.com/us/basic/basic0001/GLW) | Corning Inc. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.41%</span> | 0.695 |
+| [**MRVL**](https://www.moneydj.com/us/basic/basic0001/MRVL) | Marvell Technology | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.19%</span> | 0.642 |
+| [**FLEX**](https://www.moneydj.com/us/basic/basic0001/FLEX) | Flex Ltd. | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.13%</span> | 0.586 |
+| [**INTC**](https://www.moneydj.com/us/basic/basic0001/INTC) | Intel | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-3.09%</span> | 0.548 |
+| [**LRCX**](https://www.moneydj.com/us/basic/basic0001/LRCX) | Lam Research | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.93%</span> | 0.651 |
+| [**MU**](https://www.moneydj.com/us/basic/basic0001/MU) | Micron Technology | Information Technology | <span style="color:#e74c3c;white-space:nowrap">-2.72%</span> | 0.608 |
 
 ---
 
-*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-10-30 15:48 ET，僅供參考，不構成投資建議。*
+*資料來源：Yahoo Finance（via yfinance）。自動產生於 2026-11-02 17:57 ET，僅供參考，不構成投資建議。*
