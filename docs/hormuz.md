@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-04 06:43 台灣時間　｜　資料更新：2026-11-04 06:43 台灣時間
+> 更新時間：2026-11-04 21:31 台灣時間　｜　資料更新：2026-11-04 21:31 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping since February 28, 2026. US conducting defensive strikes on Iranian targets as of November 3, 2026. Only 2-7 vessels transiting daily vs 60+ pre-war normal. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains officially RESTRICTED with approximately 11% of normal AIS-visible transits (9.0 ships/day avg). Iran maintains selective control requiring permits via Persian Gulf Strait Authority. US CENTCOM maintains traffic separation scheme has been cleared of mines, though comprehensive return to normal shipping has not materialized. Crisis status ongoing for 249 days. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 7 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 9 | 7 | 60 | <span style="color:#e74c3c">11.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **158** | 45 | 65 | 48 | <span style="color:#27ae60">0.00</span> |
+| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 339,900 | 10,300,000 | <span style="color:#e74c3c">3.3% ⚠️</span> | 上升 |
+| 1,133,000 | 10,300,000 | <span style="color:#e74c3c">11.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran-Qatar mediators propose 2-day reopening plan; US sends mixed signals ahead of November 3 elections
+**頭條：** Iran offers two-day Hormuz reopening if US meets conditions; Trump signals deal possible
 
-**各方：** Iran, United States, Qatar, Pakistan, Oman
+**各方：** Iran, United States, Qatar (mediator), Pakistan (mediator), China
 
-> Iran's Foreign Minister reported discussions in Doha on a plan to reopen the Strait within two days if Washington meets Tehran's conditions. Trump stated talks were 'going fine' but also threatened further military action. Iran continues negotiations with Oman on safe shipping routes while US involvement remains indirect.
+> As of November 2, Iran's Foreign Minister Abbas Araghchi offered to reopen the Strait of Hormuz within two days if the US meets Tehran's demands, which include a halt to fighting on all fronts and lifting of naval blockade. Iran's Supreme Leader granted government expanded negotiating authority. Trump signaled optimism saying Iran wants settlement "as soon as possible," though cautioning talks were "not very reliable."
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $12.5B |
+| 21% | $1.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $3.2B | Japan, South Korea, China |
+| 25% | $0.35B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Top LNG importers face severe supply constraints and record-high insurance premiums making import economics unfeasible.
+> Approximately 25% of global LNG transits Hormuz. QatarEnergy declared force majeure on LNG shipments covering Pakistani and at least one Indian buyer through November 2026. Top three LNG importers (Japan, South Korea, China) face significant supply curtailment and elevated spot pricing.
 
 **受影響地區**
 
@@ -74,37 +74,38 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| Europe | MODERATE | 20% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Widely used for rerouting; significant congestion at southern African ports |
-| East-West Pipeline | +0 天 | — | Limited to 5 mbpd; Saudi crude only; nearing capacity constraints |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | 1.5 mbpd capacity; accumulating vessels in UAE anchorages awaiting export |
+| Cape of Good Hope | +12 天 | $650 | Widely adopted for oil cargoes; routing premium of ~$650k-800k per VLCC voyage typical. Higher bunker costs and extended voyage duration add 10-15 days to transit. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Capacity reduced under wartime conditions to ~3 Mbbl/d; pumping stations damaged by Iranian attacks in April 2026; operational but limited throughput. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Capacity 1.5 Mbbl/d; operational but insufficient to offset full Hormuz disruption; serves UAE and limited regional exports. |
+| Kirkuk-Ceyhan Pipeline (Iraq) | +0 天 | — | Iraq exports ~250,000-750,000 bpd via Turkey; contract extended August 2026 for one year; bypass route for Iraqi crude to Mediterranean. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +2450% | +4.2% | 68 天 |
+| +320% | +3.2% | 67 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates peaked at $451k/day (WS 1318) in September; currently elevated at $1.2M+ round-trip
-- Container shipping rates up 300-400%; major carriers (Maersk, CMA CGM) suspended Persian Gulf bookings
-- LNG import costs multiplied 8-12x; Japan and South Korea facing industrial production constraints
-- Refineries reducing crude intake; downstream product prices rising 15-25% in affected regions
+- VLCC charter rates surged from $30-50k/day pre-war to $600k-1.3 million/day (Oct-Nov 2026), raising cost per barrel shipped by ~$24-35; freight now 43x higher than January 2026.
+- Global container shipping delayed 7-21 days; port congestion behind the strait; alternative routing via Suez and Cape extending schedules; container rates elevated 40-60% on affected trades.
+- Food price inflation pressures emerging as grains and agricultural products face routing delays; supply chain reconfiguration favoring Atlantic Basin over Gulf sourcing; fertilizer production at risk from energy costs.
+- Manufacturing input delays across Asia; semiconductor and automotive component shortages developing; inventory management disrupted; supply contracts invoking force majeure provisions globally.
 
 ## 最新新聞
 
-- [Explainer: How GCC can avoid being drawn into another US-Iran war escalation](https://www.khaleejtimes.com/world/gulf/explainer-how-gcc-can-avoid-being-drawn-into-another-us-iran-war-escalation)　*Khaleej Times・2026-11-03*
-- [India seeks US LNG through Qatar under 20-year supply deal as Iran war disrupts imports](https://www.moneycontrol.com/news/business/india-seeks-us-lng-through-qatar-under-20-year-supply-deal-as-iran-war-disrupts-imports-14067657.html)　*Moneycontrol・2026-11-03*
-- [Iran says 'ball in America's court to prevent war', sends 'finger on the trigger' warning to Trump amid Hormuz talks](https://www.moneycontrol.com/world/iran-says-ball-in-america-s-court-to-prevent-war-sends-finger-on-the-trigger-warning-to-trump-amid-hormuz-talks-article-14067648.html)　*Moneycontrol・2026-11-03*
-- [Iran-US deal still out of reach, says senior Iranian official](https://www.deccanherald.com/middle-east/iran-us-deal-still-out-of-reach-says-senior-iranian-official-4205584)　*Deccan Herald・2026-11-03*
-- [Conventum - Alluvium Global Fund Q3 2026 Report](https://seekingalpha.com/article/4961344-conventum-alluvium-global-fund-q3-2026-report)　*Seeking Alpha・2026-11-03*
+- [Midterms Reality Check? Trump Says US Has No Immediate Plan To Strike Iran](https://www.news18.com/world/midterms-reality-check-trump-says-us-has-no-immediate-plan-to-strike-iran-10411565.html)　*News 18・2026-11-04*
+- [Trump says no immediate plan to strike Iran as Netanyahu hints at attack this week](https://investinglive.com/commodities/trump-says-no-immediate-plan-to-strike-iran-as-netanyahu-hints-at-attack-this-week/)　*Forexlive・2026-11-03*
+- [Iran speaker: Ball in Trump administration court to prevent renewed war](https://thehill.com/policy/international/6194470-us-iran-strait-hormuz-conflict/)　*The Hill・2026-11-03*
+- [Live election updates: Supreme Court rejects Trump's push to sideline California ballots](https://www.nj.com/politics/2026/11/live-updates-midterm-election-2026-trump-makes-final-pitch-as-administration-appeals-to-supreme-court-over-ballots.html)　*Nj・2026-11-03*
+- [Trump confirms US strikes on Iran's Qeshm Island: ‘We watched it get built — then we hit it’](https://gulfnews.com/world/mena/trump-confirms-us-strikes-on-irans-qeshm-island-we-watched-it-get-built-then-we-hit-it-1.500735008)　*Gulf News・2026-11-03*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-04 06:43 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-04 21:31 台灣時間，僅供參考，不構成投資建議。*
