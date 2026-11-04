@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-04 21:31 台灣時間　｜　資料更新：2026-11-04 21:31 台灣時間
+> 更新時間：2026-11-05 07:01 台灣時間　｜　資料更新：2026-11-05 07:01 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains officially RESTRICTED with approximately 11% of normal AIS-visible transits (9.0 ships/day avg). Iran maintains selective control requiring permits via Persian Gulf Strait Authority. US CENTCOM maintains traffic separation scheme has been cleared of mines, though comprehensive return to normal shipping has not materialized. Crisis status ongoing for 249 days. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to normal commercial traffic since February 28, 2026. Iran requires permits and fees through its Strait Authority; US blockade in force since July 14; attacks on ships continue. IMF PortWatch recorded only 2 transits on October 25 against pre-crisis baseline of 85 per day. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 9 | 7 | 60 | <span style="color:#e74c3c">11.0% ⚠️</span> |
+| 6 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
+| **123** | 45 | 35 | 43 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,133,000 | 10,300,000 | <span style="color:#e74c3c">11.0% ⚠️</span> | 下跌 |
+| 1,030,000 | 10,300,000 | <span style="color:#e74c3c">10.0% ⚠️</span> | 下跌 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran offers two-day Hormuz reopening if US meets conditions; Trump signals deal possible
+**頭條：** Iran says US response to Hormuz reopening plan 'unconvincing' as indirect talks via Qatar continue
 
-**各方：** Iran, United States, Qatar (mediator), Pakistan (mediator), China
+**各方：** Iran, United States, Qatar (mediator), China (mediator), Pakistan (mediator)
 
-> As of November 2, Iran's Foreign Minister Abbas Araghchi offered to reopen the Strait of Hormuz within two days if the US meets Tehran's demands, which include a halt to fighting on all fronts and lifting of naval blockade. Iran's Supreme Leader granted government expanded negotiating authority. Trump signaled optimism saying Iran wants settlement "as soon as possible," though cautioning talks were "not very reliable."
+> Iran and US engaged in intensive indirect negotiations via Qatari mediators. Iran proposed reopening the strait within 2 days if US meets seven conditions including lifting naval blockade and sanctions relief. US response deemed insufficient by Iran's security chief Mohsen Rezaei. Trump confirmed US strikes on Iranian positions November 4, signaling continued military pressure alongside diplomatic efforts.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $1.8B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.35B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG transits Hormuz. QatarEnergy declared force majeure on LNG shipments covering Pakistani and at least one Indian buyer through November 2026. Top three LNG importers (Japan, South Korea, China) face significant supply curtailment and elevated spot pricing.
+> Qatar's LNG exports severely restricted. Japanese importers face 2-4x spot prices for alternative suppliers. South Korean and Chinese buyers seeking alternatives from Australia and US but at premium rates.
 
 **受影響地區**
 
@@ -80,32 +80,32 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Widely adopted for oil cargoes; routing premium of ~$650k-800k per VLCC voyage typical. Higher bunker costs and extended voyage duration add 10-15 days to transit. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Capacity reduced under wartime conditions to ~3 Mbbl/d; pumping stations damaged by Iranian attacks in April 2026; operational but limited throughput. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Capacity 1.5 Mbbl/d; operational but insufficient to offset full Hormuz disruption; serves UAE and limited regional exports. |
-| Kirkuk-Ceyhan Pipeline (Iraq) | +0 天 | — | Iraq exports ~250,000-750,000 bpd via Turkey; contract extended August 2026 for one year; bypass route for Iraqi crude to Mediterranean. |
+| Cape of Good Hope | +12 天 | $650 | Heavy rerouting; most non-Hormuz traffic now transits Cape. Backlog building at Cape ports. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5.5 mbpd capacity; limited expansion capacity. Used for Saudi crude bypass. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; UAE crude bypass option; fully utilized. |
+| Kirkuk-Ceyhan Pipeline (Iraq-Turkey) | +0 天 | — | 750,000 bpd capacity being utilized; extended through August 2026, negotiations ongoing for longer-term agreement. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +320% | +3.2% | 67 天 |
+| +1250% | +3.5% | 67 天 |
 
 **主要供應鏈事件**
 
-- VLCC charter rates surged from $30-50k/day pre-war to $600k-1.3 million/day (Oct-Nov 2026), raising cost per barrel shipped by ~$24-35; freight now 43x higher than January 2026.
-- Global container shipping delayed 7-21 days; port congestion behind the strait; alternative routing via Suez and Cape extending schedules; container rates elevated 40-60% on affected trades.
-- Food price inflation pressures emerging as grains and agricultural products face routing delays; supply chain reconfiguration favoring Atlantic Basin over Gulf sourcing; fertilizer production at risk from energy costs.
-- Manufacturing input delays across Asia; semiconductor and automotive component shortages developing; inventory management disrupted; supply contracts invoking force majeure provisions globally.
+- Brent crude at $104.46 as of November 3 (down 6.4% on ceasefire talks); WTI volatile around $95-105 range
+- Refined product flows 50% below pre-war levels; distillate/fuel oil margins compressed
+- Shipping insurance premiums at 6-10% of hull value vs 0.25% pre-war; route risk now dominates voyage economics
+- Automotive/manufacturing supply chains stretched; refineries in Asia operating single-train due to throughput constraints
 
 ## 最新新聞
 
-- [Midterms Reality Check? Trump Says US Has No Immediate Plan To Strike Iran](https://www.news18.com/world/midterms-reality-check-trump-says-us-has-no-immediate-plan-to-strike-iran-10411565.html)　*News 18・2026-11-04*
-- [Trump says no immediate plan to strike Iran as Netanyahu hints at attack this week](https://investinglive.com/commodities/trump-says-no-immediate-plan-to-strike-iran-as-netanyahu-hints-at-attack-this-week/)　*Forexlive・2026-11-03*
-- [Iran speaker: Ball in Trump administration court to prevent renewed war](https://thehill.com/policy/international/6194470-us-iran-strait-hormuz-conflict/)　*The Hill・2026-11-03*
-- [Live election updates: Supreme Court rejects Trump's push to sideline California ballots](https://www.nj.com/politics/2026/11/live-updates-midterm-election-2026-trump-makes-final-pitch-as-administration-appeals-to-supreme-court-over-ballots.html)　*Nj・2026-11-03*
-- [Trump confirms US strikes on Iran's Qeshm Island: ‘We watched it get built — then we hit it’](https://gulfnews.com/world/mena/trump-confirms-us-strikes-on-irans-qeshm-island-we-watched-it-get-built-then-we-hit-it-1.500735008)　*Gulf News・2026-11-03*
+- [Do you think UK will suffer after Trump’s defeat in US midterms? VOTE NOW](https://www.thesun.co.uk/news/40909011/will-uk-suffer-trump-defeat-midterms/)　*The Sun・2026-11-04*
+- [Iran exempts Indian ships from Strait of Hormuz restrictions, allows free passage: Report](https://www.moneycontrol.com/world/iran-exempts-indian-ships-from-strait-of-hormuz-restrictions-allows-free-passage-report-article-14069563.html)　*Moneycontrol・2026-11-04*
+- [CEOs need a new playbook after a midterm rebuke of Trump](https://fortune.com/2026/11/04/ceos-playbook-midterm-elections-trump-rebuke/)　*Fortune・2026-11-04*
+- [Iran Exempts India, China, Iraq, Qatar From Hormuz Restrictions: What's Behind The Move?](https://www.ndtvprofit.com/world/iran-exempts-india-china-iraq-and-qatar-from-hormuz-restrictions-whats-behind-the-move-12282048)　*Ndtv・2026-11-04*
+- [Trump Announces End to U.S. Military Aid to Israel as Political Uncertainty and Iran Tensions Mount](https://www1.cbn.com/cbnnews/israel/2026/november/trump-announces-end-to-u-s-military-aid-to-israel-as-political-uncertainty-and-iran-tensions-mount)　*Cbn News ,the Christian Perspective・2026-11-04*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-04 21:31 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-05 07:01 台灣時間，僅供參考，不構成投資建議。*
