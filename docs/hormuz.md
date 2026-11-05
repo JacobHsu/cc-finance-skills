@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-05 07:01 台灣時間　｜　資料更新：2026-11-05 07:01 台灣時間
+> 更新時間：2026-11-05 21:46 台灣時間　｜　資料更新：2026-11-05 21:46 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to normal commercial traffic since February 28, 2026. Iran requires permits and fees through its Strait Authority; US blockade in force since July 14; attacks on ships continue. IMF PortWatch recorded only 2 transits on October 25 against pre-crisis baseline of 85 per day. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic. Iran will not reopen until US ends naval blockade and meets Tehran's seven demands including sanctions relief. As of Nov 5, fewer than 10 daily transits vs. pre-crisis 140. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
+| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$123.10** | <span style="color:#e74c3c">-5.02</span> | <span style="color:#e74c3c">-3.92%</span> | 上升 |
+| **$107.03** | <span style="color:#e74c3c">-0.36</span> | <span style="color:#e74c3c">-0.34%</span> | 下跌 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **123** | 45 | 35 | 43 | <span style="color:#27ae60">0.00</span> |
+| **120** | 55 | 40 | 25 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8% | 0.15% | 53.3x |
+| 2% | 0.15% | 13.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 1,030,000 | 10,300,000 | <span style="color:#e74c3c">10.0% ⚠️</span> | 下跌 |
+| 339,900 | 10,300,000 | <span style="color:#e74c3c">3.3% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran says US response to Hormuz reopening plan 'unconvincing' as indirect talks via Qatar continue
+**頭條：** Intensive US-Iran negotiations via Qatar and Pakistan; Iran proposes 2-day implementation for reopening if US meets seven conditions
 
-**各方：** Iran, United States, Qatar (mediator), China (mediator), Pakistan (mediator)
+**各方：** United States, Iran, Qatar, Pakistan, Oman, China
 
-> Iran and US engaged in intensive indirect negotiations via Qatari mediators. Iran proposed reopening the strait within 2 days if US meets seven conditions including lifting naval blockade and sanctions relief. US response deemed insufficient by Iran's security chief Mohsen Rezaei. Trump confirmed US strikes on Iranian positions November 4, signaling continued military pressure alongside diplomatic efforts.
+> Indirect talks ongoing in Doha and via Qatar/Pakistan mediation. Iran's Foreign Minister Araghchi proposed reopening Strait within 2 days if US accepts 7 conditions: sanctions relief, end to naval blockade, release of frozen funds, end to fighting on all fronts. Iranian officials say US response 'not convincing' but diplomatic channels remain active ahead of US elections.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $0.6B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.8B | Japan, South Korea, China |
+| 25% | $0.15B | Japan, South Korea, China |
 
-> Qatar's LNG exports severely restricted. Japanese importers face 2-4x spot prices for alternative suppliers. South Korean and Chinese buyers seeking alternatives from Australia and US but at premium rates.
+> 25% of global LNG trade disrupted; Asian importers face critical supply constraints and elevated spot prices. Japan, South Korea face potential power generation constraints.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavy rerouting; most non-Hormuz traffic now transits Cape. Backlog building at Cape ports. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5.5 mbpd capacity; limited expansion capacity. Used for Saudi crude bypass. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; UAE crude bypass option; fully utilized. |
-| Kirkuk-Ceyhan Pipeline (Iraq-Turkey) | +0 天 | — | 750,000 bpd capacity being utilized; extended through August 2026, negotiations ongoing for longer-term agreement. |
+| Cape of Good Hope | +12 天 | $650 | Actively used but costly and distant; adds significant time and fuel costs |
+| East-West Crude Pipeline (Saudi) | +0 天 | — | Shutdown since Sept 11, 2026 as precaution after attacks; 5 mbpd capacity offline |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at limited capacity; only 1.5 mbpd relief available |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1250% | +3.5% | 67 天 |
+| +1200% | +3.5% | 70 天 |
 
 **主要供應鏈事件**
 
-- Brent crude at $104.46 as of November 3 (down 6.4% on ceasefire talks); WTI volatile around $95-105 range
-- Refined product flows 50% below pre-war levels; distillate/fuel oil margins compressed
-- Shipping insurance premiums at 6-10% of hull value vs 0.25% pre-war; route risk now dominates voyage economics
-- Automotive/manufacturing supply chains stretched; refineries in Asia operating single-train due to throughput constraints
+- VLCC rates at $862k/day vs. $25-35k pre-crisis; Cape routing adds weeks and $650k/vessel
+- War-risk insurance 2-5% of hull value vs. 0.15% pre-crisis; some underwriters refusing coverage
+- Global fertilizer and ammonia supply disruption with 60-90 day lag into food price inflation
+- Container shipping suspensions; major carriers (Maersk) halted Hormuz transits; widespread supply chain delays
 
 ## 最新新聞
 
-- [Do you think UK will suffer after Trump’s defeat in US midterms? VOTE NOW](https://www.thesun.co.uk/news/40909011/will-uk-suffer-trump-defeat-midterms/)　*The Sun・2026-11-04*
-- [Iran exempts Indian ships from Strait of Hormuz restrictions, allows free passage: Report](https://www.moneycontrol.com/world/iran-exempts-indian-ships-from-strait-of-hormuz-restrictions-allows-free-passage-report-article-14069563.html)　*Moneycontrol・2026-11-04*
-- [CEOs need a new playbook after a midterm rebuke of Trump](https://fortune.com/2026/11/04/ceos-playbook-midterm-elections-trump-rebuke/)　*Fortune・2026-11-04*
-- [Iran Exempts India, China, Iraq, Qatar From Hormuz Restrictions: What's Behind The Move?](https://www.ndtvprofit.com/world/iran-exempts-india-china-iraq-and-qatar-from-hormuz-restrictions-whats-behind-the-move-12282048)　*Ndtv・2026-11-04*
-- [Trump Announces End to U.S. Military Aid to Israel as Political Uncertainty and Iran Tensions Mount](https://www1.cbn.com/cbnnews/israel/2026/november/trump-announces-end-to-u-s-military-aid-to-israel-as-political-uncertainty-and-iran-tensions-mount)　*Cbn News ,the Christian Perspective・2026-11-04*
+- [Iran War Cost Republicans Midterm Votes, Trump Admits, But Says He Would Do It Again](https://news.abplive.com/news/world/us-midterm-elections-trump-defeat-admits-iran-war-cost-republicans-but-says-would-do-again-1874794)　*Abp News・2026-11-05*
+- [JD Vance just dropped his first bomb in a war for the GOP’s future](https://nypost.com/2026/11/04/opinion/jd-vance-just-dropped-his-first-bomb-in-a-war-for-the-gops-future/)　*New York Post・2026-11-05*
+- [JetBlue raises baggage fees for 2nd time as jet fuel prices stay elevated](https://www.reviewjournal.com/business/jetblue-raises-baggage-fees-for-2nd-time-as-jet-fuel-prices-stay-elevated-3909972/)　*Las-vegas Review Journal・2026-11-05*
+- [Iran vows to use 'new weapons' if US steps up bomb blitz](https://www.dailymail.com/news/article-16267043/Iran-vows-use-new-weapons-US-steps-bomb-blitz.html)　*Mail Online・2026-11-05*
+- [Trump defends Iran strategy with ‘Never Surrender’ post after Republican midterm losses | VIDEO](https://english.mathrubhumi.com/news/world/us-president-trump-defends-iran-strategy-with-never-surrender-post-after-republican-midterm-losses-qed9othd)　*Mathrubhumi English・2026-11-05*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-05 07:01 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-05 21:46 台灣時間，僅供參考，不構成投資建議。*
