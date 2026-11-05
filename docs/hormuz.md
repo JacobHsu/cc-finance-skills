@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-05 21:46 台灣時間　｜　資料更新：2026-11-05 21:46 台灣時間
+> 更新時間：2026-11-06 07:03 台灣時間　｜　資料更新：2026-11-06 07:03 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic. Iran will not reopen until US ends naval blockade and meets Tehran's seven demands including sanctions relief. As of Nov 5, fewer than 10 daily transits vs. pre-crisis 140. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping as of November 5, 2026. Iran maintains blockade with mines and attacks on non-compliant vessels. Recent incidents (Nov 5) include IRGC reports of tankers catching fire after striking naval mines. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 7 | 7 | 60 | <span style="color:#e74c3c">11.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **120** | 55 | 40 | 25 | <span style="color:#27ae60">0.00</span> |
+| **197** | 85 | 45 | 67 | <span style="color:#e74c3c">-5.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 2% | 0.15% | 13.3x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 339,900 | 10,300,000 | <span style="color:#e74c3c">3.3% ⚠️</span> | 上升 |
+| 61,800 | 10,300,000 | <span style="color:#e74c3c">0.6% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Intensive US-Iran negotiations via Qatar and Pakistan; Iran proposes 2-day implementation for reopening if US meets seven conditions
+**頭條：** Iran-Oman negotiations ongoing on Strait of Hormuz routing despite stalled US-Iran peace talks
 
-**各方：** United States, Iran, Qatar, Pakistan, Oman, China
+**各方：** Iran, Oman, United States, Pakistan
 
-> Indirect talks ongoing in Doha and via Qatar/Pakistan mediation. Iran's Foreign Minister Araghchi proposed reopening Strait within 2 days if US accepts 7 conditions: sanctions relief, end to naval blockade, release of frozen funds, end to fighting on all fronts. Iranian officials say US response 'not convincing' but diplomatic channels remain active ahead of US elections.
+> Iran and Oman have been in continuous talks since August 2026 focused on establishing temporary shipping corridors through the Strait of Hormuz. A 60-day US-Iran peace deadline expired August 17, 2026 without resolution. Negotiations between Iran and Oman reportedly continue in final stages on maritime routing arrangements, though physical closure of the strait persists.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $0.6B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.15B | Japan, South Korea, China |
+| 25% | $0.9B | Japan, South Korea, China |
 
-> 25% of global LNG trade disrupted; Asian importers face critical supply constraints and elevated spot prices. Japan, South Korea face potential power generation constraints.
+> 25% of global LNG trade transits Hormuz; spot prices elevated 3-4x pre-crisis levels; Japan and South Korea facing winter LNG shortage risks with limited inventory buffers
 
 **受影響地區**
 
@@ -74,37 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| European Union | MODERATE | 20% |
+| EU | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used but costly and distant; adds significant time and fuel costs |
-| East-West Crude Pipeline (Saudi) | +0 天 | — | Shutdown since Sept 11, 2026 as precaution after attacks; 5 mbpd capacity offline |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at limited capacity; only 1.5 mbpd relief available |
+| Cape of Good Hope | +12 天 | $650 | Heavy rerouting in effect; approximately 40% of Gulf crude now bypasses Hormuz via pipelines and Cape routes |
+| East-West Pipeline (Saudi Petroline) | +0 天 | — | Operating at elevated capacity; pipeline damaged in September 2026 but restored; now carries ~40% of Gulf exports versus 17% pre-war |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Modest utilization; 1.5 mbpd capacity limit constrains scaling; primarily supports local UAE exports |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1200% | +3.5% | 70 天 |
+| +1100% | +4.2% | 72 天 |
 
 **主要供應鏈事件**
 
-- VLCC rates at $862k/day vs. $25-35k pre-crisis; Cape routing adds weeks and $650k/vessel
-- War-risk insurance 2-5% of hull value vs. 0.15% pre-crisis; some underwriters refusing coverage
-- Global fertilizer and ammonia supply disruption with 60-90 day lag into food price inflation
-- Container shipping suspensions; major carriers (Maersk) halted Hormuz transits; widespread supply chain delays
+- VLCC rates hit $862,150/day (WS 1,318) in late September 2026—highest on record; crude shipping costs now $8-22/barrel above pre-crisis baseline
+- Global refined product shipments remain constrained despite crude recovery; fuel shortages in Asia, Europe driving inflation
+- 6,000+ seafarers trapped in region; major carriers (Maersk, MSC, CMA CGM) maintain Hormuz suspensions; supply chain delays of 3-4 weeks on Gulf routes
+- Consumer fuel prices up 35-45% in dependent regions; fertilizer and chemical shipping disrupted; petrochemical production curtailed
 
 ## 最新新聞
 
-- [Iran War Cost Republicans Midterm Votes, Trump Admits, But Says He Would Do It Again](https://news.abplive.com/news/world/us-midterm-elections-trump-defeat-admits-iran-war-cost-republicans-but-says-would-do-again-1874794)　*Abp News・2026-11-05*
-- [JD Vance just dropped his first bomb in a war for the GOP’s future](https://nypost.com/2026/11/04/opinion/jd-vance-just-dropped-his-first-bomb-in-a-war-for-the-gops-future/)　*New York Post・2026-11-05*
-- [JetBlue raises baggage fees for 2nd time as jet fuel prices stay elevated](https://www.reviewjournal.com/business/jetblue-raises-baggage-fees-for-2nd-time-as-jet-fuel-prices-stay-elevated-3909972/)　*Las-vegas Review Journal・2026-11-05*
-- [Iran vows to use 'new weapons' if US steps up bomb blitz](https://www.dailymail.com/news/article-16267043/Iran-vows-use-new-weapons-US-steps-bomb-blitz.html)　*Mail Online・2026-11-05*
-- [Trump defends Iran strategy with ‘Never Surrender’ post after Republican midterm losses | VIDEO](https://english.mathrubhumi.com/news/world/us-president-trump-defends-iran-strategy-with-never-surrender-post-after-republican-midterm-losses-qed9othd)　*Mathrubhumi English・2026-11-05*
+- [How the U.S. midterm election results could affect Canada](https://www.ctvnews.ca/world/trumps-tariffs/article/how-the-us-midterm-election-results-could-affect-canada/)　*Ctv News・2026-11-05*
+- [Congress defeat: How Trump’s allies are distancing themselves from Iran war](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war)　*Al Jazeera・2026-11-05*
+- [One airline is charging more for checked bags. Again.](https://www.ctvnews.ca/business/article/one-airline-is-charging-more-for-checked-bags-again/)　*Ctv News・2026-11-05*
+- [Why Pete Hegseth could fall through "thin ice"](https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump)　*Axios・2026-11-05*
+- [DGP ਗੌਰਵ ਯਾਦਵ ਦਾ ਵੱਡਾ ਦਾਅਵਾ, ਪੰਜਾਬ 'ਚ 90 ਫੀਸਦ ਹੈ CONVICTION ਰੇਟ' | News18 Punjab](https://punjab.news18.com/videos/dgp-90-conviction-news18-punjab-1017722.html)　*News18 Punjabi News・2026-11-05*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-05 21:46 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-06 07:03 台灣時間，僅供參考，不構成投資建議。*
