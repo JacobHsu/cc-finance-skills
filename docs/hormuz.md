@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-10 09:00 台灣時間　｜　資料更新：2026-11-10 09:00 台灣時間
+> 更新時間：2026-11-10 22:00 台灣時間　｜　資料更新：2026-11-10 22:00 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial shipping with minimal transits (1-5 ships/day vs. 85-88 normal). Iran maintains a blockade; US conducts naval operations. Recent attacks on tankers continue despite ceasefire agreement signed June 17, 2026. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic since Feb 28, 2026. As of Nov 10, only 1 vessel transited on Nov 1 vs 85 pre-crisis baseline. Iran's blockade remains in force with mine incidents, attacks on tankers, and US naval blockade enforcement all active. Negotiations ongoing but no agreement reached. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 1 | 1 | 60 | <span style="color:#e74c3c">1.2% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **208** | 92 | 48 | 68 | <span style="color:#e74c3c">-25.00</span> |
+| **115** | 45 | 30 | 40 | <span style="color:#e74c3c">-25.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 下跌 |
+| 103,000 | 10,300,000 | <span style="color:#e74c3c">1.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Qatar mediates two-day Hormuz reopening plan; Iran-Oman talks continue
+**頭條：** US-Iran negotiations ongoing; Trump signals renewed strikes 'highly unlikely' if deal reached
 
-**各方：** Iran, United States, Qatar, Oman, Pakistan
+**各方：** United States, Iran, Qatar (mediator), Pakistan, Oman (mediator)
 
-> As of November 1, Iranian officials discussed a Qatar-mediated plan to reopen the Strait within two days, contingent on US meeting Tehran's demands. Parallel Iran-Oman talks on navigation routes and vessel management continue. While a June 17, 2026 Islamabad Memorandum ended formal hostilities, the strait remains disputed over control mechanisms and potential transit fees.
+> Intensive negotiations are ongoing in Qatar with Iran proposing a 2-day implementation period to reopen the Strait and restart peace talks. Iran's 7-point conditions include ending the US blockade, sanctions relief, and halt to bombing. Trump stated renewed strikes are 'highly unlikely' if Iran makes progress on nuclear agreement and strait reopening, but both sides remain far apart and negotiations face skepticism.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.8B |
+| 21% | $1.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.75B | Japan, South Korea, China |
+| 25% | $0.35B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade transits Hormuz. Top importers face severe supply constraints and price spikes. Japan faces particular vulnerability given 90%+ LNG import dependency on Middle East sources.
+> 25% of global LNG trade transits Hormuz. Japan, South Korea, and China facing critical LNG supply shortages and price spikes. LNG shortage protests reported in India in Sept-Oct 2026.
 
 **受影響地區**
 
@@ -72,7 +72,7 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| India | HIGH | 60% |
+| India | CRITICAL | 60% |
 | China | HIGH | 40% |
 | European Union | MODERATE | 20% |
 
@@ -80,31 +80,32 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily utilized; shipping rates on West Africa-China VLCC route at $237,259/day (118% month-on-month increase) |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at 5 mbpd capacity; limited by Saudi export commitments and terminal constraints |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; serving as transhipment hub with 162 vessels anchored nearby as of Nov 8 |
+| Cape of Good Hope | +12 天 | $650 | Actively used; higher cost but safer route drawing increasing traffic despite longer transit |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at 5 mbpd capacity but Saudi-only; limited by capacity constraints |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; partial relief but insufficient for full demand |
+| Yanbu Red Sea Route (Saudi to Red Sea) | +3 天 | $400 | Heavily used; Saudi crude exports via Yanbu rose 123%; facing Houthi and mine risks |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +3400% | +1.2% | 72 天 |
+| +1250% | +8.5% | 69 天 |
 
 **主要供應鏈事件**
 
-- VLCC TD3C spot rates hit all-time high of $1.33M/day (up from $30K pre-crisis); freight costs now 27% of delivered crude value vs. 3% pre-war
-- Shipping route switching to Cape of Good Hope adding 10-15 days transit time and $500-800k per vessel; West Africa-China VLCC rates at $237K/day
-- Container shipping major carriers (Maersk, CMA CGM) suspended Gulf bookings; cargo diverted overland through Fujairah/Khor Fakkan
-- Global crude exports averaging 24.1 mbpd as of late October (slightly above pre-war 23.3 mbpd) but achieved through inefficient routing and shadow fleet; formal transits remain 95% below normal
+- VLCC rates at historic $1.3M+/day; TD3C MEG-China at $1.4M (vs $30k pre-war); freight costs $37/barrel (5x normal)
+- Brent crude $91.86/bbl; down 7% in 24h but remained elevated; market pricing 1-2% daily probability of strait reopening
+- Container rerouting: Maersk suspended Gulf bookings; CMA CGM, MSC rerouting via Fujairah/Cape; logistics costs +$3,400/TEU vs $850 normal
+- Global supply chain delays: food price increases; medicine export constraints to Iran; trade volume collapse 95%+ during peak crisis
 
 ## 最新新聞
 
-- [Trump to meet Iran war mediator Qatar, no imminent deal seen to end war](https://www.thehindu.com/news/international/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-war/article71682536.ece)　*The Hindu・2026-11-09*
-- [Oil Slides More Than 3% as Trump Downplays Prospect of New Iran Strikes](https://www.wsj.com/finance/commodities-futures/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911?mod=rss_worldnews)　*Wsj・2026-11-09*
-- [In Israel, the votes are in. Yet, the war goes on](https://indianexpress.com/article/opinion/columns/us-midterms-iran-israel-elections-geopolitical-trap-india-10956656/)　*The Indian Express・2026-11-09*
-- [Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns](https://www.hindustantimes.com/world-news/us-news/oil-prices-today-brent-crude-wti-fall-as-trump-rules-out-fresh-iran-strikes-amid-strait-of-hormuz-concerns-101794225386109.html)　*Hindustan Times・2026-11-09*
-- [Iran offers to restart US talks in 48 hours as Washington proposes phased Hormuz deal](https://www.firstpost.com/world/iran-offers-to-restart-us-talks-in-48-hours-as-washington-proposes-phased-hormuz-deal-14058821.html)　*Firstpost・2026-11-09*
+- [Oil falls below $90 as Trump downplays prospect of escalation with Iran](https://www.channelnewsasia.com/business/oil-falls-below-90-trump-downplays-prospect-escalation-iran-6537826)　*Channel Newsasia・2026-11-10*
+- [Oil falls as Trump downplays prospect of escalation with Iran](https://www.channelnewsasia.com/business/oil-falls-trump-downplays-prospect-escalation-iran-6537826)　*Channel Newsasia・2026-11-10*
+- [Oil Prices Today: Brent Near $92 After 16% Weekly Rout; Is $100 Oil A Thing Of The Past?](https://www.ndtvprofit.com/markets/brent-crude-oil-prices-today-92-november-10-wti-after-16-percent-weekly-rout-is-100-oil-a-thing-of-the-past-12305813)　*Ndtv・2026-11-10*
+- [Heat-trapping carbon pollution drops, but scientists cite Iran war](https://abcnews.com/Business/wireStory/heat-trapping-carbon-pollution-drops-scientists-cite-iran-137997095)　*Abc News・2026-11-10*
+- [Netanyahu urges Trump daily to resume war against Iran — FT](https://tass.com/world/2215145)　*Тасс・2026-11-10*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-10 09:00 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-10 22:00 台灣時間，僅供參考，不構成投資建議。*
