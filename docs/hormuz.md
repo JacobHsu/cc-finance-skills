@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-12 22:21 台灣時間　｜　資料更新：2026-11-12 22:21 台灣時間
+> 更新時間：2026-11-13 07:00 台灣時間　｜　資料更新：2026-11-13 07:00 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Iran closed the Strait of Hormuz to foreign shipping on February 28, 2026, following US-Israel airstrikes. Despite a temporary ceasefire (April 8 - July 8, 2026), the strait has remained effectively closed to commercial traffic. As of November 12, 2026, Iran's Armed Forces Deputy Chief stated the waterway will remain closed until ordered open by Iran's leader. Negotiations ongoing but no imminent reopening expected. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic. Only 3-4 vessels transited on Nov 8-12, approximately 4-5% of pre-war normal. Iran maintains control and blockade; US enforces corridor; heavy attacks ongoing. Iran states Hormuz will not return to pre-war status. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 1 | 60 | <span style="color:#e74c3c">1.7% ⚠️</span> |
+| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **100** | 56 | 35 | 9 | <span style="color:#27ae60">0.00</span> |
+| **150** | 45 | 60 | 45 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 175,100 | 10,300,000 | <span style="color:#e74c3c">1.7% ⚠️</span> | 持平 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran sets seven conditions for Hormuz reopening as US-Iran talks stall amid renewed military rhetoric
+**頭條：** Iran demands seven conditions for reopening Strait; US-Iran indirect talks via Qatar, Pakistan mediators ongoing
 
 **各方：** Iran, United States, Qatar, Pakistan, Oman
 
-> Iran's parliament speaker Mohammad Bagher Ghalibaf told Al Jazeera on November 11 that the Strait will 'never return' to pre-war status and Tehran has reached an understanding with Oman to oversee the waterway. Iran presented seven conditions for negotiations including US blockade lift and Strait reopening, but is waiting for official US response. Talks brokered by Qatar and Pakistan remain 'intensive' but stalled, with US President Trump signaling mixed messages on diplomatic prospects.
+> Iran's security chief Mohsen Rezaei said Tehran awaits US response to seven-point peace proposal. Iran claims Hormuz could reopen within two days if demands met. US-Iran indirect talks continuing via mediators; Trump said negotiations 'going fine' but characterized as not fully reliable. No direct talks scheduled.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $1.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $—B | Japan, South Korea, China |
+| 25% | $0.4B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade normally transits Hormuz. Top importers Japan, South Korea, and China face acute supply disruptions and price spikes exceeding pre-crisis levels by 200-300%, straining power generation and industrial demand.
+> Qatar LNG exports collapsed to 18 cargoes in first 6 months of war vs 509 yearly. Japan, South Korea, China face acute LNG shortages and price spikes. Global LNG market in crisis.
 
 **受影響地區**
 
@@ -80,32 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily utilized; 80-85% of diverted traffic routing around Cape; adds ~12-15 days transit time. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at reduced capacity due to Iranian attacks; normal 5 mbpd capacity severely constrained; throughput estimated 2-3 mbpd. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Limited capacity at 1.5 mbpd; supplementing some UAE exports but inadequate for global shortfall. |
-| Kirkuk-Ceyhan Pipeline (Iraq via Turkey) | +0 天 | — | Extended to 750,000 bpd under August 2026 agreement; partial mitigation for Iraq's 3.5 mbpd normal Hormuz exports. |
+| Cape of Good Hope | +12 天 | $650 | Heavily utilized by rerouted tankers and containers; adds 10-15 days to transit; significant cost increase per vessel |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at 5 mbpd capacity (Saudi-only crude); limited benefit for broader traffic |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; insufficient to replace Hormuz volume |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1150% | +18% | 56 天 |
+| +40% | +2.5% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates: $470k-$830k per day (vs $30k pre-crisis); effectively 40x normal peacetime levels; freight now 27% of delivered crude cost.
-- War-risk insurance surged to 6-10% of hull value per voyage ($10M+ for supertankers) from 0.25% pre-crisis; insurance re-rated every 24 hours; P&I clubs withdrawing coverage.
-- Global container port throughput behind Hormuz estimated at ~3% of global handling; delay cascades into automotive, electronics, and consumer goods sectors.
-- US Strategic Petroleum Reserve at 282.2M barrels (39.5% capacity), lowest since October 1982; at 4.4M bbl/day max release rate, approximately 56 days until structural cavern heel.
+- Container shipping rates to Asia-US up 30-50%; Transpacific rates up ~40%; Asia-Europe up ~20%
+- Fertilizer supply chains disrupted; 30-35% of global urea exports, 20-30% of ammonia exports normally transit Hormuz
+- VLCC crude tanker rates at historic $1.4M/day (WS 1,208); freight rates comprise 27% of delivered crude cost vs 3% pre-war
+- Bunker fuel costs up ~55% since crisis began; container transits down 95%; 470k TEUs initially trapped in Gulf
 
 ## 最新新聞
 
-- [Iran Sets 7 Conditions For Hormuz Reopening, Warns Trump Of Another Defeat](https://news.abplive.com/news/world/us-iran-war-tehran-sets-7-conditions-for-strait-of-hormuz-reopening-us-must-make-next-move-1875559)　*Abp News・2026-11-12*
-- [Strait of Hormuz will 'never return' to pre-war status, Iran warns as it sets 7 conditions for US talks](https://www.moneycontrol.com/world/strait-of-hormuz-will-never-return-to-pre-war-status-iran-warns-as-it-sets-7-conditions-for-us-talks-article-14077459.html)　*Moneycontrol・2026-11-12*
-- [Strait of Hormuz Will Never Return to Pre-War Status Says Iran Speaker](https://newsable.asianetnews.com/world/strait-of-hormuz-will-never-return-to-pre-war-status-says-iran-speaker-articleshow-3znnaps)　*Asianet Newsable・2026-11-12*
-- [Oil rises 1% as Iran vows to retain enriched uranium](https://www.thestar.com.my/business/2026/11/12/oil-rises-1-as-iran-vows-to-retain-enriched-uranium)　*The Star・2026-11-12*
-- [US election results could be positive for Lebanon, Hezbollah chief says](https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says)　*Al Jazeera・2026-11-12*
+- [Man Industries' consol profit more than doubles to Rs 82 crore in Jul-Sep](https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-consol-profit-more-than-doubles-to-rs-82-crore-in-jul-sep/articleshow/135776042.cms)　*The Economic Times・2026-11-12*
+- [Two supertankers with oil exploded in Hormuz — IRGC Navy](https://tass.com/world/2216937)　*Тасс・2026-11-12*
+- [Trump and Netanyahu 'get into shouting match from hell' in furious row over Iran war](https://www.express.co.uk/news/world/2265549/trump-netanyahu-shouting-match-iran-war)　*Express・2026-11-12*
+- [Indonesia President: Hormuz Changed the Economics of Climate Action | Opinion](https://www.newsweek.com/indonesia-president-hormuz-changed-the-economics-of-climate-action-opinion-12701699)　*Newsweek・2026-11-12*
+- [Stock Market Today: NVDA Rout Drags Nasdaq, S&P 500 Futures Lower As Nvidia Board Weighs Jensen Huang’s Future—CRWV, TTEK, FNV in Focus](https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus)　*Benzinga・2026-11-12*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-12 22:21 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-13 07:00 台灣時間，僅供參考，不構成投資建議。*
