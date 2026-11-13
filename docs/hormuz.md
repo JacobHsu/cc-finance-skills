@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-13 07:00 台灣時間　｜　資料更新：2026-11-13 07:00 台灣時間
+> 更新時間：2026-11-13 21:41 台灣時間　｜　資料更新：2026-11-13 21:41 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains effectively closed to commercial traffic. Only 3-4 vessels transited on Nov 8-12, approximately 4-5% of pre-war normal. Iran maintains control and blockade; US enforces corridor; heavy attacks ongoing. Iran states Hormuz will not return to pre-war status. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-07-14 | Strait remains effectively closed to commercial traffic following July 8 breakdown of interim truce. Iran has kept strait closed by declaration and IRGC Navy enforcement since July 14. As of November 8, 3 vessels transited against normal baseline of ~85/day (4% of normal). Active combat zone with three tankers attacked in two days (Nov 11-13). |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
+| 3 | 0 | 60 | <span style="color:#e74c3c">3.5% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$107.03** | <span style="color:#e74c3c">-0.36</span> | <span style="color:#e74c3c">-0.34%</span> | 下跌 |
+| **$92.14** | <span style="color:#27ae60">+1.98</span> | <span style="color:#27ae60">+2.20%</span> | 下跌 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **150** | 45 | 60 | 45 | <span style="color:#27ae60">0.00</span> |
+| **51** | 18 | 12 | 21 | <span style="color:#e74c3c">-13.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 持平 |
+| 412,000 | 10,300,000 | <span style="color:#e74c3c">4.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran demands seven conditions for reopening Strait; US-Iran indirect talks via Qatar, Pakistan mediators ongoing
+**頭條：** Trump rejects deal path; Iran maintains seven demands for Strait reopening
 
-**各方：** Iran, United States, Qatar, Pakistan, Oman
+**各方：** United States, Iran, Qatar, Pakistan, Oman
 
-> Iran's security chief Mohsen Rezaei said Tehran awaits US response to seven-point peace proposal. Iran claims Hormuz could reopen within two days if demands met. US-Iran indirect talks continuing via mediators; Trump said negotiations 'going fine' but characterized as not fully reliable. No direct talks scheduled.
+> Iran continues diplomatic outreach via mediators (Qatar, Pakistan, Oman) while maintaining seven non-negotiable conditions for reopening the Strait and resuming peace talks. As of November 13, Trump stated the US does not need a deal with Iran and claims control of the strait. Qatari mediation has reportedly secured a narrow two-week diplomatic window, but kinetic operations continue.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $1.2B |
+| 21% | $3.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.4B | Japan, South Korea, China |
+| 25% | $0.9B | Japan, South Korea, China |
 
-> Qatar LNG exports collapsed to 18 cargoes in first 6 months of war vs 509 yearly. Japan, South Korea, China face acute LNG shortages and price spikes. Global LNG market in crisis.
+> 25% of global LNG trade transits Hormuz. Top three importers (Japan, South Korea, China) face severe supply disruptions and price volatility. LNG rates remain elevated due to rerouting via Cape of Good Hope.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Heavily utilized by rerouted tankers and containers; adds 10-15 days to transit; significant cost increase per vessel |
-| East-West Pipeline (Saudi) | +0 天 | — | Operating at 5 mbpd capacity (Saudi-only crude); limited benefit for broader traffic |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd capacity; insufficient to replace Hormuz volume |
+| Cape of Good Hope (South Africa) | +12 天 | $650 | Actively utilized by rerouted tankers; adds 10-15 transit days and $500-800k/vessel cost. |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Running at estimated 30-40% of 5 mbpd capacity due to pipeline constraints and geopolitical risk. |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 60-70% of 1.5 mbpd capacity; provides limited relief for UAE and regional producers. |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +40% | +2.5% | 68 天 |
+| +400% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- Container shipping rates to Asia-US up 30-50%; Transpacific rates up ~40%; Asia-Europe up ~20%
-- Fertilizer supply chains disrupted; 30-35% of global urea exports, 20-30% of ammonia exports normally transit Hormuz
-- VLCC crude tanker rates at historic $1.4M/day (WS 1,208); freight rates comprise 27% of delivered crude cost vs 3% pre-war
-- Bunker fuel costs up ~55% since crisis began; container transits down 95%; 470k TEUs initially trapped in Gulf
+- VLCC AG-East rates surged from ~$50k/day (January 2026) to ~$300k/day (November 2026); tanker availability absorbed by Gulf-Oman shuttle fleet.
+- Global crude freight surged to ~$37/barrel (5x pre-war); shipping now primary cost component in oil deliveries.
+- Six major P&I clubs have withdrawn Hormuz coverage; war-risk insurance at 6-10% of hull value effectively closes strait to economical transit.
+- October 2026 Hormuz oil flows measured at 11.7 mbpd (vs. pre-war 14.5 mbpd); demand destruction offset by higher crude prices and supply-chain bottlenecks.
 
 ## 最新新聞
 
-- [Man Industries' consol profit more than doubles to Rs 82 crore in Jul-Sep](https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-consol-profit-more-than-doubles-to-rs-82-crore-in-jul-sep/articleshow/135776042.cms)　*The Economic Times・2026-11-12*
-- [Two supertankers with oil exploded in Hormuz — IRGC Navy](https://tass.com/world/2216937)　*Тасс・2026-11-12*
-- [Trump and Netanyahu 'get into shouting match from hell' in furious row over Iran war](https://www.express.co.uk/news/world/2265549/trump-netanyahu-shouting-match-iran-war)　*Express・2026-11-12*
-- [Indonesia President: Hormuz Changed the Economics of Climate Action | Opinion](https://www.newsweek.com/indonesia-president-hormuz-changed-the-economics-of-climate-action-opinion-12701699)　*Newsweek・2026-11-12*
-- [Stock Market Today: NVDA Rout Drags Nasdaq, S&P 500 Futures Lower As Nvidia Board Weighs Jensen Huang’s Future—CRWV, TTEK, FNV in Focus](https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus)　*Benzinga・2026-11-12*
+- [Barclays sees oil risks skewed higher with Middle East flows still 15% below pre-war](https://investinglive.com/commodities/barclays-sees-oil-risks-skewed-higher-with-middle-east-flows-still-15-below-pre-war/)　*Forexlive・2026-11-13*
+- [Treasury Secretary Scott Bessent Remains at US Base Over Alleged Iranian Death Threats](https://www.military.com/treasury-secretary-scott-bessent-remains-us-base-over-alleged-iranian-death-threats)　*Military.com・2026-11-13*
+- [Can You Fire the Vice-President via Truth Social?](https://www.newyorker.com/news/letter-from-trumps-washington/can-you-fire-the-vice-president-via-truth-social)　*The New Yorker・2026-11-13*
+- [Trump’s right — no more chasing Iran for a deal to end a war they’ve lost](https://nypost.com/2026/11/12/opinion/trumps-right-no-more-chasing-iran-for-a-deal-to-end-a-war-theyve-lost/)　*New York Post・2026-11-12*
+- [Iran’s Zolfaghar Missile Seen on Dual Launcher in Bandar Abbas Near Hormuz | Watch](https://timesofindia.indiatimes.com/videos/international/irans-zolfaghar-missile-seen-on-dual-launcher-in-bandar-abbas-near-hormuz-watch/videoshow/135785083.cms)　*The Times Of India・2026-11-12*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-13 07:00 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-13 21:41 台灣時間，僅供參考，不構成投資建議。*
