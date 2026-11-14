@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-14 20:45 台灣時間　｜　資料更新：2026-11-14 20:45 台灣時間
+> 更新時間：2026-11-15 05:50 台灣時間　｜　資料更新：2026-11-15 05:50 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted to commercial traffic with AIS-visible transits at approximately 7-9% of normal. Latest UKMTO data shows 65% below pre-conflict levels when including dark transits. Status has been effectively closed for over 257 days with sporadic reopening attempts failing. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains under Iranian control with intermittent mine attacks on commercial shipping. US CENTCOM claims main routes cleared, but transits at ~4-7% of pre-war normal. Iran warning vessels against entry into restricted zones. Ongoing diplomatic talks with Qatar mediation but no breakthrough. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 9 | 9 | 60 | <span style="color:#e74c3c">8.5% ⚠️</span> |
+| 3 | 3 | 60 | <span style="color:#e74c3c">5.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
+| **38** | 18 | 12 | 8 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -46,25 +46,25 @@
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran proposes 7-point peace plan via Qatar; US response awaited
+**頭條：** Iran submits seven-point peace plan through Qatari mediator; US response pending
 
-**各方：** Iran, United States, Qatar (mediator), Oman
+**各方：** United States, Iran, Qatar (mediator), Russia (mediation attempt), Pakistan
 
-> Iran's parliament speaker Ghalibaf outlined seven conditions for ceasefire and strait reopening via Qatari mediators as of November 12. Conditions include US lifting naval blockade, ending sanctions, and ceasing all Middle East fighting. The US has not provided formal response, with Trump signaling "no deal necessary" while leaving door open for negotiations. Diplomatic stalemate continues in "no war, no peace" state.
+> Iran's parliament speaker Ghalibaf presented seven conditions for reopening Strait of Hormuz and commencing ceasefire talks, awaiting official US response. Trump administration engaged but sending mixed signals. Talks proceeding through Qatar with potential Islamabad-based negotiations, but no agreement reached as of November 14.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $3.8B |
+| 21% | $4.2B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $1.8B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trades through Hormuz. Top importers Japan, South Korea, and China face elevated LNG costs and supply uncertainty. LNG-to-oil price spread widening as alternative fuels become costlier.
+> LNG prices elevated; Japan and South Korea rationing supply; Chinese LNG imports declined significantly; top three importers facing critical shortages despite selective exemptions for Indian vessels.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Moderate usage; significant cost penalty but preferred by many operators given Hormuz risks |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at 5 mbpd capacity; Saudi-only capability limits alternative volume |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating at 1.5 mbpd; UAE-focused, provides limited global relief |
+| Cape of Good Hope | +12 天 | $650 | Heavily utilized; many tankers diverted; adds 40-45% to journey cost vs normal Hormuz transit |
+| East-West Pipeline (Saudi) | +0 天 | — | Operating at reduced capacity; attacked by Iranian drones; 700k bpd reduction in April; maximum 5 mbpd throughput |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational; bypass route for 1.5 mbpd; capacity constrained; limited to UAE crude only |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1100% | +8.5% | 68 天 |
+| +850% | +2.8% | 72 天 |
 
 **主要供應鏈事件**
 
-- Freight rates for Hormuz-China VLCC routes at $862,150/day vs $30,000 pre-crisis (2,800% increase)
-- Global oil supply 26% below pre-war levels; only 18.4 mbpd exiting Gulf vs 24.9 mbpd pre-war
-- Tanker insurance costs at 6-10% of hull value vs 0.25% pre-crisis; P&I clubs withdrawing coverage
-- Asian crude imports restructuring toward African and Atlantic sources; US Gulf exports down 50%
+- VLCC rates at $862k/day (Nov 8) vs $40-60 WS pre-crisis; freight costs 27% of delivered crude value vs 3% pre-war
+- War-risk premiums 8-10% of hull value add $10-20M per tanker voyage; 6 P&I clubs withdrawn coverage
+- Container shipping rates up 45-75% (China-US routes); major lines (Maersk, MSC) suspending Hormuz transits
+- Global CPI impact 0.3-0.5% from energy/supply chain disruption; food/goods inflation persisting across Asia-Pacific
 
 ## 最新新聞
 
-- [Yemen's Houthis say they fired missiles at Saudi forces in Jazan, hours after Saudi all-clear](https://www.jpost.com/middle-east/article-914836)　*Jpost・2026-11-13*
-- [US Fifth Fleet commander meets Navy chief Eyal Harel amid Iran tensions](https://www.jpost.com/israel-news/article-914833)　*Jpost・2026-11-13*
-- [US CENTCOM Denies Iranian Claim of Destroying Radar Installation in Bahrain](https://newsable.asianetnews.com/world/us-centcom-denies-iranian-claim-of-destroying-radar-installation-in-bahrain-articleshow-gtacq9t)　*Asianet Newsable・2026-11-13*
-- [Oil supply to overtake demand in Dec quarter: IEA](https://timesofindia.indiatimes.com/business/india-business/oil-supply-to-overtake-demand-in-dec-quarter-iea/articleshow/135816856.cms)　*The Times Of India・2026-11-13*
-- [US Forces Shoot Down Iranian Attack Drones Targeting Middle Eastern Country](https://dailycaller.com/2026/11/13/iran-drone-attack-bahrain-irgc-centcom)　*Dailycaller・2026-11-13*
+- [Why Washington's efforts to weaken Iran's influence in Iraq may be doomed to fail](https://www.jpost.com/middle-east/iran-news/article-914729)　*Jpost・2026-11-14*
+- [Qatar and Turkiye sign a mutual defence pact: What do we know?](https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know)　*Al Jazeera・2026-11-14*
+- [Iran Claims US at Strategic Dead End Following Resistance Efforts](https://newsable.asianetnews.com/world/iran-claims-us-at-strategic-dead-end-following-resistance-efforts-articleshow-quq5bab)　*Asianet Newsable・2026-11-14*
+- [US affairs expert: Trump ‘sacrificing’ Vance, shifting to economic pressure on Iran after midterms](https://www.jpost.com/american-politics/article-914851)　*Jpost・2026-11-14*
+- [Harjit Grewal on SAD-BJP Alliance | ਗਠਜੋੜ 'ਤੇ BJP ਆਗੂ ਦਾ ਵੱਡਾ ਬਿਆਨ, ਕਿਹੜੇ ਆਗੂ ਜਿਹੜੇ ਹੱਕ 'ਚ ਨਹੀਂ?](https://punjab.news18.com/videos/harjit-grewal-on-sad-bjp-alliance-bjp-1020000.html)　*News18 Punjabi News・2026-11-14*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-14 20:45 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-15 05:50 台灣時間，僅供參考，不構成投資建議。*
