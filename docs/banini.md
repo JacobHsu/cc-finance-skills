@@ -1,38 +1,66 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-11-16 21:18 台灣時間
+> 更新時間：2026-11-17 22:03 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：17 篇
+> 本次抓取：16 篇
 
 ---
 
-### 今天 15:07（2026/11/16 15:07）
+### 今天 10:11（2026/11/17 10:11）
+
+> 以前是相信川湖， 月底舒服
+現在是買進川湖， 血肉模糊 (;´༎ຶД༎ຶ`)
+
+讚 5941 ｜ 回覆 363 ｜ [原文](https://www.threads.com/@banini31/post/Df00_BtGc18)
+
+---
+
+### 今天 00:46（2026/11/17 00:46）
+
+> 說個笑話
+
+一堆教你長期投資抱10年的人
+玩股票的資歷可能不到3年
+
+讚 9164 ｜ 回覆 357 ｜ [原文](https://www.threads.com/@banini31/post/Dfz0X3zGaiy)
+
+---
+
+### 今天 00:37（2026/11/17 00:37）
+
+> 喉嚨好痛🫠
+
+讚 671 ｜ 回覆 85 ｜ [原文](https://www.threads.com/@banini31/post/DfzzSsxGfh6)
+
+---
+
+### 昨天 15:07（2026/11/16 15:07）
 
 > 財經網紅在股票大跌後辛酸畫面流出
 
-讚 3931 ｜ 回覆 251 ｜ [原文](https://www.threads.com/@banini31/post/DfyyEMIk50T)
+讚 5189 ｜ 回覆 293 ｜ [原文](https://www.threads.com/@banini31/post/DfyyEMIk50T)
 
 ---
 
-### 今天 13:30（2026/11/16 13:30）
+### 昨天 13:30（2026/11/16 13:30）
 
 > 爛到不想看盤
 上週買的全滅⋯ 
 大師之劍真的靈， 股價真的要回朔到上上週五
 
-讚 3979 ｜ 回覆 205 ｜ [原文](https://www.threads.com/@banini31/post/Dfym9OnGVTQ)
+讚 4755 ｜ 回覆 218 ｜ [原文](https://www.threads.com/@banini31/post/Dfym9OnGVTQ)
 
 ---
 
-### 昨天 21:08（2026/11/15 21:08）
+### 11/15 21:08（2026/11/15 21:08）
 
 > _(:_」∠)_
 
-讚 272 ｜ 回覆 5 ｜ [原文](https://www.threads.com/@banini31/post/Dfw2jddmayF)
+讚 280 ｜ 回覆 5 ｜ [原文](https://www.threads.com/@banini31/post/Dfw2jddmayF)
 
 ---
 
-### 昨天 21:02（2026/11/15 21:02）
+### 11/15 21:02（2026/11/15 21:02）
 
 > 原來真的時光回溯了
 我的以太幣回到2021了⋯
@@ -40,50 +68,50 @@
 ▓
  虛擬幣不如存定存
 
-讚 801 ｜ 回覆 71 ｜ [原文](https://www.threads.com/@banini31/post/Dfw17XnmcsA)
+讚 843 ｜ 回覆 73 ｜ [原文](https://www.threads.com/@banini31/post/Dfw17XnmcsA)
 
 ---
 
-### 昨天 15:31（2026/11/15 15:31）
+### 11/15 15:31（2026/11/15 15:31）
 
 > 我的臉持續水腫(⊙ω⊙)
 今天吃過番茄麵⋯ 希望明天可以翻紅啊
 
 啊⋯ 但是這是烏龍蕃茄麵⋯(⊙ω⊙)
 
-讚 1182 ｜ 回覆 153 ｜ [原文](https://www.threads.com/@banini31/post/DfwP_RlAIth)
+讚 1240 ｜ 回覆 154 ｜ [原文](https://www.threads.com/@banini31/post/DfwP_RlAIth)
 
 ---
 
-### 昨天 13:09（2026/11/15 13:09）
+### 11/15 13:09（2026/11/15 13:09）
 
 > 錶帶太長不好看？
 剪掉就好了啊
 
-讚 277 ｜ 回覆 38 ｜ [原文](https://www.threads.com/@banini31/post/Dfv_xTWmYwi)
+讚 288 ｜ 回覆 38 ｜ [原文](https://www.threads.com/@banini31/post/Dfv_xTWmYwi)
 
 ---
 
-### 昨天 10:33（2026/11/15 10:33）
+### 11/15 10:33（2026/11/15 10:33）
 
 > 虛擬幣就是騙局(;´༎ຶД༎ຶ`)
 
-讚 2279 ｜ 回覆 207 ｜ [原文](https://www.threads.com/@banini31/post/Dfvt6sNGZwH)
+讚 2315 ｜ 回覆 207 ｜ [原文](https://www.threads.com/@banini31/post/Dfvt6sNGZwH)
 
 ---
 
-### 昨天 04:11（2026/11/15 04:11）
+### 11/15 04:11（2026/11/15 04:11）
 
 > 焦慮阿姨上線中
 我終於體力快撐不住要睡了
 
 誰可以教我怎麼經營網美IG
 
-讚 1297 ｜ 回覆 95 ｜ [原文](https://www.threads.com/@banini31/post/DfvCMS-E67m)
+讚 1321 ｜ 回覆 95 ｜ [原文](https://www.threads.com/@banini31/post/DfvCMS-E67m)
 
 ---
 
-### 昨天 01:00（2026/11/15 01:00）
+### 11/15 01:00（2026/11/15 01:00）
 
 > 買錶的起點跟終點都是卡西歐啊✌️
 
@@ -94,7 +122,7 @@
 重點是與其虧掉， 不如嘪喜歡的酷東西
 #Gshcok
 
-讚 682 ｜ 回覆 41 ｜ [原文](https://www.threads.com/@banini31/post/DfusVYvkmE4)
+讚 701 ｜ 回覆 41 ｜ [原文](https://www.threads.com/@banini31/post/DfusVYvkmE4)
 
 ---
 
@@ -104,7 +132,7 @@
 
 賭博真的是不好的
 
-讚 1493 ｜ 回覆 103 ｜ [原文](https://www.threads.com/@banini31/post/DftLiPpGZo6)
+讚 1497 ｜ 回覆 103 ｜ [原文](https://www.threads.com/@banini31/post/DftLiPpGZo6)
 
 ---
 
@@ -112,7 +140,7 @@
 
 > 看來準備崩盤了
 
-讚 12697 ｜ 回覆 689 ｜ [原文](https://www.threads.com/@banini31/post/DfsF_rnmQz_)
+讚 12722 ｜ 回覆 692 ｜ [原文](https://www.threads.com/@banini31/post/DfsF_rnmQz_)
 
 ---
 
@@ -121,15 +149,7 @@
 > 希克你騙我
 你不是說劍插回去會重置時間回到過去嗎
 
-讚 1919 ｜ 回覆 144 ｜ [原文](https://www.threads.com/@banini31/post/Dfr8UpyidFi)
-
----
-
-### 11/13 09:08（2026/11/13 09:08）
-
-> 你ㄊㄇ
-
-讚 841 ｜ 回覆 64 ｜ [原文](https://www.threads.com/@banini31/post/Dfqan2nGUn9)
+讚 1924 ｜ 回覆 144 ｜ [原文](https://www.threads.com/@banini31/post/Dfr8UpyidFi)
 
 ---
 
@@ -140,38 +160,8 @@
 
 說我乞丐也沒關係▓
 
-讚 2751 ｜ 回覆 176 ｜ [原文](https://www.threads.com/@banini31/post/DfpiUoVmR-d)
+讚 2753 ｜ 回覆 176 ｜ [原文](https://www.threads.com/@banini31/post/DfpiUoVmR-d)
 
 ---
 
-### 11/12 20:40（2026/11/12 20:40）
-
-> 嗚嗚嗚 仁勳爸爸
-你可以不要再被爆料了嗎
-
-還有投資人！
-有問題的不是台GG！ 是別的G好嗎！
-
-讚 1080 ｜ 回覆 90 ｜ [原文](https://www.threads.com/@banini31/post/DfpE-LAAOUM)
-
----
-
-### 11/12 13:48（2026/11/12 13:48）
-
-> 打破迷信
-沒有什麼叫我賣就漲， 我們等明天
-創意是今天想當沖結果跌爛的產物
-
-讚 3615 ｜ 回覆 458 ｜ [原文](https://www.threads.com/@banini31/post/DfoV2ffmSdh)
-
----
-
-### 11/12 12:39（2026/11/12 12:39）
-
-> wtf is going on again!?????????????
-
-讚 1325 ｜ 回覆 162 ｜ [原文](https://www.threads.com/@banini31/post/DfoOASSmXe4)
-
----
-
-*自動產生於 2026-11-16 21:18 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-11-17 22:03 台灣時間。僅供娛樂參考，不構成投資建議。*
