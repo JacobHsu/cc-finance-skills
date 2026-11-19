@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-19 07:43 台灣時間　｜　資料更新：2026-11-19 07:43 台灣時間
+> 更新時間：2026-11-19 22:58 台灣時間　｜　資料更新：2026-11-19 22:58 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted (8% of normal AIS-visible traffic, 2-4% of commercial throughput by some measures). Iran maintains control and requires transit permits; US Navy facilitates limited escorts. Recent attacks reported on vessels including mine strikes causing fires as of November 11-18, 2026. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted with only 2% of normal commercial traffic (2 transits on Nov 15 vs ~85 normal). Crisis ongoing for 263 days. Iran and US engaged in indirect negotiations through Qatari mediators over 7-condition peace plan to reopen strait within 2 days if terms met. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 2 | 60 | <span style="color:#e74c3c">2.0% ⚠️</span> |
+| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$92.14** | <span style="color:#27ae60">+1.98</span> | <span style="color:#27ae60">+2.20%</span> | 下跌 |
+| **$92.94** | <span style="color:#27ae60">+0.04</span> | <span style="color:#27ae60">+0.04%</span> | 下跌 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **42** | 14 | 18 | 10 | <span style="color:#e74c3c">-1.00</span> |
+| **150** | 24 | 50 | 76 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,23 +34,23 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 5,047,000 | 10,300,000 | <span style="color:#e74c3c">49.0% ⚠️</span> | 下跌 |
+| 206,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
-**狀態：** TALKS_PROPOSED
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** No breakthrough; talks remain stalled after August proposals collapsed
+**頭條：** Iran and US in intensive indirect negotiations; Tehran proposes 2-day reopening plan
 
-**各方：** United States, Iran, Oman, Qatar, Pakistan
+**各方：** Iran, United States, Qatar, Pakistan, Oman
 
-> Iran-Oman negotiations on a temporary corridor stalled after early August optimism. Trump rejected Iranian proposals by October; broader US-Iran nuclear and security disputes remain unresolved. No direct US-Iran talks confirmed as of late November. De-escalation efforts remain limited.
+> Iran's parliament speaker told Al Jazeera on Nov 11 that the Strait will 'never return' to pre-war status, citing a new Iran-Oman transit agreement. Indirect talks through Qatari mediators centered on Iran's 7-condition peace plan. Latest US response called 'unconvincing' by Iran as of Nov 4; Trump confirmed strikes on Iranian anti-aircraft facility; talks continue with both sides claiming commitment but deep disagreement over sanctions timing, nuclear terms, and ceasefire verification.
 
 ## 全球貿易影響
 
@@ -64,7 +64,7 @@
 |--------------|-------------|----------------|
 | 25% | $0.9B | Japan, South Korea, China |
 
-> LNG export disruptions continue despite partial recovery; Qatar LNG cargoes face routing via Cape and other alternatives at 10-15 day delays and $500k-800k/vessel premium. Top importers absorbing elevated costs and periodic shortages.
+> 25% of global LNG trade transits Hormuz. Top Asian importers face severe supply constraints; LNG spot prices elevated; Japan and South Korea particularly vulnerable with limited alternative sourcing. Pipeline alternatives severely constrained.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope (via South Africa) | +12 天 | $650 | Active and increasing; most alternative oil and LNG now routing via Cape as Hormuz remains choked. |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Running at reduced capacity (~2 mbpd vs. 5 mbpd capability); limited expansion headroom; Iranian export constraints limit benefit. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating near capacity (~1.5 mbpd); insufficient to absorb full Hormuz deficit; supporting UAE/UAE-originating exports primarily. |
+| Cape of Good Hope | +12 天 | $650 | Actively used by major container lines (CMA CGM); attracts rerouting as war-risk insurance costs remain prohibitive; slower but increasingly preferred alternative |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Converted to full capacity on Mar 11; damaged by Iranian drone attack on Apr 9 (reduced 700k bpd); operational but constrained; Saudi-only export option |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; operational; limited incremental benefit; serves UAE exports only |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +180% | +2.1% | 68 天 |
+| +1200% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC tanker spot rates surge to $200k-300k per day (vs. pre-crisis $50-60) driven by 8-10% war-risk premiums on hull value and extreme route scarcity
-- Fuel surcharges and war-risk premiums layered onto Asia-to-US freight rates (spikes of 30-50% reported); container shipping costs elevated
-- Global container shipping rates up 180% from pre-crisis baseline; delays averaging 15-20 days on affected routes
-- LNG spot prices 200-300% above pre-crisis levels; consumer fuel bills up 2-3% in import-dependent regions; gasoline/diesel prices falling in US but global pressure remains
+- VLCC TD3C rates collapsed from $1.2M/day peak (Sept) to $307k-$1.07M/day (Nov 13) as geopolitical premiums eased; still 15-20x pre-crisis normal
+- Global container shipping rates elevated due to Cape rerouting; CMA CGM and others actively avoiding Hormuz via African cape route
+- Brent crude oil prices remain elevated above $95/bbl despite recent 6% drop on Nov 2 on peace talk optimism; structural scarcity persists
+- LNG spot prices 2-3x normal in Asian markets; contract renegotiations underway; alternative LNG supplies redirected away from Asia
 
 ## 最新新聞
 
-- [Gulf countries under fire after US hits Iranian island](https://www.bangkokpost.com/world/3357094/gulf-countries-under-fire-after-us-hits-iranian-island)　*Bangkok Post・2026-11-18*
-- [CM Mann | ਸੀਐੱਮ ਮਾਨ ਨੇ ਵਿਰੋਧੀ ਲਾ ਲਏ ਅੱਗੇ! ਚੰਨੀ, ਵੜਿੰਗ, ਮਜੀਠੀਆ, ਸੁਖਬੀਰ ਬਾਦਲ ਨੂੰ ਆਹ ਕੀ ਬੋਲੇ](https://punjab.news18.com/videos/punjab/cm-mann-1021076.html)　*News18 Punjabi News・2026-11-18*
-- [Is another US-Iran war looming?](https://rt-english.com/news/648968-us-iran-war-military-buildup/)　*Rt・2026-11-18*
-- [Moment flames engulf tanker hit with missile as 24 crew members evacuated](https://www.express.co.uk/news/world/2267139/tanker-hit-weith-missile-flames-strait-of-hormuz-iran)　*Express・2026-11-18*
-- [CENTCOM: US Strikes Iran Missile Targets as Trump Pledges to Raise Iran Issue with Chinese, Russian Leaders](https://www1.cbn.com/cbnnews/israel/2026/november/centcom-us-strikes-iran-missile-targets-as-trump-pledges-to-raise-iran-issue-with-chinese-russian-leaders)　*Cbn News ,the Christian Perspective・2026-11-18*
+- [Trump claims US has defeated Iran's military, rules out seeking help from China, Russia](https://economictimes.indiatimes.com/news/international/world-news/trump-claims-us-has-defeated-irans-military-rules-out-seeking-assistance-from-china-russia/articleshow/135975708.cms)　*The Economic Times・2026-11-19*
+- [Iran Unleashes Underwater Warfare; Three 'US-Escorted' Tankers Hit Mines; Blasts & Fires Rock Ships](https://timesofindia.indiatimes.com/videos/international/iran-unleashes-underwater-warfare-three-us-escorted-tankers-hit-mines-blasts-fires-rock-ships/videoshow/135975645.cms)　*The Times Of India・2026-11-19*
+- [UAE infrastructure push reshapes Gulf steel demand](https://www.khaleejtimes.com/business/uae-infrastructure-push-reshapes-gulf-steel-demand)　*Khaleej Times・2026-11-19*
+- [Trump blasts Vance-negotiated Iran deal as a ‘waste of time’](https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/)　*New York Post・2026-11-19*
+- [Punjab Congress News | Amritpal Singh News | Punjab Di Taja Khabar | 08 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ](https://punjab.news18.com/videos/punjab/punjab-congress-news-amritpal-singh-news-punjab-di-taja-khabar-08-1021246.html)　*News18 Punjabi News・2026-11-19*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-19 07:43 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-19 22:58 台灣時間，僅供參考，不構成投資建議。*
