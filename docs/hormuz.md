@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-19 22:58 台灣時間　｜　資料更新：2026-11-19 22:58 台灣時間
+> 更新時間：2026-11-20 08:03 台灣時間　｜　資料更新：2026-11-20 08:03 台灣時間
 
 ---
 
@@ -8,7 +8,7 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted with only 2% of normal commercial traffic (2 transits on Nov 15 vs ~85 normal). Crisis ongoing for 263 days. Iran and US engaged in indirect negotiations through Qatari mediators over 7-condition peace plan to reopen strait within 2 days if terms met. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | The Strait of Hormuz remains severely restricted with commercial traffic at approximately 2-8% of pre-crisis normal levels. While not physically closed, insurance costs, Iranian attacks, and mines have created an effective blockade. Latest attacks on November 17 and ongoing intelligence operations continue to disrupt transit. |
 
 ## 船舶流量
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **150** | 24 | 50 | 76 | <span style="color:#27ae60">0.00</span> |
+| **35** | 14 | 15 | 6 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 206,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 持平 |
+| 339,900 | 10,300,000 | <span style="color:#e74c3c">3.3% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
-**狀態：** TALKS_IN_PROGRESS
+**狀態：** TALKS_PROPOSED
 
-**頭條：** Iran and US in intensive indirect negotiations; Tehran proposes 2-day reopening plan
+**頭條：** Iran proposes two-day reopening plan contingent on US meeting seven conditions
 
 **各方：** Iran, United States, Qatar, Pakistan, Oman
 
-> Iran's parliament speaker told Al Jazeera on Nov 11 that the Strait will 'never return' to pre-war status, citing a new Iran-Oman transit agreement. Indirect talks through Qatari mediators centered on Iran's 7-condition peace plan. Latest US response called 'unconvincing' by Iran as of Nov 4; Trump confirmed strikes on Iranian anti-aircraft facility; talks continue with both sides claiming commitment but deep disagreement over sanctions timing, nuclear terms, and ceasefire verification.
+> Iran's Foreign Minister Abbas Araghchi offered on November 2 to reopen the Strait of Hormuz within two days if the US meets Iran's seven conditions. As of November 11, Iran's security chief Mohsen Rezaei reiterated that the strait will remain closed until demands are met, dismissing reports of active negotiations while Trump administration officials claim talks are 'going fine'. Mediators Qatar and Pakistan continue facilitating indirect talks.
 
 ## 全球貿易影響
 
@@ -64,7 +64,7 @@
 |--------------|-------------|----------------|
 | 25% | $0.9B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz. Top Asian importers face severe supply constraints; LNG spot prices elevated; Japan and South Korea particularly vulnerable with limited alternative sourcing. Pipeline alternatives severely constrained.
+> LNG transiting Hormuz has collapsed to near-zero levels. Qatar's QatarEnergy declared force majeure on exports. Japan, South Korea, and China face acute gas supply crises with limited ability to source alternative LNG, driving spot prices to historic highs.
 
 **受影響地區**
 
@@ -72,39 +72,39 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| China | HIGH | 40% |
 | India | HIGH | 60% |
+| China | HIGH | 40% |
 | European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Actively used by major container lines (CMA CGM); attracts rerouting as war-risk insurance costs remain prohibitive; slower but increasingly preferred alternative |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | Converted to full capacity on Mar 11; damaged by Iranian drone attack on Apr 9 (reduced 700k bpd); operational but constrained; Saudi-only export option |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; operational; limited incremental benefit; serves UAE exports only |
+| Cape of Good Hope | +12 天 | $650 | Active diversion route; utilized by majority of ships still willing to transit; adds 10-15 days and $500-800k per VLCC; reduces tanker fleet effective capacity |
+| East-West Crude Oil Pipeline | +0 天 | — | Operational at reduced capacity after drone attack on April 9; Saudi Arabia expanded to full 5 mbpd capacity on March 11; damaged again during escalations, currently at ~2.5-3.5 mbpd |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operational; 1.5 mbpd capacity; exports at approximately 88% of pre-war normal per latest data; complementing Saudi pipeline bypass |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1200% | +2.1% | 68 天 |
+| +150% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC TD3C rates collapsed from $1.2M/day peak (Sept) to $307k-$1.07M/day (Nov 13) as geopolitical premiums eased; still 15-20x pre-crisis normal
-- Global container shipping rates elevated due to Cape rerouting; CMA CGM and others actively avoiding Hormuz via African cape route
-- Brent crude oil prices remain elevated above $95/bbl despite recent 6% drop on Nov 2 on peace talk optimism; structural scarcity persists
-- LNG spot prices 2-3x normal in Asian markets; contract renegotiations underway; alternative LNG supplies redirected away from Asia
+- VLCC tanker rates reached record $1.33M/day (TD3C) in October; now settling ~$29k/bbl (Nov 13) after diplomatic optimism; volatility remains extreme
+- Container shipping to Gulf surged 35-55% above pre-crisis; Asia-Pacific routes up 59% (Shanghai-LA); emergency conflict surcharges $1,500-4,000/TEU
+- Fertilizer and urea exports frozen; urea prices up 40% in futures; 30-35% of global urea and 20-30% of global ammonia exports dependent on Hormuz transit
+- MR tanker freight rates collapsed on Asia-Pacific routes as cargo flows through strait slowed; broader shipping market volatility with six P&I clubs withdrawn from Persian Gulf cover
 
 ## 最新新聞
 
-- [Trump claims US has defeated Iran's military, rules out seeking help from China, Russia](https://economictimes.indiatimes.com/news/international/world-news/trump-claims-us-has-defeated-irans-military-rules-out-seeking-assistance-from-china-russia/articleshow/135975708.cms)　*The Economic Times・2026-11-19*
-- [Iran Unleashes Underwater Warfare; Three 'US-Escorted' Tankers Hit Mines; Blasts & Fires Rock Ships](https://timesofindia.indiatimes.com/videos/international/iran-unleashes-underwater-warfare-three-us-escorted-tankers-hit-mines-blasts-fires-rock-ships/videoshow/135975645.cms)　*The Times Of India・2026-11-19*
-- [UAE infrastructure push reshapes Gulf steel demand](https://www.khaleejtimes.com/business/uae-infrastructure-push-reshapes-gulf-steel-demand)　*Khaleej Times・2026-11-19*
-- [Trump blasts Vance-negotiated Iran deal as a ‘waste of time’](https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/)　*New York Post・2026-11-19*
-- [Punjab Congress News | Amritpal Singh News | Punjab Di Taja Khabar | 08 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ](https://punjab.news18.com/videos/punjab/punjab-congress-news-amritpal-singh-news-punjab-di-taja-khabar-08-1021246.html)　*News18 Punjabi News・2026-11-19*
+- [Trump, Xi, Putin Vow To Boost Petrol Production At Trilateral But Omit Hormuz From ‘Peace Declaration’](https://www.news18.com/world/trump-xi-putin-vow-to-boost-petrol-production-at-trilateral-but-omit-hormuz-from-peace-declaration-ws-lrt-10432751.html)　*News 18・2026-11-19*
+- [Trump appears to fall asleep during President Xi's speech](https://www.dailymail.com/vertical-galleries/article-16305543/Trump-appears-fall-asleep-President-Xis-speech.html)　*Mail Online・2026-11-19*
+- ['Who is he?' Trump jokes with Putin ahead of historic trilateral meeting with Xi](https://timesofindia.indiatimes.com/world/us/who-is-he-trump-jokes-with-putin-ahead-of-historic-trilateral-meeting-with-xi/articleshow/135988198.cms)　*The Times Of India・2026-11-19*
+- [Roving Periscope: 81 years after WWII, the “Big Three” try to carve out Earth!](https://english.revoi.in/roving-periscope-81-years-after-wwii-the-big-three-try-to-carve-out-earth/)　*Revoi・2026-11-19*
+- [Stock Futures Climb Ahead Of Anthropic's Nasdaq Debut — NVDA, BABA, TTWO, SLS Stocks In Focus](https://newsable.asianetnews.com/markets/stock-futures-climb-ahead-of-anthropic-s-nasdaq-debut-nvda-baba-ttwo-sls-stocks-in-focus-articleshow-9s790ud)　*Asianet Newsable・2026-11-19*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-19 22:58 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-20 08:03 台灣時間，僅供參考，不構成投資建議。*
