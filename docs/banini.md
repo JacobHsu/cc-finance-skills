@@ -1,20 +1,37 @@
 # 巴逆逆 Threads 貼文紀錄
 
-> 更新時間：2026-11-19 22:03 台灣時間
+> 更新時間：2026-11-20 21:46 台灣時間
 > 帳號：[@banini31](https://www.threads.com/@banini31)
-> 本次抓取：16 篇
+> 本次抓取：15 篇
 
 ---
 
-### 今天 21:02（2026/11/19 21:02）
+### 今天 17:44（2026/11/20 17:44）
+
+> 我要向尬偉老師道歉_(:_」∠)_
+
+讚 1729 ｜ 回覆 119 ｜ [原文](https://www.threads.com/@banini31/post/Df9XLxemV1Q)
+
+---
+
+### 今天 12:47（2026/11/20 12:47）
+
+> 存骨⋯⋯⋯ 
+這只是存骨_(:_」∠)_
+
+讚 4284 ｜ 回覆 363 ｜ [原文](https://www.threads.com/@banini31/post/Df81QNIGXrW)
+
+---
+
+### 昨天 21:02（2026/11/19 21:02）
 
 > 啊我就沒有那個命啊！😭
 
-讚 982 ｜ 回覆 119 ｜ [原文](https://www.threads.com/@banini31/post/Df7JFKWiTzN)
+讚 2542 ｜ 回覆 241 ｜ [原文](https://www.threads.com/@banini31/post/Df7JFKWiTzN)
 
 ---
 
-### 今天 15:51（2026/11/19 15:51）
+### 昨天 15:51（2026/11/19 15:51）
 
 > 網路上好多人錢被轉走
 其實我這個月幾乎天天都遇到一樣的事情
@@ -23,20 +40,20 @@
 不然我證券帳戶的錢怎麼會越來越少⋯
 那個股票不是我買的啊， 一定是駭客⋯ 我可以申請退錢嗎
 
-讚 4684 ｜ 回覆 164 ｜ [原文](https://www.threads.com/@banini31/post/Df6lfGxmbQR)
+讚 6586 ｜ 回覆 196 ｜ [原文](https://www.threads.com/@banini31/post/Df6lfGxmbQR)
 
 ---
 
-### 今天 13:35（2026/11/19 13:35）
+### 昨天 13:35（2026/11/19 13:35）
 
 > 創意你有種回到3000啊！ 
 我還不買爆你(;´༎ຶД༎ຶ`)
 
-讚 1948 ｜ 回覆 147 ｜ [原文](https://www.threads.com/@banini31/post/Df6V505maW8)
+讚 2578 ｜ 回覆 175 ｜ [原文](https://www.threads.com/@banini31/post/Df6V505maW8)
 
 ---
 
-### 今天 12:25（2026/11/19 12:25）
+### 昨天 12:25（2026/11/19 12:25）
 
 > 媽媽是對的 
 我不該玩股票的▓
@@ -44,41 +61,41 @@
 我今天的操作
 但是不跟你說什麼時候賣的
 
-讚 2789 ｜ 回覆 223 ｜ [原文](https://www.threads.com/@banini31/post/Df6N-dRmSqI)
+讚 3241 ｜ 回覆 249 ｜ [原文](https://www.threads.com/@banini31/post/Df6N-dRmSqI)
 
 ---
 
-### 今天 02:51（2026/11/19 02:51）
+### 昨天 02:51（2026/11/19 02:51）
 
 > 請大家幫忙緩解我的焦慮 
 謝謝❤️
 
-讚 3606 ｜ 回覆 268 ｜ [原文](https://www.threads.com/@banini31/post/Df5MQKGk7WK)
+讚 3973 ｜ 回覆 278 ｜ [原文](https://www.threads.com/@banini31/post/Df5MQKGk7WK)
 
 ---
 
-### 今天 01:53（2026/11/19 01:53）
+### 昨天 01:53（2026/11/19 01:53）
 
 > 原本想嘲笑正二教
 然後看到自己手上的981A跟991A
 
 其實正二教挺不錯的啊
 
-讚 3031 ｜ 回覆 78 ｜ [原文](https://www.threads.com/@banini31/post/Df5FoNTmXZi)
+讚 3568 ｜ 回覆 83 ｜ [原文](https://www.threads.com/@banini31/post/Df5FoNTmXZi)
 
 ---
 
-### 今天 00:13（2026/11/19 00:13）
+### 昨天 00:13（2026/11/19 00:13）
 
 > 這波離底部還很遠
 跌的機率遠大於漲的機率
 大家要做好風控，不要無腦一直攤啊😭
 
-讚 4544 ｜ 回覆 317 ｜ [原文](https://www.threads.com/@banini31/post/Df46HoDjfO8)
+讚 4939 ｜ 回覆 335 ｜ [原文](https://www.threads.com/@banini31/post/Df46HoDjfO8)
 
 ---
 
-### 昨天 14:40（2026/11/18 14:40）
+### 11/18 14:40（2026/11/18 14:40）
 
 > 隨便了▓
 與其想股票怎麼賺錢
@@ -86,15 +103,15 @@
 
 是說我還沒錢去買GU緊身衣⋯
 
-讚 2425 ｜ 回覆 189 ｜ [原文](https://www.threads.com/@banini31/post/Df34jf7GVRY)
+讚 2505 ｜ 回覆 189 ｜ [原文](https://www.threads.com/@banini31/post/Df34jf7GVRY)
 
 ---
 
-### 昨天 10:10（2026/11/18 10:10）
+### 11/18 10:10（2026/11/18 10:10）
 
 > 黃金是不是沒用了？
 
-讚 1345 ｜ 回覆 233 ｜ [原文](https://www.threads.com/@banini31/post/Df3ZtWRjZk1)
+讚 1368 ｜ 回覆 236 ｜ [原文](https://www.threads.com/@banini31/post/Df3ZtWRjZk1)
 
 ---
 
@@ -103,7 +120,7 @@
 > 以前是相信川湖， 月底舒服
 現在是買進川湖， 血肉模糊 (;´༎ຶД༎ຶ`)
 
-讚 6660 ｜ 回覆 393 ｜ [原文](https://www.threads.com/@banini31/post/Df00_BtGc18)
+讚 6676 ｜ 回覆 393 ｜ [原文](https://www.threads.com/@banini31/post/Df00_BtGc18)
 
 ---
 
@@ -114,7 +131,7 @@
 一堆教你長期投資抱10年的人
 玩股票的資歷可能不到3年
 
-讚 9982 ｜ 回覆 377 ｜ [原文](https://www.threads.com/@banini31/post/Dfz0X3zGaiy)
+讚 10002 ｜ 回覆 378 ｜ [原文](https://www.threads.com/@banini31/post/Dfz0X3zGaiy)
 
 ---
 
@@ -122,7 +139,7 @@
 
 > 喉嚨好痛🫠
 
-讚 709 ｜ 回覆 92 ｜ [原文](https://www.threads.com/@banini31/post/DfzzSsxGfh6)
+讚 711 ｜ 回覆 92 ｜ [原文](https://www.threads.com/@banini31/post/DfzzSsxGfh6)
 
 ---
 
@@ -130,38 +147,8 @@
 
 > 財經網紅在股票大跌後辛酸畫面流出
 
-讚 5343 ｜ 回覆 297 ｜ [原文](https://www.threads.com/@banini31/post/DfyyEMIk50T)
+讚 5348 ｜ 回覆 298 ｜ [原文](https://www.threads.com/@banini31/post/DfyyEMIk50T)
 
 ---
 
-### 11/16 13:30（2026/11/16 13:30）
-
-> 爛到不想看盤
-上週買的全滅⋯ 
-大師之劍真的靈， 股價真的要回朔到上上週五
-
-讚 4809 ｜ 回覆 222 ｜ [原文](https://www.threads.com/@banini31/post/Dfym9OnGVTQ)
-
----
-
-### 11/15 21:08（2026/11/15 21:08）
-
-> _(:_」∠)_
-
-讚 282 ｜ 回覆 5 ｜ [原文](https://www.threads.com/@banini31/post/Dfw2jddmayF)
-
----
-
-### 11/15 21:02（2026/11/15 21:02）
-
-> 原來真的時光回溯了
-我的以太幣回到2021了⋯
-
-▓
- 虛擬幣不如存定存
-
-讚 847 ｜ 回覆 74 ｜ [原文](https://www.threads.com/@banini31/post/Dfw17XnmcsA)
-
----
-
-*自動產生於 2026-11-19 22:03 台灣時間。僅供娛樂參考，不構成投資建議。*
+*自動產生於 2026-11-20 21:46 台灣時間。僅供娛樂參考，不構成投資建議。*
