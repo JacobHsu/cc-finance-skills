@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-20 22:40 台灣時間　｜　資料更新：2026-11-20 22:40 台灣時間
+> 更新時間：2026-11-21 07:30 台灣時間　｜　資料更新：2026-11-21 07:30 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | The Strait of Hormuz remains effectively closed to commercial traffic. IMF PortWatch recorded only 2 transits on November 15 against a pre-crisis baseline of 85 per day. Iran maintains a naval blockade with ongoing mine-laying and tanker attacks. Some US-facilitated transits continue but commercial traffic is severely restricted. |
+| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping with only 2% of pre-crisis vessel transits (2 ships on Nov 15 vs ~85 normal). Iranian attacks on shipping continue; two supertankers struck mines on Nov 20 per IRGC. Status has held for 266 days despite temporary openings in June. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 5 | 60 | <span style="color:#e74c3c">2.3% ⚠️</span> |
+| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **491** | 220 | 160 | 111 | <span style="color:#e74c3c">-1.00</span> |
+| **211** | 95 | 120 | 0 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 236,900 | 10,300,000 | <span style="color:#e74c3c">2.3% ⚠️</span> | 上升 |
+| 206,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
-**狀態：** NO_TALKS
+**狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran-Oman temporary route agreed in August but strait remains closed; no direct US-Iran negotiations; ceasefire expired July 8
+**頭條：** Iran proposes 2-day Hormuz reopening plan; talks continue via Qatar mediators
 
-**各方：** Iran, Oman, United States
+**各方：** Iran, United States, Qatar, China, Russia, Pakistan
 
-> Iran and Oman agreed on a temporary maritime route in August 2026, but Iran has not formally reopened the strait. Iran demands sanctions relief and fulfillment of the June 17 MoU ceasefire terms. Direct US-Iran negotiations have stalled since the 60-day ceasefire expired July 8. No breakthrough negotiations are currently scheduled.
+> Iran presented a seven-point proposal in early November including a 2-day plan to reopen Strait if US meets demands (sanctions lift, end blockade, recognize Iran-Oman corridor). Trump confirmed talks are ongoing but Iran says US response has been 'unconvincing'. Negotiations continue via Qatar as of Nov 4; Trump and Xi reportedly discussed requiring full Hormuz reopening on Nov 20.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $4.2B |
+| 21% | $2.1B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.1B | Japan, South Korea, China |
+| 25% | $0.68B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz; top importers face critical supply shortages. LNG spot prices have spiked significantly, constraining imports for Japan, South Korea, and China.
+> 25% of global LNG trade transits Hormuz; top importers Japan, South Korea, China facing severe constraints. Supply chains stressed despite some flows continuing via alternate routes.
 
 **受影響地區**
 
@@ -74,38 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| EU | MODERATE | 20% |
-| Saudi Arabia and Gulf States | CRITICAL | 95% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increasing usage for tanker rerouting; major container lines rerouting with 35-45% higher slot premiums on Asia-Europe routes |
-| East-West Pipeline (Saudi Petroline) | +0 天 | — | 5 mbpd nameplate capacity; already at or near full utilization pre-crisis; can add ~2.3 mbpd to bypass strait |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | 1.5 mbpd capacity; operating but insufficient to replace normal Hormuz flow of ~17-18 mbpd |
+| Cape of Good Hope | +12 天 | $650 | Rerouting active; slot premiums on Asia-Europe up 35-45% since March; container port congestion accelerating |
+| East-West Pipeline (Saudi) | +0 天 | — | Converted to full 5 mbpd capacity on Mar 11; Bab-el-Mandeb oil exports up 21% vs Feb; now experiencing attacks/disruptions |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational at 1.5 mbpd; supporting rerouting but capacity limited; Aramco using ship-to-ship transfers near Oman |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1200% | +2.1% | 68 天 |
+| +1200% | +0.8% | 72 天 |
 
 **主要供應鏈事件**
 
-- VLCC spot rates reached $1.41M/day (Oct 15) vs. pre-crisis $112k/day—1150% increase; insurance comprises $11-15M per VLCC voyage
-- Global oil production down 6.7M bbl/day; crude exports from Saudi Arabia and Gulf reduced by ~26% from normal levels
-- Container shipping disruptions mounting; 35-45% slot premium increases on Asia-Europe Cape routes; global port congestion accelerating
-- Crude freight has soared to $20+/barrel (27% of delivered cost) vs. 3% pre-crisis; total freight cost per VLCC now $37M+ per voyage
+- VLCC tanker spot rates at $1.08M/day (Nov 13) vs $30-35k pre-crisis (36-40x multiplier)
+- Freight comprises 27% of delivered crude cost vs 3% pre-crisis; commodity costs suppressing demand
+- Container shipping delays/premiums; Asia-Europe slot prices up 35-45%; global port congestion accelerating
+- LPG/LNG price spikes causing domestic shortages in India and other Asian economies; protests over energy access
 
 ## 最新新聞
 
-- [Is Iran Developing Biological Weapons? Tehran Cites 2003 Iraq War. Here's What It Said](https://www.ndtvprofit.com/world/is-iran-developing-biological-weapons-tehran-cites-2003-iraq-warns-heres-what-it-said-in-response-to-us-claims-12352060)　*Ndtv・2026-11-20*
-- [Burning LPG tanker, missing crew, armed skiffs: Inside maritime watchdog’s latest Hormuz report](https://gulfnews.com/world/mena/burning-lpg-tanker-missing-crew-armed-skiffs-inside-maritime-watchdogs-latest-hormuz-report-1.500754342)　*Gulf News・2026-11-20*
-- [Daily Voice: AI bubble? Not yet, says this co-founder; warns of deeper correction if Big Tech cuts spending](https://www.moneycontrol.com/news/business/markets/daily-voice-ai-bubble-not-yet-says-this-co-founder-warns-of-deeper-correction-if-big-tech-cuts-spending-14085207.html)　*Moneycontrol・2026-11-20*
-- [Iran not to accept continuation of war of attrition: IRGC spokesman](https://www.prokerala.com/news/articles/a1838825.html)　*Prokerala・2026-11-20*
-- [Oil Prices Today: Hormuz Flows Hit Record, Why Is Brent Above $92?](https://www.ndtvprofit.com/markets/oil-prices-today-november-20-hormuz-oil-flows-hit-record-saudi-exports-jump-21-percent-why-is-brent-still-above-92-wti-commodity-prices-12352004)　*Ndtv・2026-11-20*
+- [Oil prices remain under pressure as focus shifts from supply disruptions to demand concerns. What's next?](https://investinglive.com/commodities/oil-prices-remain-under-pressure-as-focus-shifts-from-supply-disruptions-to-demand-concerns-what-s-next/)　*Forexlive・2026-11-20*
+- [Punjab Di Taja Khabar | 4 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ | Amritpal Singh Parole | Giani Harpreet Singh](https://punjab.news18.com/videos/punjab/punjab-di-taja-khabar-4-amritpal-singh-parole-giani-harpreet-singh-1021788.html)　*News18 Punjabi News・2026-11-20*
+- [Amritpal Singh Custody Parole | ਅਮ੍ਰਿਤਪਾਲ ਸਿੰਘ ਦੀ ਬੌਡੀ ਲੈਂਗਵੇਜ ਦੇਖ ਸਾਰੇ ਹੈਰਾਨ ! | Dibrugarh Jail](https://punjab.news18.com/videos/punjab/amritpal-singh-custody-parole-dibrugarh-jail-1021779.html)　*News18 Punjabi News・2026-11-20*
+- [Amritpal Singh Parole Update | ਅਮ੍ਰਿਤਪਾਲ ਦੀਆਂ ਪਹਿਲੀਆਂ ਤਸਵੀਰਾਂ ਆਈਆਂ ਸਾਹਮਣੇ, ਬਦਲ ਗਿਆ ਚਿਹਰਾ ?](https://punjab.news18.com/videos/punjab/amritpal-singh-parole-update-1021775.html)　*News18 Punjabi News・2026-11-20*
+- [Stock Market Today: Dow Jones, S&P 500 Futures Fall as Trump Weighs Iran Decision— INTU, ROST, KEYS in Focus](https://www.benzinga.com/markets/equities/26/11/63465508/stock-market-today-dow-jones-sp-500-futures-fall-as-trump-weighs-iran-decision-intu-rost-keys-in-focus)　*Benzinga・2026-11-20*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-20 22:40 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-21 07:30 台灣時間，僅供參考，不構成投資建議。*
