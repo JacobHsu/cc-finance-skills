@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-21 07:30 台灣時間　｜　資料更新：2026-11-21 07:30 台灣時間
+> 更新時間：2026-11-21 21:56 台灣時間　｜　資料更新：2026-11-21 21:56 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">CLOSED</span> | 2026-02-28 | Strait of Hormuz remains effectively closed to commercial shipping with only 2% of pre-crisis vessel transits (2 ships on Nov 15 vs ~85 normal). Iranian attacks on shipping continue; two supertankers struck mines on Nov 20 per IRGC. Status has held for 266 days despite temporary openings in June. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted with ongoing Iranian attacks on shipping. As of November 20-21, 2026, throughput is approximately 48% of pre-war levels (8.3 mbpd) according to latest Kpler data. UKMTO reported shipping 65% below pre-war levels in the week ending November 18. Six attacks on tankers reported in that week. 136 total incidents confirmed by IMO, with 25 seafarer deaths. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 32 | 32 | 60 | <span style="color:#e74c3c">53.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **211** | 95 | 120 | 0 | <span style="color:#27ae60">0.00</span> |
+| **201** | 55 | 65 | 81 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -40,31 +40,31 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 206,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 持平 |
+| 4,944,000 | 10,300,000 | <span style="color:#e74c3c">48.0% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran proposes 2-day Hormuz reopening plan; talks continue via Qatar mediators
+**頭條：** Iran-Oman negotiations on Strait management ongoing; US blockade of Iranian ports continues
 
-**各方：** Iran, United States, Qatar, China, Russia, Pakistan
+**各方：** Iran, Oman, United States, Qatar, Pakistan
 
-> Iran presented a seven-point proposal in early November including a 2-day plan to reopen Strait if US meets demands (sanctions lift, end blockade, recognize Iran-Oman corridor). Trump confirmed talks are ongoing but Iran says US response has been 'unconvincing'. Negotiations continue via Qatar as of Nov 4; Trump and Xi reportedly discussed requiring full Hormuz reopening on Nov 20.
+> Iran and Oman are engaged in active negotiations over management of the Strait, with talks described as progressing on technical, legal, security and environmental aspects. However, broader US-Iran peace talks remain deadlocked since July ceasefire collapse. No agreement has been reached as of mid-November despite months of negotiations. US maintains naval blockade on Iranian oil exports.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.1B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.68B | Japan, South Korea, China |
+| 25% | $0.6B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz; top importers Japan, South Korea, China facing severe constraints. Supply chains stressed despite some flows continuing via alternate routes.
+> LNG flows through Hormuz down significantly from pre-war levels. Top Asian importers face winter supply constraints and elevated prices as spot market premiums remain severe and alternative routing limited.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Rerouting active; slot premiums on Asia-Europe up 35-45% since March; container port congestion accelerating |
-| East-West Pipeline (Saudi) | +0 天 | — | Converted to full 5 mbpd capacity on Mar 11; Bab-el-Mandeb oil exports up 21% vs Feb; now experiencing attacks/disruptions |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational at 1.5 mbpd; supporting rerouting but capacity limited; Aramco using ship-to-ship transfers near Oman |
+| Cape of Good Hope | +12 天 | $650 | Increasing utilization; estimated 15-20% of normal Hormuz traffic now rerouted via Cape |
+| East-West Pipelines (Saudi Arabia) | +0 天 | — | Operating at ~40% above pre-war capacity; Saudi crude now partially bypassing Hormuz |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | 1.5 mbpd capacity; operating at elevated levels to support regional exports |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1200% | +0.8% | 72 天 |
+| +850% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC tanker spot rates at $1.08M/day (Nov 13) vs $30-35k pre-crisis (36-40x multiplier)
-- Freight comprises 27% of delivered crude cost vs 3% pre-crisis; commodity costs suppressing demand
-- Container shipping delays/premiums; Asia-Europe slot prices up 35-45%; global port congestion accelerating
-- LPG/LNG price spikes causing domestic shortages in India and other Asian economies; protests over energy access
+- VLCC spot rates at $862k/day (WS1014+), up 1,624% from pre-crisis $50 WS; freight premium now 27% of delivered crude cost vs. 3% pre-war
+- LNG import prices in Asia elevated 40-60% above baseline due to supply disruption and rerouting surcharges
+- Global refined product markets tight; gasoil and jet fuel shortages in India and Southeast Asia exacerbated by reduced Persian Gulf exports
+- Port congestion at alternative hubs (Fujairah, Oman anchorages); 201 vessels in GOO anchorage as of November 15, with 117 'dark vessels' avoiding AIS detection
 
 ## 最新新聞
 
-- [Oil prices remain under pressure as focus shifts from supply disruptions to demand concerns. What's next?](https://investinglive.com/commodities/oil-prices-remain-under-pressure-as-focus-shifts-from-supply-disruptions-to-demand-concerns-what-s-next/)　*Forexlive・2026-11-20*
-- [Punjab Di Taja Khabar | 4 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ | Amritpal Singh Parole | Giani Harpreet Singh](https://punjab.news18.com/videos/punjab/punjab-di-taja-khabar-4-amritpal-singh-parole-giani-harpreet-singh-1021788.html)　*News18 Punjabi News・2026-11-20*
-- [Amritpal Singh Custody Parole | ਅਮ੍ਰਿਤਪਾਲ ਸਿੰਘ ਦੀ ਬੌਡੀ ਲੈਂਗਵੇਜ ਦੇਖ ਸਾਰੇ ਹੈਰਾਨ ! | Dibrugarh Jail](https://punjab.news18.com/videos/punjab/amritpal-singh-custody-parole-dibrugarh-jail-1021779.html)　*News18 Punjabi News・2026-11-20*
-- [Amritpal Singh Parole Update | ਅਮ੍ਰਿਤਪਾਲ ਦੀਆਂ ਪਹਿਲੀਆਂ ਤਸਵੀਰਾਂ ਆਈਆਂ ਸਾਹਮਣੇ, ਬਦਲ ਗਿਆ ਚਿਹਰਾ ?](https://punjab.news18.com/videos/punjab/amritpal-singh-parole-update-1021775.html)　*News18 Punjabi News・2026-11-20*
-- [Stock Market Today: Dow Jones, S&P 500 Futures Fall as Trump Weighs Iran Decision— INTU, ROST, KEYS in Focus](https://www.benzinga.com/markets/equities/26/11/63465508/stock-market-today-dow-jones-sp-500-futures-fall-as-trump-weighs-iran-decision-intu-rost-keys-in-focus)　*Benzinga・2026-11-20*
+- [Morning Digest: Indian man gets 19-year jail term for bid to kill Pannun; India ‘takes note’ of Shenzhen summit, awaits more details, and more](https://www.thehindu.com/news/morning-digest-november-21-2026/article71726209.ece)　*The Hindu・2026-11-21*
+- [‘If Iranians are after me, they’re being squeezed’: US Treasury chief as he remains at military base amid threats](https://timesofindia.indiatimes.com/world/us/if-iranians-are-after-me-theyre-being-squeezed-us-treasury-chief-as-he-remains-at-military-base-amid-threats/articleshow/136042606.cms)　*The Times Of India・2026-11-21*
+- [Iran Claims Trump Failed To Rally Countries Against Tehran During China Visit](https://timesofindia.indiatimes.com/videos/international/iran-claims-trump-failed-to-rally-countries-against-tehran-during-china-visit/videoshow/136042517.cms)　*The Times Of India・2026-11-21*
+- [Shenzhen pledge: Can US, Russia, China come together to improve global fuel supplies?](https://indianexpress.com/article/explained/explained-economics/us-russia-china-xi-trump-putin-shenzhen-energy-pact-fuel-supply-10971935/)　*The Indian Express・2026-11-21*
+- [Dem senators want ‘swift’ response to Russian airspace incursions](https://thehill.com/newsletters/defense-national-security/6234868-dem-senators-want-swift-response-to-russian-airspace-incursions/)　*The Hill・2026-11-21*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-21 07:30 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-21 21:56 台灣時間，僅供參考，不構成投資建議。*
