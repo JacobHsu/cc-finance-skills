@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-21 21:56 台灣時間　｜　資料更新：2026-11-21 21:56 台灣時間
+> 更新時間：2026-11-22 06:37 台灣時間　｜　資料更新：2026-11-22 06:37 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted with ongoing Iranian attacks on shipping. As of November 20-21, 2026, throughput is approximately 48% of pre-war levels (8.3 mbpd) according to latest Kpler data. UKMTO reported shipping 65% below pre-war levels in the week ending November 18. Six attacks on tankers reported in that week. 136 total incidents confirmed by IMO, with 25 seafarer deaths. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait of Hormuz remains severely restricted with approximately 2% of normal transit volume. Shipping throughput fell 65% below pre-war levels in mid-November. Iran claims control and requires permits; US Navy coordinates southern corridor transits. Threat level remains severe with elevated risk of additional attacks. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 32 | 32 | 60 | <span style="color:#e74c3c">53.3% ⚠️</span> |
+| 7 | 7 | 60 | <span style="color:#e74c3c">11.7% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **201** | 55 | 65 | 81 | <span style="color:#27ae60">+2.00</span> |
+| **285** | 95 | 120 | 70 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 4,944,000 | 10,300,000 | <span style="color:#e74c3c">48.0% ⚠️</span> | 上升 |
+| 206,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran-Oman negotiations on Strait management ongoing; US blockade of Iranian ports continues
+**頭條：** Iran and US in intensive mediated talks; Iran proposes two-day reopening of Hormuz if conditions met
 
-**各方：** Iran, Oman, United States, Qatar, Pakistan
+**各方：** Iran, United States, Qatar, Pakistan, Oman
 
-> Iran and Oman are engaged in active negotiations over management of the Strait, with talks described as progressing on technical, legal, security and environmental aspects. However, broader US-Iran peace talks remain deadlocked since July ceasefire collapse. No agreement has been reached as of mid-November despite months of negotiations. US maintains naval blockade on Iranian oil exports.
+> Qatar-mediated talks ongoing as of November 21, 2026 with Iranian officials indicating reopening is 'not difficult' if US accepts conditions. Iran has proposed opening Hormuz within two days if demands (including sanctions waivers, asset unfreezing, regional ceasefire recognition) are met. No formal negotiations declared yet, though multiple diplomatic channels active including Pakistani and Qatari mediation.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.6B | Japan, South Korea, China |
+| 25% | $0.9B | Japan, South Korea, China |
 
-> LNG flows through Hormuz down significantly from pre-war levels. Top Asian importers face winter supply constraints and elevated prices as spot market premiums remain severe and alternative routing limited.
+> Approximately 25% of global LNG transits the Strait of Hormuz. Top importers Japan, South Korea, and China face elevated LNG costs and supply uncertainty. LNG spot prices elevated due to rerouting via longer alternative routes.
 
 **受影響地區**
 
@@ -80,9 +80,9 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increasing utilization; estimated 15-20% of normal Hormuz traffic now rerouted via Cape |
-| East-West Pipelines (Saudi Arabia) | +0 天 | — | Operating at ~40% above pre-war capacity; Saudi crude now partially bypassing Hormuz |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | 1.5 mbpd capacity; operating at elevated levels to support regional exports |
+| Cape of Good Hope | +12 天 | $650 | In active use; significant proportion of rerouted traffic now using this route despite 10-15 day delay. |
+| East-West Pipeline (Petroline) | +0 天 | — | Running at reduced capacity; can only handle approximately 5 million barrels/day (Saudi crude only); cannot substitute full Hormuz volume. |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operational but limited; handles approximately 1.5 million barrels/day capacity; supplementary to primary route. |
 
 **供應鏈影響**
 
@@ -92,19 +92,19 @@
 
 **主要供應鏈事件**
 
-- VLCC spot rates at $862k/day (WS1014+), up 1,624% from pre-crisis $50 WS; freight premium now 27% of delivered crude cost vs. 3% pre-war
-- LNG import prices in Asia elevated 40-60% above baseline due to supply disruption and rerouting surcharges
-- Global refined product markets tight; gasoil and jet fuel shortages in India and Southeast Asia exacerbated by reduced Persian Gulf exports
-- Port congestion at alternative hubs (Fujairah, Oman anchorages); 201 vessels in GOO anchorage as of November 15, with 117 'dark vessels' avoiding AIS detection
+- VLCC tanker spot rates at $1.08 million/day (Nov 13 2026), 9x pre-war levels and driven by restricted Hormuz access
+- Major container liner services suspended or severely curtailed Middle East bookings since March 2026
+- LPG and refined product shortages across Asia, with India and other LNG-dependent nations experiencing supply constraints
+- Global consumer inflation pressured upward; crude freight component increased from 3% to 27% of delivered cost of crude
 
 ## 最新新聞
 
-- [Morning Digest: Indian man gets 19-year jail term for bid to kill Pannun; India ‘takes note’ of Shenzhen summit, awaits more details, and more](https://www.thehindu.com/news/morning-digest-november-21-2026/article71726209.ece)　*The Hindu・2026-11-21*
-- [‘If Iranians are after me, they’re being squeezed’: US Treasury chief as he remains at military base amid threats](https://timesofindia.indiatimes.com/world/us/if-iranians-are-after-me-theyre-being-squeezed-us-treasury-chief-as-he-remains-at-military-base-amid-threats/articleshow/136042606.cms)　*The Times Of India・2026-11-21*
-- [Iran Claims Trump Failed To Rally Countries Against Tehran During China Visit](https://timesofindia.indiatimes.com/videos/international/iran-claims-trump-failed-to-rally-countries-against-tehran-during-china-visit/videoshow/136042517.cms)　*The Times Of India・2026-11-21*
-- [Shenzhen pledge: Can US, Russia, China come together to improve global fuel supplies?](https://indianexpress.com/article/explained/explained-economics/us-russia-china-xi-trump-putin-shenzhen-energy-pact-fuel-supply-10971935/)　*The Indian Express・2026-11-21*
-- [Dem senators want ‘swift’ response to Russian airspace incursions](https://thehill.com/newsletters/defense-national-security/6234868-dem-senators-want-swift-response-to-russian-airspace-incursions/)　*The Hill・2026-11-21*
+- [Iran's Surface-To-Air Missile Hits F-16 Over Qeshm; US Jet Plunges To 4,500 Feet, Diverts To UAE](https://timesofindia.indiatimes.com/videos/international/irans-surface-to-air-missile-hits-f-16-over-qeshm-us-jet-plunges-to-4500-feet-diverts-to-uae/videoshow/136050563.cms)　*The Times Of India・2026-11-21*
+- [Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled](https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled)　*Al Jazeera・2026-11-21*
+- [As Donald Trump basks in summit pomp, China's Xi Jinping strengthens his hand](https://www.deccanherald.com/world/us/as-donald-trump-basks-in-summit-pomp-chinas-xi-jinping-strengthens-his-hand-4226478)　*Deccan Herald・2026-11-21*
+- [Amritpal Singh News | ਭੁੱਬਾਂ ਮਾਰ ਰੋਏ ਅੰਮ੍ਰਿਤਪਾਲ ਸਿੰਘ ਦੇ ਪਤਨੀ ! Jallupur Khera News | News18 Punjab](https://punjab.news18.com/videos/punjab/amritpal-singh-news-jallupur-khera-news-news18-punjab-1022039.html)　*News18 Punjabi News・2026-11-21*
+- [Two tankers attacked in Hormuz strait: maritime agency](https://gulfnews.com/world/mena/two-tankers-attacked-in-hormuz-strait-maritime-agency-1.500756027)　*Gulf News・2026-11-21*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-21 21:56 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-22 06:37 台灣時間，僅供參考，不構成投資建議。*
