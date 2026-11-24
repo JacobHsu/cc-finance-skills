@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-24 00:56 台灣時間　｜　資料更新：2026-11-24 00:56 台灣時間
+> 更新時間：2026-11-24 11:39 台灣時間　｜　資料更新：2026-11-24 11:39 台灣時間
 
 ---
 
@@ -8,7 +8,7 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted to commercial shipping, effectively closed for most traffic. As of mid-November 2026, shipping runs 65% below pre-crisis levels (263-308 weekly transits vs ~420 normal). Physical blockade partially cleared (mines removed by August), but attacks continue and insurance costs remain prohibitive. Iran controls access; Indian ships granted exemption as of November 4. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted with only 2-9% of normal traffic transiting daily. Iran maintains control via blockade; US Navy facilitates limited 'dark transits' and protected corridor operations. Ongoing attacks on commercial shipping reported into November 2026. |
 
 ## 船舶流量
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **50** | 15 | 20 | 15 | <span style="color:#27ae60">0.00</span> |
+| **218** | 48 | 100 | 70 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 339,900 | 10,300,000 | <span style="color:#e74c3c">3.3% ⚠️</span> | 下跌 |
+| 339,900 | 10,300,000 | <span style="color:#e74c3c">3.3% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Qatar mediating Iran-US talks on Hormuz reopening with two-day plan under discussion
+**頭條：** Iran and US in intensive indirect negotiations via Qatar and Pakistan; Iran proposes 2-day reopening plan
 
-**各方：** Iran, United States, Qatar, Pakistan, Oman
+**各方：** Iran, United States, Qatar, Pakistan, China, Russia
 
-> As of early November, Iranian officials discussed with Qatari mediators a two-day plan to reopen the Strait within 48 hours, conditional on US meeting Tehran's demands. VP Vance sent letter seeking to gauge restarting negotiations. Talks remain indirect; no breakthrough to date. Previous ceasefire (April 8 - July 8, 2026) broke down when Iran struck commercial ships.
+> As of November 21, 2026, Qatar and Pakistan are facilitating indirect talks between Iran and the US. Iran's foreign minister states reopening the Strait is 'not difficult' if the US accepts Iranian conditions. No formal negotiations have begun, but intensive mediation is ongoing with Iranian officials indicating they remain open to both diplomacy and military readiness.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $1.2B | Japan, South Korea, China |
+| 25% | $0.35B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG transits the Strait of Hormuz. Top importers (Japan, South Korea, China) face supply tightness and elevated LNG spot prices. LNG market remains under acute stress.
+> Approximately 25% of global LNG trade normally transits Hormuz. With throughput at 2-3% of normal, LNG shortages are acute in Asia. Unlike crude oil, LNG has no strategic reserve mechanism and cannot be rerouted when physically blocked.
 
 **受影響地區**
 
@@ -72,40 +72,39 @@
 |------|---------|-----------|
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
-| China | HIGH | 40% |
 | India | HIGH | 60% |
+| China | HIGH | 40% |
 | European Union | MODERATE | 20% |
-| Saudi Arabia / GCC | CRITICAL | 95% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | In active use for major reroutes; heavily congested; charges skyrocketing (Panama Canal auctions $4-5M per passage slot) |
-| Saudi East-West Pipeline | +0 天 | — | Operating at ~5.8 mbpd (capacity 5 mbpd); Saudi Arabia primary beneficiary; limited to Saudi crude |
-| UAE Habshan-Fujairah Pipeline | +0 天 | — | Operating at reduced capacity (~1.5 mbpd); bypass route for UAE crude exports |
+| Cape of Good Hope | +12 天 | $650 | Actively used by rerouted vessels; significantly increased traffic but cannot absorb full Hormuz volume |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | 5 mbpd capacity; Saudi-only limited routing option |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; insufficient to offset Hormuz disruption |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +150% | +2.5% | 68 天 |
+| +450% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- Global container shipping costs up 30-50% on Asia-US routes; smaller firms disproportionately affected
-- LNG supply tightness driving spot prices up; fertilizer and chemical supply chains disrupted
-- Food price pressures mounting due to fuel and fertilizer cost escalation; grain shipping delays
-- Chip production delays from chemical component shortages; automotive assembly lines halted in multiple regions
+- VLCC tanker spot rates reached record $1.33M/day (TD3C) in October; currently $1.08M/day
+- Global fertilizer and food prices spiked within weeks; semiconductor supply threatened by Qatar helium and Gulf sulfur disruptions
+- 44,000+ businesses across 174 economies exposed to shipment cancellations; 80% are small/micro-businesses
+- Port congestion at regional anchorages; air freight demand surge as alternatives to delayed sea shipments
 
 ## 最新新聞
 
-- [A thriving economy and Rahul Gandhi fuming with jealousy](https://timesofindia.indiatimes.com/toi-blogs/power-policy/a-thriving-economy-and-rahul-gandhi-fuming-with-jealousy/articleshow/136089348.cms)　*The Times Of India・2026-11-23*
-- [MCX gold prices rise Rs 2,800/10g after 5-day fall, silver jumps Rs 3,600/kg despite increasing rate hike bets. Here’s why](https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-2800/10g-after-5-day-fall-silver-jumps-rs-3600/kg-despite-increasing-rate-hike-bets-heres-why/articleshow/136089223.cms)　*The Economic Times・2026-11-23*
-- [US-Iran War Live Updates: Trump Hints At Resuming Strikes As Tanker Fires Near Hormuz](https://www.news18.com/world/us-iran-war-live-updates-strait-of-hormuz-us-naval-blockade-iran-attack-bahrain-irgc-us-drone-liveblog-ws-l-10436757.html)　*News 18・2026-11-23*
-- [Why are Kazakhstan and Pakistan Eyeing Each Other?](https://thediplomat.com/2026/11/why-are-kazakhstan-and-pakistan-eyeing-each-other/)　*The Diplomat・2026-11-23*
-- [Crude oil rises marginally as AI selloff weighs on markets, Gulf attacks support prices; Brent at $90, WTI at $83](https://www.moneycontrol.com/news/business/markets/crude-oil-rises-marginally-as-ai-selloff-weighs-on-markets-gulf-attacks-support-prices-brent-at-90-wti-at-83-14086892.html)　*Moneycontrol・2026-11-23*
+- [Bikram Majithia permission to Abroad | ਬਿਕਰਮ ਮਜੀਠੀਆ ਨੂੰ ਲੈ ਕੇ ਕੋਰਟ ਤੋਂ ਆਈ ਵੱਡੀ ਖ਼ਬਰ | Breaking News](https://punjab.news18.com/videos/punjab/bikram-majithia-permission-to-abroad-breaking-news-1022636.html)　*News18 Punjabi News・2026-11-23*
+- [UK man braves oil fires and mines to swim the Strait of Hormuz](https://gulfnews.com/world/europe/uk-man-braves-oil-fires-and-mines-to-swim-the-strait-of-hormuz-1.500758237)　*Gulf News・2026-11-23*
+- [EU hit by new gas price shock](https://rt-english.com/news/649257-eu-hit-new-gas-shock/)　*Rt・2026-11-23*
+- [Scientist: All the signs that 'prove' Armageddon is on our doorstep](https://www.dailymail.com/vertical-galleries/article-16315331/Scientist-signs-prove-Armageddon-doorstep.html)　*Mail Online・2026-11-23*
+- [Sant Seechewal News | ਗਰੀਬੀ ਨੂੰ ਲੈ ਕੇ PM ਦੇ ਦਾਅਵਿਆਂ 'ਤੇ ਸੀਚੇਵਾਲ ਨੇ ਖੜ੍ਹੇ ਕੀਤੇ ਸਵਾਲ| Poverty in India](https://punjab.news18.com/videos/punjab/sant-seechewal-news-pm-poverty-in-india-1022618.html)　*News18 Punjabi News・2026-11-23*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-24 00:56 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-24 11:39 台灣時間，僅供參考，不構成投資建議。*
