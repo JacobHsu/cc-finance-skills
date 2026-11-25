@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-25 09:46 台灣時間　｜　資料更新：2026-11-25 09:46 台灣時間
+> 更新時間：2026-11-26 00:33 台灣時間　｜　資料更新：2026-11-26 00:33 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted with only 2-11 ships transiting daily (1-3% of normal 60-85/day baseline). Iran maintains blockade with ongoing attacks on tankers. Physical closure declared by Iran's military; occasional transits permitted under Iranian naval escort. Insurance premiums and mine risk keep most commercial traffic away despite physical openness. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted with AIS-visible traffic at ~9% of pre-crisis rates and oil flows at approximately 50% of normal. Physical transit technically possible but heavily constrained by Iranian blockade, US Navy operations, mine risk, and war-risk insurance making most commercial transits economically unfeasible. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 2 | 3 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **492** | 85 | 70 | 337 | <span style="color:#27ae60">0.00</span> |
+| **400** | 85 | 70 | 245 | <span style="color:#27ae60">0.00</span> |
 
 ## 保險風險
 
@@ -34,29 +34,29 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 7.5% | 0.15% | 50x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 206,000 | 10,300,000 | <span style="color:#e74c3c">2.0% ⚠️</span> | 持平 |
+| 103,000 | 10,300,000 | <span style="color:#e74c3c">1.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
 **狀態：** TALKS_IN_PROGRESS
 
-**頭條：** Iran-US indirect talks via Qatar mediators; Iran demands seven conditions for reopening strait
+**頭條：** Iran proposes two-day strait reopening plan via Qatari mediators; VP Vance reaches out seeking renewed negotiations
 
-**各方：** Iran, United States, Qatar, Pakistan, Oman
+**各方：** Iran, Qatar, United States, Pakistan, Oman
 
-> Qatari mediators have traveled to Tehran as of late November 2026 as indirect talks continue. Iran's Foreign Minister states reopening the strait is 'not difficult' if the US accepts 'reasonable conditions.' Iran previously proposed a two-day implementation timeline in early November. No formal negotiations have been scheduled, with talks described as not yet formal by Iranian officials. Both sides cite willingness but preconditions remain unmet.
+> Iranian officials discussed with Qatari mediators a plan to reopen the Strait of Hormuz within two days and restart peace talks, contingent on US meeting Tehran's demands. US VP Vance reached out to Iranian officials in late October seeking renewed negotiations. No direct US-Iran talks currently underway, but mediation efforts continue despite war rhetoric.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $1.8B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
@@ -64,7 +64,7 @@
 |--------------|-------------|----------------|
 | 25% | $0.6B | Japan, South Korea, China |
 
-> LNG transits at ~2% of normal. Top importers face supply shortages and price spikes. Some Indian exemptions granted as of November 4, 2026, partially restoring LPG flows to South Asia.
+> 25% of global LNG trade transits Hormuz. Japan, South Korea, and China facing acute LNG supply constraints with limited alternative sourcing. LNG spot prices elevated; long-term contracts under pressure as suppliers struggle to maintain flow.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Moderate adoption. Saudi and UAE crude increasingly routed via Cape, adding 10-15 transit days and $500-800k per VLCC. |
-| East-West Pipeline (Saudi) | +0 天 | — | 5 mbpd nameplate capacity; operating at reduced rates due to production cuts and Iranian blockade pressure. |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; Fujairah anchorage swelling with waiting tankers unable to exit via restricted strait. |
+| Cape of Good Hope | +12 天 | $650 | Actively used by majority of rerouting vessels; adds 10-15 days transit time and $500-800k per vessel cost |
+| East-West Pipeline (Petroline) | +0 天 | — | Running at reduced capacity with extreme pressure (crisis level); Saudi-only 5 mbpd capacity insufficient for diverted volumes |
+| UAE Habshan-Fujairah Pipeline | +0 天 | — | Limited utilization; 1.5 mbpd capacity; insufficient to absorb Hormuz displacement |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1200% | +2.1% | 68 天 |
+| +240% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC tanker spot rates: TD3C at ~$1.08M/day (WS 1014) vs pre-crisis $250k/day (WS 50); 332% increase; freight now 27% of delivered crude cost vs 3% pre-crisis
-- Global supply chain: 492+ commercial vessels stranded in Gulf of Oman and Persian Gulf; waiting times exceed 60+ days for some vessels; estimated 2,900 seafarers stuck aboard unable to disembark
-- Oil price volatility: Brent crude fluctuating $95-130/bbl range; mine strikes and attacks resuming in November 2026 driving premium widening
-- Food prices: Cargo redirects via Cape adding 2+ weeks transit time; agricultural exports from Gulf delayed; fertilizer supply disrupted to major importers
+- VLCC tanker spot rates at WS1014 ($1.08M/day TCE) vs pre-crisis WS50 ($250k/day); volatility range $304k-$1.08M/day
+- LNG spot prices 85-95% above pre-crisis levels; Japan spot LNG hitting $45-50/MMBtu vs $12-15 pre-crisis
+- Air freight premiums rising 120-150% as shippers shift to expedited delivery; sea-to-air conversions accelerating
+- Container freight indices up 230% for Asia-Europe routes; product tanker rates elevated despite lower utilization; raw material shortages in downstream industries
 
 ## 最新新聞
 
-- [Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?](https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working)　*Al Jazeera・2026-11-24*
-- [Oil's downward trend is pushing gasoline lower](https://www.axios.com/2026/11/24/crude-oil-gasoline-prices-down)　*Axios・2026-11-24*
-- [investingLive European news wrap: US futures give back Nvidia-led gains](https://investinglive.com/news/investinglive-european-news-wrap-us-futures-give-back-nvidia-led-gains/)　*Forexlive・2026-11-24*
-- [Japan, South Korea, US Are Taking Their Trilateral to the Arctic](https://thediplomat.com/2026/11/japan-south-korea-us-are-taking-their-trilateral-to-the-arctic/)　*The Diplomat・2026-11-24*
-- [Anthropic shares fall below $83 IPO price days after record Nasdaq debut as AI stock concerns grow](https://www.hindustantimes.com/world-news/us-news/anthropic-shares-fall-below-83-ipo-price-days-after-record-nasdaq-debut-as-ai-stock-concerns-grow-101795524408113.html)　*Hindustan Times・2026-11-24*
+- [Iran's Harsh Double Blow To Trump; Two Military Aircraft Blown Out Of Sky; US Air Power Under Fire](https://timesofindia.indiatimes.com/videos/international/irans-harsh-double-blow-to-trump-two-military-aircraft-blown-out-of-sky-us-air-power-under-fire/videoshow/136147233.cms)　*The Times Of India・2026-11-25*
+- [SAD-BJP Alliance | Punjab Di Taja Khabar | ਅੱਜ ਦੀਆਂ 8 ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ | PRTC-PUNBUS Strike Update](https://punjab.news18.com/videos/punjab/sad-bjp-alliance-punjab-di-taja-khabar-8-prtc-punbus-strike-update-1022992.html)　*News18 Punjabi News・2026-11-25*
+- [Stock Market LIVE Updates, Sensex Today: Sensex Likely To Open In Green, US Markets Fall](https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-november-us-iran-war-oil-price-12373259)　*Ndtv・2026-11-25*
+- [Nasdaq retreats after Nvidia-fuelled rally; Anthropic slips below IPO price](https://timesofindia.indiatimes.com/business/international-business/wall-street-jitters-nasdaq-retreats-after-nvidia-fuelled-rally-anthropic-slips-below-ipo-price/articleshow/136146455.cms)　*The Times Of India・2026-11-25*
+- [US Issues Advisory, Urges Citizens In West Asia To Remain Vigilant Amid Houthi Attacks](https://www.news18.com/world/us-issues-advisory-urges-citizens-in-west-asia-to-remain-vigilant-amid-houthi-attacks-ws-l-10439643.html)　*News 18・2026-11-25*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-25 09:46 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-26 00:33 台灣時間，僅供參考，不構成投資建議。*
