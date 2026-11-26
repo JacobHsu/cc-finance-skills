@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-26 09:22 台灣時間　｜　資料更新：2026-11-26 09:22 台灣時間
+> 更新時間：2026-11-27 00:05 台灣時間　｜　資料更新：2026-11-27 00:05 台灣時間
 
 ---
 
@@ -8,25 +8,25 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait of Hormuz remains severely restricted with AIS-visible traffic at 8-9% of pre-crisis levels as of late November 2026. Iran maintains de facto control with selective passage; oil flows approximately 50% of normal through workarounds including ship-to-ship transfers and dark voyages with AIS disabled. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains effectively closed to commercial shipping with attacks ongoing. AIS-visible traffic at 1-9% of pre-crisis baseline. Iran maintains blockade with seven conditions; latest tanker mine strikes in late November. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 2 | 2 | 60 | <span style="color:#e74c3c">3.3% ⚠️</span> |
+| 1 | 3 | 60 | <span style="color:#e74c3c">1.6% ⚠️</span> |
 
 ## 油價
 
 | 布蘭特原油 | 24h 變動 | 24h 漲跌幅 | 近期趨勢 |
 |-----------|---------|-----------|---------|
-| **$92.94** | <span style="color:#27ae60">+0.04</span> | <span style="color:#27ae60">+0.04%</span> | 下跌 |
+| **$91.80** | <span style="color:#27ae60">+0.60</span> | <span style="color:#27ae60">+0.66%</span> | 下跌 |
 
 ## 被困船隻
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **0** | 0 | 0 | 0 | <span style="color:#27ae60">0.00</span> |
+| **50** | 24 | 12 | 14 | <span style="color:#27ae60">+2.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8% | 0.15% | 53.3x |
+| 8.5% | 0.15% | 56.7x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 103,000 | 10,300,000 | <span style="color:#e74c3c">1.0% ⚠️</span> | 持平 |
+| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran-Oman negotiations ongoing over temporary shipping corridor; direct US-Iran talks stalled
+**頭條：** Qatar intensifies mediation; Iran and Oman draft temporary corridor proposal
 
-**各方：** Iran, Oman, United States, Qatar, Pakistan
+**各方：** Iran, United States, Oman, Qatar, Pakistan
 
-> Negotiations between Iran and Oman over managing the Strait of Hormuz have been described as complex but continuing since August 2026. The US, Qatar, and Pakistan maintain indirect involvement as mediators. No breakthrough has been achieved; the 60-day MoU between US and Iran expired in mid-August without agreement. Iran maintains its seven undisclosed conditions for full strait reopening.
+> Qatar called November 25 for restoration of Hormuz navigation and resumption of US-Iran talks. Iran and Oman are drafting a temporary corridor proposal; Pakistan cited diplomatic momentum. White House reports no direct talks but indicates Iran planning to propose interim measure to reopen strait.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.5B |
+| 21% | $2.1B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.8B | Japan, South Korea, China |
+| 25% | $0.6B | Japan, South Korea, China |
 
-> Approximately 25% of global LNG trade normally transits Hormuz; Japan, South Korea, and China face elevated LNG import costs and supply delays. Japan and South Korea depend on Hormuz for >80% of LNG; both experiencing price volatility and storage constraints.
+> LNG transits at 50% of normal levels. Japan, South Korea, and China facing LNG price spikes and supply rationing. Alternative LNG routes unavailable.
 
 **受影響地區**
 
@@ -73,39 +73,38 @@
 | Japan | CRITICAL | 90% |
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
-| India | CRITICAL | 60% |
+| India | HIGH | 60% |
 | EU | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Active; carrying majority of diverted crude oil and LNG; near design capacity |
-| East-West Pipeline | +0 天 | — | Limited; Saudi-only capacity of 5 mbpd; running at estimated 4-4.5 mbpd |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Active; 1.5 mbpd capacity; operating near maximum; feeds Fujairah export hub |
-| Ship-to-Ship Transfers | +1 天 | $200 | Widespread use in Gulf of Oman; vessels with AIS disabled conducting clandestine transits; estimated 8-14 dark voyages per week |
+| Cape of Good Hope | +12 天 | $650 | Increasing adoption; ~30-40% of redirected traffic using this route despite added cost and transit time |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | 5 mbpd capacity; operating but Saudi-only; cannot serve Gulf crude without additional investment |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; insufficient for Gulf-wide needs; serves UAE crude only |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +150% | +2.1% | 72 天 |
+| +650% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- Global container shipping severely disrupted; 700+ waiting vessels at UAE/Oman ports causing congestion and delays of 15-30+ days
-- VLCC rates fell 64% from October peak (841 WS to 308 WS) by mid-November as geopolitical risk premium unwound and Gulf exports recovered, but remain 6-8x pre-war levels
-- Asian consumer prices for refined products up 8-12% year-over-year; heating fuel costs elevated in EU; gasoline demand destruction in price-sensitive markets (India, SE Asia)
-- US SPR drawdown capacity at ~72 days maximum extraction before structural heel; DOE has not resumed emergency releases; crude prices supported above $95/bbl by supply concerns
+- VLCC tanker spot rates elevated at $1.07-1.29M/day TCE vs pre-crisis $20-50k/day
+- Crude oil refiners experiencing 14+ mbpd output cuts; storage facilities filling across Gulf
+- LNG price spikes triggering rationing in Asia; fertilizer and food costs rising globally
+- Inflation impact rising; Federal Reserve estimates every $10 oil increase adds 0.2 CPI points
 
 ## 最新新聞
 
-- [Indian markets rally 1.8% as November gains help recoup nearly all 2026 losses](https://indianexpress.com/article/business/sensex-nifty-stock-market-rally-fmcg-banking-stocks-10978222/)　*The Indian Express・2026-11-25*
-- [BNY Mellon Core Plus Fund Q3 2026 Commentary](https://seekingalpha.com/article/4971820-bny-mellon-core-plus-fund-q3-2026-commentary)　*Seeking Alpha・2026-11-25*
-- [America: Abandoned in Iran](https://www.washingtonexaminer.com/op-eds/4814128/us-allies-abandon-america-iran-war/)　*Washington Examiner・2026-11-25*
-- [Why are energy prices going up in the UK? What the new price cap means for your bills – and how it’s calculated](https://www.thesun.co.uk/money/41142076/uk-energy-prices-price-cap-bills/)　*The Sun・2026-11-25*
-- [Houthis Claim Attacks On Saudi Oil Refinery, Riyadh Financial District; 11 Injured](https://news.abplive.com/news/world/houthis-claim-attacks-on-saudi-oil-refinery-riyadh-financial-district-11-injured-1877520)　*Abp News・2026-11-25*
+- [Oil prices rise on supply concerns as Iran claims mine strikes on ships](https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-126112600085_1.html)　*Business Standard・2026-11-26*
+- [Stock market today: Sensex turns flat after positive start; Nifty trades above 25,800 amid tariff concerns](https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-26-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/136177442.cms)　*The Times Of India・2026-11-26*
+- [Oil rises on supply concerns as Iran claims mine strikes on ships](https://www.moneycontrol.com/news/business/commodities/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-14089255.html)　*Moneycontrol・2026-11-26*
+- [Iranian Missile Hits US-Escorted Ship Near Dubai; Trump's Navy 'Helpless'; IRGC Expands Attacks](https://timesofindia.indiatimes.com/videos/international/iranian-missile-hits-us-escorted-ship-near-dubai-trumps-navy-helpless-irgc-expands-attacks/videoshow/136177192.cms)　*The Times Of India・2026-11-26*
+- [Nepal: Predatory Lending Abuses Exacerbated by Conflict in the Gulf](https://www.hrw.org/news/2026/11/25/nepal-predatory-lending-abuses-exacerbated-by-conflict-in-the-gulf)　*Human Rights Watch・2026-11-26*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-26 09:22 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-27 00:05 台灣時間，僅供參考，不構成投資建議。*
