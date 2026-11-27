@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-27 00:05 台灣時間　｜　資料更新：2026-11-27 00:05 台灣時間
+> 更新時間：2026-11-27 09:20 台灣時間　｜　資料更新：2026-11-27 09:20 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains effectively closed to commercial shipping with attacks ongoing. AIS-visible traffic at 1-9% of pre-crisis baseline. Iran maintains blockade with seven conditions; latest tanker mine strikes in late November. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait of Hormuz is severely restricted with AIS-visible traffic at 8-9% of normal and oil flows at approximately 50% of pre-war levels. Iran maintains effective control with selective vessel approvals and an extensive blacklist of vessels. Physical channel remains open but commercial transits extremely limited due to insurance costs and attacks. |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 1 | 3 | 60 | <span style="color:#e74c3c">1.6% ⚠️</span> |
+| 6 | 7 | 60 | <span style="color:#e74c3c">8.0% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **50** | 24 | 12 | 14 | <span style="color:#27ae60">+2.00</span> |
+| **50** | 24 | 15 | 11 | <span style="color:#e74c3c">-2.00</span> |
 
 ## 保險風險
 
@@ -34,37 +34,37 @@
 
 | 戰爭風險溢價 | 正常溢價 | 倍數 |
 |-------------|---------|------|
-| 8.5% | 0.15% | 56.7x |
+| 8% | 0.15% | 53.3x |
 
 ## 貨物吞吐量
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 515,000 | 10,300,000 | <span style="color:#e74c3c">5.0% ⚠️</span> | 持平 |
+| 5,150,000 | 10,300,000 | <span style="color:#e74c3c">50.0% ⚠️</span> | 持平 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Qatar intensifies mediation; Iran and Oman draft temporary corridor proposal
+**頭條：** Iran proposes two-day reopening of Strait of Hormuz amid stalled US-Iran peace negotiations
 
-**各方：** Iran, United States, Oman, Qatar, Pakistan
+**各方：** Iran, United States, Oman, Pakistan, Qatar
 
-> Qatar called November 25 for restoration of Hormuz navigation and resumption of US-Iran talks. Iran and Oman are drafting a temporary corridor proposal; Pakistan cited diplomatic momentum. White House reports no direct talks but indicates Iran planning to propose interim measure to reopen strait.
+> As of early November 2026, Iran proposed an accelerated ceasefire plan claiming it could reopen the Strait of Hormuz within two days if the US agrees to its terms (lifting naval blockade, repealing sanctions, guaranteeing end to strikes, regional ceasefire including Lebanon). Earlier August talks with Oman on a temporary corridor reached final stages but remained unresolved. No direct US-Iran negotiations are currently underway; Pakistan and Qatar continue shuttle diplomacy efforts while Trump signals inconsistent positions.
 
 ## 全球貿易影響
 
 | 全球石油佔比 | 每日潛在損失 |
 |-------------|-------------|
-| 21% | $2.1B |
+| 21% | $2.8B |
 
 **LNG 影響**
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.6B | Japan, South Korea, China |
+| 25% | $0.9B | Japan, South Korea, China |
 
-> LNG transits at 50% of normal levels. Japan, South Korea, and China facing LNG price spikes and supply rationing. Alternative LNG routes unavailable.
+> Approximately 25% of global LNG trade transits Hormuz. Top importers Japan, South Korea, and China facing significant supply tightness. LNG spot charter rates have declined from peak, but supply remains constrained; LPG shortages in India and broader LNG import challenges persist across East Asia despite modest rate relief.
 
 **受影響地區**
 
@@ -74,37 +74,37 @@
 | South Korea | CRITICAL | 80% |
 | China | HIGH | 40% |
 | India | HIGH | 60% |
-| EU | MODERATE | 20% |
+| European Union | MODERATE | 20% |
 
 **替代航線**
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Increasing adoption; ~30-40% of redirected traffic using this route despite added cost and transit time |
-| East-West Pipeline (Saudi Arabia) | +0 天 | — | 5 mbpd capacity; operating but Saudi-only; cannot serve Gulf crude without additional investment |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; insufficient for Gulf-wide needs; serves UAE crude only |
+| Cape of Good Hope route | +12 天 | $650 | Actively used by risk-averse operators; adds 10-15 days transit time and $500-800k per VLCC; reduces Hormuz transits |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at capacity (5 mbpd); insufficient to replace 17-18 mbpd Hormuz maritime shortfall |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | 1.5 mbpd capacity; contributes to alternative flows but severely undersized relative to disruption |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +650% | +2.1% | 68 天 |
+| +1200% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC tanker spot rates elevated at $1.07-1.29M/day TCE vs pre-crisis $20-50k/day
-- Crude oil refiners experiencing 14+ mbpd output cuts; storage facilities filling across Gulf
-- LNG price spikes triggering rationing in Asia; fertilizer and food costs rising globally
-- Inflation impact rising; Federal Reserve estimates every $10 oil increase adds 0.2 CPI points
+- VLCC TD3C spot rates at WS 1,014-1,318 (from pre-crisis WS 40-60); freight now represents 40% of oil price vs 7% historically
+- Container rates elevated 124% above year-ago; $4,389/40ft container reflects 1% weekly decline but sustained high costs
+- Oil shipping costs surged 12x; premium now ~$40-$34 per barrel for Gulf-to-Asia routes; refiners' margins squeezed across Asia
+- US SPR sufficient for ~68 days of maximum drawdown (350-385M bbl current × 4.4M bbl/day max release, minus 58M structural heel)
 
 ## 最新新聞
 
-- [Oil prices rise on supply concerns as Iran claims mine strikes on ships](https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-126112600085_1.html)　*Business Standard・2026-11-26*
-- [Stock market today: Sensex turns flat after positive start; Nifty trades above 25,800 amid tariff concerns](https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-26-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/136177442.cms)　*The Times Of India・2026-11-26*
-- [Oil rises on supply concerns as Iran claims mine strikes on ships](https://www.moneycontrol.com/news/business/commodities/oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-14089255.html)　*Moneycontrol・2026-11-26*
-- [Iranian Missile Hits US-Escorted Ship Near Dubai; Trump's Navy 'Helpless'; IRGC Expands Attacks](https://timesofindia.indiatimes.com/videos/international/iranian-missile-hits-us-escorted-ship-near-dubai-trumps-navy-helpless-irgc-expands-attacks/videoshow/136177192.cms)　*The Times Of India・2026-11-26*
-- [Nepal: Predatory Lending Abuses Exacerbated by Conflict in the Gulf](https://www.hrw.org/news/2026/11/25/nepal-predatory-lending-abuses-exacerbated-by-conflict-in-the-gulf)　*Human Rights Watch・2026-11-26*
+- [If politicians really want to cut heating bills they need to trust in green energy – businesses already are](https://theconversation.com/if-politicians-really-want-to-cut-heating-bills-they-need-to-trust-in-green-energy-businesses-already-are-297216)　*The Conversation・2026-11-26*
+- [‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?](https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi)　*Al Jazeera・2026-11-26*
+- [UAE-based Adnoc confirms missing crew dead after Strait of Hormuz vessel attack](https://www.khaleejtimes.com/uae/uae-adnoc-confirms-missing-crew-member-dead-strait-of-hormuz-vessel-attack)　*Khaleej Times・2026-11-26*
+- [CENTCOM's Thanksgiving message to troops 'is one of deep gratitude' for their 'exceptional work' protecting US](https://www.foxnews.com/us/centcom-thanksgiving-message-troops-deep-gratitude-exceptional-work-protecting-us)　*Fox News・2026-11-26*
+- [Oil stays firm on reported Middle East supply risk](https://digg.com/world-business/kh0coc3w)　*Digg・2026-11-26*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-27 00:05 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-27 09:20 台灣時間，僅供參考，不構成投資建議。*
