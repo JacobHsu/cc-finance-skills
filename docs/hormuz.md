@@ -1,6 +1,6 @@
 # 荷姆茲海峽即時監控報告
 
-> 更新時間：2026-11-27 23:53 台灣時間　｜　資料更新：2026-11-27 23:53 台灣時間
+> 更新時間：2026-11-28 08:53 台灣時間　｜　資料更新：2026-11-28 08:53 台灣時間
 
 ---
 
@@ -8,13 +8,13 @@
 
 | 狀態 | 持續自 | 說明 |
 |------|--------|------|
-| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait remains severely restricted after 272 days of crisis. Oil flows at approximately 50% of pre-war normal, AIS-visible traffic at ~9% of pre-crisis rates, with continued Iranian attacks on tankers averaging ~1 per day in November. Ships crossing under US naval coordination; Iran claims control and requires transit permits. |
+| <span style="color:#e74c3c;font-weight:bold">RESTRICTED</span> | 2026-02-28 | Strait of Hormuz remains severely restricted with AIS-visible traffic at approximately 8-9% of pre-crisis levels (6-7 ships per day vs. 84.8 normal). Some transits continue under US naval coordination, but Iran claims control, requires transit permits, and continues attacks on shipping. Oil flows at approximately 50% of pre-war normal via all channels (direct transit plus ship-to-ship transfers). |
 
 ## 船舶流量
 
 | 當前過境 | 過去 24h | 正常日均 | 佔正常比 |
 |----------|----------|----------|----------|
-| 6 | 6 | 60 | <span style="color:#e74c3c">10.0% ⚠️</span> |
+| 6 | 6 | 60 | <span style="color:#e74c3c">8.5% ⚠️</span> |
 
 ## 油價
 
@@ -26,7 +26,7 @@
 
 | 總計 | 油輪 | 散裝 | 其他 | 今日變化 |
 |------|------|------|------|----------|
-| **171** | 50 | 65 | 56 | <span style="color:#27ae60">+4.00</span> |
+| **171** | 48 | 70 | 53 | <span style="color:#27ae60">+4.00</span> |
 
 ## 保險風險
 
@@ -40,17 +40,17 @@
 
 | 今日 DWT | 平均 DWT | 佔正常比 | 7日趨勢 |
 |---------|---------|---------|---------|
-| 5,150,000 | 10,300,000 | <span style="color:#e74c3c">50.0% ⚠️</span> | 持平 |
+| 875,500 | 10,300,000 | <span style="color:#e74c3c">8.5% ⚠️</span> | 上升 |
 
 ## 外交情勢
 
 **狀態：** TALKS_PROPOSED
 
-**頭條：** Iran proposes 2-day plan to reopen Strait; US-Iran negotiations remain deadlocked
+**頭條：** Iran-Oman negotiations stalled; no active US-Iran peace talks
 
-**各方：** Iran, United States, Qatar (mediator), Pakistan, China
+**各方：** United States, Iran, Oman, Qatar, Pakistan
 
-> Iran's Foreign Minister urges US to accept conditions for reopening Strait of Hormuz within two days. Qatari mediators conducted talks in Tehran on November 21, with Iran presenting seven-point proposal requiring US to lift naval blockade, end hostilities, and remove sanctions. US negotiations remain deadlocked despite mediation efforts by Qatar and Pakistan; Venezuela also considering direct talks with Mohsen Rezaei.
+> Negotiations between Iran and Oman over Strait management reached an advanced stage in August 2026 but have since stalled. The Islamabad Memorandum (June 17, 2026) established a 60-day framework that expired July 8, after which Iran resumed attacks on commercial vessels. No active direct US-Iran talks are ongoing; Qatar and Pakistan serve as informal mediators exchanging messages between parties.
 
 ## 全球貿易影響
 
@@ -62,9 +62,9 @@
 
 | 全球 LNG 佔比 | 每日潛在損失 | 主要受影響進口國 |
 |--------------|-------------|----------------|
-| 25% | $0.6B | Japan, South Korea, China |
+| 25% | $0.9B | Japan, South Korea, China |
 
-> 25% of global LNG trade transits Hormuz. Top importers face severe supply constraints with limited alternative sourcing. LNG spot prices elevated; Japan and South Korea seeking alternative suppliers.
+> Approximately 25% of global LNG trade transits Hormuz; LNG carriers avoiding strait entirely due to 6-10% war-risk premiums; LNG spot rates collapsed to ~$18,500/day as market adjusts to severe supply disruption. Major importers facing LNG supply gaps and spot-market premiums.
 
 **受影響地區**
 
@@ -80,31 +80,31 @@
 
 | 航線 | 額外天數 | 每船額外成本 | 使用狀況 |
 |------|---------|------------|---------|
-| Cape of Good Hope | +12 天 | $650 | Active diversion route; estimated 100+ vessels rerouted; costs 12-15 additional days transit time |
-| East-West Pipeline (Saudi) | +0 天 | — | Limited; 5 million barrels/day capacity; Saudi-only oil; minimal utilization due to limited scope |
-| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operational; 1.5 million barrels/day capacity; serving UAE and limited Persian Gulf producers |
+| Cape of Good Hope | +12 天 | $650 | Actively used; significant uptick in rerouting activity despite 12-day delay |
+| East-West Pipeline (Saudi Arabia) | +0 天 | — | Operating at ~5.8 mbpd (5 mbpd capacity, disrupted by Iranian drone attacks) |
+| Habshan-Fujairah Pipeline (UAE) | +0 天 | — | Operating; 1.5 mbpd capacity; ship-to-ship transfer hub at Fujairah with 171 waiting vessels as of November 26 |
 
 **供應鏈影響**
 
 | 運費漲幅 | 消費者物價衝擊 | 戰略儲備可用天數 |
 |---------|-------------|----------------|
-| +1150% | +2.1% | 72 天 |
+| +1200% | +2.1% | 68 天 |
 
 **主要供應鏈事件**
 
-- VLCC TD3C spot rates at 1,078 WS ($1.08M+/day) vs pre-crisis 50 WS; freight now 27% of crude delivered cost vs 3% pre-crisis
-- Global LNG spot prices elevated 40-60% above pre-crisis; Japan, South Korea seeking emergency supplies
-- Container shipping rates surge 25-40% due to rerouting; Red Sea premium adds 2% war risk to alternative routes
-- Brent crude price supported above $100/bbl; spreads between Hormuz and Cape routes widened; STS (ship-to-ship) transfers in Gulf of Oman surge to 12 Mbpd
+- VLCC tanker freight rates reached record $1.08-1.27 million/day (vs. $33k pre-war); 9x spread over pre-crisis
+- Container shipping rates surged to $3,400/TEU (vs. $850 normal); 300% increase forcing rerouting to overland corridors
+- LNG cargo deliveries delayed 20-30 days; terminal congestion in Asia; spot LNG now trading at premium to pipeline alternatives
+- Food and fertilizer prices up 8-15% in least-developed countries; 171 vessels anchored at Fujairah awaiting Hormuz passage; global maritime trade projected zero growth in 2026
 
 ## 最新新聞
 
-- [Stock market today: Sensex falls over 600 points, Nifty slips below 25,750 after 2-day rally](https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-27-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/136208203.cms)　*The Times Of India・2026-11-27*
-- [Saudi-led coalition intercepted, destroyed Houthi drone heading towards southern region](https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-27-2026)　*Khaleej Times・2026-11-27*
-- [OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist](https://www.hindustantimes.com/world-news/opec-allies-face-tough-choices-as-surplus-builds-hormuz-risks-persist-101795749377763.html)　*Hindustan Times・2026-11-27*
-- [Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda](https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda)　*Dawn・2026-11-27*
-- [Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe](https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639)　*Gulf News・2026-11-27*
+- [Now hackers breach US Air Force most important online database... and military didn't even realize until they did routine maintenance](https://www.dailymail.com/news/article-16326671/Now-hackers-breach-US-Air-Force-important-online-database-military-didnt-realize-did-routine-maintenance.html)　*Mail Online・2026-11-27*
+- [COP31 | The climate divide](https://www.indiatoday.in/magazine/up-front/story/20261207-cop31-the-climate-divide-3048142-2026-11-27)　*India Today・2026-11-27*
+- [Makkah Defence Alliance meeting in Islamabad begins with Yemen conflict also on agenda](https://www.dawn.com/news/2047415/makkah-defence-alliance-meeting-in-islamabad-begins-with-yemen-conflict-also-on-agenda)　*Dawn・2026-11-27*
+- [Iran claims US F-16 retreated after IRGC's warning fire near Strait of Hormuz; warns Washington against airspace violations](https://www.moneycontrol.com/world/iran-claims-us-f-16-retreated-after-irgc-warning-fire-near-strait-of-hormuz-warns-washington-against-airspace-violations-article-14090449.html)　*Moneycontrol・2026-11-27*
+- [Cop31 collapse leaves vulnerable countries facing grim El Nino consequences, charity warns](https://www.independent.co.uk/climate-change/el-nino-weather-climate-cop31-crisis-b3092172.html)　*The Independent・2026-11-27*
 
 ---
 
-*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-27 23:53 台灣時間，僅供參考，不構成投資建議。*
+*資料來源：[Hormuz Strait Monitor](https://hormuzstraitmonitor.com)。自動產生於 2026-11-28 08:53 台灣時間，僅供參考，不構成投資建議。*
